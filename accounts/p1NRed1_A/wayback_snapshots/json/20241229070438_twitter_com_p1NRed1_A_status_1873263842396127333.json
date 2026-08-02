@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1873214722654519302"
+      ],
+      "media_source_tweet_id": [
+        "1873217638564037021"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1873263842396127333",
+    "created_at": "2024-12-29T07:04:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T08:04:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873263842396127333"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "加賀ちゃん",
+          "probability": 0.8943,
+          "start": 22,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1241372268002869248",
+          "start": 3,
+          "username": "nogi_no_te"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NTnm7f0vXL",
+          "end": 128,
+          "expanded_url": "https://x.com/nogi_no_te/status/1873217638564037021/photo/1",
+          "media_key": "3_1873214722654519302",
+          "start": 105,
+          "url": "https://t.co/NTnm7f0vXL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873263842396127333",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873217638564037021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nogi_no_te: かわおさんに加賀ちゃんのイラストいただきました‼‼‼\nめちゃかわいー❣️いただいたときヤバ…としか言えなくてちゃんとお礼言ってなかったかもしれない…ありがとうございます‼‼‼🫵 https://t.co/NTnm7f0vXL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2440,
+        "media_key": "3_1873214722654519302",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gf7-3ZPawAY193j.jpg",
+        "width": 1830
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873214722654519302"
+          ],
+          "media_source_tweet_id": [
+            "1873217638564037021"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1873263842396127333",
+        "created_at": "2024-12-29T07:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T08:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873263842396127333"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "加賀ちゃん",
+              "probability": 0.8943,
+              "start": 22,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1241372268002869248",
+              "start": 3,
+              "username": "nogi_no_te"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NTnm7f0vXL",
+              "end": 128,
+              "expanded_url": "https://x.com/nogi_no_te/status/1873217638564037021/photo/1",
+              "media_key": "3_1873214722654519302",
+              "start": 105,
+              "url": "https://t.co/NTnm7f0vXL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873263842396127333",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873217638564037021",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nogi_no_te: かわおさんに加賀ちゃんのイラストいただきました‼‼‼\nめちゃかわいー❣️いただいたときヤバ…としか言えなくてちゃんとお礼言ってなかったかもしれない…ありがとうございます‼‼‼🫵 https://t.co/NTnm7f0vXL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873214722654519302"
+          ]
+        },
+        "author_id": "1241372268002869248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1873217638564037021",
+        "created_at": "2024-12-29T04:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T05:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873217638564037021"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "加賀ちゃん",
+              "probability": 0.9003,
+              "start": 6,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NTnm7f0vXL",
+              "end": 112,
+              "expanded_url": "https://x.com/nogi_no_te/status/1873217638564037021/photo/1",
+              "media_key": "3_1873214722654519302",
+              "start": 89,
+              "url": "https://t.co/NTnm7f0vXL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873217638564037021",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 443,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "かわおさんに加賀ちゃんのイラストいただきました‼‼‼\nめちゃかわいー❣️いただいたときヤバ…としか言えなくてちゃんとお礼言ってなかったかもしれない…ありがとうございます‼‼‼🫵 https://t.co/NTnm7f0vXL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869350138424266753/LAsvqNJx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 297,
+          "like_count": 1033,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 3196
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-21T14:33:26.000Z",
+        "description": "叔父さん/久米田康治先生、西尾維新先生、幾花にいろ先生の作品が好き \nツイ消し多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "noginote.net",
+                "end": 23,
+                "expanded_url": "http://noginote.net/",
+                "start": 0,
+                "url": "https://t.co/wZOJXKGoQX"
+              }
+            ]
+          }
+        },
+        "id": "1241372268002869248",
+        "name": "nogi_no_te",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1289595621129596928/emBO49dY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 62,
+          "like_count": 41114,
+          "listed_count": 0,
+          "media_count": 724,
+          "tweet_count": 5833
+        },
+        "url": "https://t.co/wZOJXKGoQX",
+        "username": "nogi_no_te",
+        "verified": false
+      }
+    ]
+  }
+}

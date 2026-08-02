@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959428428509401088"
+      ],
+      "media_source_tweet_id": [
+        "1959428434440118370"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1959549120496259471",
+    "created_at": "2025-08-24T09:31:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T10:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959549120496259471"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 13,
+          "tag": "さよなら絶望先生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1625505760250843136",
+          "start": 3,
+          "username": "gjtxadt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GMvrbtLfka",
+          "end": 46,
+          "expanded_url": "https://x.com/gjtxadt/status/1959428434440118370/photo/1",
+          "media_key": "3_1959428428509401088",
+          "start": 23,
+          "url": "https://t.co/GMvrbtLfka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959549120496259471",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959428434440118370",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gjtxadt: #さよなら絶望先生 https://t.co/GMvrbtLfka"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 835,
+        "media_key": "3_1959428428509401088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzFJxjQa0AAOyl2.jpg",
+        "width": 684
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959428428509401088"
+          ],
+          "media_source_tweet_id": [
+            "1959428434440118370"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1959549120496259471",
+        "created_at": "2025-08-24T09:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T10:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959549120496259471"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 13,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1625505760250843136",
+              "start": 3,
+              "username": "gjtxadt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GMvrbtLfka",
+              "end": 46,
+              "expanded_url": "https://x.com/gjtxadt/status/1959428434440118370/photo/1",
+              "media_key": "3_1959428428509401088",
+              "start": 23,
+              "url": "https://t.co/GMvrbtLfka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959549120496259471",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959428434440118370",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gjtxadt: #さよなら絶望先生 https://t.co/GMvrbtLfka"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959428428509401088"
+          ]
+        },
+        "author_id": "1625505760250843136",
+        "conversation_id": "1959428434440118370",
+        "created_at": "2025-08-24T01:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T02:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959428434440118370"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GMvrbtLfka",
+              "end": 33,
+              "expanded_url": "https://x.com/gjtxadt/status/1959428434440118370/photo/1",
+              "media_key": "3_1959428428509401088",
+              "start": 10,
+              "url": "https://t.co/GMvrbtLfka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959428434440118370",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 752,
+          "like_count": 56,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "#さよなら絶望先生 https://t.co/GMvrbtLfka"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 425,
+          "like_count": 1311,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 4494
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-14T14:42:47.000Z",
+        "description": "失敗を糧に退行 お絵描きアカウント",
+        "id": "1625505760250843136",
+        "name": "ビピザ「枕」",
+        "pinned_tweet_id": "1956961320357749145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912804409240883200/SCBUsLLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 135,
+          "like_count": 2208,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 346
+        },
+        "username": "gjtxadt",
+        "verified": false
+      }
+    ]
+  }
+}

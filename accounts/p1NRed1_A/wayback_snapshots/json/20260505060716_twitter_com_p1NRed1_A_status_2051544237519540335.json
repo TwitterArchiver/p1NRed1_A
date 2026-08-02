@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051139986037284864"
+      ],
+      "media_source_tweet_id": [
+        "2051139991888449679"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "2051544237519540335",
+    "created_at": "2026-05-05T06:07:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T07:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051544237519540335"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 12,
+          "tag": "さよなら絶望先生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2050847027186294784",
+          "start": 3,
+          "username": "Nkud_n"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ak35vpxH9z",
+          "end": 45,
+          "expanded_url": "https://x.com/Nkud_n/status/2051139991888449679/photo/1",
+          "media_key": "3_2051139986037284864",
+          "start": 22,
+          "url": "https://t.co/ak35vpxH9z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051544237519540335",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051139991888449679",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nkud_n: #さよなら絶望先生 https://t.co/ak35vpxH9z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051139986037284864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHcc8yxaIAAhI1y.jpg",
+        "width": 1414
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051139986037284864"
+          ],
+          "media_source_tweet_id": [
+            "2051139991888449679"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "2051544237519540335",
+        "created_at": "2026-05-05T06:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T07:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051544237519540335"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 12,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2050847027186294784",
+              "start": 3,
+              "username": "Nkud_n"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ak35vpxH9z",
+              "end": 45,
+              "expanded_url": "https://x.com/Nkud_n/status/2051139991888449679/photo/1",
+              "media_key": "3_2051139986037284864",
+              "start": 22,
+              "url": "https://t.co/ak35vpxH9z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051544237519540335",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051139991888449679",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nkud_n: #さよなら絶望先生 https://t.co/ak35vpxH9z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051139986037284864"
+          ]
+        },
+        "author_id": "2050847027186294784",
+        "conversation_id": "2051139991888449679",
+        "created_at": "2026-05-04T03:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T04:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051139991888449679"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ak35vpxH9z",
+              "end": 33,
+              "expanded_url": "https://x.com/Nkud_n/status/2051139991888449679/photo/1",
+              "media_key": "3_2051139986037284864",
+              "start": 10,
+              "url": "https://t.co/ak35vpxH9z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051139991888449679",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 6396,
+          "like_count": 550,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "#さよなら絶望先生 https://t.co/ak35vpxH9z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 549,
+          "like_count": 1652,
+          "listed_count": 3,
+          "media_count": 348,
+          "tweet_count": 6000
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T07:58:23.000Z",
+        "description": "メイン▶︎@TwinTail1011",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "TwinTail1011"
+              }
+            ]
+          }
+        },
+        "id": "2050847027186294784",
+        "name": "nekou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050848789716770816/CgCSQsJi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 0,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 6
+        },
+        "username": "Nkud_n",
+        "verified": false
+      }
+    ]
+  }
+}

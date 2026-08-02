@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1923371795933204480"
+      ],
+      "media_source_tweet_id": [
+        "1923371798768345591"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1923706740195143719",
+    "created_at": "2025-05-17T11:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T12:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923706740195143719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1176480058292129793",
+          "start": 3,
+          "username": "5t5t5szbh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uUP6plrsDI",
+          "end": 43,
+          "expanded_url": "https://x.com/5t5t5szbh/status/1923371798768345591/photo/1",
+          "media_key": "3_1923371795933204480",
+          "start": 20,
+          "url": "https://t.co/uUP6plrsDI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923706740195143719",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923371798768345591",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @5t5t5szbh: ナーミン https://t.co/uUP6plrsDI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1762,
+        "media_key": "3_1923371795933204480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrEwdTuakAAFdRn.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923371795933204480"
+          ],
+          "media_source_tweet_id": [
+            "1923371798768345591"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1923706740195143719",
+        "created_at": "2025-05-17T11:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T12:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923706740195143719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1176480058292129793",
+              "start": 3,
+              "username": "5t5t5szbh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uUP6plrsDI",
+              "end": 43,
+              "expanded_url": "https://x.com/5t5t5szbh/status/1923371798768345591/photo/1",
+              "media_key": "3_1923371795933204480",
+              "start": 20,
+              "url": "https://t.co/uUP6plrsDI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923706740195143719",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923371798768345591",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @5t5t5szbh: ナーミン https://t.co/uUP6plrsDI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923371795933204480"
+          ]
+        },
+        "author_id": "1176480058292129793",
+        "conversation_id": "1923371798768345591",
+        "created_at": "2025-05-16T13:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T14:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923371798768345591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uUP6plrsDI",
+              "end": 28,
+              "expanded_url": "https://x.com/5t5t5szbh/status/1923371798768345591/photo/1",
+              "media_key": "3_1923371795933204480",
+              "start": 5,
+              "url": "https://t.co/uUP6plrsDI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923371798768345591",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "ナーミン https://t.co/uUP6plrsDI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 406,
+          "like_count": 1214,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 3903
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-24T12:55:06.000Z",
+        "description": "",
+        "id": "1176480058292129793",
+        "name": "タカ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900574719285272576/FVRRr-P-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 309,
+          "like_count": 4747,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 3578
+        },
+        "username": "5t5t5szbh",
+        "verified": false
+      }
+    ]
+  }
+}

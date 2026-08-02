@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1901963048220573696",
+        "3_1901963652695273472"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1901963669451219059",
+    "created_at": "2025-03-18T11:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T12:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1901963669451219059"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 2,
+          "normalized_text": "克夫相",
+          "probability": 0.5559,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LSSOwDNE8M",
+          "end": 27,
+          "expanded_url": "https://x.com/p1NRed1_A/status/1901963669451219059/photo/1",
+          "media_key": "3_1901963048220573696",
+          "start": 4,
+          "url": "https://t.co/LSSOwDNE8M"
+        },
+        {
+          "display_url": "pic.x.com/LSSOwDNE8M",
+          "end": 27,
+          "expanded_url": "https://x.com/p1NRed1_A/status/1901963669451219059/photo/1",
+          "media_key": "3_1901963652695273472",
+          "start": 4,
+          "url": "https://t.co/LSSOwDNE8M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901963669451219059",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "克夫相 https://t.co/LSSOwDNE8M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1901963048220573696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmUhULkbQAA78-E.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1350,
+        "media_key": "3_1901963652695273472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmUh3XabMAA48Vq.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901963048220573696",
+            "3_1901963652695273472"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1901963669451219059",
+        "created_at": "2025-03-18T11:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T12:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901963669451219059"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "克夫相",
+              "probability": 0.5559,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LSSOwDNE8M",
+              "end": 27,
+              "expanded_url": "https://x.com/p1NRed1_A/status/1901963669451219059/photo/1",
+              "media_key": "3_1901963048220573696",
+              "start": 4,
+              "url": "https://t.co/LSSOwDNE8M"
+            },
+            {
+              "display_url": "pic.x.com/LSSOwDNE8M",
+              "end": 27,
+              "expanded_url": "https://x.com/p1NRed1_A/status/1901963669451219059/photo/1",
+              "media_key": "3_1901963652695273472",
+              "start": 4,
+              "url": "https://t.co/LSSOwDNE8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901963669451219059",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "克夫相 https://t.co/LSSOwDNE8M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889564810410627072/YnTsykE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 326,
+          "like_count": 1084,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 3322
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

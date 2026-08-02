@@ -1,0 +1,359 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "13_1799794180480278528"
+      ],
+      "media_source_tweet_id": [
+        "1799794236281557154"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "1799997349370224767",
+    "created_at": "2024-06-10T02:49:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T03:49:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799997349370224767"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "vtubers",
+          "probability": 0.4309,
+          "start": 25,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2894045490",
+          "start": 3,
+          "username": "real_hotaru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/HAfhXSZSzv",
+          "end": 75,
+          "expanded_url": "https://twitter.com/real_hotaru/status/1799794236281557154/video/1",
+          "media_key": "13_1799794180480278528",
+          "start": 52,
+          "url": "https://t.co/HAfhXSZSzv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799997349370224767",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4596
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799794236281557154",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @real_hotaru: Chinese vtubers are something else https://t.co/HAfhXSZSzv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26866,
+        "height": 1152,
+        "media_key": "13_1799794180480278528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1799794180480278528/img/l98wyuLiHi2nbcn4.jpg",
+        "public_metrics": {
+          "view_count": 252931
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1799794180480278528/vid/avc1/320x640/TW7e8OONRZQFDg12.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1799794180480278528/vid/avc1/480x960/_g82gW9eiFLiNdaL.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1799794180480278528/vid/avc1/576x1152/7yMaS4x0SnHBCb21.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1799794180480278528/pl/OX0VxNhz0YpJwZ1i.m3u8?tag=16"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1799794180480278528"
+          ],
+          "media_source_tweet_id": [
+            "1799794236281557154"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1799997349370224767",
+        "created_at": "2024-06-10T02:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T03:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799997349370224767"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "vtubers",
+              "probability": 0.4309,
+              "start": 25,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2894045490",
+              "start": 3,
+              "username": "real_hotaru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/HAfhXSZSzv",
+              "end": 75,
+              "expanded_url": "https://twitter.com/real_hotaru/status/1799794236281557154/video/1",
+              "media_key": "13_1799794180480278528",
+              "start": 52,
+              "url": "https://t.co/HAfhXSZSzv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799997349370224767",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4596
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799794236281557154",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @real_hotaru: Chinese vtubers are something else https://t.co/HAfhXSZSzv"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1799794180480278528"
+          ]
+        },
+        "author_id": "2894045490",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1799794236281557154",
+        "created_at": "2024-06-09T13:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T14:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799794236281557154"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "vtubers",
+              "probability": 0.5384,
+              "start": 8,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/HAfhXSZSzv",
+              "end": 58,
+              "expanded_url": "https://twitter.com/real_hotaru/status/1799794236281557154/video/1",
+              "media_key": "13_1799794180480278528",
+              "start": 35,
+              "url": "https://t.co/HAfhXSZSzv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799794236281557154",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4231,
+          "impression_count": 485549,
+          "like_count": 22515,
+          "quote_count": 521,
+          "reply_count": 90,
+          "retweet_count": 4596
+        },
+        "reply_settings": "everyone",
+        "text": "Chinese vtubers are something else https://t.co/HAfhXSZSzv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797607843975385088/wUYNFJ2h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 168,
+          "like_count": 325,
+          "listed_count": 0,
+          "tweet_count": 1170
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-08T20:05:46.000Z",
+        "description": "Busy ｜ Occasional artist｜MMA enthusiast ｜@nbuna_staff ‘s biggest fan ∥ 過労死｜可愛いものが好き｜Likes and retweets ≠ endorsement ｜🌲｜Block = You're Cringe / Fake / Larper",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "nbuna_staff"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/hm_miyatan",
+                "end": 23,
+                "expanded_url": "https://pixiv.me/hm_miyatan",
+                "start": 0,
+                "url": "https://t.co/YANvf0njtd"
+              }
+            ]
+          }
+        },
+        "id": "2894045490",
+        "location": "知らん",
+        "name": "唯我独尊・宮内蛍",
+        "pinned_tweet_id": "1673310231927967750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790450224319610881/diz6GDXm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35800,
+          "following_count": 427,
+          "like_count": 131381,
+          "listed_count": 87,
+          "tweet_count": 21098
+        },
+        "url": "https://t.co/YANvf0njtd",
+        "username": "real_hotaru",
+        "verified": true
+      }
+    ]
+  }
+}

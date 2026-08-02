@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1915477321974534144"
+      ],
+      "media_source_tweet_id": [
+        "1915477412915404902"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1915654305522311677",
+    "created_at": "2025-04-25T06:29:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T07:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915654305522311677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1571290559708536832",
+          "start": 3,
+          "username": "daily_glt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yp5ItRFR7Y",
+          "end": 38,
+          "expanded_url": "https://x.com/daily_glt/status/1915477412915404902/photo/1",
+          "media_key": "3_1915477321974534144",
+          "start": 15,
+          "url": "https://t.co/yp5ItRFR7Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915654305522311677",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 376
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915477412915404902",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @daily_glt: https://t.co/yp5ItRFR7Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1915477321974534144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpUkeceb0AAI4nV.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915477321974534144"
+          ],
+          "media_source_tweet_id": [
+            "1915477412915404902"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1915654305522311677",
+        "created_at": "2025-04-25T06:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T07:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915654305522311677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1571290559708536832",
+              "start": 3,
+              "username": "daily_glt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yp5ItRFR7Y",
+              "end": 38,
+              "expanded_url": "https://x.com/daily_glt/status/1915477412915404902/photo/1",
+              "media_key": "3_1915477321974534144",
+              "start": 15,
+              "url": "https://t.co/yp5ItRFR7Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915654305522311677",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 376
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915477412915404902",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @daily_glt: https://t.co/yp5ItRFR7Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915477321974534144"
+          ]
+        },
+        "author_id": "1571290559708536832",
+        "conversation_id": "1915477412915404902",
+        "created_at": "2025-04-24T18:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T19:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915477412915404902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yp5ItRFR7Y",
+              "end": 23,
+              "expanded_url": "https://x.com/daily_glt/status/1915477412915404902/photo/1",
+              "media_key": "3_1915477321974534144",
+              "start": 0,
+              "url": "https://t.co/yp5ItRFR7Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915477412915404902",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 231,
+          "impression_count": 24815,
+          "like_count": 3723,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 376
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yp5ItRFR7Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 386,
+          "like_count": 1160,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 3635
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-18T00:10:47.000Z",
+        "description": "An account for posting Girls' Last Tour daily!\n@lililjiliijili 🍄 🍳",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "lililjiliijili"
+              }
+            ]
+          }
+        },
+        "id": "1571290559708536832",
+        "location": "𓆟",
+        "name": "Daily Girls' Last Tour ✚.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644814199749758977/pI5NzgHP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28113,
+          "following_count": 12,
+          "like_count": 14,
+          "listed_count": 49,
+          "media_count": 729,
+          "tweet_count": 747
+        },
+        "username": "daily_glt",
+        "verified": false
+      }
+    ]
+  }
+}

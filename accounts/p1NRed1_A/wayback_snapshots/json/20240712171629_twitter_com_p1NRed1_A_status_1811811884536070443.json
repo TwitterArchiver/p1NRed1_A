@@ -1,0 +1,189 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1811811884536070443",
+    "created_at": "2024-07-12T17:16:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-12T18:16:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1811811884536070443"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/magura547455/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/magura547455/status/1811788821614461377",
+          "start": 7,
+          "url": "https://t.co/VqhBnVXpSR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811811884536070443",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811788821614461377",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "支持一下老表 https://t.co/VqhBnVXpSR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1811811884536070443",
+        "created_at": "2024-07-12T17:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T18:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811811884536070443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/magura547455/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/magura547455/status/1811788821614461377",
+              "start": 7,
+              "url": "https://t.co/VqhBnVXpSR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811811884536070443",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811788821614461377",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支持一下老表 https://t.co/VqhBnVXpSR"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811788812621873154",
+            "3_1811788812265357312"
+          ]
+        },
+        "author_id": "1733524426262564864",
+        "conversation_id": "1811788821614461377",
+        "created_at": "2024-07-12T15:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T16:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811788821614461377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Cwq0atQTib",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Magura547455/status/1811788821614461377/photo/1",
+              "media_key": "3_1811788812621873154",
+              "start": 3,
+              "url": "https://t.co/Cwq0atQTib"
+            },
+            {
+              "display_url": "pic.twitter.com/Cwq0atQTib",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Magura547455/status/1811788821614461377/photo/1",
+              "media_key": "3_1811788812265357312",
+              "start": 3,
+              "url": "https://t.co/Cwq0atQTib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811788821614461377",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "谁就 https://t.co/Cwq0atQTib"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563382332014593/-06gBRx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 227,
+          "like_count": 513,
+          "listed_count": 0,
+          "tweet_count": 2069
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T16:30:18.000Z",
+        "description": "",
+        "id": "1733524426262564864",
+        "location": "ボルテクス界",
+        "name": "繭",
+        "pinned_tweet_id": "1811778916555845766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807805119989501952/l2rsi4zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 25,
+          "like_count": 249,
+          "listed_count": 0,
+          "tweet_count": 405
+        },
+        "username": "Magura547455",
+        "verified": false
+      }
+    ]
+  }
+}

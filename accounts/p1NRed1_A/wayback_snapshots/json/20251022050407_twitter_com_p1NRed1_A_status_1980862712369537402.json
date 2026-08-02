@@ -1,0 +1,556 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1980759009008164864"
+      ],
+      "media_source_tweet_id": [
+        "1980759122451579160"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Curious George is a sweet African monkey who can't help but run into trouble. George's friend, \"The Man in the Yellow Hat,\" tries very hard to care for George and is always saving the day. The show's themes are about learning, forgiveness and playful curiosity.",
+          "id": "10004508019",
+          "name": "Curious George"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1283481313492652032",
+          "name": "Family & nostalgic"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1328995299503665153",
+          "name": "Curious George "
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1328995299503665153",
+          "name": "Curious George "
+        }
+      }
+    ],
+    "conversation_id": "1980862712369537402",
+    "created_at": "2025-10-22T05:04:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T06:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980862712369537402"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 41,
+          "normalized_text": "George",
+          "probability": 0.4729,
+          "start": 36,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1470189046345306113",
+          "start": 3,
+          "username": "vidsthatgohard"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FULht81pyM",
+          "end": 92,
+          "expanded_url": "https://x.com/vidsthatgohard/status/1980759122451579160/video/1",
+          "media_key": "13_1980759009008164864",
+          "start": 69,
+          "url": "https://t.co/FULht81pyM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980862712369537402",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1954
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980759122451579160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vidsthatgohard: Who let curious George join the smoke session 🤣🤣 https://t.co/FULht81pyM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21666,
+        "height": 824,
+        "media_key": "13_1980759009008164864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1980759009008164864/img/qSe866B4jEkwOsqH.jpg",
+        "public_metrics": {
+          "view_count": 249587
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980759009008164864/vid/avc1/320x368/MxWGEacRCPDnlAdT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980759009008164864/vid/avc1/480x552/Bnz6mQi7yX6PeaT5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980759009008164864/vid/avc1/716x824/gpiSm7OPYdIC8ovR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1980759009008164864/pl/McF2cR8-btSSxOFE.m3u8?v=7e8"
+          }
+        ],
+        "width": 716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1980759009008164864"
+          ],
+          "media_source_tweet_id": [
+            "1980759122451579160"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Curious George is a sweet African monkey who can't help but run into trouble. George's friend, \"The Man in the Yellow Hat,\" tries very hard to care for George and is always saving the day. The show's themes are about learning, forgiveness and playful curiosity.",
+              "id": "10004508019",
+              "name": "Curious George"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283481313492652032",
+              "name": "Family & nostalgic"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1328995299503665153",
+              "name": "Curious George "
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1328995299503665153",
+              "name": "Curious George "
+            }
+          }
+        ],
+        "conversation_id": "1980862712369537402",
+        "created_at": "2025-10-22T05:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T06:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980862712369537402"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "George",
+              "probability": 0.4729,
+              "start": 36,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1470189046345306113",
+              "start": 3,
+              "username": "vidsthatgohard"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FULht81pyM",
+              "end": 92,
+              "expanded_url": "https://x.com/vidsthatgohard/status/1980759122451579160/video/1",
+              "media_key": "13_1980759009008164864",
+              "start": 69,
+              "url": "https://t.co/FULht81pyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980862712369537402",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1954
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980759122451579160",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vidsthatgohard: Who let curious George join the smoke session 🤣🤣 https://t.co/FULht81pyM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1980759009008164864"
+          ]
+        },
+        "author_id": "1470189046345306113",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Curious George is a sweet African monkey who can't help but run into trouble. George's friend, \"The Man in the Yellow Hat,\" tries very hard to care for George and is always saving the day. The show's themes are about learning, forgiveness and playful curiosity.",
+              "id": "10004508019",
+              "name": "Curious George"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283481313492652032",
+              "name": "Family & nostalgic"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1328995299503665153",
+              "name": "Curious George "
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1328995299503665153",
+              "name": "Curious George "
+            }
+          }
+        ],
+        "conversation_id": "1980759122451579160",
+        "created_at": "2025-10-21T22:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T23:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980759122451579160"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "George",
+              "probability": 0.6262,
+              "start": 16,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FULht81pyM",
+              "end": 72,
+              "expanded_url": "https://x.com/vidsthatgohard/status/1980759122451579160/video/1",
+              "media_key": "13_1980759009008164864",
+              "start": 49,
+              "url": "https://t.co/FULht81pyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980759122451579160",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4274,
+          "impression_count": 330257,
+          "like_count": 16681,
+          "quote_count": 120,
+          "reply_count": 198,
+          "retweet_count": 1954
+        },
+        "reply_settings": "everyone",
+        "text": "Who let curious George join the smoke session 🤣🤣 https://t.co/FULht81pyM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 488,
+          "like_count": 1517,
+          "listed_count": 2,
+          "media_count": 302,
+          "tweet_count": 5153
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-13T00:29:27.000Z",
+        "description": "video archive, memes, music, anime and anything I like. checkout the music ⬇️ |DM for business| sponsored by @rainbetcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 109,
+                "username": "rainbetcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/track/60m9EgL5…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/track/60m9EgL5exxzBNfHY9Hhk3?si=E11pugy4TZarjiujsffnjw",
+                "start": 0,
+                "url": "https://t.co/GYVJvOBqAD"
+              }
+            ]
+          }
+        },
+        "id": "1470189046345306113",
+        "location": "Turn on notifications🔔",
+        "name": "vids that go hard",
+        "pinned_tweet_id": "1977859026097434701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893327358960054272/KlxQFiX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1269887,
+          "following_count": 3405,
+          "like_count": 36480,
+          "listed_count": 4263,
+          "media_count": 4419,
+          "tweet_count": 4946
+        },
+        "url": "https://t.co/GYVJvOBqAD",
+        "username": "vidsthatgohard",
+        "verified": true
+      }
+    ]
+  }
+}

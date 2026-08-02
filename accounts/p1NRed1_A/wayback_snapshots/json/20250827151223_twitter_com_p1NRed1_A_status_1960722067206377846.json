@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1960678599088099328"
+      ],
+      "media_source_tweet_id": [
+        "1960678626959278244"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1960722067206377846",
+    "created_at": "2025-08-27T15:12:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T16:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960722067206377846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1739332061545267200",
+          "start": 3,
+          "username": "suakshwkasj"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/djUp00UriR",
+          "end": 55,
+          "expanded_url": "https://x.com/suakshwkasj/status/1960678626959278244/photo/1",
+          "media_key": "16_1960678599088099328",
+          "start": 32,
+          "url": "https://t.co/djUp00UriR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960722067206377846",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960678626959278244",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suakshwkasj: 新衣服白买了吧。。根本穿不上 https://t.co/djUp00UriR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1960722067206377846].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1960722067206377846",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1960722067206377846"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "16_1960678599088099328",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GzW6zDlbUAAo9jB.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GzW6zDlbUAAo9jB.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1960678599088099328"
+          ]
+        },
+        "author_id": "1739332061545267200",
+        "conversation_id": "1960678626959278244",
+        "created_at": "2025-08-27T12:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T13:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960678626959278244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/djUp00UriR",
+              "end": 38,
+              "expanded_url": "https://x.com/suakshwkasj/status/1960678626959278244/photo/1",
+              "media_key": "16_1960678599088099328",
+              "start": 15,
+              "url": "https://t.co/djUp00UriR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960678626959278244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 1590,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "新衣服白买了吧。。根本穿不上 https://t.co/djUp00UriR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 435,
+          "like_count": 1325,
+          "listed_count": 2,
+          "media_count": 251,
+          "tweet_count": 4540
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T17:07:57.000Z",
+        "description": "♡Twitter仅此一个账号♡",
+        "id": "1739332061545267200",
+        "name": "い犬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949354542933667840/MHcrU-20_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30997,
+          "following_count": 190,
+          "like_count": 3293,
+          "listed_count": 96,
+          "media_count": 244,
+          "tweet_count": 567
+        },
+        "username": "suakshwkasj",
+        "verified": false
+      }
+    ]
+  }
+}

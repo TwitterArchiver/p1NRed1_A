@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2008492061956468824",
+    "created_at": "2026-01-06T12:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T13:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008521086959579213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1477226348741640195",
+          "start": 0,
+          "username": "dalu45533647"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008521086959579213",
+    "in_reply_to_user_id": "1477226348741640195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008517095374627239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dalu45533647 我想被绑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2008492061956468824",
+        "created_at": "2026-01-06T12:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T13:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008521086959579213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1477226348741640195",
+              "start": 0,
+              "username": "dalu45533647"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008521086959579213",
+        "in_reply_to_user_id": "1477226348741640195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008517095374627239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dalu45533647 我想被绑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1477226348741640195",
+        "conversation_id": "2008492061956468824",
+        "created_at": "2026-01-06T12:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T13:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008517095374627239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008517095374627239",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008514266593366076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 你是覺得有趣嗎，還是單純想看帥哥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "我擅长产出大粪",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 505,
+          "like_count": 1611,
+          "listed_count": 2,
+          "media_count": 331,
+          "tweet_count": 5563
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-01T10:33:14.000Z",
+        "description": "我的墓碑上寫着“我骨灰種的菜好吃嗎” 我是小孩，喜歡喝巧克力，長大以後就喝摩卡。",
+        "id": "1477226348741640195",
+        "name": "嚴重好色，嚴重暴燥，好轉毛囊炎，需要陽光，曹氏宗親會會員",
+        "pinned_tweet_id": "1911462351142011356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901936108533116928/LvrKqto8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 1515,
+          "like_count": 34664,
+          "listed_count": 3,
+          "media_count": 565,
+          "tweet_count": 9781
+        },
+        "username": "dalu45533647",
+        "verified": false
+      }
+    ]
+  }
+}

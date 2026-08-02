@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1829849134372962488",
+    "created_at": "2024-08-31T11:50:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-31T12:50:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829849134372962488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1181505607964094468",
+          "start": 3,
+          "username": "sayhellotosb"
+        },
+        {
+          "end": 30,
+          "id": "1666599054917218305",
+          "start": 18,
+          "username": "kirakira4th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829849134372962488",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829837328442962408",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sayhellotosb: @kirakira4th 大皮炎子才不是小学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1829849134372962488",
+        "created_at": "2024-08-31T11:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T12:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829849134372962488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1181505607964094468",
+              "start": 3,
+              "username": "sayhellotosb"
+            },
+            {
+              "end": 30,
+              "id": "1666599054917218305",
+              "start": 18,
+              "username": "kirakira4th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829849134372962488",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829837328442962408",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sayhellotosb: @kirakira4th 大皮炎子才不是小学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1181505607964094468",
+        "conversation_id": "1829759167130923275",
+        "created_at": "2024-08-31T11:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T12:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829837328442962408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1666599054917218305",
+              "start": 0,
+              "username": "kirakira4th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829837328442962408",
+        "in_reply_to_user_id": "1666599054917218305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829759167130923275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirakira4th 大皮炎子才不是小学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 266,
+          "like_count": 832,
+          "listed_count": 0,
+          "tweet_count": 2669
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-08T09:44:29.000Z",
+        "description": "关注加入坐忘道，一线功法全知晓",
+        "id": "1181505607964094468",
+        "location": "mostilone",
+        "name": "红中老大",
+        "pinned_tweet_id": "1826661046389809580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783166906712850432/XbwpsCtK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 242,
+          "like_count": 8298,
+          "listed_count": 6,
+          "tweet_count": 8428
+        },
+        "username": "sayhellotosb",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-08T00:12:47.000Z",
+        "description": "神は君の罪を千万回も死ぬと判った",
+        "id": "1666599054917218305",
+        "name": "坂下夏々",
+        "pinned_tweet_id": "1828800296140820549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823256430406930432/rW-Fl2Rq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 653,
+          "like_count": 1793,
+          "listed_count": 0,
+          "tweet_count": 616
+        },
+        "username": "kirakira4th",
+        "verified": false
+      }
+    ]
+  }
+}

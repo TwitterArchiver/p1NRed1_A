@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863311749732069376"
+      ],
+      "media_source_tweet_id": [
+        "1863311806330020179"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1863930874578031101",
+    "created_at": "2024-12-03T12:58:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T13:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863930874578031101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1584375940196536326",
+          "start": 3,
+          "username": "baku_mbu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GMtA8u95z6",
+          "end": 49,
+          "expanded_url": "https://x.com/baku_mbu/status/1863311806330020179/photo/1",
+          "media_key": "3_1863311749732069376",
+          "start": 26,
+          "url": "https://t.co/GMtA8u95z6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863930874578031101",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 344
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863311806330020179",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baku_mbu: soul sketch https://t.co/GMtA8u95z6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3800,
+        "media_key": "3_1863311749732069376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdvQKgSXcAAmXQR.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863311749732069376"
+          ],
+          "media_source_tweet_id": [
+            "1863311806330020179"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1863930874578031101",
+        "created_at": "2024-12-03T12:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T13:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863930874578031101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1584375940196536326",
+              "start": 3,
+              "username": "baku_mbu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GMtA8u95z6",
+              "end": 49,
+              "expanded_url": "https://x.com/baku_mbu/status/1863311806330020179/photo/1",
+              "media_key": "3_1863311749732069376",
+              "start": 26,
+              "url": "https://t.co/GMtA8u95z6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863930874578031101",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 344
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863311806330020179",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baku_mbu: soul sketch https://t.co/GMtA8u95z6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863311749732069376"
+          ]
+        },
+        "author_id": "1584375940196536326",
+        "conversation_id": "1863311806330020179",
+        "created_at": "2024-12-01T19:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T20:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863311806330020179"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "soul sketch",
+              "probability": 0.622,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GMtA8u95z6",
+              "end": 35,
+              "expanded_url": "https://x.com/baku_mbu/status/1863311806330020179/photo/1",
+              "media_key": "3_1863311749732069376",
+              "start": 12,
+              "url": "https://t.co/GMtA8u95z6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863311806330020179",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 145,
+          "impression_count": 18387,
+          "like_count": 2091,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 344
+        },
+        "reply_settings": "everyone",
+        "text": "soul sketch https://t.co/GMtA8u95z6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 295,
+          "like_count": 1001,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 3119
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-24T02:47:22.000Z",
+        "description": "18\n\nenjoy experimenting with different styles and techniques \n\nreopening comms \n\nemail: bakumbu17@gmail.com \n\ndon't use images without credits or edit them\n\n🥤",
+        "id": "1584375940196536326",
+        "name": "baku",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863021744849588224/ggjtPTKI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8297,
+          "following_count": 1838,
+          "like_count": 33629,
+          "listed_count": 26,
+          "media_count": 872,
+          "tweet_count": 5453
+        },
+        "username": "baku_mbu",
+        "verified": false
+      }
+    ]
+  }
+}

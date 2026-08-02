@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056353579401953280"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2056353591531802802",
+    "created_at": "2026-05-18T12:37:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T13:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056353591531802802"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rkL3Wp6ppJ",
+          "end": 43,
+          "expanded_url": "https://x.com/p1NRed1_A/status/2056353591531802802/photo/1",
+          "media_key": "3_2056353579401953280",
+          "start": 20,
+          "url": "https://t.co/rkL3Wp6ppJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056353591531802802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "男仆做的胡辣汤乌冬日本人和河南人都哭了 https://t.co/rkL3Wp6ppJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056353579401953280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImir3jbQAAcCXd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056353579401953280"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2056353591531802802",
+        "created_at": "2026-05-18T12:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056353591531802802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rkL3Wp6ppJ",
+              "end": 43,
+              "expanded_url": "https://x.com/p1NRed1_A/status/2056353591531802802/photo/1",
+              "media_key": "3_2056353579401953280",
+              "start": 20,
+              "url": "https://t.co/rkL3Wp6ppJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056353591531802802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男仆做的胡辣汤乌冬日本人和河南人都哭了 https://t.co/rkL3Wp6ppJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 561,
+          "like_count": 1656,
+          "listed_count": 3,
+          "media_count": 364,
+          "tweet_count": 6257
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1820531675505250304"
+      ],
+      "media_source_tweet_id": [
+        "1820531725707227434"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1820692831780180172",
+    "created_at": "2024-08-06T05:26:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-06T06:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820692831780180172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1218293152307609602",
+          "start": 3,
+          "username": "teknodice_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/oL0dJdwo2X",
+          "end": 42,
+          "expanded_url": "https://twitter.com/teknodice_/status/1820531725707227434/photo/1",
+          "media_key": "3_1820531675505250304",
+          "start": 19,
+          "url": "https://t.co/oL0dJdwo2X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820692831780180172",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 230
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820531725707227434",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @teknodice_: 🇵🇭 https://t.co/oL0dJdwo2X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1174,
+        "media_key": "3_1820531675505250304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUPT6czWUAAUZqh.png",
+        "width": 1038
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820531675505250304"
+          ],
+          "media_source_tweet_id": [
+            "1820531725707227434"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1820692831780180172",
+        "created_at": "2024-08-06T05:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T06:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820692831780180172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1218293152307609602",
+              "start": 3,
+              "username": "teknodice_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/oL0dJdwo2X",
+              "end": 42,
+              "expanded_url": "https://twitter.com/teknodice_/status/1820531725707227434/photo/1",
+              "media_key": "3_1820531675505250304",
+              "start": 19,
+              "url": "https://t.co/oL0dJdwo2X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820692831780180172",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 230
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820531725707227434",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @teknodice_: 🇵🇭 https://t.co/oL0dJdwo2X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820531675505250304"
+          ]
+        },
+        "author_id": "1218293152307609602",
+        "conversation_id": "1820531725707227434",
+        "created_at": "2024-08-05T18:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T19:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820531725707227434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/oL0dJdwo2X",
+              "end": 26,
+              "expanded_url": "https://twitter.com/teknodice_/status/1820531725707227434/photo/1",
+              "media_key": "3_1820531675505250304",
+              "start": 3,
+              "url": "https://t.co/oL0dJdwo2X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820531725707227434",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 241,
+          "impression_count": 22574,
+          "like_count": 2369,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 230
+        },
+        "reply_settings": "everyone",
+        "text": "🇵🇭 https://t.co/oL0dJdwo2X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563382332014593/-06gBRx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 236,
+          "like_count": 572,
+          "listed_count": 0,
+          "tweet_count": 2207
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-17T22:05:03.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spoliarium.neocities.org",
+                "end": 23,
+                "expanded_url": "http://spoliarium.neocities.org",
+                "start": 0,
+                "url": "https://t.co/BBAFmNZoSA"
+              }
+            ]
+          }
+        },
+        "id": "1218293152307609602",
+        "name": "tekno",
+        "pinned_tweet_id": "1790754062150873583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1469755851573547009/Q94xxrWc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5064,
+          "following_count": 1126,
+          "like_count": 51084,
+          "listed_count": 36,
+          "tweet_count": 3271
+        },
+        "url": "https://t.co/BBAFmNZoSA",
+        "username": "teknodice_",
+        "verified": false
+      }
+    ]
+  }
+}

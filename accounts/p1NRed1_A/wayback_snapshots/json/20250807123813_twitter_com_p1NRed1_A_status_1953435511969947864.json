@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953325386479353857"
+      ],
+      "media_source_tweet_id": [
+        "1953325391193514221"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1953435511969947864",
+    "created_at": "2025-08-07T12:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T13:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953435511969947864"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 12,
+          "tag": "さよなら絶望先生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1867466454859386880",
+          "start": 3,
+          "username": "r_aj_n"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7XvaXwOwgW",
+          "end": 61,
+          "expanded_url": "https://x.com/r_aj_n/status/1953325391193514221/photo/1",
+          "media_key": "3_1953325386479353857",
+          "start": 38,
+          "url": "https://t.co/7XvaXwOwgW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953435511969947864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953325391193514221",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @r_aj_n: #さよなら絶望先生 タグ付けて再掲 290話のFA https://t.co/7XvaXwOwgW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_1953325386479353857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxubFv_awAEMVxl.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953325386479353857"
+          ],
+          "media_source_tweet_id": [
+            "1953325391193514221"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1953435511969947864",
+        "created_at": "2025-08-07T12:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T13:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953435511969947864"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 12,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1867466454859386880",
+              "start": 3,
+              "username": "r_aj_n"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7XvaXwOwgW",
+              "end": 61,
+              "expanded_url": "https://x.com/r_aj_n/status/1953325391193514221/photo/1",
+              "media_key": "3_1953325386479353857",
+              "start": 38,
+              "url": "https://t.co/7XvaXwOwgW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953435511969947864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953325391193514221",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @r_aj_n: #さよなら絶望先生 タグ付けて再掲 290話のFA https://t.co/7XvaXwOwgW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953325386479353857"
+          ]
+        },
+        "author_id": "1867466454859386880",
+        "conversation_id": "1953325391193514221",
+        "created_at": "2025-08-07T05:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T06:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953325391193514221"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7XvaXwOwgW",
+              "end": 49,
+              "expanded_url": "https://x.com/r_aj_n/status/1953325391193514221/photo/1",
+              "media_key": "3_1953325386479353857",
+              "start": 26,
+              "url": "https://t.co/7XvaXwOwgW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953325391193514221",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1508,
+          "like_count": 116,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "#さよなら絶望先生 タグ付けて再掲 290話のFA https://t.co/7XvaXwOwgW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 421,
+          "like_count": 1278,
+          "listed_count": 1,
+          "media_count": 237,
+          "tweet_count": 4418
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T07:08:10.000Z",
+        "description": "最近は、亜人の永井圭、久米田康治作品など",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/mk____kat1",
+                "end": 23,
+                "expanded_url": "https://twpf.jp/mk____kat1",
+                "start": 0,
+                "url": "https://t.co/ACILpHI4Sm"
+              }
+            ]
+          }
+        },
+        "id": "1867466454859386880",
+        "name": "りち",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953067419372797953/JtezJp4k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 23,
+          "like_count": 434,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 192
+        },
+        "url": "https://t.co/ACILpHI4Sm",
+        "username": "r_aj_n",
+        "verified": false
+      }
+    ]
+  }
+}

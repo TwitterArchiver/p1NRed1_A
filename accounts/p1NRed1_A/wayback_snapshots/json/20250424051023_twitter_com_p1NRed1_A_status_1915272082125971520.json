@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1913666237772730814",
+    "created_at": "2025-04-24T05:10:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T06:10:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915272082125971520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1533358828523335680",
+          "start": 0,
+          "username": "IsabellaQVO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915272082125971520",
+    "in_reply_to_user_id": "1533358828523335680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915272031282835826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IsabellaQVO 可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1913666237772730814",
+        "created_at": "2025-04-24T05:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T06:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915272082125971520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1533358828523335680",
+              "start": 0,
+              "username": "IsabellaQVO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915272082125971520",
+        "in_reply_to_user_id": "1533358828523335680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915272031282835826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IsabellaQVO 可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533358828523335680",
+        "conversation_id": "1913666237772730814",
+        "created_at": "2025-04-24T05:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T06:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915272031282835826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915272031282835826",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915271960017461258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 周末吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 385,
+          "like_count": 1158,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 3624
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-05T08:03:36.000Z",
+        "description": "嘘",
+        "id": "1533358828523335680",
+        "name": "Isabella^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895157558756732928/4i6YBdve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 275,
+          "like_count": 15459,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 862
+        },
+        "username": "IsabellaQVO",
+        "verified": false
+      }
+    ]
+  }
+}

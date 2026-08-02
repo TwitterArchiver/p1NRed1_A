@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1936813053242433939",
+    "created_at": "2025-06-22T15:46:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T16:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936813053242433939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1897916963860758529",
+          "start": 3,
+          "username": "Kafuka_Smile"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936813053242433939",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936806867679998042",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kafuka_Smile: 風浦可符香好きすぎる‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1936813053242433939",
+        "created_at": "2025-06-22T15:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T16:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936813053242433939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1897916963860758529",
+              "start": 3,
+              "username": "Kafuka_Smile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936813053242433939",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936806867679998042",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kafuka_Smile: 風浦可符香好きすぎる‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897916963860758529",
+        "conversation_id": "1936806867679998042",
+        "created_at": "2025-06-22T15:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T16:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936806867679998042"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936806867679998042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "風浦可符香好きすぎる‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 411,
+          "like_count": 1227,
+          "listed_count": 1,
+          "media_count": 228,
+          "tweet_count": 4046
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T07:47:39.000Z",
+        "description": "風浦可符香、私の希望",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Kafukadiary",
+                "end": 23,
+                "expanded_url": "https://lit.link/Kafukadiary",
+                "start": 0,
+                "url": "https://t.co/1rgOOIxl5b"
+              }
+            ]
+          }
+        },
+        "id": "1897916963860758529",
+        "location": "イラストは稀",
+        "name": "らな",
+        "pinned_tweet_id": "1898674392944808272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898260279370432513/jverpYM2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 22,
+          "like_count": 524,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 498
+        },
+        "url": "https://t.co/1rgOOIxl5b",
+        "username": "Kafuka_Smile",
+        "verified": false
+      }
+    ]
+  }
+}

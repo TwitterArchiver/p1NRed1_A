@@ -1,0 +1,302 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1803291547678433280",
+        "3_1803291547670069248"
+      ],
+      "media_source_tweet_id": [
+        "1803291551595999363",
+        "1803291551595999363"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1803313833727144408",
+    "created_at": "2024-06-19T06:28:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T07:28:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803313833727144408"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 71,
+          "normalized_text": "Soul Eater",
+          "probability": 0.8279,
+          "start": 62,
+          "type": "Other"
+        },
+        {
+          "end": 87,
+          "normalized_text": "Ohkubo",
+          "probability": 0.8601,
+          "start": 82,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1497273678966538240",
+          "start": 3,
+          "username": "SoulEaterReboot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/yaruWDOKdj",
+          "end": 139,
+          "expanded_url": "https://twitter.com/SoulEaterReboot/status/1803291551595999363/photo/1",
+          "media_key": "3_1803291547678433280",
+          "start": 116,
+          "url": "https://t.co/yaruWDOKdj"
+        },
+        {
+          "display_url": "pic.twitter.com/yaruWDOKdj",
+          "end": 139,
+          "expanded_url": "https://twitter.com/SoulEaterReboot/status/1803291551595999363/photo/1",
+          "media_key": "3_1803291547670069248",
+          "start": 116,
+          "url": "https://t.co/yaruWDOKdj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803313833727144408",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803291551595999363",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SoulEaterReboot: Day 3,960\n\nThere is no confirmation of a Soul Eater reboot.\n\nOhkubo's Procreate illustrations! https://t.co/yaruWDOKdj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 854,
+        "media_key": "3_1803291547678433280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQaUG73WYAATTJX.jpg",
+        "width": 640
+      },
+      {
+        "height": 854,
+        "media_key": "3_1803291547670069248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQaUG71WwAALGFV.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1803291547678433280",
+            "3_1803291547670069248"
+          ],
+          "media_source_tweet_id": [
+            "1803291551595999363",
+            "1803291551595999363"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1803313833727144408",
+        "created_at": "2024-06-19T06:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T07:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803313833727144408"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 71,
+              "normalized_text": "Soul Eater",
+              "probability": 0.8279,
+              "start": 62,
+              "type": "Other"
+            },
+            {
+              "end": 87,
+              "normalized_text": "Ohkubo",
+              "probability": 0.8601,
+              "start": 82,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1497273678966538240",
+              "start": 3,
+              "username": "SoulEaterReboot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/yaruWDOKdj",
+              "end": 139,
+              "expanded_url": "https://twitter.com/SoulEaterReboot/status/1803291551595999363/photo/1",
+              "media_key": "3_1803291547678433280",
+              "start": 116,
+              "url": "https://t.co/yaruWDOKdj"
+            },
+            {
+              "display_url": "pic.twitter.com/yaruWDOKdj",
+              "end": 139,
+              "expanded_url": "https://twitter.com/SoulEaterReboot/status/1803291551595999363/photo/1",
+              "media_key": "3_1803291547670069248",
+              "start": 116,
+              "url": "https://t.co/yaruWDOKdj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803313833727144408",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803291551595999363",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SoulEaterReboot: Day 3,960\n\nThere is no confirmation of a Soul Eater reboot.\n\nOhkubo's Procreate illustrations! https://t.co/yaruWDOKdj"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1803291547678433280",
+            "3_1803291547670069248"
+          ]
+        },
+        "author_id": "1497273678966538240",
+        "conversation_id": "1803291551595999363",
+        "created_at": "2024-06-19T04:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T05:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803291551595999363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/yaruWDOKdj",
+              "end": 118,
+              "expanded_url": "https://twitter.com/SoulEaterReboot/status/1803291551595999363/photo/1",
+              "media_key": "3_1803291547678433280",
+              "start": 95,
+              "url": "https://t.co/yaruWDOKdj"
+            },
+            {
+              "display_url": "pic.twitter.com/yaruWDOKdj",
+              "end": 118,
+              "expanded_url": "https://twitter.com/SoulEaterReboot/status/1803291551595999363/photo/1",
+              "media_key": "3_1803291547670069248",
+              "start": 95,
+              "url": "https://t.co/yaruWDOKdj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803291551595999363",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2013,
+          "like_count": 226,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "Day 3,960\n\nThere is no confirmation of a Soul Eater reboot.\n\nOhkubo's Procreate illustrations! https://t.co/yaruWDOKdj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802900561299472385/3G9b9zhq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 192,
+          "like_count": 398,
+          "listed_count": 0,
+          "tweet_count": 1617
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-25T18:14:08.000Z",
+        "description": "A Soul Eater reboot has not yet been confirmed. Here's hoping. Inspiration:@FF3Confirmation",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 75,
+                "username": "FF3Confirmation"
+              }
+            ]
+          }
+        },
+        "id": "1497273678966538240",
+        "location": "Death City, Nevada",
+        "name": "Is a Soul Eater Reboot Confirmed?",
+        "pinned_tweet_id": "1497307616250322949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1497296013639524359/1bFwRbbb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11723,
+          "following_count": 30,
+          "like_count": 6708,
+          "listed_count": 11,
+          "tweet_count": 2402
+        },
+        "username": "SoulEaterReboot",
+        "verified": false
+      }
+    ]
+  }
+}

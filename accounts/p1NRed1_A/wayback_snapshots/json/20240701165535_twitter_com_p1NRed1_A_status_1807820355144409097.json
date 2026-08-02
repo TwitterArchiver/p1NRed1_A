@@ -1,0 +1,181 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1807799532677386337",
+    "created_at": "2024-07-01T16:55:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-01T17:55:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807820355144409097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1584173045710741504",
+          "start": 0,
+          "username": "SakuraSakuraX7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807820355144409097",
+    "in_reply_to_user_id": "1584173045710741504",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807819508083839369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakuraSakuraX7 不太清楚怎么做我研究一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1807799532677386337",
+        "created_at": "2024-07-01T16:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T17:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807820355144409097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584173045710741504",
+              "start": 0,
+              "username": "SakuraSakuraX7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807820355144409097",
+        "in_reply_to_user_id": "1584173045710741504",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807819508083839369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakuraSakuraX7 不太清楚怎么做我研究一下"
+      },
+      {
+        "attachments": {},
+        "author_id": "1584173045710741504",
+        "conversation_id": "1807799532677386337",
+        "created_at": "2024-07-01T16:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T17:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807819508083839369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807819508083839369",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807799532677386337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 鱼那张其实还能做成流麻，效果会很好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563382332014593/-06gBRx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 208,
+          "like_count": 466,
+          "listed_count": 0,
+          "tweet_count": 1870
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-23T13:21:16.000Z",
+        "description": "回复机器人",
+        "id": "1584173045710741504",
+        "location": "丸喜的世界",
+        "name": "九只只九",
+        "pinned_tweet_id": "1751244080414376339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807776131887808513/wbVE4dJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 755,
+          "like_count": 9633,
+          "listed_count": 3,
+          "tweet_count": 4191
+        },
+        "username": "SakuraSakuraX7",
+        "verified": false
+      }
+    ]
+  }
+}

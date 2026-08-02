@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1823346518067437568"
+      ],
+      "media_source_tweet_id": [
+        "1823346531136840185"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1823720383767597412",
+    "created_at": "2024-08-14T13:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-14T14:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823720383767597412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "706457034967748608",
+          "start": 3,
+          "username": "mrpg_0824"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qluseuh4t9",
+          "end": 62,
+          "expanded_url": "https://twitter.com/mrpg_0824/status/1823346531136840185/photo/1",
+          "media_key": "3_1823346518067437568",
+          "start": 39,
+          "url": "https://t.co/QLUsEUH4t9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823720383767597412",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 144
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823346531136840185",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mrpg_0824: 「もう人が\"転校\"するところは、見たくないの」 https://t.co/QLUsEUH4t9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1836,
+        "media_key": "3_1823346518067437568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GU3T_2fa4AAMJTf.jpg",
+        "width": 2267
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823346518067437568"
+          ],
+          "media_source_tweet_id": [
+            "1823346531136840185"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1823720383767597412",
+        "created_at": "2024-08-14T13:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T14:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823720383767597412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "706457034967748608",
+              "start": 3,
+              "username": "mrpg_0824"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qluseuh4t9",
+              "end": 62,
+              "expanded_url": "https://twitter.com/mrpg_0824/status/1823346531136840185/photo/1",
+              "media_key": "3_1823346518067437568",
+              "start": 39,
+              "url": "https://t.co/QLUsEUH4t9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823720383767597412",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 144
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823346531136840185",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mrpg_0824: 「もう人が\"転校\"するところは、見たくないの」 https://t.co/QLUsEUH4t9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823346518067437568"
+          ]
+        },
+        "author_id": "706457034967748608",
+        "conversation_id": "1823346531136840185",
+        "created_at": "2024-08-13T13:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T14:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823346531136840185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qluseuh4t9",
+              "end": 47,
+              "expanded_url": "https://twitter.com/mrpg_0824/status/1823346531136840185/photo/1",
+              "media_key": "3_1823346518067437568",
+              "start": 24,
+              "url": "https://t.co/QLUsEUH4t9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823346531136840185",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 27197,
+          "like_count": 1526,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 144
+        },
+        "reply_settings": "everyone",
+        "text": "「もう人が\"転校\"するところは、見たくないの」 https://t.co/QLUsEUH4t9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 255,
+          "like_count": 704,
+          "listed_count": 0,
+          "tweet_count": 2396
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-06T12:30:57.000Z",
+        "description": "関東在住のレイヤー兼絵描き。￤162cm￤加工してます。撮影地許可済。ひぐらし、聖地巡礼が好き。┃⚠お写真DMでお願いします！無断使用・SNS掲載禁止。┃▼リンク集⇢ https://t.co/I5Mk17aq3e ▼日常⇢ @mrpgRand__￤ひぐらしマダミ2ツアー案内役、07th大宴会ゲスト",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mrpgRand__"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/565P8",
+                "end": 107,
+                "expanded_url": "https://x.gd/565P8",
+                "start": 84,
+                "url": "https://t.co/I5Mk17aq3e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mrpg_cos?igshi…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/mrpg_cos?igshid=YmMyMTA2M2Y=",
+                "start": 0,
+                "url": "https://t.co/RBpS5wpKf6"
+              }
+            ]
+          }
+        },
+        "id": "706457034967748608",
+        "location": "※相互様、ご用件以外のDMのご返信は出来かねます",
+        "name": "森田ぴぐ@C104(月)西1 \"の\"-11b",
+        "pinned_tweet_id": "1447193195104780289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1513730358734618629/Ra2oaODV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23232,
+          "following_count": 296,
+          "like_count": 176205,
+          "listed_count": 136,
+          "tweet_count": 120034
+        },
+        "url": "https://t.co/RBpS5wpKf6",
+        "username": "mrpg_0824",
+        "verified": false
+      }
+    ]
+  }
+}

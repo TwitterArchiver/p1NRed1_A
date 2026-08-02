@@ -1,0 +1,347 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1803250903753134080"
+      ],
+      "media_source_tweet_id": [
+        "1803250906261323931"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Food Hashtags",
+          "id": "826815276989624321",
+          "name": "Food Hashtags"
+        }
+      }
+    ],
+    "conversation_id": "1803280158859862038",
+    "created_at": "2024-06-19T04:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T05:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803280158859862038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1679841149526380548",
+          "start": 3,
+          "username": "OsakaDailyAzu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/zJAe5DHbu0",
+          "end": 54,
+          "expanded_url": "https://twitter.com/OsakaDailyAzu/status/1803250906261323931/photo/1",
+          "media_key": "3_1803250903753134080",
+          "start": 31,
+          "url": "https://t.co/zJAe5DHbu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803280158859862038",
+    "lang": "no",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803250906261323931",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OsakaDailyAzu: nom nom nom https://t.co/zJAe5DHbu0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 661,
+        "media_key": "3_1803250903753134080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQZvJJcbkAA7H02.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1803250903753134080"
+          ],
+          "media_source_tweet_id": [
+            "1803250906261323931"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Food Hashtags",
+              "id": "826815276989624321",
+              "name": "Food Hashtags"
+            }
+          }
+        ],
+        "conversation_id": "1803280158859862038",
+        "created_at": "2024-06-19T04:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T05:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803280158859862038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1679841149526380548",
+              "start": 3,
+              "username": "OsakaDailyAzu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/zJAe5DHbu0",
+              "end": 54,
+              "expanded_url": "https://twitter.com/OsakaDailyAzu/status/1803250906261323931/photo/1",
+              "media_key": "3_1803250903753134080",
+              "start": 31,
+              "url": "https://t.co/zJAe5DHbu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803280158859862038",
+        "lang": "no",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803250906261323931",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OsakaDailyAzu: nom nom nom https://t.co/zJAe5DHbu0"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1803250903753134080"
+          ]
+        },
+        "author_id": "1679841149526380548",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Food Hashtags",
+              "id": "826815276989624321",
+              "name": "Food Hashtags"
+            }
+          }
+        ],
+        "conversation_id": "1803250906261323931",
+        "created_at": "2024-06-19T02:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T03:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803250906261323931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/zJAe5DHbu0",
+              "end": 35,
+              "expanded_url": "https://twitter.com/OsakaDailyAzu/status/1803250906261323931/photo/1",
+              "media_key": "3_1803250903753134080",
+              "start": 12,
+              "url": "https://t.co/zJAe5DHbu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803250906261323931",
+        "lang": "no",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 2594,
+          "like_count": 385,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "nom nom nom https://t.co/zJAe5DHbu0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802900561299472385/3G9b9zhq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 190,
+          "like_count": 387,
+          "listed_count": 0,
+          "tweet_count": 1607
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T13:12:10.000Z",
+        "description": "ah post Video or Picture of Ayumu Kasuga (Osaka) from Azumanga Daioh Daily around 10 AM GMT+!\n\nFollow @DailyOsakaPics for more Osaka!!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 102,
+                "username": "DailyOsakaPics"
+              }
+            ]
+          }
+        },
+        "id": "1679841149526380548",
+        "location": "Osaka",
+        "name": "Daily Osaka",
+        "pinned_tweet_id": "1729323277334847973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787115883074347008/kVS3LyMo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18781,
+          "following_count": 110,
+          "like_count": 2840,
+          "listed_count": 11,
+          "tweet_count": 1506
+        },
+        "username": "OsakaDailyAzu",
+        "verified": false
+      }
+    ]
+  }
+}

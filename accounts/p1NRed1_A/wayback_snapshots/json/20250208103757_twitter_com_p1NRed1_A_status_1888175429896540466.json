@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887909105823567872"
+      ],
+      "media_source_tweet_id": [
+        "1887909492924314038"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1888175429896540466",
+    "created_at": "2025-02-08T10:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T11:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888175429896540466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1437782706159509505",
+          "start": 3,
+          "username": "Bourbunbun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XhB1zXwlxJ",
+          "end": 98,
+          "expanded_url": "https://x.com/Bourbunbun/status/1887909492924314038/photo/1",
+          "media_key": "3_1887909105823567872",
+          "start": 75,
+          "url": "https://t.co/XhB1zXwlxJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888175429896540466",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 181
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887909492924314038",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bourbunbun: Properly drawn Kitsu Chiri from Sayonara Zetsubou Sensei 📏 https://t.co/XhB1zXwlxJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3500,
+        "media_key": "3_1887909105823567872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjMzVETW0AAgn68.jpg",
+        "width": 2500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887909105823567872"
+          ],
+          "media_source_tweet_id": [
+            "1887909492924314038"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1888175429896540466",
+        "created_at": "2025-02-08T10:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T11:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888175429896540466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437782706159509505",
+              "start": 3,
+              "username": "Bourbunbun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XhB1zXwlxJ",
+              "end": 98,
+              "expanded_url": "https://x.com/Bourbunbun/status/1887909492924314038/photo/1",
+              "media_key": "3_1887909105823567872",
+              "start": 75,
+              "url": "https://t.co/XhB1zXwlxJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888175429896540466",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 181
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887909492924314038",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bourbunbun: Properly drawn Kitsu Chiri from Sayonara Zetsubou Sensei 📏 https://t.co/XhB1zXwlxJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887909105823567872"
+          ]
+        },
+        "author_id": "1437782706159509505",
+        "conversation_id": "1887909492924314038",
+        "created_at": "2025-02-07T17:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T18:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887909492924314038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XhB1zXwlxJ",
+              "end": 82,
+              "expanded_url": "https://x.com/Bourbunbun/status/1887909492924314038/photo/1",
+              "media_key": "3_1887909105823567872",
+              "start": 59,
+              "url": "https://t.co/XhB1zXwlxJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887909492924314038",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 9726,
+          "like_count": 908,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 181
+        },
+        "reply_settings": "everyone",
+        "text": "Properly drawn Kitsu Chiri from Sayonara Zetsubou Sensei 📏 https://t.co/XhB1zXwlxJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873724650511110144/1z-X8l1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 299,
+          "like_count": 1044,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 3217
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-14T14:18:14.000Z",
+        "description": "d  o ' ' ' o b✏️ drawing all my favorite things !! // Comms: OPEN",
+        "id": "1437782706159509505",
+        "location": "they/them, Germany",
+        "name": "Bourbunbun",
+        "pinned_tweet_id": "1829162166383194376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1633186079317557249/RLoP09yi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36632,
+          "following_count": 67,
+          "like_count": 936,
+          "listed_count": 105,
+          "media_count": 474,
+          "tweet_count": 2928
+        },
+        "username": "Bourbunbun",
+        "verified": false
+      }
+    ]
+  }
+}

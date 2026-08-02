@@ -1,0 +1,267 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1801792147647021056"
+      ],
+      "media_source_tweet_id": [
+        "1802939549196157326"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1803263510178308175",
+    "created_at": "2024-06-19T03:08:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T04:08:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803263510178308175"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "Lil Kevo 303",
+          "probability": 0.6103,
+          "start": 18,
+          "type": "Other"
+        },
+        {
+          "end": 73,
+          "normalized_text": "The Taste of Food Is My Reason For Living",
+          "probability": 0.9725,
+          "start": 33,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1547716840821891081",
+          "start": 3,
+          "username": "RawestAlbums"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/nMnYeJWXRd",
+          "end": 105,
+          "expanded_url": "https://twitter.com/RawestAlbums/status/1802939549196157326/photo/1",
+          "media_key": "3_1801792147647021056",
+          "start": 82,
+          "url": "https://t.co/nMnYeJWXRd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803263510178308175",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 234
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802939549196157326",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RawestAlbums: Lil Kevo 303 - The Taste of Food Is My Reason For Living (2020) https://t.co/nMnYeJWXRd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1801792147647021056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQFAaXeWwAAQips.jpg",
+        "width": 839
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801792147647021056"
+          ],
+          "media_source_tweet_id": [
+            "1802939549196157326"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1803263510178308175",
+        "created_at": "2024-06-19T03:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T04:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803263510178308175"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "Lil Kevo 303",
+              "probability": 0.6103,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 73,
+              "normalized_text": "The Taste of Food Is My Reason For Living",
+              "probability": 0.9725,
+              "start": 33,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1547716840821891081",
+              "start": 3,
+              "username": "RawestAlbums"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/nMnYeJWXRd",
+              "end": 105,
+              "expanded_url": "https://twitter.com/RawestAlbums/status/1802939549196157326/photo/1",
+              "media_key": "3_1801792147647021056",
+              "start": 82,
+              "url": "https://t.co/nMnYeJWXRd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803263510178308175",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 234
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802939549196157326",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RawestAlbums: Lil Kevo 303 - The Taste of Food Is My Reason For Living (2020) https://t.co/nMnYeJWXRd"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801792147647021056"
+          ]
+        },
+        "author_id": "1547716840821891081",
+        "conversation_id": "1802939549196157326",
+        "created_at": "2024-06-18T05:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T06:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802939549196157326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/nMnYeJWXRd",
+              "end": 87,
+              "expanded_url": "https://twitter.com/RawestAlbums/status/1802939549196157326/photo/1",
+              "media_key": "3_1801792147647021056",
+              "start": 64,
+              "url": "https://t.co/nMnYeJWXRd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802939549196157326",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 370,
+          "impression_count": 39891,
+          "like_count": 2541,
+          "quote_count": 20,
+          "reply_count": 15,
+          "retweet_count": 234
+        },
+        "reply_settings": "everyone",
+        "text": "Lil Kevo 303 - The Taste of Food Is My Reason For Living (2020) https://t.co/nMnYeJWXRd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802900561299472385/3G9b9zhq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 190,
+          "like_count": 386,
+          "listed_count": 0,
+          "tweet_count": 1605
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-14T22:57:14.000Z",
+        "description": "Posting the rawest album covers on planet earth.\n\nDM to submit, doesn't have to be strictly albums",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/rawestmedias",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/rawestmedias",
+                "start": 0,
+                "url": "https://t.co/xJXbbIuixH"
+              }
+            ]
+          }
+        },
+        "id": "1547716840821891081",
+        "name": "Rawest Album Covers",
+        "pinned_tweet_id": "1802566251874513226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1547718329925718017/ANCCFB63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148758,
+          "following_count": 41,
+          "like_count": 1106,
+          "listed_count": 158,
+          "tweet_count": 8499
+        },
+        "url": "https://t.co/xJXbbIuixH",
+        "username": "RawestAlbums",
+        "verified": false
+      }
+    ]
+  }
+}

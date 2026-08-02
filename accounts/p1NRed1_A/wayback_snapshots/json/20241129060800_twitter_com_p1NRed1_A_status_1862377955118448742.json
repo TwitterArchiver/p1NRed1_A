@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862171947175440434"
+      ],
+      "media_source_tweet_id": [
+        "1862171953227821485"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1862377955118448742",
+    "created_at": "2024-11-29T06:08:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T07:08:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862377955118448742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1668348130943983617",
+          "start": 3,
+          "username": "WasFayday"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tr8VxRS8aj",
+          "end": 38,
+          "expanded_url": "https://x.com/WasFayday/status/1862171953227821485/photo/1",
+          "media_key": "3_1862171947175440434",
+          "start": 15,
+          "url": "https://t.co/Tr8VxRS8aj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862377955118448742",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 134
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862171953227821485",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WasFayday: https://t.co/Tr8VxRS8aj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1502,
+        "media_key": "3_1862171947175440434",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdfDhQ4W8DI4-1x.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862171947175440434"
+          ],
+          "media_source_tweet_id": [
+            "1862171953227821485"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1862377955118448742",
+        "created_at": "2024-11-29T06:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T07:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862377955118448742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1668348130943983617",
+              "start": 3,
+              "username": "WasFayday"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tr8VxRS8aj",
+              "end": 38,
+              "expanded_url": "https://x.com/WasFayday/status/1862171953227821485/photo/1",
+              "media_key": "3_1862171947175440434",
+              "start": 15,
+              "url": "https://t.co/Tr8VxRS8aj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862377955118448742",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 134
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862171953227821485",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WasFayday: https://t.co/Tr8VxRS8aj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862171947175440434"
+          ]
+        },
+        "author_id": "1668348130943983617",
+        "conversation_id": "1862171953227821485",
+        "created_at": "2024-11-28T16:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T17:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862171953227821485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tr8VxRS8aj",
+              "end": 23,
+              "expanded_url": "https://x.com/WasFayday/status/1862171953227821485/photo/1",
+              "media_key": "3_1862171947175440434",
+              "start": 0,
+              "url": "https://t.co/Tr8VxRS8aj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862171953227821485",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 5745,
+          "like_count": 667,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Tr8VxRS8aj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 292,
+          "like_count": 991,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 3105
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-12T20:03:26.000Z",
+        "description": "They hate seeing a silly goofy guy winning | Mediocre Tiktok editor",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fayday.straw.page",
+                "end": 23,
+                "expanded_url": "https://fayday.straw.page",
+                "start": 0,
+                "url": "https://t.co/bsFJHM5z1Q"
+              }
+            ]
+          }
+        },
+        "id": "1668348130943983617",
+        "name": "Fayday",
+        "pinned_tweet_id": "1693355876030271905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852832082793566208/DJUZrtgL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 537,
+          "like_count": 102252,
+          "listed_count": 2,
+          "media_count": 5497,
+          "tweet_count": 60549
+        },
+        "url": "https://t.co/bsFJHM5z1Q",
+        "username": "WasFayday",
+        "verified": false
+      }
+    ]
+  }
+}

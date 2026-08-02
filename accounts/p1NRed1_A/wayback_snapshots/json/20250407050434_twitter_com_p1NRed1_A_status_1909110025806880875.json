@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908902375529820160"
+      ],
+      "media_source_tweet_id": [
+        "1908902383146381365"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1909110025806880875",
+    "created_at": "2025-04-07T05:04:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T06:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909110025806880875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1500391443482898432",
+          "start": 3,
+          "username": "zetubousuru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RtiXxMesgz",
+          "end": 42,
+          "expanded_url": "https://x.com/zetubousuru/status/1908902383146381365/photo/1",
+          "media_key": "3_1908902375529820160",
+          "start": 19,
+          "url": "https://t.co/RtiXxMesgz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909110025806880875",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908902383146381365",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zetubousuru: 🫡 https://t.co/RtiXxMesgz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 939,
+        "media_key": "3_1908902375529820160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn3ImMRasAArgLi.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908902375529820160"
+          ],
+          "media_source_tweet_id": [
+            "1908902383146381365"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1909110025806880875",
+        "created_at": "2025-04-07T05:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T06:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909110025806880875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1500391443482898432",
+              "start": 3,
+              "username": "zetubousuru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RtiXxMesgz",
+              "end": 42,
+              "expanded_url": "https://x.com/zetubousuru/status/1908902383146381365/photo/1",
+              "media_key": "3_1908902375529820160",
+              "start": 19,
+              "url": "https://t.co/RtiXxMesgz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909110025806880875",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908902383146381365",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zetubousuru: 🫡 https://t.co/RtiXxMesgz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908902375529820160"
+          ]
+        },
+        "author_id": "1500391443482898432",
+        "conversation_id": "1908902383146381365",
+        "created_at": "2025-04-06T15:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T16:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908902383146381365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RtiXxMesgz",
+              "end": 25,
+              "expanded_url": "https://x.com/zetubousuru/status/1908902383146381365/photo/1",
+              "media_key": "3_1908902375529820160",
+              "start": 2,
+              "url": "https://t.co/RtiXxMesgz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908902383146381365",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 1813,
+          "like_count": 165,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "🫡 https://t.co/RtiXxMesgz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908472142045601793/4rErpv2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 340,
+          "like_count": 1122,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 3427
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-06T08:43:01.000Z",
+        "description": "I post stuff sometimes / mostly szs / ↑18 side account: @ze2meisuru",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "ze2meisuru"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zetubousuru.straw.page",
+                "end": 23,
+                "expanded_url": "https://zetubousuru.straw.page/",
+                "start": 0,
+                "url": "https://t.co/XWkANN7x1R"
+              }
+            ]
+          }
+        },
+        "id": "1500391443482898432",
+        "name": "ᵕ̈",
+        "pinned_tweet_id": "1865384442375880730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908203103566127112/aTWq07wv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 30,
+          "like_count": 1214,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 108
+        },
+        "url": "https://t.co/XWkANN7x1R",
+        "username": "zetubousuru",
+        "verified": false
+      }
+    ]
+  }
+}

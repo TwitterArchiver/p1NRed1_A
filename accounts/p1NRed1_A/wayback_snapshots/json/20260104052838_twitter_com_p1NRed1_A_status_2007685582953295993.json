@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007685574178811906"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "2007685582953295993",
+    "created_at": "2026-01-04T05:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T06:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007685582953295993"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GBC0pMlkt6",
+          "end": 25,
+          "expanded_url": "https://x.com/p1NRed1_A/status/2007685582953295993/photo/1",
+          "media_key": "3_2007685574178811906",
+          "start": 2,
+          "url": "https://t.co/GBC0pMlkt6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007685582953295993",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "蒽 https://t.co/GBC0pMlkt6"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2007685582953295993].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2007685582953295993",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2007685582953295993"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "alt_text": "哦不",
+        "height": 2048,
+        "media_key": "3_2007685574178811906",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9y7ZH2asAIMcmx.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "我擅长产出大粪",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 497,
+          "like_count": 1602,
+          "listed_count": 2,
+          "media_count": 326,
+          "tweet_count": 5509
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

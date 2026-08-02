@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1975206172958634367",
+    "created_at": "2025-10-06T15:01:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T16:01:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975214823953834410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1457484727024189446",
+          "start": 0,
+          "username": "Qiusng829"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975214823953834410",
+    "in_reply_to_user_id": "1457484727024189446",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975211175152582966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiusng829 原来是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1975206172958634367",
+        "created_at": "2025-10-06T15:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T16:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975214823953834410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1457484727024189446",
+              "start": 0,
+              "username": "Qiusng829"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975214823953834410",
+        "in_reply_to_user_id": "1457484727024189446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975211175152582966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiusng829 原来是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457484727024189446",
+        "conversation_id": "1975206172958634367",
+        "created_at": "2025-10-06T14:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T15:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975211175152582966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975211175152582966",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975206172958634367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 3和5结合"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 468,
+          "like_count": 1471,
+          "listed_count": 1,
+          "media_count": 281,
+          "tweet_count": 4931
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-07T23:07:00.000Z",
+        "description": "去死，或是继续爱我的一切。",
+        "id": "1457484727024189446",
+        "location": "距离你200米",
+        "name": "是秋生欸（开学淡推版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880103556184776704/cac9eiOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 105,
+          "like_count": 829,
+          "listed_count": 0,
+          "media_count": 587,
+          "tweet_count": 3654
+        },
+        "username": "Qiusng829",
+        "verified": false
+      }
+    ]
+  }
+}

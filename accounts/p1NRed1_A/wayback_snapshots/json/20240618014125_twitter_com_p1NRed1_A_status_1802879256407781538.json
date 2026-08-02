@@ -1,0 +1,347 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1802784149700259840",
+        "3_1802784149700268032"
+      ],
+      "media_source_tweet_id": [
+        "1802784157082210807",
+        "1802784157082210807"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1802879256407781538",
+    "created_at": "2024-06-18T01:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-18T02:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802879256407781538"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 46,
+          "normalized_text": "azumanga daioh",
+          "probability": 0.8623,
+          "start": 33,
+          "type": "Other"
+        },
+        {
+          "end": 76,
+          "normalized_text": "chiyo chan",
+          "probability": 0.6009,
+          "start": 67,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1622416222007484416",
+          "start": 3,
+          "username": "euamoosaka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/z2aVZZlyiz",
+          "end": 101,
+          "expanded_url": "https://twitter.com/euamoosaka/status/1802784157082210807/photo/1",
+          "media_key": "3_1802784149700259840",
+          "start": 78,
+          "url": "https://t.co/z2aVZZlyiz"
+        },
+        {
+          "display_url": "pic.twitter.com/z2aVZZlyiz",
+          "end": 101,
+          "expanded_url": "https://twitter.com/euamoosaka/status/1802784157082210807/photo/1",
+          "media_key": "3_1802784149700268032",
+          "start": 78,
+          "url": "https://t.co/z2aVZZlyiz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802879256407781538",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 161
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802784157082210807",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @euamoosaka: When im watching azumanga daioh and theyre mean to chiyo chan https://t.co/z2aVZZlyiz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 627,
+        "media_key": "3_1802784149700259840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQTGofGWsAAmTDb.jpg",
+        "width": 474
+      },
+      {
+        "height": 615,
+        "media_key": "3_1802784149700268032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQTGofGW0AA6PiM.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1802784149700259840",
+            "3_1802784149700268032"
+          ],
+          "media_source_tweet_id": [
+            "1802784157082210807",
+            "1802784157082210807"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1802879256407781538",
+        "created_at": "2024-06-18T01:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T02:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802879256407781538"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "azumanga daioh",
+              "probability": 0.8623,
+              "start": 33,
+              "type": "Other"
+            },
+            {
+              "end": 76,
+              "normalized_text": "chiyo chan",
+              "probability": 0.6009,
+              "start": 67,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622416222007484416",
+              "start": 3,
+              "username": "euamoosaka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/z2aVZZlyiz",
+              "end": 101,
+              "expanded_url": "https://twitter.com/euamoosaka/status/1802784157082210807/photo/1",
+              "media_key": "3_1802784149700259840",
+              "start": 78,
+              "url": "https://t.co/z2aVZZlyiz"
+            },
+            {
+              "display_url": "pic.twitter.com/z2aVZZlyiz",
+              "end": 101,
+              "expanded_url": "https://twitter.com/euamoosaka/status/1802784157082210807/photo/1",
+              "media_key": "3_1802784149700268032",
+              "start": 78,
+              "url": "https://t.co/z2aVZZlyiz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802879256407781538",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 161
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802784157082210807",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @euamoosaka: When im watching azumanga daioh and theyre mean to chiyo chan https://t.co/z2aVZZlyiz"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1802784149700259840",
+            "3_1802784149700268032"
+          ]
+        },
+        "author_id": "1622416222007484416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1802784157082210807",
+        "created_at": "2024-06-17T19:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T20:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802784157082210807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/z2aVZZlyiz",
+              "end": 85,
+              "expanded_url": "https://twitter.com/euamoosaka/status/1802784157082210807/photo/1",
+              "media_key": "3_1802784149700259840",
+              "start": 62,
+              "url": "https://t.co/z2aVZZlyiz"
+            },
+            {
+              "display_url": "pic.twitter.com/z2aVZZlyiz",
+              "end": 85,
+              "expanded_url": "https://twitter.com/euamoosaka/status/1802784157082210807/photo/1",
+              "media_key": "3_1802784149700268032",
+              "start": 62,
+              "url": "https://t.co/z2aVZZlyiz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802784157082210807",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 10773,
+          "like_count": 1115,
+          "quote_count": 8,
+          "reply_count": 8,
+          "retweet_count": 161
+        },
+        "reply_settings": "everyone",
+        "text": "When im watching azumanga daioh and theyre mean to chiyo chan https://t.co/z2aVZZlyiz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802327000553795584/bHnmfy-g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 184,
+          "like_count": 372,
+          "listed_count": 0,
+          "tweet_count": 1547
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-06T02:10:03.000Z",
+        "description": "welcome to my account i am autistic do art sometimes i speak PT, ENG, ESP and learning french & german (i make music lol) hoi4 enthusiast\npansexual lmao 🩷💛💙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Crebfds",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Crebfds",
+                "start": 0,
+                "url": "https://t.co/5jI7vDBH8x"
+              }
+            ]
+          }
+        },
+        "id": "1622416222007484416",
+        "location": "🇧🇷",
+        "name": "Crebe",
+        "pinned_tweet_id": "1790050710832177392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802844533467602944/kLie32xk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 979,
+          "like_count": 74678,
+          "listed_count": 2,
+          "tweet_count": 34570
+        },
+        "url": "https://t.co/5jI7vDBH8x",
+        "username": "euamoosaka",
+        "verified": false
+      }
+    ]
+  }
+}

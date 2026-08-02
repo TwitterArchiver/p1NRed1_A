@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1926541961067938141",
+    "created_at": "2025-05-25T07:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T08:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926541961067938141"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "下北沢タワレコ",
+          "probability": 0.3761,
+          "start": 23,
+          "type": "Place"
+        },
+        {
+          "end": 36,
+          "normalized_text": "後藤まりこ",
+          "probability": 0.8133,
+          "start": 32,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1544303825724420096",
+          "start": 3,
+          "username": "510marik0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926541961067938141",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926475020970102977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @510marik0: 昨日はサウクル、下北沢タワレコでの後藤まりこアコースティックviolence POP、足を運んでくださった方々、耳を傾けていただいた方々ありがとうございました！\n昨日の写真です！楽しかったです！\n初めての方、またどこかでいつか会えたら嬉しいです！…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1926474983817048064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grw2yncXcAA2h1h.jpg",
+        "width": 1366
+      },
+      {
+        "height": 1366,
+        "media_key": "3_1926474983854714880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grw2ynlWMAAzisU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1926541961067938141",
+        "created_at": "2025-05-25T07:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T08:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926541961067938141"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "下北沢タワレコ",
+              "probability": 0.3761,
+              "start": 23,
+              "type": "Place"
+            },
+            {
+              "end": 36,
+              "normalized_text": "後藤まりこ",
+              "probability": 0.8133,
+              "start": 32,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1544303825724420096",
+              "start": 3,
+              "username": "510marik0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926541961067938141",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926475020970102977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @510marik0: 昨日はサウクル、下北沢タワレコでの後藤まりこアコースティックviolence POP、足を運んでくださった方々、耳を傾けていただいた方々ありがとうございました！\n昨日の写真です！楽しかったです！\n初めての方、またどこかでいつか会えたら嬉しいです！…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926474983817048064",
+            "3_1926474983854714880"
+          ]
+        },
+        "author_id": "1544303825724420096",
+        "conversation_id": "1926475020970102977",
+        "created_at": "2025-05-25T03:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T04:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926475020970102977"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "下北沢タワレコ",
+              "probability": 0.41,
+              "start": 8,
+              "type": "Place"
+            },
+            {
+              "end": 21,
+              "normalized_text": "後藤まりこ",
+              "probability": 0.8291,
+              "start": 17,
+              "type": "Person"
+            },
+            {
+              "end": 139,
+              "normalized_text": "サトムラさん",
+              "probability": 0.4508,
+              "start": 134,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 130,
+              "start": 125,
+              "tag": "サウクル"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HESxjOjHmT",
+              "end": 163,
+              "expanded_url": "https://x.com/510marik0/status/1926475020970102977/photo/1",
+              "media_key": "3_1926474983817048064",
+              "start": 140,
+              "url": "https://t.co/HESxjOjHmT"
+            },
+            {
+              "display_url": "pic.x.com/HESxjOjHmT",
+              "end": 163,
+              "expanded_url": "https://x.com/510marik0/status/1926475020970102977/photo/1",
+              "media_key": "3_1926474983854714880",
+              "start": 140,
+              "url": "https://t.co/HESxjOjHmT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926475020970102977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3753,
+          "like_count": 146,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "昨日はサウクル、下北沢タワレコでの後藤まりこアコースティックviolence POP、足を運んでくださった方々、耳を傾けていただいた方々ありがとうございました！\n昨日の写真です！楽しかったです！\n初めての方、またどこかでいつか会えたら嬉しいです！\n\n#サウクル\n\n📸サトムラさん https://t.co/HESxjOjHmT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 407,
+          "like_count": 1220,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 3945
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-05T12:55:10.000Z",
+        "description": "猫と暮らす元気なおばはん♨️DJ後藤まりこ、後藤まりこアコースティックviolence  POP、ライブなど全ての予定はgoogleカレンダー▶︎https://t.co/KmICvRzRu9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/b0R7M",
+                "end": 96,
+                "expanded_url": "https://x.gd/b0R7M",
+                "start": 73,
+                "url": "https://t.co/KmICvRzRu9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCmI-o…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCmI-oklucCz5RkaBcABsRrQ/featured",
+                "start": 0,
+                "url": "https://t.co/gM3tAKbOlk"
+              }
+            ]
+          }
+        },
+        "id": "1544303825724420096",
+        "location": "http://510yavai.com",
+        "name": "後藤まりこ",
+        "pinned_tweet_id": "1900743767612944896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717621236896026624/_qti1yio_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15277,
+          "following_count": 279,
+          "like_count": 8591,
+          "listed_count": 53,
+          "media_count": 979,
+          "tweet_count": 3876
+        },
+        "url": "https://t.co/gM3tAKbOlk",
+        "username": "510marik0",
+        "verified": false
+      }
+    ]
+  }
+}

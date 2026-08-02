@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2053787923871629712",
+    "created_at": "2026-05-11T10:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T11:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053787923871629712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2052101329250873344",
+          "start": 3,
+          "username": "8964_R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053787923871629712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053427427683283385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8964_R: 新店重新开业，抽奖1t神秘物质\n抽奖方式依然是点赞关注转发评论\n需要神秘物质的来找我呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2053787923871629712",
+        "created_at": "2026-05-11T10:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053787923871629712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2052101329250873344",
+              "start": 3,
+              "username": "8964_R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053787923871629712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053427427683283385",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8964_R: 新店重新开业，抽奖1t神秘物质\n抽奖方式依然是点赞关注转发评论\n需要神秘物质的来找我呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052101329250873344",
+        "conversation_id": "2053427427683283385",
+        "created_at": "2026-05-10T10:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053427427683283385"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053427427683283385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1189,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "新店重新开业，抽奖1t神秘物质\n抽奖方式依然是点赞关注转发评论\n需要神秘物质的来找我呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 563,
+          "like_count": 1652,
+          "listed_count": 3,
+          "media_count": 351,
+          "tweet_count": 6155
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T19:01:07.000Z",
+        "description": "※只是旅行者罢了，把我说过的一切都当做梦呓吧※\n※无性别者※\n※对象@sunset__3000※\n※美工很好有需要可以找她※\n※#odtwt※\n※#shtwt※\n※TG:HsHnFR※\n※我始终如一※\n永远纪念@Inks_chain @Chain_Inks",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 64,
+                "tag": "odtwt"
+              },
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "shtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "sunset__3000"
+              },
+              {
+                "end": 116,
+                "start": 105,
+                "username": "Inks_chain"
+              },
+              {
+                "end": 128,
+                "start": 117,
+                "username": "Chain_Inks"
+              }
+            ]
+          }
+        },
+        "id": "2052101329250873344",
+        "name": "ヰ世界优泠#参宿七",
+        "pinned_tweet_id": "2052735154242851176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052101413816483840/wqSySJnp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 25,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 112
+        },
+        "username": "8964_R",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1977445477261222059",
+    "created_at": "2025-10-12T18:50:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T19:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977446914858865013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1945286222",
+          "start": 0,
+          "username": "hao_sun_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977446914858865013",
+    "in_reply_to_user_id": "1945286222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977446803151942071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hao_sun_ 我不知道啊我又没有炮友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1977445477261222059",
+        "created_at": "2025-10-12T18:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T19:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977446914858865013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1945286222",
+              "start": 0,
+              "username": "hao_sun_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977446914858865013",
+        "in_reply_to_user_id": "1945286222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977446803151942071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hao_sun_ 我不知道啊我又没有炮友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945286222",
+        "conversation_id": "1977445477261222059",
+        "created_at": "2025-10-12T18:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T19:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977446803151942071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977446803151942071",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977446508820844789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 亲了就变成亲密炮友了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 473,
+          "like_count": 1483,
+          "listed_count": 2,
+          "media_count": 286,
+          "tweet_count": 5000
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-07T22:16:26.000Z",
+        "description": "专注美股价值投资。不杠杆/不合约/不期权。不碰币圈。欢迎美股投资者私聊互fo。",
+        "id": "1945286222",
+        "location": "Hong Kong",
+        "name": "Hao Sun",
+        "pinned_tweet_id": "1914542771517710367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898224930107387905/gcoNqoxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 376,
+          "like_count": 31740,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 949
+        },
+        "username": "hao_sun_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1893223848859824443",
+    "created_at": "2025-02-22T08:58:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T09:58:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893223848859824443"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "符香",
+          "probability": 0.3885,
+          "start": 22,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1759812244932902912",
+          "start": 3,
+          "username": "kawaoka_nano_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893223848859824443",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893114448291995928",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kawaoka_nano_: 風浦可符香可愛すぎて、へへ　と声が出た"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1893223848859824443",
+        "created_at": "2025-02-22T08:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T09:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893223848859824443"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "符香",
+              "probability": 0.3885,
+              "start": 22,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1759812244932902912",
+              "start": 3,
+              "username": "kawaoka_nano_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893223848859824443",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893114448291995928",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kawaoka_nano_: 風浦可符香可愛すぎて、へへ　と声が出た"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759812244932902912",
+        "conversation_id": "1893114448291995928",
+        "created_at": "2025-02-22T01:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T02:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893114448291995928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893114448291995928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "風浦可符香可愛すぎて、へへ　と声が出た"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889564810410627072/YnTsykE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 308,
+          "like_count": 1078,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 3314
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T05:28:46.000Z",
+        "description": "かわおでいいよ！",
+        "id": "1759812244932902912",
+        "location": "ハウス",
+        "name": "どうすりゃええねん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774813985789145088/FTtIVM6O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 77,
+          "like_count": 7082,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 1697
+        },
+        "username": "kawaoka_nano_",
+        "verified": false
+      }
+    ]
+  }
+}

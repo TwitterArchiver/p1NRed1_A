@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999583894199312384"
+      ],
+      "media_source_tweet_id": [
+        "1999583895763775808"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1999797550010998836",
+    "created_at": "2025-12-13T11:04:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T12:04:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999797550010998836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1839908564363816961",
+          "start": 3,
+          "username": "livelaughosaka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qGLnsdjEcO",
+          "end": 43,
+          "expanded_url": "https://x.com/livelaughosaka/status/1999583895763775808/photo/1",
+          "media_key": "3_1999583894199312384",
+          "start": 20,
+          "url": "https://t.co/qGLnsdjEcO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999797550010998836",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999583895763775808",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @livelaughosaka: https://t.co/qGLnsdjEcO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1999583894199312384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7_y9SBXoAAfxg_.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999583894199312384"
+          ],
+          "media_source_tweet_id": [
+            "1999583895763775808"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1999797550010998836",
+        "created_at": "2025-12-13T11:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T12:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999797550010998836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1839908564363816961",
+              "start": 3,
+              "username": "livelaughosaka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qGLnsdjEcO",
+              "end": 43,
+              "expanded_url": "https://x.com/livelaughosaka/status/1999583895763775808/photo/1",
+              "media_key": "3_1999583894199312384",
+              "start": 20,
+              "url": "https://t.co/qGLnsdjEcO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999797550010998836",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999583895763775808",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @livelaughosaka: https://t.co/qGLnsdjEcO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999583894199312384"
+          ]
+        },
+        "author_id": "1839908564363816961",
+        "conversation_id": "1999583895763775808",
+        "created_at": "2025-12-12T20:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T21:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999583895763775808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qGLnsdjEcO",
+              "end": 23,
+              "expanded_url": "https://x.com/livelaughosaka/status/1999583895763775808/photo/1",
+              "media_key": "3_1999583894199312384",
+              "start": 0,
+              "url": "https://t.co/qGLnsdjEcO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999583895763775808",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1224,
+          "like_count": 159,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qGLnsdjEcO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "我擅长产出大粪",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 494,
+          "like_count": 1583,
+          "listed_count": 2,
+          "media_count": 319,
+          "tweet_count": 5413
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T06:02:50.000Z",
+        "description": "you can never have enough osaka| ran by @DunBun07",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "DunBun07"
+              }
+            ]
+          }
+        },
+        "id": "1839908564363816961",
+        "location": "Osaka, Japan",
+        "name": "❄️Random Osaka❄️ あ 🐌",
+        "pinned_tweet_id": "1858214971676438846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995546702292373504/YLgrhZlB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6355,
+          "following_count": 77,
+          "like_count": 3205,
+          "listed_count": 6,
+          "media_count": 1057,
+          "tweet_count": 2204
+        },
+        "username": "livelaughosaka",
+        "verified": false
+      }
+    ]
+  }
+}

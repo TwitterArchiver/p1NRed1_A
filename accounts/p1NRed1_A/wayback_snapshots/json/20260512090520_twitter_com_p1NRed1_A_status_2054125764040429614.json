@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054116219935236097"
+      ],
+      "media_source_tweet_id": [
+        "2054116235265401213"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "2054125764040429614",
+    "created_at": "2026-05-12T09:05:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T10:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054125764040429614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1775473332248625154",
+          "start": 3,
+          "username": "ww0426237376186"
+        },
+        {
+          "end": 39,
+          "id": "1729436345913995265",
+          "start": 29,
+          "username": "p1NRed1_A"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rpUHW2XrEF",
+          "end": 63,
+          "expanded_url": "https://x.com/ww0426237376186/status/2054116235265401213/photo/1",
+          "media_key": "3_2054116219935236097",
+          "start": 40,
+          "url": "https://t.co/rpUHW2XrEF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054125764040429614",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054116235265401213",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ww0426237376186: 和咕咚同居了喵\n@p1NRed1_A https://t.co/rpUHW2XrEF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2054116219935236097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGv0aCboAEDd5H.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054116219935236097"
+          ],
+          "media_source_tweet_id": [
+            "2054116235265401213"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "2054125764040429614",
+        "created_at": "2026-05-12T09:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T10:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054125764040429614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1775473332248625154",
+              "start": 3,
+              "username": "ww0426237376186"
+            },
+            {
+              "end": 39,
+              "id": "1729436345913995265",
+              "start": 29,
+              "username": "p1NRed1_A"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rpUHW2XrEF",
+              "end": 63,
+              "expanded_url": "https://x.com/ww0426237376186/status/2054116235265401213/photo/1",
+              "media_key": "3_2054116219935236097",
+              "start": 40,
+              "url": "https://t.co/rpUHW2XrEF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054125764040429614",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054116235265401213",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ww0426237376186: 和咕咚同居了喵\n@p1NRed1_A https://t.co/rpUHW2XrEF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054116219935236097"
+          ]
+        },
+        "author_id": "1775473332248625154",
+        "conversation_id": "2054116235265401213",
+        "created_at": "2026-05-12T08:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T09:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054116235265401213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1729436345913995265",
+              "start": 8,
+              "username": "p1NRed1_A"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rpUHW2XrEF",
+              "end": 42,
+              "expanded_url": "https://x.com/ww0426237376186/status/2054116235265401213/photo/1",
+              "media_key": "3_2054116219935236097",
+              "start": 19,
+              "url": "https://t.co/rpUHW2XrEF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054116235265401213",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "和咕咚同居了喵\n@p1NRed1_A https://t.co/rpUHW2XrEF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 564,
+          "like_count": 1657,
+          "listed_count": 3,
+          "media_count": 351,
+          "tweet_count": 6189
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T10:40:12.000Z",
+        "description": "死人",
+        "id": "1775473332248625154",
+        "name": "死人",
+        "pinned_tweet_id": "1834445320396439915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045943859843338240/ldtYmiWk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 1760,
+          "like_count": 14040,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 3504
+        },
+        "username": "ww0426237376186",
+        "verified": false
+      }
+    ]
+  }
+}

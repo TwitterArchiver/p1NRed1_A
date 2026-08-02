@@ -1,0 +1,163 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1805223419904164309",
+    "created_at": "2024-06-24T12:56:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-24T13:56:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805223419904164309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1558547901164318728",
+          "start": 3,
+          "username": "saiyadayoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805223419904164309",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805221699610460386",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saiyadayoo: 憑什麼啊我也想我的畫被好多人喜歡好妒忌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1805223419904164309",
+        "created_at": "2024-06-24T12:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T13:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805223419904164309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1558547901164318728",
+              "start": 3,
+              "username": "saiyadayoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805223419904164309",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805221699610460386",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @saiyadayoo: 憑什麼啊我也想我的畫被好多人喜歡好妒忌"
+      },
+      {
+        "attachments": {},
+        "author_id": "1558547901164318728",
+        "conversation_id": "1805221699610460386",
+        "created_at": "2024-06-24T12:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T13:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805221699610460386"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1805221699610460386",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "憑什麼啊我也想我的畫被好多人喜歡好妒忌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802900561299472385/3G9b9zhq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 199,
+          "like_count": 428,
+          "listed_count": 0,
+          "tweet_count": 1742
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T20:16:01.000Z",
+        "description": "記錄用ʚ✝ɞ繁中/Eng/日本語ok⭐️ 自傷✧ 請不要被任何現實生活認識的人發現( °̥̥̥̥̥̥̥̥˟°̥̥̥̥̥̥̥̥ )",
+        "id": "1558547901164318728",
+        "location": "r-152-6-9星球",
+        "name": "ʚ✞ɞ",
+        "pinned_tweet_id": "1752299590139986339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740609908972965888/m5lkpw-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 317,
+          "like_count": 4746,
+          "listed_count": 0,
+          "tweet_count": 3955
+        },
+        "username": "saiyadayoo",
+        "verified": false
+      }
+    ]
+  }
+}

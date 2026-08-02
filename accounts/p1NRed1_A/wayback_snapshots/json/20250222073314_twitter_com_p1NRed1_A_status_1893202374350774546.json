@@ -1,0 +1,733 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892862716668198913"
+      ],
+      "media_source_tweet_id": [
+        "1892863076661444723"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1462809879609950219",
+          "name": "Digital artwork"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1462809879609954313",
+          "name": "Digital goods & currency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "id": "1462809879609950219",
+          "name": "Digital artwork"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Osaka",
+          "id": "859408738544791552",
+          "name": "Osaka"
+        }
+      }
+    ],
+    "conversation_id": "1893202374350774546",
+    "created_at": "2025-02-22T07:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T08:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893202374350774546"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "Fighter",
+          "probability": 0.561,
+          "start": 30,
+          "type": "Other"
+        },
+        {
+          "end": 53,
+          "normalized_text": "azumangadaioh",
+          "probability": 0.5723,
+          "start": 41,
+          "type": "Other"
+        },
+        {
+          "end": 60,
+          "normalized_text": "osaka",
+          "probability": 0.4837,
+          "start": 56,
+          "type": "Place"
+        },
+        {
+          "end": 73,
+          "normalized_text": "ayumukasuga",
+          "probability": 0.4697,
+          "start": 63,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 40,
+          "tag": "azumangadaioh"
+        },
+        {
+          "end": 61,
+          "start": 55,
+          "tag": "osaka"
+        },
+        {
+          "end": 74,
+          "start": 62,
+          "tag": "ayumukasuga"
+        },
+        {
+          "end": 86,
+          "start": 75,
+          "tag": "digitalart"
+        },
+        {
+          "end": 94,
+          "start": 87,
+          "tag": "fanart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1366265174915616768",
+          "start": 3,
+          "username": "illumikitty_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ess0EoRgFP",
+          "end": 118,
+          "expanded_url": "https://x.com/illumikitty_/status/1892863076661444723/photo/1",
+          "media_key": "3_1892862716668198913",
+          "start": 95,
+          "url": "https://t.co/Ess0EoRgFP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893202374350774546",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892863076661444723",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @illumikitty_: Choose Your Fighter! \n#azumangadaioh #osaka #ayumukasuga #digitalart #fanart https://t.co/Ess0EoRgFP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1892862716668198913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkTMnKuWwAEyC-0.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892862716668198913"
+          ],
+          "media_source_tweet_id": [
+            "1892863076661444723"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1462809879609950219",
+              "name": "Digital artwork"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1462809879609954313",
+              "name": "Digital goods & currency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "id": "1462809879609950219",
+              "name": "Digital artwork"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "1893202374350774546",
+        "created_at": "2025-02-22T07:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T08:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893202374350774546"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "Fighter",
+              "probability": 0.561,
+              "start": 30,
+              "type": "Other"
+            },
+            {
+              "end": 53,
+              "normalized_text": "azumangadaioh",
+              "probability": 0.5723,
+              "start": 41,
+              "type": "Other"
+            },
+            {
+              "end": 60,
+              "normalized_text": "osaka",
+              "probability": 0.4837,
+              "start": 56,
+              "type": "Place"
+            },
+            {
+              "end": 73,
+              "normalized_text": "ayumukasuga",
+              "probability": 0.4697,
+              "start": 63,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 40,
+              "tag": "azumangadaioh"
+            },
+            {
+              "end": 61,
+              "start": 55,
+              "tag": "osaka"
+            },
+            {
+              "end": 74,
+              "start": 62,
+              "tag": "ayumukasuga"
+            },
+            {
+              "end": 86,
+              "start": 75,
+              "tag": "digitalart"
+            },
+            {
+              "end": 94,
+              "start": 87,
+              "tag": "fanart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1366265174915616768",
+              "start": 3,
+              "username": "illumikitty_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ess0EoRgFP",
+              "end": 118,
+              "expanded_url": "https://x.com/illumikitty_/status/1892863076661444723/photo/1",
+              "media_key": "3_1892862716668198913",
+              "start": 95,
+              "url": "https://t.co/Ess0EoRgFP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893202374350774546",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892863076661444723",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @illumikitty_: Choose Your Fighter! \n#azumangadaioh #osaka #ayumukasuga #digitalart #fanart https://t.co/Ess0EoRgFP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892862716668198913"
+          ]
+        },
+        "author_id": "1366265174915616768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1462809879609950219",
+              "name": "Digital artwork"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1462809879609954313",
+              "name": "Digital goods & currency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "id": "1462809879609950219",
+              "name": "Digital artwork"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "1892863076661444723",
+        "created_at": "2025-02-21T09:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T10:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892863076661444723"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "azumangadaioh",
+              "probability": 0.6404,
+              "start": 23,
+              "type": "Other"
+            },
+            {
+              "end": 42,
+              "normalized_text": "osaka",
+              "probability": 0.4078,
+              "start": 38,
+              "type": "Place"
+            },
+            {
+              "end": 55,
+              "normalized_text": "ayumukasuga",
+              "probability": 0.5355,
+              "start": 45,
+              "type": "Other"
+            },
+            {
+              "end": 67,
+              "normalized_text": "digitalart",
+              "probability": 0.5622,
+              "start": 58,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 22,
+              "tag": "azumangadaioh"
+            },
+            {
+              "end": 43,
+              "start": 37,
+              "tag": "osaka"
+            },
+            {
+              "end": 56,
+              "start": 44,
+              "tag": "ayumukasuga"
+            },
+            {
+              "end": 68,
+              "start": 57,
+              "tag": "digitalart"
+            },
+            {
+              "end": 76,
+              "start": 69,
+              "tag": "fanart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ess0EoRgFP",
+              "end": 100,
+              "expanded_url": "https://x.com/illumikitty_/status/1892863076661444723/photo/1",
+              "media_key": "3_1892862716668198913",
+              "start": 77,
+              "url": "https://t.co/Ess0EoRgFP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892863076661444723",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 1461,
+          "like_count": 186,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "Choose Your Fighter! \n#azumangadaioh #osaka #ayumukasuga #digitalart #fanart https://t.co/Ess0EoRgFP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889564810410627072/YnTsykE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 308,
+          "like_count": 1076,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 3309
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-01T05:53:03.000Z",
+        "description": "🐟(⁠＾⁠∇⁠＾⁠)⁠ﾉ⁠♪ 🇧🇩artist 🐟\ni mostly use krita\n🎣🐈🎣🐈🎣\n☆comms open on vgen!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vgen.co/illumikitty",
+                "end": 23,
+                "expanded_url": "https://vgen.co/illumikitty",
+                "start": 0,
+                "url": "https://t.co/Lz9cC0HRCL"
+              }
+            ]
+          }
+        },
+        "id": "1366265174915616768",
+        "location": "Bangladesh",
+        "name": "☆ illumi 🐟 VGen",
+        "pinned_tweet_id": "1889690927347732956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889629372543541251/X3FrvaSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 378,
+          "like_count": 4001,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 308
+        },
+        "url": "https://t.co/Lz9cC0HRCL",
+        "username": "illumikitty_",
+        "verified": false
+      }
+    ]
+  }
+}

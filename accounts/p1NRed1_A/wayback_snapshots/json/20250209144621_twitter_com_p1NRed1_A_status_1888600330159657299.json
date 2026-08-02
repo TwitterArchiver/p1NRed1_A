@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1883103557299417088"
+      ],
+      "media_source_tweet_id": [
+        "1883103562907144599"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1888600330159657299",
+    "created_at": "2025-02-09T14:46:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T15:46:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888600330159657299"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 15,
+          "tag": "souleater"
+        },
+        {
+          "end": 35,
+          "start": 27,
+          "tag": "ソウルイーター"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1598434371383357441",
+          "start": 3,
+          "username": "nimame629"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oGMjt3MXSu",
+          "end": 59,
+          "expanded_url": "https://x.com/nimame629/status/1883103562907144599/photo/1",
+          "media_key": "3_1883103557299417088",
+          "start": 36,
+          "url": "https://t.co/oGMjt3MXSu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888600330159657299",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 407
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883103562907144599",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nimame629: #souleater  #ソウルイーター https://t.co/oGMjt3MXSu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1883103557299417088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiIgtVAbMAAWsI6.jpg",
+        "width": 1834
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883103557299417088"
+          ],
+          "media_source_tweet_id": [
+            "1883103562907144599"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1888600330159657299",
+        "created_at": "2025-02-09T14:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T15:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888600330159657299"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 15,
+              "tag": "souleater"
+            },
+            {
+              "end": 35,
+              "start": 27,
+              "tag": "ソウルイーター"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598434371383357441",
+              "start": 3,
+              "username": "nimame629"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oGMjt3MXSu",
+              "end": 59,
+              "expanded_url": "https://x.com/nimame629/status/1883103562907144599/photo/1",
+              "media_key": "3_1883103557299417088",
+              "start": 36,
+              "url": "https://t.co/oGMjt3MXSu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888600330159657299",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 407
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883103562907144599",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nimame629: #souleater  #ソウルイーター https://t.co/oGMjt3MXSu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883103557299417088"
+          ]
+        },
+        "author_id": "1598434371383357441",
+        "conversation_id": "1883103562907144599",
+        "created_at": "2025-01-25T10:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T11:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883103562907144599"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "souleater"
+            },
+            {
+              "end": 20,
+              "start": 12,
+              "tag": "ソウルイーター"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oGMjt3MXSu",
+              "end": 44,
+              "expanded_url": "https://x.com/nimame629/status/1883103562907144599/photo/1",
+              "media_key": "3_1883103557299417088",
+              "start": 21,
+              "url": "https://t.co/oGMjt3MXSu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883103562907144599",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 202,
+          "impression_count": 31996,
+          "like_count": 2460,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 407
+        },
+        "reply_settings": "everyone",
+        "text": "#souleater  #ソウルイーター https://t.co/oGMjt3MXSu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873724650511110144/1z-X8l1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 302,
+          "like_count": 1049,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 3229
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-01T21:50:35.000Z",
+        "description": "illustration✉️nima629b@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@nimame629",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@nimame629",
+                "start": 0,
+                "url": "https://t.co/0apJkq4CEL"
+              }
+            ]
+          }
+        },
+        "id": "1598434371383357441",
+        "name": "nima.",
+        "pinned_tweet_id": "1789071220820025430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756403151274758144/_ItEnuzy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5927,
+          "following_count": 75,
+          "like_count": 2177,
+          "listed_count": 50,
+          "media_count": 75,
+          "tweet_count": 235
+        },
+        "url": "https://t.co/0apJkq4CEL",
+        "username": "nimame629",
+        "verified": false
+      }
+    ]
+  }
+}

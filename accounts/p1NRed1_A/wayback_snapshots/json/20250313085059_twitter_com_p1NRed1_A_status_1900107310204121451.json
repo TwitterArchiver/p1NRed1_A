@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1900107310204121451",
+    "created_at": "2025-03-13T08:50:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T09:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900107310204121451"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cici20120712/s…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/cici20120712/status/1899826992209682550",
+          "start": 12,
+          "url": "https://t.co/RdDR6WvxP1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900107310204121451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899826992209682550",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "这他妈也太恶心了是人吗 https://t.co/RdDR6WvxP1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5836,
+        "height": 960,
+        "media_key": "7_1899826816900063232",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1899826816900063232/pu/img/LmBVHDVA4YbKGEpD.jpg",
+        "public_metrics": {
+          "view_count": 82621
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1899826816900063232/pu/vid/avc1/320x426/jZI3J2EZGh3dKTeU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1899826816900063232/pu/vid/avc1/480x640/f4OgcEQGrMA4JA6t.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1899826816900063232/pu/vid/avc1/720x960/3aqIb-yw88MJ8gNX.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1899826816900063232/pu/pl/J_Q37q4SnZ3pfH8H.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1900107310204121451",
+        "created_at": "2025-03-13T08:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T09:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900107310204121451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cici20120712/s…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/cici20120712/status/1899826992209682550",
+              "start": 12,
+              "url": "https://t.co/RdDR6WvxP1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900107310204121451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899826992209682550",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "这他妈也太恶心了是人吗 https://t.co/RdDR6WvxP1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1899826816900063232"
+          ]
+        },
+        "author_id": "1808604308163940352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1899826992209682550",
+        "created_at": "2025-03-12T14:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T15:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899826992209682550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Klm0wIiujA",
+              "end": 30,
+              "expanded_url": "https://x.com/cici20120712/status/1899826992209682550/video/1",
+              "media_key": "7_1899826816900063232",
+              "start": 7,
+              "url": "https://t.co/Klm0wIiujA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899826992209682550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 543,
+          "impression_count": 172457,
+          "like_count": 1923,
+          "quote_count": 1,
+          "reply_count": 92,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "磨一磨更健康 https://t.co/Klm0wIiujA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889564810410627072/YnTsykE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 322,
+          "like_count": 1080,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3315
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T20:50:59.000Z",
+        "description": "绝赞复活赛中\n门槛68喵",
+        "id": "1808604308163940352",
+        "name": "魔法少女凛瓷瓷",
+        "pinned_tweet_id": "1874320620915392925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831679763368353792/JCLSUlMG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53071,
+          "following_count": 69,
+          "like_count": 390,
+          "listed_count": 115,
+          "media_count": 396,
+          "tweet_count": 650
+        },
+        "username": "cici20120712",
+        "verified": false
+      }
+    ]
+  }
+}

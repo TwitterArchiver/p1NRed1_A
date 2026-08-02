@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1825859029027139665",
+    "created_at": "2024-08-20T11:34:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-20T12:34:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1825859029027139665"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nihiru0513/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/nihiru0513/status/1825573990875947498",
+          "start": 7,
+          "url": "https://t.co/WCgeN2MSXR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825859029027139665",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825573990875947498",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最喜欢……… https://t.co/WCgeN2MSXR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1825859029027139665",
+        "created_at": "2024-08-20T11:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T12:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825859029027139665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nihiru0513/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/nihiru0513/status/1825573990875947498",
+              "start": 7,
+              "url": "https://t.co/WCgeN2MSXR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825859029027139665",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825573990875947498",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最喜欢……… https://t.co/WCgeN2MSXR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1825573920625618944"
+          ]
+        },
+        "author_id": "1457734056184266752",
+        "conversation_id": "1825573990875947498",
+        "created_at": "2024-08-19T16:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T17:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825573990875947498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4gbzmqaj12",
+              "end": 27,
+              "expanded_url": "https://twitter.com/nihiru0513/status/1825573990875947498/photo/1",
+              "media_key": "3_1825573920625618944",
+              "start": 4,
+              "url": "https://t.co/4gbZMqaj12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825573990875947498",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 21728,
+          "like_count": 1012,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 176
+        },
+        "reply_settings": "everyone",
+        "text": "カイバ https://t.co/4gbZMqaj12"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 259,
+          "like_count": 737,
+          "listed_count": 0,
+          "tweet_count": 2454
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-08T15:38:11.000Z",
+        "description": "逃げよう",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nihiru0513?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/nihiru0513?igsh=NTc4MTIwNjQ2YQ==",
+                "start": 0,
+                "url": "https://t.co/VfXCQQbzQM"
+              }
+            ]
+          }
+        },
+        "id": "1457734056184266752",
+        "location": "海底譚",
+        "name": "中島ニヒル",
+        "pinned_tweet_id": "1668910281966354435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812854864176906240/BV1J6E9-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13921,
+          "following_count": 279,
+          "like_count": 777,
+          "listed_count": 133,
+          "tweet_count": 320
+        },
+        "url": "https://t.co/VfXCQQbzQM",
+        "username": "nihiru0513",
+        "verified": false
+      }
+    ]
+  }
+}

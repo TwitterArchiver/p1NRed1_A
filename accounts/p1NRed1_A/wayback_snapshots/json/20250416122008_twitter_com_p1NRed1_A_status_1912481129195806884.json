@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912075124045488128"
+      ],
+      "media_source_tweet_id": [
+        "1912075422663348289"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1912481129195806884",
+    "created_at": "2025-04-16T12:20:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T13:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912481129195806884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1526556803168931842",
+          "start": 3,
+          "username": "FIFTY0EIGHT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W4jdthyWC1",
+          "end": 63,
+          "expanded_url": "https://x.com/FIFTY0EIGHT/status/1912075422663348289/photo/1",
+          "media_key": "3_1912075124045488128",
+          "start": 40,
+          "url": "https://t.co/W4jdthyWC1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912481129195806884",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 214
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912075422663348289",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FIFTY0EIGHT: 친구들이랑 핀버튼 노나 가지려고 ㅇ//ㅇ https://t.co/W4jdthyWC1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1531,
+        "media_key": "3_1912075124045488128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GokOMdiXoAAz0cV.jpg",
+        "width": 1462
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912075124045488128"
+          ],
+          "media_source_tweet_id": [
+            "1912075422663348289"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1912481129195806884",
+        "created_at": "2025-04-16T12:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T13:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912481129195806884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1526556803168931842",
+              "start": 3,
+              "username": "FIFTY0EIGHT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W4jdthyWC1",
+              "end": 63,
+              "expanded_url": "https://x.com/FIFTY0EIGHT/status/1912075422663348289/photo/1",
+              "media_key": "3_1912075124045488128",
+              "start": 40,
+              "url": "https://t.co/W4jdthyWC1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912481129195806884",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 214
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912075422663348289",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FIFTY0EIGHT: 친구들이랑 핀버튼 노나 가지려고 ㅇ//ㅇ https://t.co/W4jdthyWC1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912075124045488128"
+          ]
+        },
+        "author_id": "1526556803168931842",
+        "conversation_id": "1912075422663348289",
+        "created_at": "2025-04-15T09:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T10:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912075422663348289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W4jdthyWC1",
+              "end": 46,
+              "expanded_url": "https://x.com/FIFTY0EIGHT/status/1912075422663348289/photo/1",
+              "media_key": "3_1912075124045488128",
+              "start": 23,
+              "url": "https://t.co/W4jdthyWC1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912075422663348289",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 282,
+          "impression_count": 56549,
+          "like_count": 1487,
+          "quote_count": 63,
+          "reply_count": 0,
+          "retweet_count": 214
+        },
+        "reply_settings": "everyone",
+        "text": "친구들이랑 핀버튼 노나 가지려고 ㅇ//ㅇ https://t.co/W4jdthyWC1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910291251003547648/-uuCvZrl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 365,
+          "like_count": 1153,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 3552
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-17T13:34:46.000Z",
+        "description": "mail ★ fifty0eight@gmail.com ദ്ദി,,-`_´-)੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "litt.ly/fifty0eight",
+                "end": 23,
+                "expanded_url": "https://litt.ly/fifty0eight",
+                "start": 0,
+                "url": "https://t.co/X3dp0al0ZZ"
+              }
+            ]
+          }
+        },
+        "id": "1526556803168931842",
+        "location": "마트파우치 '본부대로' 오프라인 매장에서 상시판매중!",
+        "name": "실종★",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727488180398747648/Tv8EPpv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16906,
+          "following_count": 105,
+          "like_count": 1592,
+          "listed_count": 66,
+          "media_count": 249,
+          "tweet_count": 2377
+        },
+        "url": "https://t.co/X3dp0al0ZZ",
+        "username": "FIFTY0EIGHT",
+        "verified": true
+      }
+    ]
+  }
+}

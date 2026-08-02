@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1937816380017152321",
+    "created_at": "2025-06-25T10:13:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T11:13:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937816380017152321"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "後藤まりこ",
+          "probability": 0.9131,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1544303825724420096",
+          "start": 3,
+          "username": "510marik0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937816380017152321",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937810840641794493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @510marik0: 後藤まりこ友の会、配信しました！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1937816380017152321",
+        "created_at": "2025-06-25T10:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T11:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937816380017152321"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "後藤まりこ",
+              "probability": 0.9131,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1544303825724420096",
+              "start": 3,
+              "username": "510marik0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937816380017152321",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937810840641794493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @510marik0: 後藤まりこ友の会、配信しました！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544303825724420096",
+        "conversation_id": "1937810840641794493",
+        "created_at": "2025-06-25T09:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T10:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937810840641794493"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "後藤まりこ",
+              "probability": 0.9287,
+              "start": 0,
+              "type": "Person"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937810840641794493",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 672,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "後藤まりこ友の会、配信しました！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 413,
+          "like_count": 1231,
+          "listed_count": 1,
+          "media_count": 229,
+          "tweet_count": 4121
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-05T12:55:10.000Z",
+        "description": "猫と暮らす元気なおばはん♨️DJ後藤まりこ、後藤まりこアコースティックviolence POP、ライブなど全ての予定はgoogleカレンダー▶︎https://t.co/KmICvRzRu9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/b0R7M",
+                "end": 95,
+                "expanded_url": "https://x.gd/b0R7M",
+                "start": 72,
+                "url": "https://t.co/KmICvRzRu9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCmI-o…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCmI-oklucCz5RkaBcABsRrQ/featured",
+                "start": 0,
+                "url": "https://t.co/gM3tAKbOlk"
+              }
+            ]
+          }
+        },
+        "id": "1544303825724420096",
+        "location": "510yavai@gmail.com",
+        "name": "後藤まりこ",
+        "pinned_tweet_id": "1900743767612944896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717621236896026624/_qti1yio_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15358,
+          "following_count": 282,
+          "like_count": 8799,
+          "listed_count": 52,
+          "media_count": 996,
+          "tweet_count": 3947
+        },
+        "url": "https://t.co/gM3tAKbOlk",
+        "username": "510marik0",
+        "verified": false
+      }
+    ]
+  }
+}

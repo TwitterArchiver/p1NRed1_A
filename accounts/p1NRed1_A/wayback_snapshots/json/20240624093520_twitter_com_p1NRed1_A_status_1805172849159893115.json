@@ -1,0 +1,299 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1804808218717372416"
+      ],
+      "media_source_tweet_id": [
+        "1804808221074624903"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Osaka",
+          "id": "859408738544791552",
+          "name": "Osaka"
+        }
+      }
+    ],
+    "conversation_id": "1805172849159893115",
+    "created_at": "2024-06-24T09:35:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-24T10:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805172849159893115"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 21,
+          "tag": "あずまんが大王"
+        },
+        {
+          "end": 44,
+          "start": 30,
+          "tag": "azumangadaioh"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1606261462695309313",
+          "start": 3,
+          "username": "helloaite"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/HdQxgfMlh9",
+          "end": 68,
+          "expanded_url": "https://twitter.com/helloaite/status/1804808221074624903/photo/1",
+          "media_key": "3_1804808218717372416",
+          "start": 45,
+          "url": "https://t.co/HdQxgfMlh9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805172849159893115",
+    "lang": "eu",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 344
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804808221074624903",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @helloaite: osaka\n#あずまんが大王 #azumangadaioh https://t.co/HdQxgfMlh9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1998,
+        "media_key": "3_1804808218717372416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQv3gzxawAAOYGo.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804808218717372416"
+          ],
+          "media_source_tweet_id": [
+            "1804808221074624903"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "1805172849159893115",
+        "created_at": "2024-06-24T09:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T10:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805172849159893115"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 21,
+              "tag": "あずまんが大王"
+            },
+            {
+              "end": 44,
+              "start": 30,
+              "tag": "azumangadaioh"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1606261462695309313",
+              "start": 3,
+              "username": "helloaite"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/HdQxgfMlh9",
+              "end": 68,
+              "expanded_url": "https://twitter.com/helloaite/status/1804808221074624903/photo/1",
+              "media_key": "3_1804808218717372416",
+              "start": 45,
+              "url": "https://t.co/HdQxgfMlh9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805172849159893115",
+        "lang": "eu",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 344
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804808221074624903",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @helloaite: osaka\n#あずまんが大王 #azumangadaioh https://t.co/HdQxgfMlh9"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804808218717372416"
+          ]
+        },
+        "author_id": "1606261462695309313",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "1804808221074624903",
+        "created_at": "2024-06-23T09:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T10:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804808221074624903"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 6,
+              "tag": "あずまんが大王"
+            },
+            {
+              "end": 29,
+              "start": 15,
+              "tag": "azumangadaioh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/HdQxgfMlh9",
+              "end": 53,
+              "expanded_url": "https://twitter.com/helloaite/status/1804808221074624903/photo/1",
+              "media_key": "3_1804808218717372416",
+              "start": 30,
+              "url": "https://t.co/HdQxgfMlh9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804808221074624903",
+        "lang": "eu",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 277,
+          "impression_count": 31093,
+          "like_count": 2704,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 344
+        },
+        "reply_settings": "everyone",
+        "text": "osaka\n#あずまんが大王 #azumangadaioh https://t.co/HdQxgfMlh9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802900561299472385/3G9b9zhq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 198,
+          "like_count": 418,
+          "listed_count": 0,
+          "tweet_count": 1719
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-23T12:13:23.000Z",
+        "description": "ハロー",
+        "id": "1606261462695309313",
+        "name": "アイテ",
+        "pinned_tweet_id": "1625422434219474944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743498877750423552/9qgtnx0B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 60,
+          "like_count": 2235,
+          "listed_count": 6,
+          "tweet_count": 106
+        },
+        "username": "helloaite",
+        "verified": false
+      }
+    ]
+  }
+}

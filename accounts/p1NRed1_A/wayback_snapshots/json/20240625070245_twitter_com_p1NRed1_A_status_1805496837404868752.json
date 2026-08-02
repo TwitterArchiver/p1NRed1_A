@@ -1,0 +1,246 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1805276674046771200"
+      ],
+      "media_source_tweet_id": [
+        "1805276679600054521"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1805496837404868752",
+    "created_at": "2024-06-25T07:02:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T08:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805496837404868752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1536741332638609409",
+          "start": 3,
+          "username": "7nizS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/kVT881cbFF",
+          "end": 34,
+          "expanded_url": "https://twitter.com/7nizS/status/1805276679600054521/photo/1",
+          "media_key": "3_1805276674046771200",
+          "start": 11,
+          "url": "https://t.co/kVT881cbFF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805496837404868752",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805276679600054521",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7nizS: https://t.co/kVT881cbFF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1805276674046771200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQ2hkf3bQAAjNag.jpg",
+        "width": 1960
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1805276674046771200"
+          ],
+          "media_source_tweet_id": [
+            "1805276679600054521"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1805496837404868752",
+        "created_at": "2024-06-25T07:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T08:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805496837404868752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1536741332638609409",
+              "start": 3,
+              "username": "7nizS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/kVT881cbFF",
+              "end": 34,
+              "expanded_url": "https://twitter.com/7nizS/status/1805276679600054521/photo/1",
+              "media_key": "3_1805276674046771200",
+              "start": 11,
+              "url": "https://t.co/kVT881cbFF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805496837404868752",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805276679600054521",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7nizS: https://t.co/kVT881cbFF"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1805276674046771200"
+          ]
+        },
+        "author_id": "1536741332638609409",
+        "conversation_id": "1805276679600054521",
+        "created_at": "2024-06-24T16:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T17:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805276679600054521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/kVT881cbFF",
+              "end": 23,
+              "expanded_url": "https://twitter.com/7nizS/status/1805276679600054521/photo/1",
+              "media_key": "3_1805276674046771200",
+              "start": 0,
+              "url": "https://t.co/kVT881cbFF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805276679600054521",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 5816,
+          "like_count": 373,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kVT881cbFF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802900561299472385/3G9b9zhq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 202,
+          "like_count": 436,
+          "listed_count": 0,
+          "tweet_count": 1749
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-14T16:04:29.000Z",
+        "description": "(•᎑•)っ🍵 https://t.co/wZlrQQEOl2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "potofu.me/7nizss",
+                "end": 31,
+                "expanded_url": "https://potofu.me/7nizss",
+                "start": 8,
+                "url": "https://t.co/wZlrQQEOl2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/setting",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/setting",
+                "start": 0,
+                "url": "https://t.co/PS1f62HU2y"
+              }
+            ]
+          }
+        },
+        "id": "1536741332638609409",
+        "name": "矢島",
+        "pinned_tweet_id": "1666819734120300548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611344610722484225/H-oDmV3S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1866,
+          "following_count": 373,
+          "like_count": 10449,
+          "listed_count": 21,
+          "tweet_count": 636
+        },
+        "url": "https://t.co/PS1f62HU2y",
+        "username": "7nizS",
+        "verified": false
+      }
+    ]
+  }
+}

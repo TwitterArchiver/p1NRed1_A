@@ -1,0 +1,470 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939159605059244032"
+      ],
+      "media_source_tweet_id": [
+        "1939159612504318218"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Osaka",
+          "id": "859408738544791552",
+          "name": "Osaka"
+        }
+      }
+    ],
+    "conversation_id": "1939231481655857451",
+    "created_at": "2025-06-29T07:56:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T08:56:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939231481655857451"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "大阪",
+          "probability": 0.3712,
+          "start": 34,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "265847428",
+          "start": 3,
+          "username": "_morichan_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P7oCOhTIBI",
+          "end": 63,
+          "expanded_url": "https://x.com/_morichan_/status/1939159612504318218/photo/1",
+          "media_key": "3_1939159605059244032",
+          "start": 40,
+          "url": "https://t.co/P7oCOhTIBI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939231481655857451",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939159612504318218",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_morichan_: サンクリ会場で絵を描くのあったので夏大阪さん。 https://t.co/P7oCOhTIBI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1939159605059244032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GulHYv5X0AAv8yp.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939159605059244032"
+          ],
+          "media_source_tweet_id": [
+            "1939159612504318218"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "1939231481655857451",
+        "created_at": "2025-06-29T07:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T08:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939231481655857451"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "大阪",
+              "probability": 0.3712,
+              "start": 34,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "265847428",
+              "start": 3,
+              "username": "_morichan_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P7oCOhTIBI",
+              "end": 63,
+              "expanded_url": "https://x.com/_morichan_/status/1939159612504318218/photo/1",
+              "media_key": "3_1939159605059244032",
+              "start": 40,
+              "url": "https://t.co/P7oCOhTIBI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939231481655857451",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939159612504318218",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_morichan_: サンクリ会場で絵を描くのあったので夏大阪さん。 https://t.co/P7oCOhTIBI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939159605059244032"
+          ]
+        },
+        "author_id": "265847428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "1939159612504318218",
+        "created_at": "2025-06-29T03:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T04:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939159612504318218"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "大阪",
+              "probability": 0.3706,
+              "start": 18,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P7oCOhTIBI",
+              "end": 47,
+              "expanded_url": "https://x.com/_morichan_/status/1939159612504318218/photo/1",
+              "media_key": "3_1939159605059244032",
+              "start": 24,
+              "url": "https://t.co/P7oCOhTIBI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939159612504318218",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1090,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "サンクリ会場で絵を描くのあったので夏大阪さん。 https://t.co/P7oCOhTIBI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 416,
+          "like_count": 1241,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 4215
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-14T07:05:46.000Z",
+        "description": "あずまんが大王の大阪さんを糧に同人誌作ったりして生きています！わしゃあずまんが大王で育ったんじゃ！わしゃここを離れんぞ！NO OSAKA NO LIFE !!\n🐯🍈委託中\nhttps://t.co/YgxBSJM1qi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "melonbooks.co.jp/circle/index.p…",
+                "end": 109,
+                "expanded_url": "https://www.melonbooks.co.jp/circle/index.php?circle_id=25075",
+                "start": 86,
+                "url": "https://t.co/YgxBSJM1qi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/member.php?id=291203",
+                "start": 0,
+                "url": "https://t.co/bCiH8d9EhV"
+              }
+            ]
+          }
+        },
+        "id": "265847428",
+        "name": "morichan＠夏コミ1日目東C-38ab",
+        "pinned_tweet_id": "1870828440506785855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870719530789752832/DOSlPSPw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3916,
+          "following_count": 284,
+          "like_count": 23907,
+          "listed_count": 48,
+          "media_count": 1620,
+          "tweet_count": 34216
+        },
+        "url": "https://t.co/bCiH8d9EhV",
+        "username": "_morichan_",
+        "verified": false
+      }
+    ]
+  }
+}

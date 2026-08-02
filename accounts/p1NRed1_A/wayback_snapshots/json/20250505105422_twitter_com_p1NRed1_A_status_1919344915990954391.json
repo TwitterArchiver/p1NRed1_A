@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1919339075674292321",
+    "created_at": "2025-05-05T10:54:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T11:54:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919344915990954391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1835230349225492480",
+          "start": 0,
+          "username": "waitformetilim_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919344915990954391",
+    "in_reply_to_user_id": "1835230349225492480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919344713884155936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@waitformetilim_ 嗯我会的!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1919339075674292321",
+        "created_at": "2025-05-05T10:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T11:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919344915990954391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1835230349225492480",
+              "start": 0,
+              "username": "waitformetilim_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919344915990954391",
+        "in_reply_to_user_id": "1835230349225492480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919344713884155936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@waitformetilim_ 嗯我会的!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835230349225492480",
+        "conversation_id": "1919339075674292321",
+        "created_at": "2025-05-05T10:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T11:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919344713884155936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919344713884155936",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919339075674292321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 不是少講點話啦   談戀愛之後是有責任在身的喔   要比平時更加注意w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 396,
+          "like_count": 1196,
+          "listed_count": 1,
+          "media_count": 208,
+          "tweet_count": 3790
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T08:13:21.000Z",
+        "description": "我不特別，我和妳認識的男的都一樣。我給妳一種又自卑又自大的諂媚感。很庸俗的感覺，沒讀過幾本書卻很痛苦，且我的語言不足以支撐我的表達。我的內心深處一直都只有我自己一個人，因為我確實沒有什麼特別之處，卻以為自己懷才不遇，知音難尋⋯中間忘了。最後懶得打破^ ^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/waitformetilim…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/waitformetilimgone",
+                "start": 0,
+                "url": "https://t.co/dzHqpxIaMM"
+              }
+            ]
+          }
+        },
+        "id": "1835230349225492480",
+        "location": "Espredo市",
+        "name": "waitformetilimgone",
+        "pinned_tweet_id": "1900916442792685651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835600773469843456/I6bWTJA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 124,
+          "like_count": 4573,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 821
+        },
+        "url": "https://t.co/dzHqpxIaMM",
+        "username": "waitformetilim_",
+        "verified": false
+      }
+    ]
+  }
+}

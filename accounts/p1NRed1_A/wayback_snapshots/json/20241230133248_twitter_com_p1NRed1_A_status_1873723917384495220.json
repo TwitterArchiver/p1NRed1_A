@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1873537252544143455",
+    "created_at": "2024-12-30T13:32:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-30T14:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873723917384495220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1677369315388174336",
+          "start": 0,
+          "username": "FoxRay3567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873723917384495220",
+    "in_reply_to_user_id": "1677369315388174336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873537252544143455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FoxRay3567 你好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1873537252544143455",
+        "created_at": "2024-12-30T13:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T14:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873723917384495220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1677369315388174336",
+              "start": 0,
+              "username": "FoxRay3567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873723917384495220",
+        "in_reply_to_user_id": "1677369315388174336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873537252544143455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRay3567 你好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677369315388174336",
+        "conversation_id": "1873537252544143455",
+        "created_at": "2024-12-30T01:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T02:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873537252544143455"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1873537252544143455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 603,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "哎说起来，还好我的粉丝数少。\n好！给大家助力2025年第一顿饭\n一个100，两个五十，三个三十\n也就请你们吃个饭而已，这条推点赞都不一定到6个人。没事的🙂我会在一月一号给你们开奖。请多参与（评论）如果你从时间线上刷到我，请关注我再评论，不然中奖了不能私信也很麻烦的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869350138424266753/LAsvqNJx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 297,
+          "like_count": 1040,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 3202
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T17:29:58.000Z",
+        "description": "我就是我自己。在这里我没有什么特长，但是我依然很希望跟很多人交朋友，如果你同意的话。希望你能从这里发现我的各种碎片，最后拼成一个完整的我。（我是04老头）",
+        "id": "1677369315388174336",
+        "location": "你的心里",
+        "name": "FoxRay🍋",
+        "pinned_tweet_id": "1873235398857769148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873520759416692736/fKmYNMCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 97,
+          "like_count": 1148,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 531
+        },
+        "username": "FoxRay3567",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1800296840606421462",
+    "created_at": "2024-06-10T23:08:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-11T00:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800304125022027842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1588329160967335936",
+          "start": 0,
+          "username": "juusannofuyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800304125022027842",
+    "in_reply_to_user_id": "1588329160967335936",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800296840606421462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@juusannofuyu 可爱我也这么穿的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1800296840606421462",
+        "created_at": "2024-06-10T23:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T00:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800304125022027842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1588329160967335936",
+              "start": 0,
+              "username": "juusannofuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800304125022027842",
+        "in_reply_to_user_id": "1588329160967335936",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800296840606421462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@juusannofuyu 可爱我也这么穿的"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800296834818093056"
+          ]
+        },
+        "author_id": "1588329160967335936",
+        "conversation_id": "1800296840606421462",
+        "created_at": "2024-06-10T22:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T23:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800296840606421462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/YtEYqyZFv5",
+              "end": 66,
+              "expanded_url": "https://twitter.com/juusannofuyu/status/1800296840606421462/photo/1",
+              "media_key": "3_1800296834818093056",
+              "start": 43,
+              "url": "https://t.co/YtEYqyZFv5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800296840606421462",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "boring ass men fashion i wish i was a girl https://t.co/YtEYqyZFv5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800005249027203073/CQR3vaAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 168,
+          "like_count": 328,
+          "listed_count": 0,
+          "tweet_count": 1195
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-04T00:36:24.000Z",
+        "description": "slowly, like snow led by gravity. fading away in the warm glow",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "anilist.co/user/ccsakuraf…",
+                "end": 23,
+                "expanded_url": "https://anilist.co/user/ccsakurafan123/",
+                "start": 0,
+                "url": "https://t.co/vbKsKf8Fta"
+              }
+            ]
+          }
+        },
+        "id": "1588329160967335936",
+        "location": "helvetica standard",
+        "name": "pon",
+        "pinned_tweet_id": "1797756539534803177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795138477467762689/BGREBZ3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 355,
+          "like_count": 30700,
+          "listed_count": 2,
+          "tweet_count": 4182
+        },
+        "url": "https://t.co/vbKsKf8Fta",
+        "username": "juusannofuyu",
+        "verified": false
+      }
+    ]
+  }
+}

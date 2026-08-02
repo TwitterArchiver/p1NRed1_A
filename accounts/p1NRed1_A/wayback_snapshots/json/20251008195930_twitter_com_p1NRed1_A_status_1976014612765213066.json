@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1975866796671700993"
+      ],
+      "media_source_tweet_id": [
+        "1975866810366140436"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1976014612765213066",
+    "created_at": "2025-10-08T19:59:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T20:59:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976014612765213066"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "符香ちゃん",
+          "probability": 0.4533,
+          "start": 28,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1837992231107706880",
+          "start": 3,
+          "username": "vWh4YsJ4u428276"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F6wRrvAtzl",
+          "end": 57,
+          "expanded_url": "https://x.com/vWh4YsJ4u428276/status/1975866810366140436/video/1",
+          "media_key": "7_1975866796671700993",
+          "start": 34,
+          "url": "https://t.co/F6wRrvAtzl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976014612765213066",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975866810366140436",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vWh4YsJ4u428276: Happy 可符香ちゃん https://t.co/F6wRrvAtzl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9875,
+        "height": 500,
+        "media_key": "7_1975866796671700993",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1975866796671700993/pu/img/3A6WMwEIziJN4ATk.jpg",
+        "public_metrics": {
+          "view_count": 189
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1975866796671700993/pu/vid/avc1/320x320/3-2AwSCY6F37nAQj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1975866796671700993/pu/vid/avc1/500x500/PsHaMBTAOZy9Pyc4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1975866796671700993/pu/pl/E-ePoOJdT_-77Jku.m3u8?tag=12"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1975866796671700993"
+          ],
+          "media_source_tweet_id": [
+            "1975866810366140436"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1976014612765213066",
+        "created_at": "2025-10-08T19:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T20:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976014612765213066"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "符香ちゃん",
+              "probability": 0.4533,
+              "start": 28,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1837992231107706880",
+              "start": 3,
+              "username": "vWh4YsJ4u428276"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F6wRrvAtzl",
+              "end": 57,
+              "expanded_url": "https://x.com/vWh4YsJ4u428276/status/1975866810366140436/video/1",
+              "media_key": "7_1975866796671700993",
+              "start": 34,
+              "url": "https://t.co/F6wRrvAtzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976014612765213066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975866810366140436",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vWh4YsJ4u428276: Happy 可符香ちゃん https://t.co/F6wRrvAtzl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1975866796671700993"
+          ]
+        },
+        "author_id": "1837992231107706880",
+        "conversation_id": "1975866810366140436",
+        "created_at": "2025-10-08T10:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T11:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975866810366140436"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "符香ちゃん",
+              "probability": 0.4709,
+              "start": 7,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F6wRrvAtzl",
+              "end": 36,
+              "expanded_url": "https://x.com/vWh4YsJ4u428276/status/1975866810366140436/video/1",
+              "media_key": "7_1975866796671700993",
+              "start": 13,
+              "url": "https://t.co/F6wRrvAtzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975866810366140436",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 732,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "Happy 可符香ちゃん https://t.co/F6wRrvAtzl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 473,
+          "like_count": 1480,
+          "listed_count": 2,
+          "media_count": 285,
+          "tweet_count": 4977
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-22T23:08:09.000Z",
+        "description": "加賀愛、名取羽美、都加逸子が好きです！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yarou.straw.page",
+                "end": 23,
+                "expanded_url": "https://yarou.straw.page",
+                "start": 0,
+                "url": "https://t.co/FjCTr59MCT"
+              }
+            ]
+          }
+        },
+        "id": "1837992231107706880",
+        "location": "加賀愛の家",
+        "name": "野郎",
+        "pinned_tweet_id": "1973326341861941532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943590680095543296/NO7GnCRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 30,
+          "like_count": 21803,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 768
+        },
+        "url": "https://t.co/FjCTr59MCT",
+        "username": "vWh4YsJ4u428276",
+        "verified": false
+      }
+    ]
+  }
+}

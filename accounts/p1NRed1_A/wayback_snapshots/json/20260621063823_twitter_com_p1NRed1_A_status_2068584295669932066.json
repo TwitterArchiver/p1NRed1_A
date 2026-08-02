@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068361924346261504"
+      ],
+      "media_source_tweet_id": [
+        "2068361982252839106"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "2068584295669932066",
+    "created_at": "2026-06-21T06:38:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T07:38:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068584295669932066"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 20,
+          "tag": "さよなら絶望先生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1748907878998769664",
+          "start": 3,
+          "username": "lotu1929125"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u9n9PF9hH1",
+          "end": 53,
+          "expanded_url": "https://x.com/lotu1929125/status/2068361982252839106/photo/1",
+          "media_key": "3_2068361924346261504",
+          "start": 30,
+          "url": "https://t.co/u9n9PF9hH1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068584295669932066",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068361982252839106",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @lotu1929125: 天使 #さよなら絶望先生 https://t.co/u9n9PF9hH1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2068361924346261504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRMNieaMAAE8h1.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068361924346261504"
+          ],
+          "media_source_tweet_id": [
+            "2068361982252839106"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "2068584295669932066",
+        "created_at": "2026-06-21T06:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068584295669932066"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 20,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748907878998769664",
+              "start": 3,
+              "username": "lotu1929125"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u9n9PF9hH1",
+              "end": 53,
+              "expanded_url": "https://x.com/lotu1929125/status/2068361982252839106/photo/1",
+              "media_key": "3_2068361924346261504",
+              "start": 30,
+              "url": "https://t.co/u9n9PF9hH1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068584295669932066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068361982252839106",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @lotu1929125: 天使 #さよなら絶望先生 https://t.co/u9n9PF9hH1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068361924346261504"
+          ]
+        },
+        "author_id": "1748907878998769664",
+        "conversation_id": "2068361982252839106",
+        "created_at": "2026-06-20T15:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068361982252839106"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 3,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u9n9PF9hH1",
+              "end": 36,
+              "expanded_url": "https://x.com/lotu1929125/status/2068361982252839106/photo/1",
+              "media_key": "3_2068361924346261504",
+              "start": 13,
+              "url": "https://t.co/u9n9PF9hH1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068361982252839106",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 851,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 12
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "天使 #さよなら絶望先生 https://t.co/u9n9PF9hH1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 561,
+          "like_count": 1662,
+          "listed_count": 3,
+          "media_count": 370,
+          "tweet_count": 6333
+        },
+        "url": "",
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-21T03:18:34.000Z",
+        "description": "BL杂多喝酒同人创作 Nitro+chiral/ さよなら絶望先生\n我画涂鸦同人和偶尔一meme 手书 \n习惯性礼貌屏蔽 ❌AI \n我关注画画的人 PEACE&LOVE",
+        "id": "1748907878998769664",
+        "location": "🔄❌来自昭和的绝对酒鬼",
+        "name": "老頭",
+        "pinned_tweet_id": "2032484162289160525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028707096955650049/vgwEyJ3i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 1711,
+          "like_count": 7428,
+          "listed_count": 0,
+          "media_count": 898,
+          "tweet_count": 5462
+        },
+        "url": "",
+        "username": "lotu1929125",
+        "verified": false
+      }
+    ]
+  }
+}

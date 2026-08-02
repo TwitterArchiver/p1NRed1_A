@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928062486517010433"
+      ],
+      "media_source_tweet_id": [
+        "1928062638547947712"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1928488501370396924",
+    "created_at": "2025-05-30T16:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T17:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928488501370396924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "765745976929755137",
+          "start": 3,
+          "username": "riiverr_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pYhBdJ0GO8",
+          "end": 45,
+          "expanded_url": "https://x.com/riiverr_/status/1928062638547947712/photo/1",
+          "media_key": "3_1928062486517010433",
+          "start": 22,
+          "url": "https://t.co/pYhBdJ0GO8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928488501370396924",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 216
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928062638547947712",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @riiverr_: 🍅🌀🍓🔪🎀📱💭 https://t.co/pYhBdJ0GO8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_1928062486517010433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsHanb2aUAEHHUb.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928062486517010433"
+          ],
+          "media_source_tweet_id": [
+            "1928062638547947712"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1928488501370396924",
+        "created_at": "2025-05-30T16:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T17:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928488501370396924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "765745976929755137",
+              "start": 3,
+              "username": "riiverr_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pYhBdJ0GO8",
+              "end": 45,
+              "expanded_url": "https://x.com/riiverr_/status/1928062638547947712/photo/1",
+              "media_key": "3_1928062486517010433",
+              "start": 22,
+              "url": "https://t.co/pYhBdJ0GO8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928488501370396924",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 216
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928062638547947712",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @riiverr_: 🍅🌀🍓🔪🎀📱💭 https://t.co/pYhBdJ0GO8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928062486517010433"
+          ]
+        },
+        "author_id": "765745976929755137",
+        "conversation_id": "1928062638547947712",
+        "created_at": "2025-05-29T12:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T13:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928062638547947712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pYhBdJ0GO8",
+              "end": 31,
+              "expanded_url": "https://x.com/riiverr_/status/1928062638547947712/photo/1",
+              "media_key": "3_1928062486517010433",
+              "start": 8,
+              "url": "https://t.co/pYhBdJ0GO8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928062638547947712",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 354,
+          "impression_count": 42224,
+          "like_count": 2828,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 216
+        },
+        "reply_settings": "everyone",
+        "text": "🍅🌀🍓🔪🎀📱💭 https://t.co/pYhBdJ0GO8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 407,
+          "like_count": 1215,
+          "listed_count": 1,
+          "media_count": 222,
+          "tweet_count": 3979
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-17T03:04:02.000Z",
+        "description": "🍎Illustrator / 2000酸甜廢人 / 練習用🐙 ins：riiverr_  weibo: riiverr\n📧仕事連絡：wdygsh@163.com",
+        "id": "765745976929755137",
+        "name": "𝙧𝙞𝙞𝙫𝙚𝙧𝙧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1633432957506707456/YqMXR29K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8956,
+          "following_count": 486,
+          "like_count": 511,
+          "listed_count": 80,
+          "media_count": 229,
+          "tweet_count": 306
+        },
+        "username": "riiverr_",
+        "verified": false
+      }
+    ]
+  }
+}

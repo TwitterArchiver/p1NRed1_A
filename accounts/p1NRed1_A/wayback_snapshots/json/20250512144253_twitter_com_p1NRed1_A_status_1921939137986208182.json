@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1921939118596186113"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1921939137986208182",
+    "created_at": "2025-05-12T14:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T15:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1921939137986208182"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/R1M6DEF8A1",
+          "end": 32,
+          "expanded_url": "https://x.com/p1NRed1_A/status/1921939137986208182/photo/1",
+          "media_key": "3_1921939118596186113",
+          "start": 9,
+          "url": "https://t.co/R1M6DEF8A1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921939137986208182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明天考试我不行了 https://t.co/R1M6DEF8A1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1814,
+        "media_key": "3_1921939118596186113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqwZcgvaYAEBl1P.jpg",
+        "width": 1145
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921939118596186113"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1921939137986208182",
+        "created_at": "2025-05-12T14:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T15:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921939137986208182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R1M6DEF8A1",
+              "end": 32,
+              "expanded_url": "https://x.com/p1NRed1_A/status/1921939137986208182/photo/1",
+              "media_key": "3_1921939118596186113",
+              "start": 9,
+              "url": "https://t.co/R1M6DEF8A1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921939137986208182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天考试我不行了 https://t.co/R1M6DEF8A1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 403,
+          "like_count": 1206,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 3872
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

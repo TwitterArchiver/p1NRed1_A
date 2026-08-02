@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1907049345360466227",
+    "created_at": "2025-04-01T14:02:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T15:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907071121549402447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1841050394375380998",
+          "start": 0,
+          "username": "wmyzzzzt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907071121549402447",
+    "in_reply_to_user_id": "1841050394375380998",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907062097953116483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmyzzzzt 🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1907049345360466227",
+        "created_at": "2025-04-01T14:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T15:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907071121549402447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1841050394375380998",
+              "start": 0,
+              "username": "wmyzzzzt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907071121549402447",
+        "in_reply_to_user_id": "1841050394375380998",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907062097953116483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmyzzzzt 🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841050394375380998",
+        "conversation_id": "1907049345360466227",
+        "created_at": "2025-04-01T13:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T14:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907062097953116483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907062097953116483",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907049345360466227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 陪一根🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889564810410627072/YnTsykE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 338,
+          "like_count": 1116,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 3391
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T09:40:03.000Z",
+        "description": "我知道，在未來等待著我的，一定是痛苦",
+        "id": "1841050394375380998",
+        "location": "自慰、血液、露出脂肪層的傷口塞滿迷幻的藥",
+        "name": "禁煙",
+        "pinned_tweet_id": "1905538198345822622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904071940677230592/T_YDnt1s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 151,
+          "like_count": 25255,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 3364
+        },
+        "username": "wmyzzzzt",
+        "verified": false
+      }
+    ]
+  }
+}

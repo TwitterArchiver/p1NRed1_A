@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2006222789431504924",
+    "created_at": "2025-12-31T05:24:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T06:24:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006234874890580444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1641809327815290880",
+          "start": 0,
+          "username": "kotonami999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006234874890580444",
+    "in_reply_to_user_id": "1641809327815290880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006232068293026077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kotonami999 额那为何不回私信呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2006222789431504924",
+        "created_at": "2025-12-31T05:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T06:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006234874890580444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1641809327815290880",
+              "start": 0,
+              "username": "kotonami999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006234874890580444",
+        "in_reply_to_user_id": "1641809327815290880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006232068293026077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kotonami999 额那为何不回私信呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641809327815290880",
+        "conversation_id": "2006222789431504924",
+        "created_at": "2025-12-31T05:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T06:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006232068293026077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006232068293026077",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006222789431504924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 你想过河南人吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "我擅长产出大粪",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 499,
+          "like_count": 1600,
+          "listed_count": 2,
+          "media_count": 324,
+          "tweet_count": 5495
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T14:27:22.000Z",
+        "description": "嗯",
+        "id": "1641809327815290880",
+        "location": "666999",
+        "name": "呃呃",
+        "pinned_tweet_id": "1652263287458000896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970394553267167233/_Q3SRvH5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 296,
+          "like_count": 859,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 553
+        },
+        "username": "kotonami999",
+        "verified": false
+      }
+    ]
+  }
+}

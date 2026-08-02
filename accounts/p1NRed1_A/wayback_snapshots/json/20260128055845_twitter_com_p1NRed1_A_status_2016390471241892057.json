@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1839396987755786240"
+      ],
+      "media_source_tweet_id": [
+        "2016263271670493459"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2016390471241892057",
+    "created_at": "2026-01-28T05:58:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T06:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016390471241892057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1594329207768846337",
+          "start": 3,
+          "username": "stonersvilla"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VB2r77946G",
+          "end": 41,
+          "expanded_url": "https://x.com/stonersvilla/status/2016263271670493459/video/1",
+          "media_key": "13_1839396987755786240",
+          "start": 18,
+          "url": "https://t.co/VB2r77946G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016390471241892057",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 212
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016263271670493459",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stonersvilla: https://t.co/VB2r77946G"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22500,
+        "height": 608,
+        "media_key": "13_1839396987755786240",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1839396987755786240/img/fI-SELZEjgeNWuXH.jpg",
+        "public_metrics": {
+          "view_count": 107830
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1839396987755786240/vid/avc1/320x404/5bL35lGiBu9XN3oS.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1839396987755786240/vid/avc1/480x608/QwIoaMreiTD8bDfo.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1839396987755786240/pl/oFn8Do3I-tgQTGI8.m3u8?tag=16&v=cfc"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1839396987755786240"
+          ],
+          "media_source_tweet_id": [
+            "2016263271670493459"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2016390471241892057",
+        "created_at": "2026-01-28T05:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T06:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016390471241892057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1594329207768846337",
+              "start": 3,
+              "username": "stonersvilla"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VB2r77946G",
+              "end": 41,
+              "expanded_url": "https://x.com/stonersvilla/status/2016263271670493459/video/1",
+              "media_key": "13_1839396987755786240",
+              "start": 18,
+              "url": "https://t.co/VB2r77946G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016390471241892057",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 212
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016263271670493459",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stonersvilla: https://t.co/VB2r77946G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1839396987755786240"
+          ]
+        },
+        "author_id": "1594329207768846337",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2016263271670493459",
+        "created_at": "2026-01-27T21:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T22:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016263271670493459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VB2r77946G",
+              "end": 23,
+              "expanded_url": "https://x.com/stonersvilla/status/2016263271670493459/video/1",
+              "media_key": "13_1839396987755786240",
+              "start": 0,
+              "url": "https://t.co/VB2r77946G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016263271670493459",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 347,
+          "impression_count": 81221,
+          "like_count": 1613,
+          "quote_count": 16,
+          "reply_count": 27,
+          "retweet_count": 212
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VB2r77946G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "尴尬！",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009473729248858112/wt7l_L9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 508,
+          "like_count": 1613,
+          "listed_count": 2,
+          "media_count": 332,
+          "tweet_count": 5620
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T13:58:49.000Z",
+        "description": "Stoner POVs · Aesthetic chaos · Daily memes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "flowhub.com",
+                "end": 23,
+                "expanded_url": "http://flowhub.com",
+                "start": 0,
+                "url": "https://t.co/klpx2mCyWD"
+              }
+            ]
+          }
+        },
+        "id": "1594329207768846337",
+        "location": "☁️",
+        "name": "Stoner Barbie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015930798042431488/ejYko88P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394734,
+          "following_count": 3,
+          "like_count": 12561,
+          "listed_count": 464,
+          "media_count": 12807,
+          "tweet_count": 23531
+        },
+        "url": "https://t.co/klpx2mCyWD",
+        "username": "stonersvilla",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "AE",
+            "TR"
+          ]
+        }
+      }
+    ]
+  }
+}

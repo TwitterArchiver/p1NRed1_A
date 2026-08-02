@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1929773101505503232"
+      ],
+      "media_source_tweet_id": [
+        "1929773104986735017"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1929897978028011550",
+    "created_at": "2025-06-03T13:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T14:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929897978028011550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1679540271002837015",
+          "start": 3,
+          "username": "DailyOsakaPics"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z5UltKdR3y",
+          "end": 43,
+          "expanded_url": "https://x.com/DailyOsakaPics/status/1929773104986735017/photo/1",
+          "media_key": "3_1929773101505503232",
+          "start": 20,
+          "url": "https://t.co/z5UltKdR3y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929897978028011550",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929773104986735017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DailyOsakaPics: https://t.co/z5UltKdR3y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 981,
+        "media_key": "3_1929773101505503232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsfuaVRW4AAmcqx.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929773101505503232"
+          ],
+          "media_source_tweet_id": [
+            "1929773104986735017"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1929897978028011550",
+        "created_at": "2025-06-03T13:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T14:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929897978028011550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1679540271002837015",
+              "start": 3,
+              "username": "DailyOsakaPics"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z5UltKdR3y",
+              "end": 43,
+              "expanded_url": "https://x.com/DailyOsakaPics/status/1929773104986735017/photo/1",
+              "media_key": "3_1929773101505503232",
+              "start": 20,
+              "url": "https://t.co/z5UltKdR3y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929897978028011550",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929773104986735017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DailyOsakaPics: https://t.co/z5UltKdR3y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929773101505503232"
+          ]
+        },
+        "author_id": "1679540271002837015",
+        "conversation_id": "1929773104986735017",
+        "created_at": "2025-06-03T05:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T06:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929773104986735017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z5UltKdR3y",
+              "end": 23,
+              "expanded_url": "https://x.com/DailyOsakaPics/status/1929773104986735017/photo/1",
+              "media_key": "3_1929773101505503232",
+              "start": 0,
+              "url": "https://t.co/z5UltKdR3y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929773104986735017",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 4620,
+          "like_count": 600,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/z5UltKdR3y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 409,
+          "like_count": 1219,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 4002
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T17:17:14.000Z",
+        "description": "Ah post daily pictures of Osaka from Azumanga Daioh!\n\nFollow @OsakaDailyAzu for more Osaka content! :D",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "OsakaDailyAzu"
+              }
+            ]
+          }
+        },
+        "id": "1679540271002837015",
+        "location": "Tokyo, Japan",
+        "name": "Daily Osaka Pictures",
+        "pinned_tweet_id": "1844939543905972270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752391870242508801/p6oWsFcW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9931,
+          "following_count": 12,
+          "like_count": 72,
+          "listed_count": 16,
+          "media_count": 1120,
+          "tweet_count": 1175
+        },
+        "username": "DailyOsakaPics",
+        "verified": false
+      }
+    ]
+  }
+}

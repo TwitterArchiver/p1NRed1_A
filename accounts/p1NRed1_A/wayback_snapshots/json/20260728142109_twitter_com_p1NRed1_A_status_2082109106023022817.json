@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2082109106023022817",
+    "created_at": "2026-07-28T14:21:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T15:21:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082109106023022817"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "咕咚’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1pKkO…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1pKkOOwRMLVKj",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2082109107495174144/aCApvzqS?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2082109107495174144/aCApvzqS?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 帕金森",
+          "unwound_url": "https://twitter.com/i/spaces/1pKkOOwRMLVKj/peek",
+          "url": "https://t.co/3b3p9GHZlR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082109106023022817",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/3b3p9GHZlR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2082109106023022817",
+        "created_at": "2026-07-28T14:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082109106023022817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "咕咚’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1pKkO…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1pKkOOwRMLVKj",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2082109107495174144/aCApvzqS?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2082109107495174144/aCApvzqS?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 帕金森",
+              "unwound_url": "https://twitter.com/i/spaces/1pKkOOwRMLVKj/peek",
+              "url": "https://t.co/3b3p9GHZlR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082109106023022817",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3b3p9GHZlR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/9GooAZ0z7o"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "死全家星",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076577294790139904/Fz-jPCGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 589,
+          "like_count": 1804,
+          "listed_count": 3,
+          "media_count": 446,
+          "tweet_count": 7194
+        },
+        "url": "https://t.co/9GooAZ0z7o",
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

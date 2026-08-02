@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2080682674029756518",
+    "created_at": "2026-07-24T15:53:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T16:53:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080682674029756518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1979571497346752512",
+          "start": 3,
+          "username": "Kawaii_Chud"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080682674029756518",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 332
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080377083151171673",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kawaii_Chud: That moment when you realize that nobody would cry if you killed yourself"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2080682674029756518",
+        "created_at": "2026-07-24T15:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080682674029756518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1979571497346752512",
+              "start": 3,
+              "username": "Kawaii_Chud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080682674029756518",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 332
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080377083151171673",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kawaii_Chud: That moment when you realize that nobody would cry if you killed yourself"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979571497346752512",
+        "conversation_id": "2080377083151171673",
+        "created_at": "2026-07-23T19:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T20:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080377083151171673"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080377083151171673",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 8479,
+          "like_count": 1006,
+          "quote_count": 9,
+          "reply_count": 6,
+          "retweet_count": 332
+        },
+        "reply_settings": "everyone",
+        "text": "That moment when you realize that nobody would cry if you killed yourself"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/9GooAZ0z7o"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "死全家星",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076577294790139904/Fz-jPCGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 587,
+          "like_count": 1798,
+          "listed_count": 3,
+          "media_count": 440,
+          "tweet_count": 7117
+        },
+        "url": "https://t.co/9GooAZ0z7o",
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T15:34:38.000Z",
+        "description": "your #shedtwt internet angel is finally back after being suspended 👀",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 5,
+                "tag": "shedtwt"
+              }
+            ]
+          }
+        },
+        "id": "1979571497346752512",
+        "name": "shedtwt bitch.",
+        "pinned_tweet_id": "2074906377172963797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074821914028023809/Jfg29-J0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 863,
+          "like_count": 5209,
+          "listed_count": 3,
+          "media_count": 78,
+          "tweet_count": 437
+        },
+        "url": "",
+        "username": "Kawaii_Chud",
+        "verified": false
+      }
+    ]
+  }
+}

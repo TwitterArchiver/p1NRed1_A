@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1952285544945508547",
+    "created_at": "2025-08-04T11:58:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T12:58:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952338325836341426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1733524426262564864",
+          "start": 0,
+          "username": "_defoko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952338325836341426",
+    "in_reply_to_user_id": "1733524426262564864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952317475305271700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_defoko 德国战车缓缓驶入"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1952317475305271700].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1952317475305271700",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1952317475305271700"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1952285544945508547",
+        "created_at": "2025-08-04T11:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T12:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952338325836341426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1733524426262564864",
+              "start": 0,
+              "username": "_defoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952338325836341426",
+        "in_reply_to_user_id": "1733524426262564864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952317475305271700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_defoko 德国战车缓缓驶入"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 420,
+          "like_count": 1274,
+          "listed_count": 1,
+          "media_count": 237,
+          "tweet_count": 4405
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T16:30:18.000Z",
+        "description": "繭=茧 ｜ @DuvetsDetour @chimera_ui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "DuvetsDetour"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "chimera_ui"
+              }
+            ]
+          }
+        },
+        "id": "1733524426262564864",
+        "location": "地灵殿",
+        "name": "繭",
+        "pinned_tweet_id": "1811778916555845766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913239527881162752/mkAxO3XF_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 87,
+          "like_count": 1243,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 767
+        },
+        "username": "_defoko",
+        "verified": false
+      }
+    ]
+  }
+}

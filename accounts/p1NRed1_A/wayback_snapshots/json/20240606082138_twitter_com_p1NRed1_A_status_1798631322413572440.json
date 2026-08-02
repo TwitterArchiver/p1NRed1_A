@@ -1,0 +1,148 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1798584168433304041",
+    "created_at": "2024-06-06T08:21:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-06T09:21:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798631322413572440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1442063351119450119",
+          "start": 0,
+          "username": "8964SABBAT666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798631322413572440",
+    "in_reply_to_user_id": "1442063351119450119",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798584168433304041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964SABBAT666 卧槽笑死我了不经意露出不是我要给你看是你问了先的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1798584168433304041].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1798584168433304041",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1798584168433304041"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1798584168433304041",
+        "created_at": "2024-06-06T08:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T09:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798631322413572440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1442063351119450119",
+              "start": 0,
+              "username": "8964SABBAT666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798631322413572440",
+        "in_reply_to_user_id": "1442063351119450119",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798584168433304041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964SABBAT666 卧槽笑死我了不经意露出不是我要给你看是你问了先的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797607843975385088/wUYNFJ2h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 169,
+          "like_count": 318,
+          "listed_count": 0,
+          "tweet_count": 1101
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-26T09:48:04.000Z",
+        "description": "你也会希望像我一样憎恨",
+        "id": "1442063351119450119",
+        "location": "地獄",
+        "name": "重回安息日",
+        "pinned_tweet_id": "1798368598874112198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798386975965396992/evs3xje8_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 152,
+          "like_count": 1094,
+          "listed_count": 0,
+          "tweet_count": 3078
+        },
+        "username": "8964SABBAT666",
+        "verified": false
+      }
+    ]
+  }
+}

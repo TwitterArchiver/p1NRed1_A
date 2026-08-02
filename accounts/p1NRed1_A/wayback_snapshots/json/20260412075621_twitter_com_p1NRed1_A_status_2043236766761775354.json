@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042629228416634882"
+      ],
+      "media_source_tweet_id": [
+        "2042629285593407659"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "2043236766761775354",
+    "created_at": "2026-04-12T07:56:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T08:56:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043236766761775354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2027231454871396352",
+          "start": 3,
+          "username": "null77458"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BkZyheEbwb",
+          "end": 43,
+          "expanded_url": "https://x.com/null77458/status/2042629285593407659/photo/1",
+          "media_key": "3_2042629228416634882",
+          "start": 20,
+          "url": "https://t.co/BkZyheEbwb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043236766761775354",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1104
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042629285593407659",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @null77458: ねぇ先生 https://t.co/BkZyheEbwb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1461,
+        "media_key": "3_2042629228416634882",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjgdf-akAIGOfd.jpg",
+        "width": 1461
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042629228416634882"
+          ],
+          "media_source_tweet_id": [
+            "2042629285593407659"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "2043236766761775354",
+        "created_at": "2026-04-12T07:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T08:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043236766761775354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2027231454871396352",
+              "start": 3,
+              "username": "null77458"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BkZyheEbwb",
+              "end": 43,
+              "expanded_url": "https://x.com/null77458/status/2042629285593407659/photo/1",
+              "media_key": "3_2042629228416634882",
+              "start": 20,
+              "url": "https://t.co/BkZyheEbwb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043236766761775354",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042629285593407659",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @null77458: ねぇ先生 https://t.co/BkZyheEbwb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042629228416634882"
+          ]
+        },
+        "author_id": "2027231454871396352",
+        "conversation_id": "2042629285593407659",
+        "created_at": "2026-04-10T15:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042629285593407659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BkZyheEbwb",
+              "end": 28,
+              "expanded_url": "https://x.com/null77458/status/2042629285593407659/photo/1",
+              "media_key": "3_2042629228416634882",
+              "start": 5,
+              "url": "https://t.co/BkZyheEbwb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042629285593407659",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 783,
+          "impression_count": 150120,
+          "like_count": 7986,
+          "quote_count": 43,
+          "reply_count": 1,
+          "retweet_count": 1104
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "ねぇ先生 https://t.co/BkZyheEbwb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "全世界第一喜欢的人@memom1229345",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "memom1229345"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 528,
+          "like_count": 1638,
+          "listed_count": 2,
+          "media_count": 346,
+          "tweet_count": 5924
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T03:57:17.000Z",
+        "description": "インターネットでおえかき　一次/二次雑多",
+        "id": "2027231454871396352",
+        "location": "インターネットデブリ",
+        "name": "null",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031789470664835081/jnZWc8h9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 14,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 10
+        },
+        "username": "null77458",
+        "verified": false
+      }
+    ]
+  }
+}

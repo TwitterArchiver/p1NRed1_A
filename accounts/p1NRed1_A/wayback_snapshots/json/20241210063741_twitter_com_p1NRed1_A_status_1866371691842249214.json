@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1866162279026429952"
+      ],
+      "media_source_tweet_id": [
+        "1866162283543724226"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1866371691842249214",
+    "created_at": "2024-12-10T06:37:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T07:37:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866371691842249214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1726185693813329920",
+          "start": 3,
+          "username": "Nozomiiiii2525"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u8gcEdI8na",
+          "end": 43,
+          "expanded_url": "https://x.com/Nozomiiiii2525/status/1866162283543724226/photo/1",
+          "media_key": "3_1866162279026429952",
+          "start": 20,
+          "url": "https://t.co/u8gcEdI8na"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866371691842249214",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866162283543724226",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nozomiiiii2525: https://t.co/u8gcEdI8na"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1818,
+        "media_key": "3_1866162279026429952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeXwtJaakAAuNhJ.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866162279026429952"
+          ],
+          "media_source_tweet_id": [
+            "1866162283543724226"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1866371691842249214",
+        "created_at": "2024-12-10T06:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T07:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866371691842249214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1726185693813329920",
+              "start": 3,
+              "username": "Nozomiiiii2525"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u8gcEdI8na",
+              "end": 43,
+              "expanded_url": "https://x.com/Nozomiiiii2525/status/1866162283543724226/photo/1",
+              "media_key": "3_1866162279026429952",
+              "start": 20,
+              "url": "https://t.co/u8gcEdI8na"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866371691842249214",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866162283543724226",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nozomiiiii2525: https://t.co/u8gcEdI8na"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866162279026429952"
+          ]
+        },
+        "author_id": "1726185693813329920",
+        "conversation_id": "1866162283543724226",
+        "created_at": "2024-12-09T16:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T17:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866162283543724226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u8gcEdI8na",
+              "end": 23,
+              "expanded_url": "https://x.com/Nozomiiiii2525/status/1866162283543724226/photo/1",
+              "media_key": "3_1866162279026429952",
+              "start": 0,
+              "url": "https://t.co/u8gcEdI8na"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866162283543724226",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 461,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/u8gcEdI8na"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 296,
+          "like_count": 1018,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 3156
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-19T10:29:45.000Z",
+        "description": "イエー",
+        "id": "1726185693813329920",
+        "name": "希",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866164887111815168/RTXbOtda_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 174,
+          "like_count": 35285,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 2206
+        },
+        "username": "Nozomiiiii2525",
+        "verified": false
+      }
+    ]
+  }
+}

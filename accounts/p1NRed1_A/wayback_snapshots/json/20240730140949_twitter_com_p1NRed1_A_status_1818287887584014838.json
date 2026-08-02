@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1813769806430265344"
+      ],
+      "media_source_tweet_id": [
+        "1813769811450884319"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1818287887584014838",
+    "created_at": "2024-07-30T14:09:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-30T15:09:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818287887584014838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1344255542793916418",
+          "start": 3,
+          "username": "U0x0U_Ri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/AUuXxxQTj3",
+          "end": 37,
+          "expanded_url": "https://twitter.com/U0x0U_Ri/status/1813769811450884319/photo/1",
+          "media_key": "3_1813769806430265344",
+          "start": 14,
+          "url": "https://t.co/AUuXxxQTj3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818287887584014838",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813769811450884319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @U0x0U_Ri: https://t.co/AUuXxxQTj3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1813769806430265344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSvOB3ia4AAWG7X.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1813769806430265344"
+          ],
+          "media_source_tweet_id": [
+            "1813769811450884319"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1818287887584014838",
+        "created_at": "2024-07-30T14:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T15:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818287887584014838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1344255542793916418",
+              "start": 3,
+              "username": "U0x0U_Ri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/AUuXxxQTj3",
+              "end": 37,
+              "expanded_url": "https://twitter.com/U0x0U_Ri/status/1813769811450884319/photo/1",
+              "media_key": "3_1813769806430265344",
+              "start": 14,
+              "url": "https://t.co/AUuXxxQTj3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818287887584014838",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813769811450884319",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @U0x0U_Ri: https://t.co/AUuXxxQTj3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1813769806430265344"
+          ]
+        },
+        "author_id": "1344255542793916418",
+        "conversation_id": "1813769811450884319",
+        "created_at": "2024-07-18T02:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T03:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813769811450884319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/AUuXxxQTj3",
+              "end": 23,
+              "expanded_url": "https://twitter.com/U0x0U_Ri/status/1813769811450884319/photo/1",
+              "media_key": "3_1813769806430265344",
+              "start": 0,
+              "url": "https://t.co/AUuXxxQTj3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813769811450884319",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 514,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AUuXxxQTj3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563382332014593/-06gBRx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 235,
+          "like_count": 559,
+          "listed_count": 0,
+          "tweet_count": 2180
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-30T12:18:04.000Z",
+        "description": "知られている・・・",
+        "id": "1344255542793916418",
+        "location": "絵 模写",
+        "name": "倫檎",
+        "pinned_tweet_id": "1798379352079650844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1487398827938414598/Tr098HTh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 37,
+          "like_count": 79788,
+          "listed_count": 5,
+          "tweet_count": 2226
+        },
+        "username": "U0x0U_Ri",
+        "verified": false
+      }
+    ]
+  }
+}

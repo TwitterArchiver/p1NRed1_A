@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1911746521709855114",
+    "created_at": "2025-04-14T11:50:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T12:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911748825787892031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1352680903126863872",
+          "start": 0,
+          "username": "yanyang9527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911748825787892031",
+    "in_reply_to_user_id": "1352680903126863872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911746521709855114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanyang9527 我缺我缺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1911746521709855114",
+        "created_at": "2025-04-14T11:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T12:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911748825787892031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1352680903126863872",
+              "start": 0,
+              "username": "yanyang9527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911748825787892031",
+        "in_reply_to_user_id": "1352680903126863872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911746521709855114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanyang9527 我缺我缺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1352680903126863872",
+        "conversation_id": "1911746521709855114",
+        "created_at": "2025-04-14T11:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T12:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911746521709855114"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1911746521709855114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前一直给别人送钱，总之各种原因，现在我也明白了别人根本不会缺我给的那几百块，我还是那那钱改善我自己的生活吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910291251003547648/-uuCvZrl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 363,
+          "like_count": 1142,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 3523
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-22T18:14:02.000Z",
+        "description": "继续戒烟",
+        "id": "1352680903126863872",
+        "name": "yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1541071757989117952/IEtr9Ooo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 49,
+          "like_count": 2444,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 2238
+        },
+        "username": "yanyang9527",
+        "verified": false
+      }
+    ]
+  }
+}

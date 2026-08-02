@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1823382281790140416",
+        "16_1823382281798483968",
+        "16_1823382281819430912",
+        "16_1823382281811083264"
+      ],
+      "media_source_tweet_id": [
+        "1823382320339947913",
+        "1823382320339947913",
+        "1823382320339947913",
+        "1823382320339947913"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1823751287911145515",
+    "created_at": "2024-08-14T15:59:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-14T16:59:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823751287911145515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1738206334451933184",
+          "start": 3,
+          "username": "riruruirl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/keknvbzxq5",
+          "end": 43,
+          "expanded_url": "https://twitter.com/riruruirl/status/1823382320339947913/photo/1",
+          "media_key": "16_1823382281790140416",
+          "start": 20,
+          "url": "https://t.co/kekNVBzxq5"
+        },
+        {
+          "display_url": "pic.x.com/keknvbzxq5",
+          "end": 43,
+          "expanded_url": "https://twitter.com/riruruirl/status/1823382320339947913/photo/1",
+          "media_key": "16_1823382281798483968",
+          "start": 20,
+          "url": "https://t.co/kekNVBzxq5"
+        },
+        {
+          "display_url": "pic.x.com/keknvbzxq5",
+          "end": 43,
+          "expanded_url": "https://twitter.com/riruruirl/status/1823382320339947913/photo/1",
+          "media_key": "16_1823382281819430912",
+          "start": 20,
+          "url": "https://t.co/kekNVBzxq5"
+        },
+        {
+          "display_url": "pic.x.com/keknvbzxq5",
+          "end": 43,
+          "expanded_url": "https://twitter.com/riruruirl/status/1823382320339947913/photo/1",
+          "media_key": "16_1823382281811083264",
+          "start": 20,
+          "url": "https://t.co/kekNVBzxq5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823751287911145515",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 654
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823382320339947913",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @riruruirl: chii https://t.co/kekNVBzxq5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 160,
+        "media_key": "16_1823382281790140416",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GU30hkvXsAA54zr.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GU30hkvXsAA54zr.mp4"
+          }
+        ],
+        "width": 150
+      },
+      {
+        "height": 140,
+        "media_key": "16_1823382281798483968",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GU30hkxXAAAJSct.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GU30hkxXAAAJSct.mp4"
+          }
+        ],
+        "width": 152
+      },
+      {
+        "height": 140,
+        "media_key": "16_1823382281819430912",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GU30hk2WoAAjTTU.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GU30hk2WoAAjTTU.mp4"
+          }
+        ],
+        "width": 152
+      },
+      {
+        "height": 150,
+        "media_key": "16_1823382281811083264",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GU30hk0XQAA2Owo.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GU30hk0XQAA2Owo.mp4"
+          }
+        ],
+        "width": 152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1823382281790140416",
+            "16_1823382281798483968",
+            "16_1823382281819430912",
+            "16_1823382281811083264"
+          ],
+          "media_source_tweet_id": [
+            "1823382320339947913",
+            "1823382320339947913",
+            "1823382320339947913",
+            "1823382320339947913"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1823751287911145515",
+        "created_at": "2024-08-14T15:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T16:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823751287911145515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1738206334451933184",
+              "start": 3,
+              "username": "riruruirl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/keknvbzxq5",
+              "end": 43,
+              "expanded_url": "https://twitter.com/riruruirl/status/1823382320339947913/photo/1",
+              "media_key": "16_1823382281790140416",
+              "start": 20,
+              "url": "https://t.co/kekNVBzxq5"
+            },
+            {
+              "display_url": "pic.x.com/keknvbzxq5",
+              "end": 43,
+              "expanded_url": "https://twitter.com/riruruirl/status/1823382320339947913/photo/1",
+              "media_key": "16_1823382281798483968",
+              "start": 20,
+              "url": "https://t.co/kekNVBzxq5"
+            },
+            {
+              "display_url": "pic.x.com/keknvbzxq5",
+              "end": 43,
+              "expanded_url": "https://twitter.com/riruruirl/status/1823382320339947913/photo/1",
+              "media_key": "16_1823382281819430912",
+              "start": 20,
+              "url": "https://t.co/kekNVBzxq5"
+            },
+            {
+              "display_url": "pic.x.com/keknvbzxq5",
+              "end": 43,
+              "expanded_url": "https://twitter.com/riruruirl/status/1823382320339947913/photo/1",
+              "media_key": "16_1823382281811083264",
+              "start": 20,
+              "url": "https://t.co/kekNVBzxq5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823751287911145515",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 654
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823382320339947913",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @riruruirl: chii https://t.co/kekNVBzxq5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1823382281790140416",
+            "16_1823382281798483968",
+            "16_1823382281819430912",
+            "16_1823382281811083264"
+          ]
+        },
+        "author_id": "1738206334451933184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1823382320339947913",
+        "created_at": "2024-08-13T15:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T16:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823382320339947913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/keknvbzxq5",
+              "end": 28,
+              "expanded_url": "https://twitter.com/riruruirl/status/1823382320339947913/photo/1",
+              "media_key": "16_1823382281790140416",
+              "start": 5,
+              "url": "https://t.co/kekNVBzxq5"
+            },
+            {
+              "display_url": "pic.x.com/keknvbzxq5",
+              "end": 28,
+              "expanded_url": "https://twitter.com/riruruirl/status/1823382320339947913/photo/1",
+              "media_key": "16_1823382281798483968",
+              "start": 5,
+              "url": "https://t.co/kekNVBzxq5"
+            },
+            {
+              "display_url": "pic.x.com/keknvbzxq5",
+              "end": 28,
+              "expanded_url": "https://twitter.com/riruruirl/status/1823382320339947913/photo/1",
+              "media_key": "16_1823382281819430912",
+              "start": 5,
+              "url": "https://t.co/kekNVBzxq5"
+            },
+            {
+              "display_url": "pic.x.com/keknvbzxq5",
+              "end": 28,
+              "expanded_url": "https://twitter.com/riruruirl/status/1823382320339947913/photo/1",
+              "media_key": "16_1823382281811083264",
+              "start": 5,
+              "url": "https://t.co/kekNVBzxq5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823382320339947913",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 375,
+          "impression_count": 44203,
+          "like_count": 2557,
+          "quote_count": 27,
+          "reply_count": 7,
+          "retweet_count": 654
+        },
+        "reply_settings": "everyone",
+        "text": "chii https://t.co/kekNVBzxq5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 254,
+          "like_count": 707,
+          "listed_count": 0,
+          "tweet_count": 2404
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-22T14:34:29.000Z",
+        "description": "幸せな日々 ♪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/sayooshi",
+                "end": 23,
+                "expanded_url": "https://lit.link/sayooshi",
+                "start": 0,
+                "url": "https://t.co/w3JES5MvYQ"
+              }
+            ]
+          }
+        },
+        "id": "1738206334451933184",
+        "location": "@irlriruru",
+        "name": "rose",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823104750297980928/8WJ5aTlv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1283,
+          "following_count": 105,
+          "like_count": 6214,
+          "listed_count": 5,
+          "tweet_count": 467
+        },
+        "url": "https://t.co/w3JES5MvYQ",
+        "username": "riruruirl",
+        "verified": false
+      }
+    ]
+  }
+}

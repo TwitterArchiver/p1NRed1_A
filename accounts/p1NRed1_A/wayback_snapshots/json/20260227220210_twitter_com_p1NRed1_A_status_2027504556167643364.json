@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027448423369347072"
+      ],
+      "media_source_tweet_id": [
+        "2027448428620554242"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "2027504556167643364",
+    "created_at": "2026-02-27T22:02:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T23:02:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027504556167643364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2021610894426513408",
+          "start": 3,
+          "username": "00B16B_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tbdpDZVj5f",
+          "end": 36,
+          "expanded_url": "https://x.com/00B16B_/status/2027448428620554242/photo/1",
+          "media_key": "3_2027448423369347072",
+          "start": 13,
+          "url": "https://t.co/tbdpDZVj5f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027504556167643364",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027448428620554242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @00B16B_: https://t.co/tbdpDZVj5f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2027448423369347072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCLxmWNbEAAGO0q.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027448423369347072"
+          ],
+          "media_source_tweet_id": [
+            "2027448428620554242"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "2027504556167643364",
+        "created_at": "2026-02-27T22:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T23:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027504556167643364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2021610894426513408",
+              "start": 3,
+              "username": "00B16B_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tbdpDZVj5f",
+              "end": 36,
+              "expanded_url": "https://x.com/00B16B_/status/2027448428620554242/photo/1",
+              "media_key": "3_2027448423369347072",
+              "start": 13,
+              "url": "https://t.co/tbdpDZVj5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027504556167643364",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027448428620554242",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @00B16B_: https://t.co/tbdpDZVj5f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027448423369347072"
+          ]
+        },
+        "author_id": "2021610894426513408",
+        "conversation_id": "2027448428620554242",
+        "created_at": "2026-02-27T18:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T19:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027448428620554242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tbdpDZVj5f",
+              "end": 23,
+              "expanded_url": "https://x.com/00B16B_/status/2027448428620554242/photo/1",
+              "media_key": "3_2027448423369347072",
+              "start": 0,
+              "url": "https://t.co/tbdpDZVj5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027448428620554242",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 278,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tbdpDZVj5f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "尴尬！",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009473729248858112/wt7l_L9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 508,
+          "like_count": 1624,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 5737
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-11T15:43:11.000Z",
+        "description": "好きなものを描きます｜❌無断転載・保存・AI学習禁止❌｜腐｜20↑｜マロ→https://t.co/AzFzFHVxvD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/krxlbw5ssrpm4e…",
+                "end": 60,
+                "expanded_url": "https://marshmallow-qa.com/krxlbw5ssrpm4ec?t=nZDhi6&utm_medium=url_text&utm_source=promotion",
+                "start": 37,
+                "url": "https://t.co/AzFzFHVxvD"
+              }
+            ]
+          }
+        },
+        "id": "2021610894426513408",
+        "name": "カミムラ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021615353374326784/dSRqcp2Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 7,
+          "like_count": 72,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 112
+        },
+        "username": "00B16B_",
+        "verified": false
+      }
+    ]
+  }
+}

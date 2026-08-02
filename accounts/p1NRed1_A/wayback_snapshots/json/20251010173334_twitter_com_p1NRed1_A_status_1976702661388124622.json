@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976673450019393536"
+      ],
+      "media_source_tweet_id": [
+        "1976673459158790363"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1976702661388124622",
+    "created_at": "2025-10-10T17:33:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T18:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976702661388124622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "877762155285594112",
+          "start": 3,
+          "username": "zzzz00_1_o"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6MfUm7pxrb",
+          "end": 39,
+          "expanded_url": "https://x.com/zzzz00_1_o/status/1976673459158790363/photo/1",
+          "media_key": "3_1976673450019393536",
+          "start": 16,
+          "url": "https://t.co/6MfUm7pxrb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976702661388124622",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976673459158790363",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zzzz00_1_o: https://t.co/6MfUm7pxrb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1976673450019393536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G26OB6laEAAublf.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976673450019393536"
+          ],
+          "media_source_tweet_id": [
+            "1976673459158790363"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1976702661388124622",
+        "created_at": "2025-10-10T17:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T18:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976702661388124622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "877762155285594112",
+              "start": 3,
+              "username": "zzzz00_1_o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6MfUm7pxrb",
+              "end": 39,
+              "expanded_url": "https://x.com/zzzz00_1_o/status/1976673459158790363/photo/1",
+              "media_key": "3_1976673450019393536",
+              "start": 16,
+              "url": "https://t.co/6MfUm7pxrb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976702661388124622",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976673459158790363",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zzzz00_1_o: https://t.co/6MfUm7pxrb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976673450019393536"
+          ]
+        },
+        "author_id": "877762155285594112",
+        "conversation_id": "1976673459158790363",
+        "created_at": "2025-10-10T15:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T16:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976673459158790363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6MfUm7pxrb",
+              "end": 23,
+              "expanded_url": "https://x.com/zzzz00_1_o/status/1976673459158790363/photo/1",
+              "media_key": "3_1976673450019393536",
+              "start": 0,
+              "url": "https://t.co/6MfUm7pxrb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976673459158790363",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6MfUm7pxrb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 473,
+          "like_count": 1482,
+          "listed_count": 2,
+          "media_count": 285,
+          "tweet_count": 4987
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-22T05:36:20.000Z",
+        "description": "all：zzzz00_1_o",
+        "id": "877762155285594112",
+        "name": "zzzz00_1_o",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969783476602937344/Zx-3C-IM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1644,
+          "following_count": 183,
+          "like_count": 929,
+          "listed_count": 7,
+          "media_count": 85,
+          "tweet_count": 112
+        },
+        "username": "zzzz00_1_o",
+        "verified": false
+      }
+    ]
+  }
+}

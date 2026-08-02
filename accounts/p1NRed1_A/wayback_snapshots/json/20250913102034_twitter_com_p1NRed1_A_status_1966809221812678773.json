@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966805032541769728",
+        "3_1966805032516603904",
+        "3_1966805032499900418",
+        "3_1966805032554397696"
+      ],
+      "media_source_tweet_id": [
+        "1966805100862566648",
+        "1966805100862566648",
+        "1966805100862566648",
+        "1966805100862566648"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1966809221812678773",
+    "created_at": "2025-09-13T10:20:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T11:20:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966809221812678773"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 23,
+          "tag": "さよなら絶望先生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1819579882969747458",
+          "start": 3,
+          "username": "look1560370"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fzTZqNNrsD",
+          "end": 56,
+          "expanded_url": "https://x.com/look1560370/status/1966805100862566648/photo/1",
+          "media_key": "3_1966805032541769728",
+          "start": 33,
+          "url": "https://t.co/fzTZqNNrsD"
+        },
+        {
+          "display_url": "pic.x.com/fzTZqNNrsD",
+          "end": 56,
+          "expanded_url": "https://x.com/look1560370/status/1966805100862566648/photo/1",
+          "media_key": "3_1966805032516603904",
+          "start": 33,
+          "url": "https://t.co/fzTZqNNrsD"
+        },
+        {
+          "display_url": "pic.x.com/fzTZqNNrsD",
+          "end": 56,
+          "expanded_url": "https://x.com/look1560370/status/1966805100862566648/photo/1",
+          "media_key": "3_1966805032499900418",
+          "start": 33,
+          "url": "https://t.co/fzTZqNNrsD"
+        },
+        {
+          "display_url": "pic.x.com/fzTZqNNrsD",
+          "end": 56,
+          "expanded_url": "https://x.com/look1560370/status/1966805100862566648/photo/1",
+          "media_key": "3_1966805032554397696",
+          "start": 33,
+          "url": "https://t.co/fzTZqNNrsD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966809221812678773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966805100862566648",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @look1560370: 少女们。。\n#さよなら絶望先生 https://t.co/fzTZqNNrsD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2187,
+        "media_key": "3_1966805032541769728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0t-wasaUAA1DgW.jpg",
+        "width": 801
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966805032516603904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0t-wamaUAA0qis.jpg",
+        "width": 1864
+      },
+      {
+        "height": 2032,
+        "media_key": "3_1966805032499900418",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0t-waibcAI5HDn.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966805032554397696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0t-wavbAAAUomP.jpg",
+        "width": 1646
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966805032541769728",
+            "3_1966805032516603904",
+            "3_1966805032499900418",
+            "3_1966805032554397696"
+          ],
+          "media_source_tweet_id": [
+            "1966805100862566648",
+            "1966805100862566648",
+            "1966805100862566648",
+            "1966805100862566648"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1966809221812678773",
+        "created_at": "2025-09-13T10:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T11:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966809221812678773"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 23,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1819579882969747458",
+              "start": 3,
+              "username": "look1560370"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fzTZqNNrsD",
+              "end": 56,
+              "expanded_url": "https://x.com/look1560370/status/1966805100862566648/photo/1",
+              "media_key": "3_1966805032541769728",
+              "start": 33,
+              "url": "https://t.co/fzTZqNNrsD"
+            },
+            {
+              "display_url": "pic.x.com/fzTZqNNrsD",
+              "end": 56,
+              "expanded_url": "https://x.com/look1560370/status/1966805100862566648/photo/1",
+              "media_key": "3_1966805032516603904",
+              "start": 33,
+              "url": "https://t.co/fzTZqNNrsD"
+            },
+            {
+              "display_url": "pic.x.com/fzTZqNNrsD",
+              "end": 56,
+              "expanded_url": "https://x.com/look1560370/status/1966805100862566648/photo/1",
+              "media_key": "3_1966805032499900418",
+              "start": 33,
+              "url": "https://t.co/fzTZqNNrsD"
+            },
+            {
+              "display_url": "pic.x.com/fzTZqNNrsD",
+              "end": 56,
+              "expanded_url": "https://x.com/look1560370/status/1966805100862566648/photo/1",
+              "media_key": "3_1966805032554397696",
+              "start": 33,
+              "url": "https://t.co/fzTZqNNrsD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966809221812678773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966805100862566648",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @look1560370: 少女们。。\n#さよなら絶望先生 https://t.co/fzTZqNNrsD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966805032541769728",
+            "3_1966805032516603904",
+            "3_1966805032499900418",
+            "3_1966805032554397696"
+          ]
+        },
+        "author_id": "1819579882969747458",
+        "conversation_id": "1966805100862566648",
+        "created_at": "2025-09-13T10:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T11:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966805100862566648"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 6,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fzTZqNNrsD",
+              "end": 39,
+              "expanded_url": "https://x.com/look1560370/status/1966805100862566648/photo/1",
+              "media_key": "3_1966805032541769728",
+              "start": 16,
+              "url": "https://t.co/fzTZqNNrsD"
+            },
+            {
+              "display_url": "pic.x.com/fzTZqNNrsD",
+              "end": 39,
+              "expanded_url": "https://x.com/look1560370/status/1966805100862566648/photo/1",
+              "media_key": "3_1966805032516603904",
+              "start": 16,
+              "url": "https://t.co/fzTZqNNrsD"
+            },
+            {
+              "display_url": "pic.x.com/fzTZqNNrsD",
+              "end": 39,
+              "expanded_url": "https://x.com/look1560370/status/1966805100862566648/photo/1",
+              "media_key": "3_1966805032499900418",
+              "start": 16,
+              "url": "https://t.co/fzTZqNNrsD"
+            },
+            {
+              "display_url": "pic.x.com/fzTZqNNrsD",
+              "end": 39,
+              "expanded_url": "https://x.com/look1560370/status/1966805100862566648/photo/1",
+              "media_key": "3_1966805032554397696",
+              "start": 16,
+              "url": "https://t.co/fzTZqNNrsD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966805100862566648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "少女们。。\n#さよなら絶望先生 https://t.co/fzTZqNNrsD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 442,
+          "like_count": 1380,
+          "listed_count": 2,
+          "media_count": 261,
+          "tweet_count": 4678
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-03T03:43:53.000Z",
+        "description": "纯路过少女/上学中/目前处于产品冷",
+        "id": "1819579882969747458",
+        "name": "eyuhzoN",
+        "pinned_tweet_id": "1956701054248116530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951947698854301696/nj1Zt9BQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 67,
+          "like_count": 497,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 177
+        },
+        "username": "look1560370",
+        "verified": false
+      }
+    ]
+  }
+}

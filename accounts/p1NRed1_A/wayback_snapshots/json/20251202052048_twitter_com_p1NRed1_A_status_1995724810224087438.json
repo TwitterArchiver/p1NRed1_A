@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995118419654615040"
+      ],
+      "media_source_tweet_id": [
+        "1995118423475724535"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1995724810224087438",
+    "created_at": "2025-12-02T05:20:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T06:20:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995724810224087438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1774937192944816128",
+          "start": 3,
+          "username": "hanashinitagari"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K2ERhroU4j",
+          "end": 44,
+          "expanded_url": "https://x.com/hanashinitagari/status/1995118423475724535/photo/1",
+          "media_key": "3_1995118419654615040",
+          "start": 21,
+          "url": "https://t.co/K2ERhroU4j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995724810224087438",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 378
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995118423475724535",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hanashinitagari: https://t.co/K2ERhroU4j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1420,
+        "media_key": "3_1995118419654615040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7AVodBaIAAFbr0.jpg",
+        "width": 1246
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995118419654615040"
+          ],
+          "media_source_tweet_id": [
+            "1995118423475724535"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1995724810224087438",
+        "created_at": "2025-12-02T05:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T06:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995724810224087438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1774937192944816128",
+              "start": 3,
+              "username": "hanashinitagari"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K2ERhroU4j",
+              "end": 44,
+              "expanded_url": "https://x.com/hanashinitagari/status/1995118423475724535/photo/1",
+              "media_key": "3_1995118419654615040",
+              "start": 21,
+              "url": "https://t.co/K2ERhroU4j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995724810224087438",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 378
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995118423475724535",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hanashinitagari: https://t.co/K2ERhroU4j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995118419654615040"
+          ]
+        },
+        "author_id": "1774937192944816128",
+        "conversation_id": "1995118423475724535",
+        "created_at": "2025-11-30T13:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T14:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995118423475724535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K2ERhroU4j",
+              "end": 23,
+              "expanded_url": "https://x.com/hanashinitagari/status/1995118423475724535/photo/1",
+              "media_key": "3_1995118419654615040",
+              "start": 0,
+              "url": "https://t.co/K2ERhroU4j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995118423475724535",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 298,
+          "impression_count": 41520,
+          "like_count": 4108,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 378
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/K2ERhroU4j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 501,
+          "like_count": 1560,
+          "listed_count": 2,
+          "media_count": 310,
+          "tweet_count": 5303
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T23:11:05.000Z",
+        "description": "NMKKさんとUTAUが好き",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/bPJXiWDX14WyAf…",
+                "end": 23,
+                "expanded_url": "https://lit.link/bPJXiWDX14WyAfnkljS8K4v8QnR2",
+                "start": 0,
+                "url": "https://t.co/qdhalgvIfB"
+              }
+            ]
+          }
+        },
+        "id": "1774937192944816128",
+        "name": "何",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775377903397785600/Hb24EHfH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 200,
+          "like_count": 9131,
+          "listed_count": 6,
+          "media_count": 232,
+          "tweet_count": 1743
+        },
+        "url": "https://t.co/qdhalgvIfB",
+        "username": "hanashinitagari",
+        "verified": false
+      }
+    ]
+  }
+}

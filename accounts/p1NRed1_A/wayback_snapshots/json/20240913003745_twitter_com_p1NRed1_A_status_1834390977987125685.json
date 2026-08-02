@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1834141761037647872"
+      ],
+      "media_source_tweet_id": [
+        "1834141900624068761"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1834390977987125685",
+    "created_at": "2024-09-13T00:37:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-13T01:37:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834390977987125685"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 18,
+          "tag": "maimai"
+        },
+        {
+          "end": 30,
+          "start": 26,
+          "tag": "cos"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1514094515191230470",
+          "start": 3,
+          "username": "fuxi0312"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oz2gz4wsy5",
+          "end": 54,
+          "expanded_url": "https://twitter.com/fuxi0312/status/1834141900624068761/video/1",
+          "media_key": "7_1834141761037647872",
+          "start": 31,
+          "url": "https://t.co/Oz2gZ4wsY5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834390977987125685",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1127
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834141900624068761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fuxi0312: 宴牛奶\n#maimai #cos https://t.co/Oz2gZ4wsY5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 140016,
+        "height": 1280,
+        "media_key": "7_1834141761037647872",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1834141761037647872/pu/img/RGIu3AxuCTqVxQAD.jpg",
+        "public_metrics": {
+          "view_count": 167509
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1834141761037647872/pu/vid/avc1/320x568/5J5FIJ7q196Qfqhb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1834141761037647872/pu/vid/avc1/480x852/v4yL5PFdyFnesaCd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1834141761037647872/pu/vid/avc1/720x1280/nWayERbsfDDwTaC7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1834141761037647872/pu/pl/rDHsWF1XrUFObMYB.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1834141761037647872"
+          ],
+          "media_source_tweet_id": [
+            "1834141900624068761"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1834390977987125685",
+        "created_at": "2024-09-13T00:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T01:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834390977987125685"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "maimai"
+            },
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "cos"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1514094515191230470",
+              "start": 3,
+              "username": "fuxi0312"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oz2gz4wsy5",
+              "end": 54,
+              "expanded_url": "https://twitter.com/fuxi0312/status/1834141900624068761/video/1",
+              "media_key": "7_1834141761037647872",
+              "start": 31,
+              "url": "https://t.co/Oz2gZ4wsY5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834390977987125685",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1127
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834141900624068761",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fuxi0312: 宴牛奶\n#maimai #cos https://t.co/Oz2gZ4wsY5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1834141761037647872"
+          ]
+        },
+        "author_id": "1514094515191230470",
+        "conversation_id": "1834141900624068761",
+        "created_at": "2024-09-12T08:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T09:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834141900624068761"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 4,
+              "tag": "maimai"
+            },
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oz2gz4wsy5",
+              "end": 40,
+              "expanded_url": "https://twitter.com/fuxi0312/status/1834141900624068761/video/1",
+              "media_key": "7_1834141761037647872",
+              "start": 17,
+              "url": "https://t.co/Oz2gZ4wsY5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834141900624068761",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1003,
+          "impression_count": 254664,
+          "like_count": 5917,
+          "quote_count": 127,
+          "reply_count": 13,
+          "retweet_count": 1127
+        },
+        "reply_settings": "everyone",
+        "text": "宴牛奶\n#maimai #cos https://t.co/Oz2gZ4wsY5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 268,
+          "like_count": 866,
+          "listed_count": 0,
+          "tweet_count": 2735
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-13T04:14:07.000Z",
+        "description": "音游♀coser （主玩maimai，chunithm, Arcaea，MuesDash, Phigros，舞立方）\nb站账号:https://t.co/npM0O7EhVI\n欢迎关注！以后会常在推上同步更新 （照片和视频可以转载使用，但请标明出处。商用请私信联系）\n\n如果您喜欢我的作品，可以多多转推和评论，谢=^▽^=",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b23.tv/DWzW3d0",
+                "end": 87,
+                "expanded_url": "https://b23.tv/DWzW3d0",
+                "start": 64,
+                "url": "https://t.co/npM0O7EhVI"
+              }
+            ]
+          }
+        },
+        "id": "1514094515191230470",
+        "location": "中国",
+        "name": "小莩_Fuxl",
+        "pinned_tweet_id": "1797694130887496105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797679640468918272/iJIZgnAR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1714,
+          "following_count": 157,
+          "like_count": 622,
+          "listed_count": 3,
+          "tweet_count": 114
+        },
+        "username": "fuxi0312",
+        "verified": false
+      }
+    ]
+  }
+}

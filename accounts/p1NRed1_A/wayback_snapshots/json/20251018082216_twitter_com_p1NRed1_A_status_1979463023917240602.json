@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979460650825830401"
+      ],
+      "media_source_tweet_id": [
+        "1979460657721282982"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1979463023917240602",
+    "created_at": "2025-10-18T08:22:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T09:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979463023917240602"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 43,
+          "start": 20,
+          "tag": "sayonarazetsubousensei"
+        },
+        {
+          "end": 53,
+          "start": 44,
+          "tag": "さよなら絶望先生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1959608116724854784",
+          "start": 3,
+          "username": "itoshikinanami"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mlUUFkhfyk",
+          "end": 77,
+          "expanded_url": "https://x.com/itoshikinanami/status/1979460657721282982/photo/1",
+          "media_key": "3_1979460650825830401",
+          "start": 54,
+          "url": "https://t.co/mlUUFkhfyk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979463023917240602",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979460657721282982",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itoshikinanami: #sayonarazetsubousensei #さよなら絶望先生 https://t.co/mlUUFkhfyk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979460650825830401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3h0-WtWUAEK2DR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979460650825830401"
+          ],
+          "media_source_tweet_id": [
+            "1979460657721282982"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1979463023917240602",
+        "created_at": "2025-10-18T08:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T09:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979463023917240602"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 20,
+              "tag": "sayonarazetsubousensei"
+            },
+            {
+              "end": 53,
+              "start": 44,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1959608116724854784",
+              "start": 3,
+              "username": "itoshikinanami"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mlUUFkhfyk",
+              "end": 77,
+              "expanded_url": "https://x.com/itoshikinanami/status/1979460657721282982/photo/1",
+              "media_key": "3_1979460650825830401",
+              "start": 54,
+              "url": "https://t.co/mlUUFkhfyk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979463023917240602",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979460657721282982",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itoshikinanami: #sayonarazetsubousensei #さよなら絶望先生 https://t.co/mlUUFkhfyk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979460650825830401"
+          ]
+        },
+        "author_id": "1959608116724854784",
+        "conversation_id": "1979460657721282982",
+        "created_at": "2025-10-18T08:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T09:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979460657721282982"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 0,
+              "tag": "sayonarazetsubousensei"
+            },
+            {
+              "end": 33,
+              "start": 24,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mlUUFkhfyk",
+              "end": 57,
+              "expanded_url": "https://x.com/itoshikinanami/status/1979460657721282982/photo/1",
+              "media_key": "3_1979460650825830401",
+              "start": 34,
+              "url": "https://t.co/mlUUFkhfyk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979460657721282982",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#sayonarazetsubousensei #さよなら絶望先生 https://t.co/mlUUFkhfyk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 482,
+          "like_count": 1503,
+          "listed_count": 2,
+          "media_count": 295,
+          "tweet_count": 5083
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-24T13:26:20.000Z",
+        "description": "",
+        "id": "1959608116724854784",
+        "name": "nanamirin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959720025918439424/B564sVBt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 61,
+          "like_count": 1278,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 36
+        },
+        "username": "itoshikinanami",
+        "verified": false
+      }
+    ]
+  }
+}

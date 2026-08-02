@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880637863714328576"
+      ],
+      "media_source_tweet_id": [
+        "1880637866642202831"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1311766165065142273",
+          "name": "Higurashi When They Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311766165065142273",
+          "name": "Higurashi When They Cry"
+        }
+      }
+    ],
+    "conversation_id": "1881342969720312291",
+    "created_at": "2025-01-20T14:08:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T15:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881342969720312291"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "teto",
+          "probability": 0.462,
+          "start": 19,
+          "type": "Other"
+        },
+        {
+          "end": 32,
+          "normalized_text": "higurashi",
+          "probability": 0.4793,
+          "start": 24,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1570837792820699140",
+          "start": 3,
+          "username": "seacatscrying"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QHdx10VARN",
+          "end": 57,
+          "expanded_url": "https://x.com/seacatscrying/status/1880637866642202831/photo/1",
+          "media_key": "3_1880637863714328576",
+          "start": 34,
+          "url": "https://t.co/QHdx10VARN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881342969720312291",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1669
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880637866642202831",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seacatscrying: teto higurashi https://t.co/QHdx10VARN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1880637863714328576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhleLEnXkAAOwBP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880637863714328576"
+          ],
+          "media_source_tweet_id": [
+            "1880637866642202831"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          }
+        ],
+        "conversation_id": "1881342969720312291",
+        "created_at": "2025-01-20T14:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T15:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881342969720312291"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "teto",
+              "probability": 0.462,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 32,
+              "normalized_text": "higurashi",
+              "probability": 0.4793,
+              "start": 24,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1570837792820699140",
+              "start": 3,
+              "username": "seacatscrying"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QHdx10VARN",
+              "end": 57,
+              "expanded_url": "https://x.com/seacatscrying/status/1880637866642202831/photo/1",
+              "media_key": "3_1880637863714328576",
+              "start": 34,
+              "url": "https://t.co/QHdx10VARN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881342969720312291",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1669
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880637866642202831",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seacatscrying: teto higurashi https://t.co/QHdx10VARN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880637863714328576"
+          ]
+        },
+        "author_id": "1570837792820699140",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          }
+        ],
+        "conversation_id": "1880637866642202831",
+        "created_at": "2025-01-18T15:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T16:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880637866642202831"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "teto",
+              "probability": 0.3862,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 13,
+              "normalized_text": "higurashi",
+              "probability": 0.4495,
+              "start": 5,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QHdx10VARN",
+              "end": 38,
+              "expanded_url": "https://x.com/seacatscrying/status/1880637866642202831/photo/1",
+              "media_key": "3_1880637863714328576",
+              "start": 15,
+              "url": "https://t.co/QHdx10VARN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880637866642202831",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 655,
+          "impression_count": 74320,
+          "like_count": 8458,
+          "quote_count": 27,
+          "reply_count": 21,
+          "retweet_count": 1669
+        },
+        "reply_settings": "everyone",
+        "text": "teto higurashi https://t.co/QHdx10VARN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873724650511110144/1z-X8l1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 300,
+          "like_count": 1041,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 3213
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-16T18:11:39.000Z",
+        "description": "higurashi umineko",
+        "id": "1570837792820699140",
+        "location": "rokkenjima ",
+        "name": "riri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777748682361741312/we-3FebP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4336,
+          "following_count": 43,
+          "like_count": 21139,
+          "listed_count": 6,
+          "media_count": 196,
+          "tweet_count": 275
+        },
+        "username": "seacatscrying",
+        "verified": false
+      }
+    ]
+  }
+}

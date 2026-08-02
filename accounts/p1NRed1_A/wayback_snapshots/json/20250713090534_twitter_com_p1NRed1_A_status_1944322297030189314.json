@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944297305072709633"
+      ],
+      "media_source_tweet_id": [
+        "1944297322328084633"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297717277677166593",
+          "name": "Karaoke"
+        }
+      }
+    ],
+    "conversation_id": "1944322297030189314",
+    "created_at": "2025-07-13T09:05:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T10:05:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944322297030189314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1891880199622623232",
+          "start": 3,
+          "username": "EM2147597626974"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Knr4YaANvj",
+          "end": 53,
+          "expanded_url": "https://x.com/EM2147597626974/status/1944297322328084633/photo/1",
+          "media_key": "3_1944297305072709633",
+          "start": 30,
+          "url": "https://t.co/Knr4YaANvj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944322297030189314",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944297322328084633",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EM2147597626974: カラオケなう‼️ https://t.co/Knr4YaANvj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1906,
+        "media_key": "3_1944297305072709633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvuIGP6bsAEd1Ia.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944297305072709633"
+          ],
+          "media_source_tweet_id": [
+            "1944297322328084633"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "1944322297030189314",
+        "created_at": "2025-07-13T09:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T10:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944322297030189314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1891880199622623232",
+              "start": 3,
+              "username": "EM2147597626974"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Knr4YaANvj",
+              "end": 53,
+              "expanded_url": "https://x.com/EM2147597626974/status/1944297322328084633/photo/1",
+              "media_key": "3_1944297305072709633",
+              "start": 30,
+              "url": "https://t.co/Knr4YaANvj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944322297030189314",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944297322328084633",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EM2147597626974: カラオケなう‼️ https://t.co/Knr4YaANvj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944297305072709633"
+          ]
+        },
+        "author_id": "1891880199622623232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "1944297322328084633",
+        "created_at": "2025-07-13T07:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T08:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944297322328084633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Knr4YaANvj",
+              "end": 32,
+              "expanded_url": "https://x.com/EM2147597626974/status/1944297322328084633/photo/1",
+              "media_key": "3_1944297305072709633",
+              "start": 9,
+              "url": "https://t.co/Knr4YaANvj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944297322328084633",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "カラオケなう‼️ https://t.co/Knr4YaANvj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 415,
+          "like_count": 1257,
+          "listed_count": 1,
+          "media_count": 235,
+          "tweet_count": 4353
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T16:00:09.000Z",
+        "description": "@NzHMObAVlOAuPHo　のサブアカウント、\n主に【雑多垢＆夢垢】なので自衛お願いします\n本垢で繋がっている方は無言フォローする\n可能性が大きいです　#派生阿良々木さん　#派生糸色\n\nこの垢では本当好き勝手します、推しになると\n叫ぶし暴れます、命先生と望先生の夢女子です\n雑食でもある。私が暴れていてもスルーで☆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 88,
+                "start": 79,
+                "tag": "派生阿良々木さん"
+              },
+              {
+                "end": 94,
+                "start": 89,
+                "tag": "派生糸色"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "NzHMObAVlOAuPHo"
+              }
+            ]
+          }
+        },
+        "id": "1891880199622623232",
+        "name": "あかがく！",
+        "pinned_tweet_id": "1920720546246848587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939223134504112128/x7E0rsSv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 365,
+          "like_count": 3228,
+          "listed_count": 3,
+          "media_count": 453,
+          "tweet_count": 3226
+        },
+        "username": "EM2147597626974",
+        "verified": false
+      }
+    ]
+  }
+}

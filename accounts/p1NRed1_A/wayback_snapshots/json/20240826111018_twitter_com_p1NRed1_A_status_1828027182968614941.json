@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1827760076418899968"
+      ],
+      "media_source_tweet_id": [
+        "1827760079958896967"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1828027182968614941",
+    "created_at": "2024-08-26T11:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T12:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828027182968614941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1648777456244101120",
+          "start": 3,
+          "username": "moegeangel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bjazb2npp9",
+          "end": 39,
+          "expanded_url": "https://twitter.com/moegeangel/status/1827760079958896967/photo/1",
+          "media_key": "3_1827760076418899968",
+          "start": 16,
+          "url": "https://t.co/bJazB2npp9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828027182968614941",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827760079958896967",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moegeangel: https://t.co/bJazB2npp9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 754,
+        "media_key": "3_1827760076418899968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GV2CGwmW4AAKBgw.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827760076418899968"
+          ],
+          "media_source_tweet_id": [
+            "1827760079958896967"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1828027182968614941",
+        "created_at": "2024-08-26T11:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T12:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828027182968614941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1648777456244101120",
+              "start": 3,
+              "username": "moegeangel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bjazb2npp9",
+              "end": 39,
+              "expanded_url": "https://twitter.com/moegeangel/status/1827760079958896967/photo/1",
+              "media_key": "3_1827760076418899968",
+              "start": 16,
+              "url": "https://t.co/bJazB2npp9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828027182968614941",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827760079958896967",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moegeangel: https://t.co/bJazB2npp9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827760076418899968"
+          ]
+        },
+        "author_id": "1648777456244101120",
+        "conversation_id": "1827760079958896967",
+        "created_at": "2024-08-25T17:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T18:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827760079958896967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bjazb2npp9",
+              "end": 23,
+              "expanded_url": "https://twitter.com/moegeangel/status/1827760079958896967/photo/1",
+              "media_key": "3_1827760076418899968",
+              "start": 0,
+              "url": "https://t.co/bJazB2npp9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827760079958896967",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 11836,
+          "like_count": 657,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bJazB2npp9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 262,
+          "like_count": 798,
+          "listed_count": 0,
+          "tweet_count": 2589
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-19T19:56:00.000Z",
+        "description": "boyfriend lover!!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arab.org/click-to-help/…",
+                "end": 23,
+                "expanded_url": "https://arab.org/click-to-help/palestine/",
+                "start": 0,
+                "url": "https://t.co/OeCU32XhUX"
+              }
+            ]
+          }
+        },
+        "id": "1648777456244101120",
+        "location": "she | ♡ @seb0zero",
+        "name": "s ໒꒱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826462009036271616/2DX7SB8p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 175,
+          "like_count": 8209,
+          "listed_count": 4,
+          "tweet_count": 2412
+        },
+        "url": "https://t.co/OeCU32XhUX",
+        "username": "moegeangel",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1847173258568982904",
+    "created_at": "2024-10-19T12:19:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-19T13:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847613448726908947"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "bluesky",
+          "probability": 0.7512,
+          "start": 10,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "827434202748456960",
+          "start": 0,
+          "username": "mqtztsxy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847613448726908947",
+    "in_reply_to_user_id": "827434202748456960",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847177026249404712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mqtztsxy bluesky"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1847173258568982904",
+        "created_at": "2024-10-19T12:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T13:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847613448726908947"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "bluesky",
+              "probability": 0.7512,
+              "start": 10,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "827434202748456960",
+              "start": 0,
+              "username": "mqtztsxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847613448726908947",
+        "in_reply_to_user_id": "827434202748456960",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847177026249404712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mqtztsxy bluesky"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "827434202748456960",
+        "conversation_id": "1847173258568982904",
+        "created_at": "2024-10-18T07:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-18T08:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847177026249404712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847177026249404712",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847173258568982904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 哪儿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 285,
+          "like_count": 965,
+          "listed_count": 0,
+          "tweet_count": 2990
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-03T08:31:01.000Z",
+        "description": "夕焼けをじっと待っている",
+        "id": "827434202748456960",
+        "location": "迎着阳光盛大逃亡",
+        "name": "顿河畔的夏天",
+        "pinned_tweet_id": "1833356924500468054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785378141609074688/1dK7-YIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 1379,
+          "like_count": 64305,
+          "listed_count": 2,
+          "tweet_count": 20278
+        },
+        "username": "mqtztsxy",
+        "verified": false
+      }
+    ]
+  }
+}

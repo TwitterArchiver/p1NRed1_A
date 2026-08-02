@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_569844635036434432"
+      ],
+      "media_source_tweet_id": [
+        "569844646580322305"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "2071459282273632662",
+    "created_at": "2026-06-29T05:02:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T06:02:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071459282273632662"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 52,
+          "start": 43,
+          "tag": "さよなら絶望先生"
+        },
+        {
+          "end": 57,
+          "start": 53,
+          "tag": "マステ"
+        },
+        {
+          "end": 62,
+          "start": 58,
+          "tag": "望カフ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1617640981",
+          "start": 3,
+          "username": "knboukkk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9nb8GRoZ2w",
+          "end": 85,
+          "expanded_url": "https://x.com/knboukkk/status/569844646580322305/photo/1",
+          "media_key": "3_569844635036434432",
+          "start": 63,
+          "url": "http://t.co/9nb8GRoZ2w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071459282273632662",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "569844646580322305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @knboukkk: ｢一緒に心中しよう｣\n｢違います。身長を伸ばすんです！｣\n#さよなら絶望先生 #マステ #望カフ http://t.co/9nb8GRoZ2w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1022,
+        "media_key": "3_569844635036434432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/B-h-rSiCQAA9ap8.jpg",
+        "width": 779
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_569844635036434432"
+          ],
+          "media_source_tweet_id": [
+            "569844646580322305"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "2071459282273632662",
+        "created_at": "2026-06-29T05:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T06:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071459282273632662"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 43,
+              "tag": "さよなら絶望先生"
+            },
+            {
+              "end": 57,
+              "start": 53,
+              "tag": "マステ"
+            },
+            {
+              "end": 62,
+              "start": 58,
+              "tag": "望カフ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1617640981",
+              "start": 3,
+              "username": "knboukkk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9nb8GRoZ2w",
+              "end": 85,
+              "expanded_url": "https://x.com/knboukkk/status/569844646580322305/photo/1",
+              "media_key": "3_569844635036434432",
+              "start": 63,
+              "url": "http://t.co/9nb8GRoZ2w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071459282273632662",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "569844646580322305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @knboukkk: ｢一緒に心中しよう｣\n｢違います。身長を伸ばすんです！｣\n#さよなら絶望先生 #マステ #望カフ http://t.co/9nb8GRoZ2w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_569844635036434432"
+          ]
+        },
+        "author_id": "1617640981",
+        "conversation_id": "569844646580322305",
+        "created_at": "2015-02-23T13:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2015-02-23T13:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "569844646580322305"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 29,
+              "tag": "さよなら絶望先生"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "マステ"
+            },
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "望カフ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9nb8GRoZ2w",
+              "end": 71,
+              "expanded_url": "https://x.com/knboukkk/status/569844646580322305/photo/1",
+              "media_key": "3_569844635036434432",
+              "start": 49,
+              "url": "http://t.co/9nb8GRoZ2w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "569844646580322305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "｢一緒に心中しよう｣\n｢違います。身長を伸ばすんです！｣\n#さよなら絶望先生 #マステ #望カフ http://t.co/9nb8GRoZ2w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 584,
+          "like_count": 1687,
+          "listed_count": 3,
+          "media_count": 387,
+          "tweet_count": 6493
+        },
+        "url": "",
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-24T12:08:16.000Z",
+        "description": "あつ森･ﾏｽﾃ･ｱｲﾏｽ･BLEACH//塩見周子･ﾛｯｸ･ｻﾞ･ﾋﾞｰﾄ//ほぼ育児ﾂｲ･ｶﾞﾁｬ報告垢//トシカイに脳を溶かされた",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/knboukkk",
+                "end": 23,
+                "expanded_url": "http://twpf.jp/knboukkk",
+                "start": 0,
+                "url": "https://t.co/j0zYSAX36y"
+              }
+            ]
+          }
+        },
+        "id": "1617640981",
+        "location": "日本",
+        "name": "原( ˘ω˘ )",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734166949138190336/11421DNw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 171,
+          "like_count": 7711,
+          "listed_count": 7,
+          "media_count": 1519,
+          "tweet_count": 11644
+        },
+        "url": "https://t.co/j0zYSAX36y",
+        "username": "knboukkk",
+        "verified": false
+      }
+    ]
+  }
+}

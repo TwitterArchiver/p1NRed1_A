@@ -1,0 +1,181 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1802034854261072159",
+    "created_at": "2024-06-15T17:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T18:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802035994608517341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1456872541952229379",
+          "start": 0,
+          "username": "txqv3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802035994608517341",
+    "in_reply_to_user_id": "1456872541952229379",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802035672444002787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@txqv3 怎么可能卖呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1802034854261072159",
+        "created_at": "2024-06-15T17:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T18:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802035994608517341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1456872541952229379",
+              "start": 0,
+              "username": "txqv3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802035994608517341",
+        "in_reply_to_user_id": "1456872541952229379",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802035672444002787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@txqv3 怎么可能卖呢"
+      },
+      {
+        "attachments": {},
+        "author_id": "1456872541952229379",
+        "conversation_id": "1802034854261072159",
+        "created_at": "2024-06-15T17:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T18:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802035672444002787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802035672444002787",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802034854261072159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 所以卖不卖（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802034669124485120/8vBZzTX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 181,
+          "like_count": 358,
+          "listed_count": 0,
+          "tweet_count": 1424
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-06T06:34:26.000Z",
+        "description": "从梦的世界里跑出来的梦梦……那个现实世界的怎么会是我，我只在梦里对吧？唔～要是大家一起去美梦里永远在一起生活该多好……交朋友其实很难……而且我也没多少精力……",
+        "id": "1456872541952229379",
+        "location": "梦之岛",
+        "name": "躲在被子里的梦梦",
+        "pinned_tweet_id": "1582751880924389376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791346022238834688/F98krNGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 343,
+          "like_count": 24860,
+          "listed_count": 1,
+          "tweet_count": 5282
+        },
+        "username": "txqv3",
+        "verified": false
+      }
+    ]
+  }
+}

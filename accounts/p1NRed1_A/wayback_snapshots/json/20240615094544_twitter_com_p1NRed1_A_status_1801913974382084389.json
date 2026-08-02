@@ -1,0 +1,273 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1801721523201576962"
+      ],
+      "media_source_tweet_id": [
+        "1801721535268589866"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1801913974382084389",
+    "created_at": "2024-06-15T09:45:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T10:45:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801913974382084389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1216694145848233984",
+          "start": 3,
+          "username": "XiledMarcus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/OHB7455nk1",
+          "end": 40,
+          "expanded_url": "https://twitter.com/XiledMarcus/status/1801721535268589866/video/1",
+          "media_key": "7_1801721523201576962",
+          "start": 17,
+          "url": "https://t.co/OHB7455nk1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801913974382084389",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2452
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801721535268589866",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XiledMarcus: https://t.co/OHB7455nk1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9984,
+        "height": 1024,
+        "media_key": "7_1801721523201576962",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1801721523201576962/pu/img/1AFm_giZ_IYAGwmL.jpg",
+        "public_metrics": {
+          "view_count": 143700
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1801721523201576962/pu/vid/avc1/320x568/ls935l10jzEoOvOS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1801721523201576962/pu/vid/avc1/480x852/vyt9-x8Yny-CMsw9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1801721523201576962/pu/vid/avc1/576x1024/AnfpVkLcZATR-pAg.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1801721523201576962/pu/pl/QZMqafs4kasNgTfT.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1801721523201576962"
+          ],
+          "media_source_tweet_id": [
+            "1801721535268589866"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1801913974382084389",
+        "created_at": "2024-06-15T09:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T10:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801913974382084389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1216694145848233984",
+              "start": 3,
+              "username": "XiledMarcus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/OHB7455nk1",
+              "end": 40,
+              "expanded_url": "https://twitter.com/XiledMarcus/status/1801721535268589866/video/1",
+              "media_key": "7_1801721523201576962",
+              "start": 17,
+              "url": "https://t.co/OHB7455nk1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801913974382084389",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2452
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801721535268589866",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XiledMarcus: https://t.co/OHB7455nk1"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1801721523201576962"
+          ]
+        },
+        "author_id": "1216694145848233984",
+        "conversation_id": "1801721535268589866",
+        "created_at": "2024-06-14T21:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T22:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801721535268589866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/OHB7455nk1",
+              "end": 23,
+              "expanded_url": "https://twitter.com/XiledMarcus/status/1801721535268589866/video/1",
+              "media_key": "7_1801721523201576962",
+              "start": 0,
+              "url": "https://t.co/OHB7455nk1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801721535268589866",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1159,
+          "impression_count": 231395,
+          "like_count": 11883,
+          "quote_count": 146,
+          "reply_count": 83,
+          "retweet_count": 2452
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OHB7455nk1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801541330096820224/OMU5aWp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 179,
+          "like_count": 355,
+          "listed_count": 0,
+          "tweet_count": 1405
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-13T12:11:17.000Z",
+        "description": "Member of @XGNOfficial of division @TXIGaming. Kasane Teto fan. Header by @lucywood723. Awesome sauce user. 𝓕𝓻𝓮𝓪𝓴𝔂! #tetotwt.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 124,
+                "start": 116,
+                "tag": "tetotwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "XGNOfficial"
+              },
+              {
+                "end": 45,
+                "start": 35,
+                "username": "TXIGaming"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lucywood723"
+              }
+            ]
+          }
+        },
+        "id": "1216694145848233984",
+        "name": "XGN Marcus",
+        "pinned_tweet_id": "1793740490984325401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799153146759139328/p94QQv-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 401,
+          "like_count": 23797,
+          "listed_count": 9,
+          "tweet_count": 5624
+        },
+        "username": "XiledMarcus",
+        "verified": false
+      }
+    ]
+  }
+}

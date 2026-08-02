@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1916588241421234177",
+        "3_1916588241391902720",
+        "3_1916588241429667840",
+        "3_1916588241400287232"
+      ],
+      "media_source_tweet_id": [
+        "1916588254234869974",
+        "1916588254234869974",
+        "1916588254234869974",
+        "1916588254234869974"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1916724843913023934",
+    "created_at": "2025-04-28T05:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T06:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916724843913023934"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "由岐由岐",
+          "probability": 0.5205,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 19,
+          "tag": "素晴らしき日々"
+        },
+        {
+          "end": 37,
+          "start": 28,
+          "tag": "subahibi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1582889727694295041",
+          "start": 3,
+          "username": "xwivivi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eKBQlPCO3f",
+          "end": 61,
+          "expanded_url": "https://x.com/xwivivi/status/1916588254234869974/photo/1",
+          "media_key": "3_1916588241421234177",
+          "start": 38,
+          "url": "https://t.co/eKBQlPCO3f"
+        },
+        {
+          "display_url": "pic.x.com/eKBQlPCO3f",
+          "end": 61,
+          "expanded_url": "https://x.com/xwivivi/status/1916588254234869974/photo/1",
+          "media_key": "3_1916588241391902720",
+          "start": 38,
+          "url": "https://t.co/eKBQlPCO3f"
+        },
+        {
+          "display_url": "pic.x.com/eKBQlPCO3f",
+          "end": 61,
+          "expanded_url": "https://x.com/xwivivi/status/1916588254234869974/photo/1",
+          "media_key": "3_1916588241429667840",
+          "start": 38,
+          "url": "https://t.co/eKBQlPCO3f"
+        },
+        {
+          "display_url": "pic.x.com/eKBQlPCO3f",
+          "end": 61,
+          "expanded_url": "https://x.com/xwivivi/status/1916588254234869974/photo/1",
+          "media_key": "3_1916588241400287232",
+          "start": 38,
+          "url": "https://t.co/eKBQlPCO3f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916724843913023934",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916588254234869974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xwivivi: 由岐由岐\n\n#素晴らしき日々 #subahibi https://t.co/eKBQlPCO3f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1916588241421234177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpkW2d6acAEmcvP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1916588241391902720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpkW2dza4AAAV9y.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1916588241429667840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpkW2d8bIAAgXCU.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1916588241400287232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpkW2d1a0AApl-a.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916588241421234177",
+            "3_1916588241391902720",
+            "3_1916588241429667840",
+            "3_1916588241400287232"
+          ],
+          "media_source_tweet_id": [
+            "1916588254234869974",
+            "1916588254234869974",
+            "1916588254234869974",
+            "1916588254234869974"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1916724843913023934",
+        "created_at": "2025-04-28T05:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T06:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916724843913023934"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "由岐由岐",
+              "probability": 0.5205,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 19,
+              "tag": "素晴らしき日々"
+            },
+            {
+              "end": 37,
+              "start": 28,
+              "tag": "subahibi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1582889727694295041",
+              "start": 3,
+              "username": "xwivivi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eKBQlPCO3f",
+              "end": 61,
+              "expanded_url": "https://x.com/xwivivi/status/1916588254234869974/photo/1",
+              "media_key": "3_1916588241421234177",
+              "start": 38,
+              "url": "https://t.co/eKBQlPCO3f"
+            },
+            {
+              "display_url": "pic.x.com/eKBQlPCO3f",
+              "end": 61,
+              "expanded_url": "https://x.com/xwivivi/status/1916588254234869974/photo/1",
+              "media_key": "3_1916588241391902720",
+              "start": 38,
+              "url": "https://t.co/eKBQlPCO3f"
+            },
+            {
+              "display_url": "pic.x.com/eKBQlPCO3f",
+              "end": 61,
+              "expanded_url": "https://x.com/xwivivi/status/1916588254234869974/photo/1",
+              "media_key": "3_1916588241429667840",
+              "start": 38,
+              "url": "https://t.co/eKBQlPCO3f"
+            },
+            {
+              "display_url": "pic.x.com/eKBQlPCO3f",
+              "end": 61,
+              "expanded_url": "https://x.com/xwivivi/status/1916588254234869974/photo/1",
+              "media_key": "3_1916588241400287232",
+              "start": 38,
+              "url": "https://t.co/eKBQlPCO3f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916724843913023934",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916588254234869974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xwivivi: 由岐由岐\n\n#素晴らしき日々 #subahibi https://t.co/eKBQlPCO3f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916588241421234177",
+            "3_1916588241391902720",
+            "3_1916588241429667840",
+            "3_1916588241400287232"
+          ]
+        },
+        "author_id": "1582889727694295041",
+        "conversation_id": "1916588254234869974",
+        "created_at": "2025-04-27T20:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T21:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916588254234869974"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "由岐由岐",
+              "probability": 0.5852,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 6,
+              "tag": "素晴らしき日々"
+            },
+            {
+              "end": 24,
+              "start": 15,
+              "tag": "subahibi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eKBQlPCO3f",
+              "end": 48,
+              "expanded_url": "https://x.com/xwivivi/status/1916588254234869974/photo/1",
+              "media_key": "3_1916588241421234177",
+              "start": 25,
+              "url": "https://t.co/eKBQlPCO3f"
+            },
+            {
+              "display_url": "pic.x.com/eKBQlPCO3f",
+              "end": 48,
+              "expanded_url": "https://x.com/xwivivi/status/1916588254234869974/photo/1",
+              "media_key": "3_1916588241391902720",
+              "start": 25,
+              "url": "https://t.co/eKBQlPCO3f"
+            },
+            {
+              "display_url": "pic.x.com/eKBQlPCO3f",
+              "end": 48,
+              "expanded_url": "https://x.com/xwivivi/status/1916588254234869974/photo/1",
+              "media_key": "3_1916588241429667840",
+              "start": 25,
+              "url": "https://t.co/eKBQlPCO3f"
+            },
+            {
+              "display_url": "pic.x.com/eKBQlPCO3f",
+              "end": 48,
+              "expanded_url": "https://x.com/xwivivi/status/1916588254234869974/photo/1",
+              "media_key": "3_1916588241400287232",
+              "start": 25,
+              "url": "https://t.co/eKBQlPCO3f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916588254234869974",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2100,
+          "like_count": 90,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "由岐由岐\n\n#素晴らしき日々 #subahibi https://t.co/eKBQlPCO3f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 388,
+          "like_count": 1175,
+          "listed_count": 1,
+          "media_count": 200,
+          "tweet_count": 3682
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-20T00:23:01.000Z",
+        "description": "小包包一枚🫶是本人 感觉不会经常更新啊..",
+        "id": "1582889727694295041",
+        "name": "小包包一枚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892525705927299072/yEGOGu05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 73,
+          "like_count": 625,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 33
+        },
+        "username": "xwivivi",
+        "verified": false
+      }
+    ]
+  }
+}

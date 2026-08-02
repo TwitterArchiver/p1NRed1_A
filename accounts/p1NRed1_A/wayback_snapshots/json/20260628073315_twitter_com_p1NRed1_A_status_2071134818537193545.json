@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2071132218752487473",
+    "created_at": "2026-06-28T07:33:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T08:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071134818537193545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1560919356380327936",
+          "start": 0,
+          "username": "wurenLtd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071134818537193545",
+    "in_reply_to_user_id": "1560919356380327936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071134655127113871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wurenLtd 等会吧"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2071134655127113871].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2071134655127113871",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2071134655127113871"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2071132218752487473",
+        "created_at": "2026-06-28T07:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T08:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071134818537193545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1560919356380327936",
+              "start": 0,
+              "username": "wurenLtd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071134818537193545",
+        "in_reply_to_user_id": "1560919356380327936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071134655127113871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wurenLtd 等会吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 573,
+          "like_count": 1677,
+          "listed_count": 3,
+          "media_count": 383,
+          "tweet_count": 6450
+        },
+        "url": "",
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-20T09:19:15.000Z",
+        "description": "关于我是谁\n回我fo有惊喜\n碎碎念罢了\n如果你能从这之中构建我之整体印象，务必跟我讲",
+        "id": "1560919356380327936",
+        "location": "Cayman Islands",
+        "name": "冇人",
+        "pinned_tweet_id": "1908023813562061217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058394074915454976/BAGIZ5j9_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 339,
+          "like_count": 987,
+          "listed_count": 0,
+          "media_count": 997,
+          "tweet_count": 4307
+        },
+        "url": "",
+        "username": "wurenLtd",
+        "verified": false
+      }
+    ]
+  }
+}

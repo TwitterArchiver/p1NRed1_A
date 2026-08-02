@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1900432552160055377",
+    "created_at": "2025-03-14T06:23:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T07:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900432552160055377"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/uramu147234/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/uramu147234/status/1900426166353485935",
+          "start": 7,
+          "url": "https://t.co/CCMMvztjJh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900432552160055377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900426166353485935",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "和这个人玩吧 https://t.co/CCMMvztjJh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1714,
+        "media_key": "3_1900426154504577024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl-rhMUbYAASiDO.jpg",
+        "width": 1221
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1900432552160055377",
+        "created_at": "2025-03-14T06:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T07:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900432552160055377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/uramu147234/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/uramu147234/status/1900426166353485935",
+              "start": 7,
+              "url": "https://t.co/CCMMvztjJh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900432552160055377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900426166353485935",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和这个人玩吧 https://t.co/CCMMvztjJh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900426154504577024"
+          ]
+        },
+        "author_id": "1896615147671781376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1900426166353485935",
+        "created_at": "2025-03-14T05:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T06:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900426166353485935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vgMgKEvzkZ",
+              "end": 47,
+              "expanded_url": "https://x.com/uramu147234/status/1900426166353485935/photo/1",
+              "media_key": "3_1900426154504577024",
+              "start": 24,
+              "url": "https://t.co/vgMgKEvzkZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900426166353485935",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是扩列图和属性图!!(ˊo̶̶̷ᴗo̶̶̷`) https://t.co/vgMgKEvzkZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889564810410627072/YnTsykE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 323,
+          "like_count": 1082,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3317
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T17:35:04.000Z",
+        "description": "请叫我小恨！是喜欢漫画和音乐的一般路过oc人 oc/漫画/visual kei/泛亚文化 喜欢的漫画是烙印战士 喜欢的盘是DIR EN GREY 👁️我不是机器 我是活的👁️",
+        "id": "1896615147671781376",
+        "name": "uramu",
+        "pinned_tweet_id": "1900426166353485935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900240755811377158/zeBxC9wF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 33,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 12
+        },
+        "username": "uramu147234",
+        "verified": false
+      }
+    ]
+  }
+}

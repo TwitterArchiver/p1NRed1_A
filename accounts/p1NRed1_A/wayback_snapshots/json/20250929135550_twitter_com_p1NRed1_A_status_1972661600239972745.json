@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1963043208411373568"
+      ],
+      "media_source_tweet_id": [
+        "1963043262480187694"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1972661600239972745",
+    "created_at": "2025-09-29T13:55:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T14:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972661600239972745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "797439291752378368",
+          "start": 3,
+          "username": "lover_ning"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xOmPUH4N2m",
+          "end": 39,
+          "expanded_url": "https://x.com/lover_ning/status/1963043262480187694/video/1",
+          "media_key": "13_1963043208411373568",
+          "start": 16,
+          "url": "https://t.co/xOmPUH4N2m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972661600239972745",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 150
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963043262480187694",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lover_ning: https://t.co/xOmPUH4N2m"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1972661600239972745].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1972661600239972745",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1972661600239972745"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10541,
+        "height": 960,
+        "media_key": "13_1963043208411373568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1963043208411373568/img/je7Q2UTVYmUCejd6.jpg",
+        "public_metrics": {
+          "view_count": 101701
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963043208411373568/vid/avc1/320x426/IXpebXuIGaBWAkje.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963043208411373568/vid/avc1/480x640/VmJBXHrI_6BGXGUa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963043208411373568/vid/avc1/720x960/Vq86Bb_zv_5-pa91.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1963043208411373568/pl/tqIObYsmQsAoblyB.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1963043208411373568"
+          ]
+        },
+        "author_id": "797439291752378368",
+        "conversation_id": "1963043262480187694",
+        "created_at": "2025-09-03T00:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T01:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963043262480187694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xOmPUH4N2m",
+              "end": 23,
+              "expanded_url": "https://x.com/lover_ning/status/1963043262480187694/video/1",
+              "media_key": "13_1963043208411373568",
+              "start": 0,
+              "url": "https://t.co/xOmPUH4N2m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963043262480187694",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 271,
+          "impression_count": 224339,
+          "like_count": 1599,
+          "quote_count": 41,
+          "reply_count": 149,
+          "retweet_count": 150
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xOmPUH4N2m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 459,
+          "like_count": 1442,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 4840
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-12T14:01:57.000Z",
+        "description": "本号偏猎奇向，谨慎关注 / 日常号@SUZUdesu111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "SUZUdesu111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "onion03.vip/?channelid=145…",
+                "end": 23,
+                "expanded_url": "https://onion03.vip?channelid=14532&tid=562324&type=7&system=1",
+                "start": 0,
+                "url": "https://t.co/V6J2FWCXht"
+              }
+            ]
+          }
+        },
+        "id": "797439291752378368",
+        "location": "免费VPN👉🏼",
+        "name": "SUZU",
+        "pinned_tweet_id": "1970317413502853194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746648879364501505/tSGXif8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233861,
+          "following_count": 108,
+          "like_count": 33469,
+          "listed_count": 440,
+          "media_count": 3205,
+          "tweet_count": 28151
+        },
+        "url": "https://t.co/V6J2FWCXht",
+        "username": "lover_ning",
+        "verified": false
+      }
+    ]
+  }
+}

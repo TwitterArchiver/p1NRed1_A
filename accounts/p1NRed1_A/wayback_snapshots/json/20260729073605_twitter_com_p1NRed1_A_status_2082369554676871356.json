@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082369545357189120"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "2082369554676871356",
+    "created_at": "2026-07-29T07:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T08:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082369554676871356"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5PYcQEd6Vg",
+          "end": 35,
+          "expanded_url": "https://x.com/p1NRed1_A/status/2082369554676871356/photo/1",
+          "media_key": "3_2082369545357189120",
+          "start": 12,
+          "url": "https://t.co/5PYcQEd6Vg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082369554676871356",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "下午好我有普瑞巴林舌钉 https://t.co/5PYcQEd6Vg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2082369545357189120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYQEZIbYAAKUYV.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082369545357189120"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "2082369554676871356",
+        "created_at": "2026-07-29T07:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082369554676871356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5PYcQEd6Vg",
+              "end": 35,
+              "expanded_url": "https://x.com/p1NRed1_A/status/2082369554676871356/photo/1",
+              "media_key": "3_2082369545357189120",
+              "start": 12,
+              "url": "https://t.co/5PYcQEd6Vg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082369554676871356",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下午好我有普瑞巴林舌钉 https://t.co/5PYcQEd6Vg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/9GooAZ0z7o"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "死全家星",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076577294790139904/Fz-jPCGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 592,
+          "like_count": 1806,
+          "listed_count": 3,
+          "media_count": 449,
+          "tweet_count": 7217
+        },
+        "url": "https://t.co/9GooAZ0z7o",
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

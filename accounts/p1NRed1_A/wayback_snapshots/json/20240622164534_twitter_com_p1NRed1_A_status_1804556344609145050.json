@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1804522860964434363",
+    "created_at": "2024-06-22T16:45:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-22T17:45:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804556344609145050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1753324501167960064",
+          "start": 0,
+          "username": "tachibanalove01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804556344609145050",
+    "in_reply_to_user_id": "1753324501167960064",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804522860964434363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tachibanalove01 雄性中的雄性男人中的男人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1804522860964434363",
+        "created_at": "2024-06-22T16:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T17:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804556344609145050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1753324501167960064",
+              "start": 0,
+              "username": "tachibanalove01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804556344609145050",
+        "in_reply_to_user_id": "1753324501167960064",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804522860964434363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tachibanalove01 雄性中的雄性男人中的男人"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804522853817278464"
+          ]
+        },
+        "author_id": "1753324501167960064",
+        "conversation_id": "1804522860964434363",
+        "created_at": "2024-06-22T14:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T15:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804522860964434363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/b79bIjw85J",
+              "end": 28,
+              "expanded_url": "https://twitter.com/tachibanalove01/status/1804522860964434363/photo/1",
+              "media_key": "3_1804522853817278464",
+              "start": 5,
+              "url": "https://t.co/b79bIjw85J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804522860964434363",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/b79bIjw85J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802900561299472385/3G9b9zhq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 192,
+          "like_count": 398,
+          "listed_count": 0,
+          "tweet_count": 1654
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T07:48:51.000Z",
+        "description": "自分らしく",
+        "id": "1753324501167960064",
+        "location": "精神病院",
+        "name": "穗西德",
+        "pinned_tweet_id": "1796892542082088992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796493551007858689/Vah5drK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 269,
+          "like_count": 1364,
+          "listed_count": 0,
+          "tweet_count": 1114
+        },
+        "username": "tachibanalove01",
+        "verified": false
+      }
+    ]
+  }
+}

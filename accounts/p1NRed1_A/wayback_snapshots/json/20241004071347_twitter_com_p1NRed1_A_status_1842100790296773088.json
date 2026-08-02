@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1841776312400412727",
+    "created_at": "2024-10-04T07:13:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-04T08:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842100790296773088"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "小夜萌萌",
+          "probability": 0.419,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1558547901164318728",
+          "start": 0,
+          "username": "saiyadayoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842100790296773088",
+    "in_reply_to_user_id": "1558547901164318728",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841776312400412727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saiyadayoo 室友好小夜萌萌的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1841776312400412727",
+        "created_at": "2024-10-04T07:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T08:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842100790296773088"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "小夜萌萌",
+              "probability": 0.419,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1558547901164318728",
+              "start": 0,
+              "username": "saiyadayoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842100790296773088",
+        "in_reply_to_user_id": "1558547901164318728",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841776312400412727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saiyadayoo 室友好小夜萌萌的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841776309459984384"
+          ]
+        },
+        "author_id": "1558547901164318728",
+        "conversation_id": "1841776312400412727",
+        "created_at": "2024-10-03T09:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T10:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841776312400412727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8eIuJbOJS3",
+              "end": 33,
+              "expanded_url": "https://x.com/saiyadayoo/status/1841776312400412727/photo/1",
+              "media_key": "3_1841776309459984384",
+              "start": 10,
+              "url": "https://t.co/8eIuJbOJS3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841776312400412727",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 235,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "室友幫我化妝媽媽呀 https://t.co/8eIuJbOJS3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1834534967725998516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 275,
+          "like_count": 906,
+          "listed_count": 0,
+          "tweet_count": 2799
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T20:16:01.000Z",
+        "description": "廢話記錄ʚ✝ɞ繁中/Eng/日本語⭐️ 娃娃和畫 @sayaaadesuwa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "sayaaadesuwa"
+              }
+            ]
+          }
+        },
+        "id": "1558547901164318728",
+        "location": "r-152-6-9-a星球",
+        "name": "ʚ✞ɞ",
+        "pinned_tweet_id": "1838621217030574392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740609908972965888/m5lkpw-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 348,
+          "like_count": 16552,
+          "listed_count": 0,
+          "tweet_count": 7555
+        },
+        "username": "saiyadayoo",
+        "verified": false
+      }
+    ]
+  }
+}

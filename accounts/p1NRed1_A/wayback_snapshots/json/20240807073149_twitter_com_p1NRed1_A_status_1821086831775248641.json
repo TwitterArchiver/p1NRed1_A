@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1820920490438885376"
+      ],
+      "media_source_tweet_id": [
+        "1820920618948186499"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1821086831775248641",
+    "created_at": "2024-08-07T07:31:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-07T08:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821086831775248641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1765541877044875264",
+          "start": 3,
+          "username": "EveryDaioh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/ml2Jq7s2j2",
+          "end": 52,
+          "expanded_url": "https://twitter.com/EveryDaioh/status/1820920618948186499/photo/1",
+          "media_key": "3_1820920490438885376",
+          "start": 29,
+          "url": "https://t.co/ml2Jq7s2j2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821086831775248641",
+    "lang": "in",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 787
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820920618948186499",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EveryDaioh: YURRRIIII!!! https://t.co/ml2Jq7s2j2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 756,
+        "media_key": "3_1820920490438885376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUU1idTXAAAIb7Q.jpg",
+        "width": 1208
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820920490438885376"
+          ],
+          "media_source_tweet_id": [
+            "1820920618948186499"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1821086831775248641",
+        "created_at": "2024-08-07T07:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T08:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821086831775248641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1765541877044875264",
+              "start": 3,
+              "username": "EveryDaioh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ml2Jq7s2j2",
+              "end": 52,
+              "expanded_url": "https://twitter.com/EveryDaioh/status/1820920618948186499/photo/1",
+              "media_key": "3_1820920490438885376",
+              "start": 29,
+              "url": "https://t.co/ml2Jq7s2j2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821086831775248641",
+        "lang": "in",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 787
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820920618948186499",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EveryDaioh: YURRRIIII!!! https://t.co/ml2Jq7s2j2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820920490438885376"
+          ]
+        },
+        "author_id": "1765541877044875264",
+        "conversation_id": "1820920618948186499",
+        "created_at": "2024-08-06T20:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T21:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820920618948186499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ml2Jq7s2j2",
+              "end": 36,
+              "expanded_url": "https://twitter.com/EveryDaioh/status/1820920618948186499/photo/1",
+              "media_key": "3_1820920490438885376",
+              "start": 13,
+              "url": "https://t.co/ml2Jq7s2j2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820920618948186499",
+        "lang": "in",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1611,
+          "impression_count": 84014,
+          "like_count": 8743,
+          "quote_count": 21,
+          "reply_count": 20,
+          "retweet_count": 787
+        },
+        "reply_settings": "everyone",
+        "text": "YURRRIIII!!! https://t.co/ml2Jq7s2j2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563382332014593/-06gBRx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 248,
+          "like_count": 611,
+          "listed_count": 0,
+          "tweet_count": 2262
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T00:56:16.000Z",
+        "description": "Following Anything Azumanga Daioh Related\nDM To Get Followed, Just Be Azumanga Related Things\nOwner: \n@Silly_Kingdom\nHelper: \n@nectoes\nnsfw, pedos, zoo's dni",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 102,
+                "username": "Silly_Kingdom"
+              },
+              {
+                "end": 134,
+                "start": 126,
+                "username": "nectoes"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "finddaioh.straw.page",
+                "end": 23,
+                "expanded_url": "https://finddaioh.straw.page",
+                "start": 0,
+                "url": "https://t.co/TRmIlfnAm7"
+              }
+            ]
+          }
+        },
+        "id": "1765541877044875264",
+        "location": "peace",
+        "name": "Following Every Azumanga Daioh Accounts",
+        "pinned_tweet_id": "1799192851558904108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807861082360336385/QJMZM5Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2880,
+          "following_count": 164,
+          "like_count": 1972,
+          "listed_count": 5,
+          "tweet_count": 2224
+        },
+        "url": "https://t.co/TRmIlfnAm7",
+        "username": "EveryDaioh",
+        "verified": false
+      }
+    ]
+  }
+}

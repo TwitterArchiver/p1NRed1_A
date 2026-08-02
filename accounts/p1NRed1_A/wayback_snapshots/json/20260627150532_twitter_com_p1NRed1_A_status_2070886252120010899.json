@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2070886252120010899",
+    "created_at": "2026-06-27T15:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T16:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070886252120010899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1293074266515099648",
+          "start": 3,
+          "username": "Plaskid_9244"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070886252120010899",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070857803036791267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Plaskid_9244: 失去了所有兴趣现在只想抽根烟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2070886252120010899",
+        "created_at": "2026-06-27T15:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070886252120010899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1293074266515099648",
+              "start": 3,
+              "username": "Plaskid_9244"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070886252120010899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070857803036791267",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Plaskid_9244: 失去了所有兴趣现在只想抽根烟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1293074266515099648",
+        "conversation_id": "2070857803036791267",
+        "created_at": "2026-06-27T13:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070857803036791267"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070857803036791267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "失去了所有兴趣现在只想抽根烟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 573,
+          "like_count": 1671,
+          "listed_count": 3,
+          "media_count": 381,
+          "tweet_count": 6427
+        },
+        "url": "",
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-11T06:38:41.000Z",
+        "description": "一個沒有雙休的三流高中生/我忘了我是EN還是IN/草你媽榮格/Wovon man nicht sprechen kann, darüber muß man schweigen./也許選擇去死/誰是粥作樹？",
+        "id": "1293074266515099648",
+        "location": "Newcastle,UK",
+        "name": "v0dkakillzmyenvyy",
+        "pinned_tweet_id": "1977044514859893148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058415908708818944/WfaauD3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 901,
+          "like_count": 7429,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 1211
+        },
+        "url": "",
+        "username": "Plaskid_9244",
+        "verified": false
+      }
+    ]
+  }
+}

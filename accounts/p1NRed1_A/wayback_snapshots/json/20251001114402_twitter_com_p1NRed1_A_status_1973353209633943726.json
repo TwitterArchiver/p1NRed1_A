@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1973071545091125401",
+    "created_at": "2025-10-01T11:44:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T12:44:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973353209633943726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1761698494493126656",
+          "start": 0,
+          "username": "skmriiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973353209633943726",
+    "in_reply_to_user_id": "1761698494493126656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973071545091125401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skmriiiiiii 好可爱好萌萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1973071528674910209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2HCGf8a4AEDa5q.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1973071528674942976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2HCGf8bYAAGMfy.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1973071545091125401",
+        "created_at": "2025-10-01T11:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T12:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973353209633943726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761698494493126656",
+              "start": 0,
+              "username": "skmriiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973353209633943726",
+        "in_reply_to_user_id": "1761698494493126656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973071545091125401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skmriiiiiii 好可爱好萌萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973071528674910209",
+            "3_1973071528674942976"
+          ]
+        },
+        "author_id": "1761698494493126656",
+        "conversation_id": "1973071545091125401",
+        "created_at": "2025-09-30T17:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T18:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973071545091125401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3xYuU5YEZe",
+              "end": 63,
+              "expanded_url": "https://x.com/skmriiiiiii/status/1973071545091125401/photo/1",
+              "media_key": "3_1973071528674910209",
+              "start": 40,
+              "url": "https://t.co/3xYuU5YEZe"
+            },
+            {
+              "display_url": "pic.x.com/3xYuU5YEZe",
+              "end": 63,
+              "expanded_url": "https://x.com/skmriiiiiii/status/1973071545091125401/photo/1",
+              "media_key": "3_1973071528674942976",
+              "start": 40,
+              "url": "https://t.co/3xYuU5YEZe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973071545091125401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不说别的有的没的了，看看我今天的拼豆吧！\n比起针我还是觉得用镊子更快一些www https://t.co/3xYuU5YEZe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 466,
+          "like_count": 1454,
+          "listed_count": 2,
+          "media_count": 275,
+          "tweet_count": 4882
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T10:24:04.000Z",
+        "description": "君子通达",
+        "id": "1761698494493126656",
+        "location": "M78星云",
+        "name": "サクマ　怜",
+        "pinned_tweet_id": "1937338613215445166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911586842811461632/2HtULLfS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 119,
+          "like_count": 3398,
+          "listed_count": 1,
+          "media_count": 200,
+          "tweet_count": 1345
+        },
+        "username": "skmriiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

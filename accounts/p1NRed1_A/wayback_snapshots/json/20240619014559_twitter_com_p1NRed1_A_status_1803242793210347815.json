@@ -1,0 +1,266 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1803224830424260608"
+      ],
+      "media_source_tweet_id": [
+        "1803224832915677622"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1803242793210347815",
+    "created_at": "2024-06-19T01:45:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T02:45:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803242793210347815"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 81,
+          "start": 67,
+          "tag": "azumangadaioh"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1547446460781772800",
+          "start": 3,
+          "username": "hakosaker"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/KJmBUU7FK6",
+          "end": 105,
+          "expanded_url": "https://twitter.com/hakosaker/status/1803224832915677622/photo/1",
+          "media_key": "3_1803224830424260608",
+          "start": 82,
+          "url": "https://t.co/KJmBUU7FK6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803242793210347815",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803224832915677622",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hakosaker: day 156, she's against the god of gamblers himself\n\n#azumangadaioh https://t.co/KJmBUU7FK6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1494,
+        "media_key": "3_1803224830424260608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQZXbeuaIAAV6lR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1803224830424260608"
+          ],
+          "media_source_tweet_id": [
+            "1803224832915677622"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1803242793210347815",
+        "created_at": "2024-06-19T01:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T02:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803242793210347815"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 67,
+              "tag": "azumangadaioh"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1547446460781772800",
+              "start": 3,
+              "username": "hakosaker"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/KJmBUU7FK6",
+              "end": 105,
+              "expanded_url": "https://twitter.com/hakosaker/status/1803224832915677622/photo/1",
+              "media_key": "3_1803224830424260608",
+              "start": 82,
+              "url": "https://t.co/KJmBUU7FK6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803242793210347815",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803224832915677622",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hakosaker: day 156, she's against the god of gamblers himself\n\n#azumangadaioh https://t.co/KJmBUU7FK6"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1803224830424260608"
+          ]
+        },
+        "author_id": "1547446460781772800",
+        "conversation_id": "1803224832915677622",
+        "created_at": "2024-06-19T00:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T01:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803224832915677622"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 65,
+              "normalized_text": "azumangadaioh",
+              "probability": 0.69,
+              "start": 53,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 52,
+              "tag": "azumangadaioh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/KJmBUU7FK6",
+              "end": 90,
+              "expanded_url": "https://twitter.com/hakosaker/status/1803224832915677622/photo/1",
+              "media_key": "3_1803224830424260608",
+              "start": 67,
+              "url": "https://t.co/KJmBUU7FK6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803224832915677622",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 497,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "day 156, she's against the god of gamblers himself\n\n#azumangadaioh https://t.co/KJmBUU7FK6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802900561299472385/3G9b9zhq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 190,
+          "like_count": 384,
+          "listed_count": 0,
+          "tweet_count": 1603
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-14T05:02:47.000Z",
+        "description": "osaka my beloved",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/en/users/65580…",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/en/users/65580764",
+                "start": 0,
+                "url": "https://t.co/aSMIqUq7uv"
+              }
+            ]
+          }
+        },
+        "id": "1547446460781772800",
+        "location": "Condet",
+        "name": "hako",
+        "pinned_tweet_id": "1779204114775503143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788414878371450880/JtT11BBZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 94,
+          "like_count": 6979,
+          "listed_count": 3,
+          "tweet_count": 1833
+        },
+        "url": "https://t.co/aSMIqUq7uv",
+        "username": "hakosaker",
+        "verified": false
+      }
+    ]
+  }
+}

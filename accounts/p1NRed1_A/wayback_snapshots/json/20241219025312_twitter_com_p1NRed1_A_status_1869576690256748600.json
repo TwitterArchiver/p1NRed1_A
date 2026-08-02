@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1869412557683118080"
+      ],
+      "media_source_tweet_id": [
+        "1869412561189548511"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1869576690256748600",
+    "created_at": "2024-12-19T02:53:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T03:53:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869576690256748600"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "符香",
+          "probability": 0.4855,
+          "start": 34,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1736725311734304768",
+          "start": 3,
+          "username": "huurakahuka1124"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cqIF6eZAy4",
+          "end": 60,
+          "expanded_url": "https://x.com/huurakahuka1124/status/1869412561189548511/photo/1",
+          "media_key": "3_1869412557683118080",
+          "start": 37,
+          "url": "https://t.co/cqIF6eZAy4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869576690256748600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869412561189548511",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huurakahuka1124: 謎に描いたジャージメイド可符香 https://t.co/cqIF6eZAy4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1964,
+        "media_key": "3_1869412557683118080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfF80Q9bUAAojTa.jpg",
+        "width": 1317
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869412557683118080"
+          ],
+          "media_source_tweet_id": [
+            "1869412561189548511"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1869576690256748600",
+        "created_at": "2024-12-19T02:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T03:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869576690256748600"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "符香",
+              "probability": 0.4855,
+              "start": 34,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1736725311734304768",
+              "start": 3,
+              "username": "huurakahuka1124"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cqIF6eZAy4",
+              "end": 60,
+              "expanded_url": "https://x.com/huurakahuka1124/status/1869412561189548511/photo/1",
+              "media_key": "3_1869412557683118080",
+              "start": 37,
+              "url": "https://t.co/cqIF6eZAy4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869576690256748600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869412561189548511",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huurakahuka1124: 謎に描いたジャージメイド可符香 https://t.co/cqIF6eZAy4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869412557683118080"
+          ]
+        },
+        "author_id": "1736725311734304768",
+        "conversation_id": "1869412561189548511",
+        "created_at": "2024-12-18T16:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T17:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869412561189548511"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "符香",
+              "probability": 0.4402,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cqIF6eZAy4",
+              "end": 39,
+              "expanded_url": "https://x.com/huurakahuka1124/status/1869412561189548511/photo/1",
+              "media_key": "3_1869412557683118080",
+              "start": 16,
+              "url": "https://t.co/cqIF6eZAy4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869412561189548511",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1142,
+          "like_count": 122,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "謎に描いたジャージメイド可符香 https://t.co/cqIF6eZAy4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869350138424266753/LAsvqNJx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 296,
+          "like_count": 1031,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 3183
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-18T12:29:38.000Z",
+        "description": "鍵  @sumimasen_0914",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "sumimasen_0914"
+              }
+            ]
+          }
+        },
+        "id": "1736725311734304768",
+        "name": "すみません",
+        "pinned_tweet_id": "1820804915041862120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827705141803556864/tL9YsRs5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 477,
+          "like_count": 35602,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 5401
+        },
+        "username": "huurakahuka1124",
+        "verified": false
+      }
+    ]
+  }
+}

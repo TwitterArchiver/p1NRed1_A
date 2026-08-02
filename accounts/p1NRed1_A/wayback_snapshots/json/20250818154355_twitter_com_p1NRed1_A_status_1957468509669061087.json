@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1957429967194865664"
+      ],
+      "media_source_tweet_id": [
+        "1957430131112411366"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1957468509669061087",
+    "created_at": "2025-08-18T15:43:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T16:43:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957468509669061087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1759812244932902912",
+          "start": 3,
+          "username": "kawaoka_nano_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8B17qS7OAF",
+          "end": 48,
+          "expanded_url": "https://x.com/kawaoka_nano_/status/1957430131112411366/video/1",
+          "media_key": "13_1957429967194865664",
+          "start": 25,
+          "url": "https://t.co/8B17qS7OAF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957468509669061087",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957430131112411366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kawaoka_nano_: メイキング https://t.co/8B17qS7OAF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 93700,
+        "height": 1280,
+        "media_key": "13_1957429967194865664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1957429967194865664/img/CAYcVxFLWZTStdYd.jpg",
+        "public_metrics": {
+          "view_count": 555
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957429967194865664/vid/avc1/320x568/HrcuCHKr2QfVhMgg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957429967194865664/vid/avc1/480x852/0r7fPasjaXwcEj6x.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957429967194865664/vid/avc1/720x1280/Ax0-b9eLoOj5q9UX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1957429967194865664/pl/0WOONfii0n7HnNQk.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1957429967194865664"
+          ],
+          "media_source_tweet_id": [
+            "1957430131112411366"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1957468509669061087",
+        "created_at": "2025-08-18T15:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T16:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957468509669061087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1759812244932902912",
+              "start": 3,
+              "username": "kawaoka_nano_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8B17qS7OAF",
+              "end": 48,
+              "expanded_url": "https://x.com/kawaoka_nano_/status/1957430131112411366/video/1",
+              "media_key": "13_1957429967194865664",
+              "start": 25,
+              "url": "https://t.co/8B17qS7OAF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957468509669061087",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957430131112411366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kawaoka_nano_: メイキング https://t.co/8B17qS7OAF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1957429967194865664"
+          ]
+        },
+        "author_id": "1759812244932902912",
+        "conversation_id": "1957430131112411366",
+        "created_at": "2025-08-18T13:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T14:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957430131112411366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8B17qS7OAF",
+              "end": 29,
+              "expanded_url": "https://x.com/kawaoka_nano_/status/1957430131112411366/video/1",
+              "media_key": "13_1957429967194865664",
+              "start": 6,
+              "url": "https://t.co/8B17qS7OAF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957430131112411366",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 1503,
+          "like_count": 131,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "メイキング https://t.co/8B17qS7OAF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 421,
+          "like_count": 1296,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 4461
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T05:28:46.000Z",
+        "description": "かわおでいいよ！",
+        "id": "1759812244932902912",
+        "location": "ハウス",
+        "name": "どうすりゃええねん",
+        "pinned_tweet_id": "1950125629535404384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907086985631875072/X-gTfiiL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1366,
+          "following_count": 92,
+          "like_count": 9322,
+          "listed_count": 5,
+          "media_count": 147,
+          "tweet_count": 2118
+        },
+        "username": "kawaoka_nano_",
+        "verified": false
+      }
+    ]
+  }
+}

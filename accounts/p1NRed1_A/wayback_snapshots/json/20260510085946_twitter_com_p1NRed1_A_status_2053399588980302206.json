@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2053187058664079475",
+    "created_at": "2026-05-10T08:59:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T09:59:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053399588980302206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2050260982161895425",
+          "start": 0,
+          "username": "wkrlcnml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053399588980302206",
+    "in_reply_to_user_id": "2050260982161895425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053388091617132838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wkrlcnml 阳痿那个养胃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2053187058664079475",
+        "created_at": "2026-05-10T08:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053399588980302206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2050260982161895425",
+              "start": 0,
+              "username": "wkrlcnml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053399588980302206",
+        "in_reply_to_user_id": "2050260982161895425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053388091617132838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wkrlcnml 阳痿那个养胃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050260982161895425",
+        "conversation_id": "2053187058664079475",
+        "created_at": "2026-05-10T08:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053388091617132838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053388091617132838",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053187058664079475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 怎么养的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 561,
+          "like_count": 1652,
+          "listed_count": 3,
+          "media_count": 350,
+          "tweet_count": 6118
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T17:08:13.000Z",
+        "description": "⌯ᵔᗜᵔ⌯ಣ",
+        "id": "2050260982161895425",
+        "location": "熊本 東区",
+        "name": "おめでたいことです。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050276581369909248/BaQ3I2Z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 11,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 189
+        },
+        "username": "wkrlcnml",
+        "verified": false
+      }
+    ]
+  }
+}

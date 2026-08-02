@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962374349589200896",
+        "3_1962374349606010880"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1962374361274634394",
+    "created_at": "2025-09-01T04:38:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T05:38:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962374361274634394"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h57XfziOgU",
+          "end": 40,
+          "expanded_url": "https://x.com/p1NRed1_A/status/1962374361274634394/photo/1",
+          "media_key": "3_1962374349589200896",
+          "start": 17,
+          "url": "https://t.co/h57XfziOgU"
+        },
+        {
+          "display_url": "pic.x.com/h57XfziOgU",
+          "end": 40,
+          "expanded_url": "https://x.com/p1NRed1_A/status/1962374361274634394/photo/1",
+          "media_key": "3_1962374349606010880",
+          "start": 17,
+          "url": "https://t.co/h57XfziOgU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962374361274634394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这么多卡能否换一张可符香呵呵？？ https://t.co/h57XfziOgU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1962374349589200896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzvBEueaQAA9pwU.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1962374349606010880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzvBEuiawAApE1J.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962374349589200896",
+            "3_1962374349606010880"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1962374361274634394",
+        "created_at": "2025-09-01T04:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T05:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962374361274634394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h57XfziOgU",
+              "end": 40,
+              "expanded_url": "https://x.com/p1NRed1_A/status/1962374361274634394/photo/1",
+              "media_key": "3_1962374349589200896",
+              "start": 17,
+              "url": "https://t.co/h57XfziOgU"
+            },
+            {
+              "display_url": "pic.x.com/h57XfziOgU",
+              "end": 40,
+              "expanded_url": "https://x.com/p1NRed1_A/status/1962374361274634394/photo/1",
+              "media_key": "3_1962374349606010880",
+              "start": 17,
+              "url": "https://t.co/h57XfziOgU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962374361274634394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这么多卡能否换一张可符香呵呵？？ https://t.co/h57XfziOgU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 440,
+          "like_count": 1344,
+          "listed_count": 2,
+          "media_count": 256,
+          "tweet_count": 4601
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

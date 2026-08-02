@@ -1,0 +1,307 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "16_1797668441266020353"
+      ],
+      "media_source_tweet_id": [
+        "1797668554986475540"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1797972705570116071",
+    "created_at": "2024-06-04T12:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-04T13:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797972705570116071"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 33,
+          "tag": "omori"
+        },
+        {
+          "end": 54,
+          "start": 40,
+          "tag": "AzumangaDaioh"
+        },
+        {
+          "end": 63,
+          "start": 55,
+          "tag": "あずまんが大王"
+        },
+        {
+          "end": 74,
+          "start": 64,
+          "tag": "omorigame"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1742343887014780928",
+          "start": 3,
+          "username": "ratqng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/GYOMqvLJ3P",
+          "end": 98,
+          "expanded_url": "https://twitter.com/ratqng/status/1797668554986475540/photo/1",
+          "media_key": "16_1797668441266020353",
+          "start": 75,
+          "url": "https://t.co/GYOMqvLJ3P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797972705570116071",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 319
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797668554986475540",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ratqng: Azumori Finale Pt 1 \n#omori #AzumangaDaioh #あずまんが大王 #omorigame https://t.co/GYOMqvLJ3P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 714,
+        "media_key": "16_1797668441266020353",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GPKZ7EGXYAEOQQ2.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GPKZ7EGXYAEOQQ2.mp4"
+          }
+        ],
+        "width": 724
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "16_1797668441266020353"
+          ],
+          "media_source_tweet_id": [
+            "1797668554986475540"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1797972705570116071",
+        "created_at": "2024-06-04T12:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-04T13:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797972705570116071"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 33,
+              "tag": "omori"
+            },
+            {
+              "end": 54,
+              "start": 40,
+              "tag": "AzumangaDaioh"
+            },
+            {
+              "end": 63,
+              "start": 55,
+              "tag": "あずまんが大王"
+            },
+            {
+              "end": 74,
+              "start": 64,
+              "tag": "omorigame"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1742343887014780928",
+              "start": 3,
+              "username": "ratqng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/GYOMqvLJ3P",
+              "end": 98,
+              "expanded_url": "https://twitter.com/ratqng/status/1797668554986475540/photo/1",
+              "media_key": "16_1797668441266020353",
+              "start": 75,
+              "url": "https://t.co/GYOMqvLJ3P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797972705570116071",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 319
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797668554986475540",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ratqng: Azumori Finale Pt 1 \n#omori #AzumangaDaioh #あずまんが大王 #omorigame https://t.co/GYOMqvLJ3P"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "16_1797668441266020353"
+          ]
+        },
+        "author_id": "1742343887014780928",
+        "conversation_id": "1797668554986475540",
+        "created_at": "2024-06-03T16:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T17:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797668554986475540"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 21,
+              "tag": "omori"
+            },
+            {
+              "end": 42,
+              "start": 28,
+              "tag": "AzumangaDaioh"
+            },
+            {
+              "end": 51,
+              "start": 43,
+              "tag": "あずまんが大王"
+            },
+            {
+              "end": 62,
+              "start": 52,
+              "tag": "omorigame"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/GYOMqvLJ3P",
+              "end": 86,
+              "expanded_url": "https://twitter.com/ratqng/status/1797668554986475540/photo/1",
+              "media_key": "16_1797668441266020353",
+              "start": 63,
+              "url": "https://t.co/GYOMqvLJ3P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797668554986475540",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 251,
+          "impression_count": 17352,
+          "like_count": 1894,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 319
+        },
+        "reply_settings": "everyone",
+        "text": "Azumori Finale Pt 1 \n#omori #AzumangaDaioh #あずまんが大王 #omorigame https://t.co/GYOMqvLJ3P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797607843975385088/wUYNFJ2h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 166,
+          "like_count": 302,
+          "listed_count": 0,
+          "tweet_count": 1035
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-03T00:35:43.000Z",
+        "description": "18 yo\nOmori and other arts!?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tumblr.com/ratatang",
+                "end": 23,
+                "expanded_url": "https://www.tumblr.com/ratatang",
+                "start": 0,
+                "url": "https://t.co/0HDBzwOYdq"
+              }
+            ]
+          }
+        },
+        "id": "1742343887014780928",
+        "name": "ratatwang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749798394120306688/AU2mdbjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1376,
+          "following_count": 37,
+          "like_count": 822,
+          "listed_count": 4,
+          "tweet_count": 124
+        },
+        "url": "https://t.co/0HDBzwOYdq",
+        "username": "ratqng",
+        "verified": false
+      }
+    ]
+  }
+}

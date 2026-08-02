@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1866602648079831043"
+      ],
+      "media_source_tweet_id": [
+        "1866602652714537136"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1866786280354484422",
+    "created_at": "2024-12-11T10:05:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T11:05:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866786280354484422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1799088001672433665",
+          "start": 3,
+          "username": "GanGster0704"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NyMxxyHgvK",
+          "end": 41,
+          "expanded_url": "https://x.com/GanGster0704/status/1866602652714537136/photo/1",
+          "media_key": "3_1866602648079831043",
+          "start": 18,
+          "url": "https://t.co/NyMxxyHgvK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866786280354484422",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 188
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866602652714537136",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GanGster0704: https://t.co/NyMxxyHgvK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1972,
+        "media_key": "3_1866602648079831043",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeeBN_-aEAMFHpW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866602648079831043"
+          ],
+          "media_source_tweet_id": [
+            "1866602652714537136"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1866786280354484422",
+        "created_at": "2024-12-11T10:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T11:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866786280354484422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1799088001672433665",
+              "start": 3,
+              "username": "GanGster0704"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NyMxxyHgvK",
+              "end": 41,
+              "expanded_url": "https://x.com/GanGster0704/status/1866602652714537136/photo/1",
+              "media_key": "3_1866602648079831043",
+              "start": 18,
+              "url": "https://t.co/NyMxxyHgvK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866786280354484422",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 188
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866602652714537136",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GanGster0704: https://t.co/NyMxxyHgvK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866602648079831043"
+          ]
+        },
+        "author_id": "1799088001672433665",
+        "conversation_id": "1866602652714537136",
+        "created_at": "2024-12-10T21:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T22:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866602652714537136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NyMxxyHgvK",
+              "end": 23,
+              "expanded_url": "https://x.com/GanGster0704/status/1866602652714537136/photo/1",
+              "media_key": "3_1866602648079831043",
+              "start": 0,
+              "url": "https://t.co/NyMxxyHgvK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866602652714537136",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 189,
+          "impression_count": 18592,
+          "like_count": 1430,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 188
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NyMxxyHgvK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 295,
+          "like_count": 1023,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 3162
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-07T14:36:30.000Z",
+        "description": "我要和你们爆了/I don’t recommend anyone follow me/SD垢@GANGsdFA /old account dead new fanart b*tch back",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "GANGsdFA"
+              }
+            ]
+          }
+        },
+        "id": "1799088001672433665",
+        "name": "GANGster",
+        "pinned_tweet_id": "1821943821061488886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830818788398559232/5Rvjmnai_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4910,
+          "following_count": 317,
+          "like_count": 318,
+          "listed_count": 15,
+          "media_count": 124,
+          "tweet_count": 341
+        },
+        "username": "GanGster0704",
+        "verified": false
+      }
+    ]
+  }
+}

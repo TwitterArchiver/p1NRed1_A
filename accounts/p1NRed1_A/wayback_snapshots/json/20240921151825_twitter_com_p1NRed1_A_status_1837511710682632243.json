@@ -1,0 +1,452 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1837144278054707200"
+      ],
+      "media_source_tweet_id": [
+        "1837174886093180990"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "829003678765821984",
+          "name": "Hockey"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "829003678765821984",
+          "name": "Hockey"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491177441787736065",
+          "name": "Shonen"
+        }
+      }
+    ],
+    "conversation_id": "1837511710682632243",
+    "created_at": "2024-09-21T15:18:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T16:18:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837511710682632243"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 41,
+          "normalized_text": "Nangoku Ice Hockey",
+          "probability": 0.5648,
+          "start": 24,
+          "type": "Other"
+        },
+        {
+          "end": 51,
+          "normalized_text": "Weekly",
+          "probability": 0.6835,
+          "start": 46,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1784368174210617344",
+          "start": 3,
+          "username": "dailykumeta"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uzaqrgtlmr",
+          "end": 128,
+          "expanded_url": "https://twitter.com/dailykumeta/status/1837174886093180990/photo/1",
+          "media_key": "3_1837144278054707200",
+          "start": 105,
+          "url": "https://t.co/uZAQrGTlmr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837511710682632243",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837174886093180990",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dailykumeta: Yuke!! Nangoku Ice Hockey Bu Weekly Shounen Sunday 1996 Issue No. 34 Color Illustration https://t.co/uZAQrGTlmr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_1837144278054707200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GX7Y_L6XoAAN_g2.jpg",
+        "width": 2810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837144278054707200"
+          ],
+          "media_source_tweet_id": [
+            "1837174886093180990"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "829003678765821984",
+              "name": "Hockey"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "829003678765821984",
+              "name": "Hockey"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491177441787736065",
+              "name": "Shonen"
+            }
+          }
+        ],
+        "conversation_id": "1837511710682632243",
+        "created_at": "2024-09-21T15:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T16:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837511710682632243"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "Nangoku Ice Hockey",
+              "probability": 0.5648,
+              "start": 24,
+              "type": "Other"
+            },
+            {
+              "end": 51,
+              "normalized_text": "Weekly",
+              "probability": 0.6835,
+              "start": 46,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1784368174210617344",
+              "start": 3,
+              "username": "dailykumeta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uzaqrgtlmr",
+              "end": 128,
+              "expanded_url": "https://twitter.com/dailykumeta/status/1837174886093180990/photo/1",
+              "media_key": "3_1837144278054707200",
+              "start": 105,
+              "url": "https://t.co/uZAQrGTlmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837511710682632243",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837174886093180990",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dailykumeta: Yuke!! Nangoku Ice Hockey Bu Weekly Shounen Sunday 1996 Issue No. 34 Color Illustration https://t.co/uZAQrGTlmr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837144278054707200"
+          ]
+        },
+        "author_id": "1784368174210617344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "829003678765821984",
+              "name": "Hockey"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "829003678765821984",
+              "name": "Hockey"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491177441787736065",
+              "name": "Shonen"
+            }
+          }
+        ],
+        "conversation_id": "1837174886093180990",
+        "created_at": "2024-09-20T17:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T18:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837174886093180990"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "Nangoku Ice Hockey Bu Weekly",
+              "probability": 0.5715,
+              "start": 7,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uzaqrgtlmr",
+              "end": 111,
+              "expanded_url": "https://twitter.com/dailykumeta/status/1837174886093180990/photo/1",
+              "media_key": "3_1837144278054707200",
+              "start": 88,
+              "url": "https://t.co/uZAQrGTlmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837174886093180990",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 1444,
+          "like_count": 121,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "Yuke!! Nangoku Ice Hockey Bu Weekly Shounen Sunday 1996 Issue No. 34 Color Illustration https://t.co/uZAQrGTlmr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1834534967725998516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 275,
+          "like_count": 899,
+          "listed_count": 0,
+          "tweet_count": 2783
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-27T23:45:54.000Z",
+        "description": "trying to post about a neighborhood manga artist whose manga doesn't sell | ran by @dentwy | dm for suggestions!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "dentwy"
+              }
+            ]
+          }
+        },
+        "id": "1784368174210617344",
+        "name": "daily kumeta kouji",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784373691201032192/oO9zzxZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 14,
+          "like_count": 315,
+          "listed_count": 1,
+          "tweet_count": 234
+        },
+        "username": "dailykumeta",
+        "verified": false
+      }
+    ]
+  }
+}

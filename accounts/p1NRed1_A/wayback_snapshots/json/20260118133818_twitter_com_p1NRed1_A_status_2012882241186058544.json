@@ -1,0 +1,568 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012635473315860480"
+      ],
+      "media_source_tweet_id": [
+        "2012635752673267974"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Tetris",
+          "id": "1096135323195568129",
+          "name": "Tetris"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tetris",
+          "id": "1096135323195568129",
+          "name": "Tetris"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1201644971855499264",
+          "name": "Retro gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898565290983424",
+          "name": "Puzzle games"
+        }
+      }
+    ],
+    "conversation_id": "2012882241186058544",
+    "created_at": "2026-01-18T13:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T14:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012882241186058544"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 50,
+          "normalized_text": "PUYO",
+          "probability": 0.4373,
+          "start": 47,
+          "type": "Other"
+        },
+        {
+          "end": 62,
+          "normalized_text": "TETRIS",
+          "probability": 0.3949,
+          "start": 57,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 97,
+          "start": 88,
+          "tag": "さよなら絶望先生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4921020113",
+          "start": 3,
+          "username": "timeloopfan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9Ydkex1lRz",
+          "end": 121,
+          "expanded_url": "https://x.com/timeloopfan/status/2012635752673267974/photo/1",
+          "media_key": "3_2012635473315860480",
+          "start": 98,
+          "url": "https://t.co/9Ydkex1lRz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012882241186058544",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 250
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012635752673267974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @timeloopfan: I’M IN DESPAIR!  BEING BAD AT PUYO PUYO TETRIS HAS LEFT ME IN DESPAIR! #さよなら絶望先生 https://t.co/9Ydkex1lRz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012635473315860480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-5RTLFXkAAqBtI.jpg",
+        "width": 1798
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012635473315860480"
+          ],
+          "media_source_tweet_id": [
+            "2012635752673267974"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Tetris",
+              "id": "1096135323195568129",
+              "name": "Tetris"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tetris",
+              "id": "1096135323195568129",
+              "name": "Tetris"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201644971855499264",
+              "name": "Retro gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898565290983424",
+              "name": "Puzzle games"
+            }
+          }
+        ],
+        "conversation_id": "2012882241186058544",
+        "created_at": "2026-01-18T13:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T14:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012882241186058544"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 50,
+              "normalized_text": "PUYO",
+              "probability": 0.4373,
+              "start": 47,
+              "type": "Other"
+            },
+            {
+              "end": 62,
+              "normalized_text": "TETRIS",
+              "probability": 0.3949,
+              "start": 57,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 97,
+              "start": 88,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4921020113",
+              "start": 3,
+              "username": "timeloopfan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Ydkex1lRz",
+              "end": 121,
+              "expanded_url": "https://x.com/timeloopfan/status/2012635752673267974/photo/1",
+              "media_key": "3_2012635473315860480",
+              "start": 98,
+              "url": "https://t.co/9Ydkex1lRz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012882241186058544",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 250
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012635752673267974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @timeloopfan: I’M IN DESPAIR!  BEING BAD AT PUYO PUYO TETRIS HAS LEFT ME IN DESPAIR! #さよなら絶望先生 https://t.co/9Ydkex1lRz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012635473315860480"
+          ]
+        },
+        "author_id": "4921020113",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Tetris",
+              "id": "1096135323195568129",
+              "name": "Tetris"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tetris",
+              "id": "1096135323195568129",
+              "name": "Tetris"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201644971855499264",
+              "name": "Retro gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898565290983424",
+              "name": "Puzzle games"
+            }
+          }
+        ],
+        "conversation_id": "2012635752673267974",
+        "created_at": "2026-01-17T21:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T22:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012635752673267974"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "PUYO",
+              "probability": 0.4404,
+              "start": 30,
+              "type": "Other"
+            },
+            {
+              "end": 45,
+              "normalized_text": "TETRIS",
+              "probability": 0.3295,
+              "start": 40,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 71,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Ydkex1lRz",
+              "end": 104,
+              "expanded_url": "https://x.com/timeloopfan/status/2012635752673267974/photo/1",
+              "media_key": "3_2012635473315860480",
+              "start": 81,
+              "url": "https://t.co/9Ydkex1lRz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012635752673267974",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 9862,
+          "like_count": 933,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 250
+        },
+        "reply_settings": "everyone",
+        "text": "I’M IN DESPAIR!  BEING BAD AT PUYO PUYO TETRIS HAS LEFT ME IN DESPAIR! #さよなら絶望先生 https://t.co/9Ydkex1lRz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "我擅长产出大粪",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009473729248858112/wt7l_L9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 507,
+          "like_count": 1617,
+          "listed_count": 2,
+          "media_count": 331,
+          "tweet_count": 5597
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-16T21:11:48.000Z",
+        "description": "content may not be suitable for those who are easily dismembered.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shaky.straw.page",
+                "end": 23,
+                "expanded_url": "https://shaky.straw.page/",
+                "start": 0,
+                "url": "https://t.co/u4kYycqI6P"
+              }
+            ]
+          }
+        },
+        "id": "4921020113",
+        "location": "20 she he 🇬🇧🇨🇴🏳️‍🌈",
+        "name": "leen",
+        "pinned_tweet_id": "2011979560661737782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009961034157596672/cLvvaBnG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 57,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 98
+        },
+        "url": "https://t.co/u4kYycqI6P",
+        "username": "timeloopfan",
+        "verified": false
+      }
+    ]
+  }
+}

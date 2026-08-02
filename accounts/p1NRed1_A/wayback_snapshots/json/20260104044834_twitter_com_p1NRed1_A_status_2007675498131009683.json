@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2007212202277625856"
+      ],
+      "media_source_tweet_id": [
+        "2007212281642492257"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2007675498131009683",
+    "created_at": "2026-01-04T04:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T05:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007675498131009683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1727440868582297600",
+          "start": 3,
+          "username": "killmouskey"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Di2r4cEcOe",
+          "end": 40,
+          "expanded_url": "https://x.com/killmouskey/status/2007212281642492257/video/1",
+          "media_key": "13_2007212202277625856",
+          "start": 17,
+          "url": "https://t.co/Di2r4cEcOe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007675498131009683",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 348
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007212281642492257",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @killmouskey: https://t.co/Di2r4cEcOe"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 95295,
+        "height": 360,
+        "media_key": "13_2007212202277625856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2007212202277625856/img/2jd6qGJf5MWrZLBR.jpg",
+        "public_metrics": {
+          "view_count": 10672
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007212202277625856/vid/avc1/360x270/ZtDMsp5ioML0R_CS.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007212202277625856/vid/avc1/480x360/zs5Mwxa09zjSFKgu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2007212202277625856/pl/zkBr21f0LnXxG4lY.m3u8?v=cfc"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2007212202277625856"
+          ],
+          "media_source_tweet_id": [
+            "2007212281642492257"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2007675498131009683",
+        "created_at": "2026-01-04T04:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T05:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007675498131009683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1727440868582297600",
+              "start": 3,
+              "username": "killmouskey"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Di2r4cEcOe",
+              "end": 40,
+              "expanded_url": "https://x.com/killmouskey/status/2007212281642492257/video/1",
+              "media_key": "13_2007212202277625856",
+              "start": 17,
+              "url": "https://t.co/Di2r4cEcOe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007675498131009683",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 348
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007212281642492257",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @killmouskey: https://t.co/Di2r4cEcOe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2007212202277625856"
+          ]
+        },
+        "author_id": "1727440868582297600",
+        "conversation_id": "2007212281642492257",
+        "created_at": "2026-01-02T22:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T23:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007212281642492257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Di2r4cEcOe",
+              "end": 23,
+              "expanded_url": "https://x.com/killmouskey/status/2007212281642492257/video/1",
+              "media_key": "13_2007212202277625856",
+              "start": 0,
+              "url": "https://t.co/Di2r4cEcOe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007212281642492257",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 527,
+          "impression_count": 24023,
+          "like_count": 1962,
+          "quote_count": 8,
+          "reply_count": 9,
+          "retweet_count": 348
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Di2r4cEcOe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "我擅长产出大粪",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 497,
+          "like_count": 1601,
+          "listed_count": 2,
+          "media_count": 325,
+          "tweet_count": 5507
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T21:36:23.000Z",
+        "description": "♥️🐈‍⬛ Orin’s #1 fangirl (*´ω`*) I’m an artist // I retweet a lot ,, lolisho/incest not welcome",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "killmouskey.straw.page",
+                "end": 23,
+                "expanded_url": "https://killmouskey.straw.page",
+                "start": 0,
+                "url": "https://t.co/A6GTUXt7ch"
+              }
+            ]
+          }
+        },
+        "id": "1727440868582297600",
+        "location": "Minor",
+        "name": "killmouskey",
+        "pinned_tweet_id": "1994864867757769126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989862059115204608/a_WJmOgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 394,
+          "like_count": 12619,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 6828
+        },
+        "url": "https://t.co/A6GTUXt7ch",
+        "username": "killmouskey",
+        "verified": false
+      }
+    ]
+  }
+}

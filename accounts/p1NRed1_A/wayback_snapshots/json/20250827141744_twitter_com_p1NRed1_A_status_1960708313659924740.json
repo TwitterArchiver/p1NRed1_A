@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960634210210996224"
+      ],
+      "media_source_tweet_id": [
+        "1960634220952608910"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1960708313659924740",
+    "created_at": "2025-08-27T14:17:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T15:17:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960708313659924740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1894435107873984513",
+          "start": 3,
+          "username": "hoiimhoi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fUUhAd69AC",
+          "end": 37,
+          "expanded_url": "https://x.com/hoiimhoi/status/1960634220952608910/photo/1",
+          "media_key": "3_1960634210210996224",
+          "start": 14,
+          "url": "https://t.co/fUUhAd69AC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960708313659924740",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960634220952608910",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @hoiimhoi: https://t.co/fUUhAd69AC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960634210210996224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzWSbSIa4AAr9pn.jpg",
+        "width": 1458
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960634210210996224"
+          ],
+          "media_source_tweet_id": [
+            "1960634220952608910"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1960708313659924740",
+        "created_at": "2025-08-27T14:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T15:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960708313659924740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1894435107873984513",
+              "start": 3,
+              "username": "hoiimhoi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fUUhAd69AC",
+              "end": 37,
+              "expanded_url": "https://x.com/hoiimhoi/status/1960634220952608910/photo/1",
+              "media_key": "3_1960634210210996224",
+              "start": 14,
+              "url": "https://t.co/fUUhAd69AC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960708313659924740",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960634220952608910",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @hoiimhoi: https://t.co/fUUhAd69AC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960634210210996224"
+          ]
+        },
+        "author_id": "1894435107873984513",
+        "conversation_id": "1960634220952608910",
+        "created_at": "2025-08-27T09:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T10:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960634220952608910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fUUhAd69AC",
+              "end": 23,
+              "expanded_url": "https://x.com/hoiimhoi/status/1960634220952608910/photo/1",
+              "media_key": "3_1960634210210996224",
+              "start": 0,
+              "url": "https://t.co/fUUhAd69AC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960634220952608910",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 1635,
+          "like_count": 150,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/fUUhAd69AC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 436,
+          "like_count": 1322,
+          "listed_count": 2,
+          "media_count": 251,
+          "tweet_count": 4537
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T17:11:50.000Z",
+        "description": "",
+        "id": "1894435107873984513",
+        "name": "hoi",
+        "pinned_tweet_id": "1920373849448984827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940122347962236928/HTllCDUq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1980,
+          "following_count": 21,
+          "like_count": 2307,
+          "listed_count": 11,
+          "media_count": 35,
+          "tweet_count": 40
+        },
+        "username": "hoiimhoi",
+        "verified": false
+      }
+    ]
+  }
+}

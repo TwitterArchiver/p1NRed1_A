@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1866412464688300032"
+      ],
+      "media_source_tweet_id": [
+        "1866412473588629534"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1866714791546589283",
+    "created_at": "2024-12-11T05:21:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T06:21:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866714791546589283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1695418022352375808",
+          "start": 3,
+          "username": "sehunmarket"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u1oIzphT8e",
+          "end": 42,
+          "expanded_url": "https://x.com/sehunmarket/status/1866412473588629534/photo/1",
+          "media_key": "3_1866412464688300032",
+          "start": 19,
+          "url": "https://t.co/u1oIzphT8e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866714791546589283",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866412473588629534",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sehunmarket: 와 https://t.co/u1oIzphT8e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1866412464688300032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GebUP3obgAAWp8U.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866412464688300032"
+          ],
+          "media_source_tweet_id": [
+            "1866412473588629534"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1866714791546589283",
+        "created_at": "2024-12-11T05:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T06:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866714791546589283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1695418022352375808",
+              "start": 3,
+              "username": "sehunmarket"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u1oIzphT8e",
+              "end": 42,
+              "expanded_url": "https://x.com/sehunmarket/status/1866412473588629534/photo/1",
+              "media_key": "3_1866412464688300032",
+              "start": 19,
+              "url": "https://t.co/u1oIzphT8e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866714791546589283",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866412473588629534",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sehunmarket: 와 https://t.co/u1oIzphT8e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866412464688300032"
+          ]
+        },
+        "author_id": "1695418022352375808",
+        "conversation_id": "1866412473588629534",
+        "created_at": "2024-12-10T09:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T10:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866412473588629534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u1oIzphT8e",
+              "end": 25,
+              "expanded_url": "https://x.com/sehunmarket/status/1866412473588629534/photo/1",
+              "media_key": "3_1866412464688300032",
+              "start": 2,
+              "url": "https://t.co/u1oIzphT8e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866412473588629534",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 2099,
+          "like_count": 140,
+          "quote_count": 7,
+          "reply_count": 2,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "와 https://t.co/u1oIzphT8e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 295,
+          "like_count": 1020,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 3161
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T12:48:58.000Z",
+        "description": "MOUTH TO MOUTH!",
+        "id": "1695418022352375808",
+        "name": "세훈",
+        "pinned_tweet_id": "1866412473588629534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866411418117099520/alvuj2HJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 221,
+          "like_count": 7916,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 2088
+        },
+        "username": "sehunmarket",
+        "verified": false
+      }
+    ]
+  }
+}

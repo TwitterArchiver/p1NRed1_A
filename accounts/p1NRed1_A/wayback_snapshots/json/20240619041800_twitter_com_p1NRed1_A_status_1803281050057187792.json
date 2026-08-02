@@ -1,0 +1,339 @@
+{
+  "data": {
+    "attachments": {
+      "media_source_tweet_id": [
+        "1803138027067199990"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1803281050057187792",
+    "created_at": "2024-06-19T04:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T05:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803281050057187792"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "Bonkler",
+          "probability": 0.4074,
+          "start": 21,
+          "type": "Person"
+        },
+        {
+          "end": 40,
+          "normalized_text": "SM64",
+          "probability": 0.7491,
+          "start": 37,
+          "type": "Other"
+        },
+        {
+          "end": 58,
+          "normalized_text": "azumangadaioh",
+          "probability": 0.6525,
+          "start": 46,
+          "type": "Other"
+        },
+        {
+          "end": 64,
+          "normalized_text": "SM64",
+          "probability": 0.6575,
+          "start": 61,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 45,
+          "tag": "azumangadaioh"
+        },
+        {
+          "end": 65,
+          "start": 60,
+          "tag": "SM64"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1374864363782348806",
+          "start": 3,
+          "username": "gabiecillo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/kuBhOLLxl7",
+          "end": 89,
+          "expanded_url": "https://twitter.com/gabiecillo/status/1803138027067199990/photo/1",
+          "media_key": "3_1803138020704485376",
+          "start": 66,
+          "url": "https://t.co/kuBhOLLxl7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803281050057187792",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803138027067199990",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gabiecillo: Wip, Bonkler team on SM64 😳😳\n#azumangadaioh #SM64 https://t.co/kuBhOLLxl7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_source_tweet_id": [
+            "1803138027067199990"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1803281050057187792",
+        "created_at": "2024-06-19T04:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T05:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803281050057187792"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "Bonkler",
+              "probability": 0.4074,
+              "start": 21,
+              "type": "Person"
+            },
+            {
+              "end": 40,
+              "normalized_text": "SM64",
+              "probability": 0.7491,
+              "start": 37,
+              "type": "Other"
+            },
+            {
+              "end": 58,
+              "normalized_text": "azumangadaioh",
+              "probability": 0.6525,
+              "start": 46,
+              "type": "Other"
+            },
+            {
+              "end": 64,
+              "normalized_text": "SM64",
+              "probability": 0.6575,
+              "start": 61,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 45,
+              "tag": "azumangadaioh"
+            },
+            {
+              "end": 65,
+              "start": 60,
+              "tag": "SM64"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1374864363782348806",
+              "start": 3,
+              "username": "gabiecillo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/kuBhOLLxl7",
+              "end": 89,
+              "expanded_url": "https://twitter.com/gabiecillo/status/1803138027067199990/photo/1",
+              "media_key": "3_1803138020704485376",
+              "start": 66,
+              "url": "https://t.co/kuBhOLLxl7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803281050057187792",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803138027067199990",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gabiecillo: Wip, Bonkler team on SM64 😳😳\n#azumangadaioh #SM64 https://t.co/kuBhOLLxl7"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1803138020704485376"
+          ]
+        },
+        "author_id": "1374864363782348806",
+        "conversation_id": "1803138027067199990",
+        "created_at": "2024-06-18T18:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T19:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803138027067199990"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 29,
+              "tag": "azumangadaioh"
+            },
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "SM64"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/kuBhOLLxl7",
+              "end": 73,
+              "expanded_url": "https://twitter.com/gabiecillo/status/1803138027067199990/photo/1",
+              "media_key": "3_1803138020704485376",
+              "start": 50,
+              "url": "https://t.co/kuBhOLLxl7"
+            },
+            {
+              "display_url": "x.com/lukasatbk/stat…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/lukasatbk/status/1801414590707994737",
+              "start": 74,
+              "url": "https://t.co/dz4GzI3VzJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803138027067199990",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 1798,
+          "like_count": 172,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801414590707994737",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Wip, Bonkler team on SM64 😳😳\n#azumangadaioh #SM64 https://t.co/kuBhOLLxl7 https://t.co/dz4GzI3VzJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802900561299472385/3G9b9zhq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 190,
+          "like_count": 388,
+          "listed_count": 0,
+          "tweet_count": 1609
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-24T23:23:13.000Z",
+        "description": "Eng/Esp. | Hola crayola | Support me 🙏: https://t.co/KO4buUQPWp. Comms Open!",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/gabiecillo",
+                "end": 63,
+                "expanded_url": "https://ko-fi.com/gabiecillo",
+                "start": 40,
+                "url": "https://t.co/KO4buUQPWp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gabiecillo.carrd.co",
+                "end": 23,
+                "expanded_url": "https://gabiecillo.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/Ucdul7qhfU"
+              }
+            ]
+          }
+        },
+        "id": "1374864363782348806",
+        "name": "Gabie",
+        "pinned_tweet_id": "1796283386186883287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799351550080323584/Wpw35x2N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590,
+          "following_count": 583,
+          "like_count": 4233,
+          "listed_count": 9,
+          "tweet_count": 186
+        },
+        "url": "https://t.co/Ucdul7qhfU",
+        "username": "gabiecillo",
+        "verified": false
+      }
+    ]
+  }
+}

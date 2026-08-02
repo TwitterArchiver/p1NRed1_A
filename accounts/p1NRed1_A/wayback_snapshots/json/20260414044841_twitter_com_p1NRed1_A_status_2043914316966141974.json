@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2043724937551331436",
+    "created_at": "2026-04-14T04:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T05:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043914316966141974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1759812244932902912",
+          "start": 0,
+          "username": "kawaoka_nano_"
+        },
+        {
+          "end": 26,
+          "id": "1651883496611233792",
+          "start": 15,
+          "username": "Chen__mo__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043914316966141974",
+    "in_reply_to_user_id": "1759812244932902912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043724937551331436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawaoka_nano_ @Chen__mo__ 天才……我爱这个🥰🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1668,
+        "media_key": "3_2043724931238883328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFzE_zEacAA4SQD.jpg",
+        "width": 1668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2043724937551331436",
+        "created_at": "2026-04-14T04:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043914316966141974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1759812244932902912",
+              "start": 0,
+              "username": "kawaoka_nano_"
+            },
+            {
+              "end": 26,
+              "id": "1651883496611233792",
+              "start": 15,
+              "username": "Chen__mo__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043914316966141974",
+        "in_reply_to_user_id": "1759812244932902912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043724937551331436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaoka_nano_ @Chen__mo__ 天才……我爱这个🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043724931238883328"
+          ]
+        },
+        "author_id": "1759812244932902912",
+        "conversation_id": "2043724937551331436",
+        "created_at": "2026-04-13T16:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T17:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043724937551331436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R71Xu44lhw",
+              "end": 28,
+              "expanded_url": "https://x.com/kawaoka_nano_/status/2043724937551331436/photo/1",
+              "media_key": "3_2043724931238883328",
+              "start": 5,
+              "url": "https://t.co/R71Xu44lhw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043724937551331436",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 189,
+          "impression_count": 35927,
+          "like_count": 2372,
+          "quote_count": 9,
+          "reply_count": 5,
+          "retweet_count": 306
+        },
+        "reply_settings": "everyone",
+        "text": "空洞です https://t.co/R71Xu44lhw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "全世界第一喜欢的人@memom1229345",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "memom1229345"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 536,
+          "like_count": 1645,
+          "listed_count": 2,
+          "media_count": 348,
+          "tweet_count": 5938
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T05:28:46.000Z",
+        "description": "かわおでいいよ！",
+        "id": "1759812244932902912",
+        "name": "どうすりゃええねん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485121611661312/44uzHePU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 99,
+          "like_count": 10449,
+          "listed_count": 9,
+          "media_count": 173,
+          "tweet_count": 2457
+        },
+        "username": "kawaoka_nano_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-28T09:38:29.000Z",
+        "description": "",
+        "id": "1651883496611233792",
+        "name": "Ceeem",
+        "pinned_tweet_id": "1772998590329180523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014222941186310144/4w9L-rSw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2968,
+          "following_count": 385,
+          "like_count": 7386,
+          "listed_count": 28,
+          "media_count": 165,
+          "tweet_count": 5181
+        },
+        "username": "Chen__mo__",
+        "verified": false
+      }
+    ]
+  }
+}

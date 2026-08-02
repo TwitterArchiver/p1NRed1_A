@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1802930014230589783",
+    "created_at": "2024-06-18T05:19:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-18T06:19:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802934239983550788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1568996373152022529",
+          "start": 0,
+          "username": "42lovebq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802934239983550788",
+    "in_reply_to_user_id": "1568996373152022529",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802930014230589783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@42lovebq 小啾啾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1802930014230589783",
+        "created_at": "2024-06-18T05:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T06:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802934239983550788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1568996373152022529",
+              "start": 0,
+              "username": "42lovebq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802934239983550788",
+        "in_reply_to_user_id": "1568996373152022529",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802930014230589783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@42lovebq 小啾啾"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1802930005418336256"
+          ]
+        },
+        "author_id": "1568996373152022529",
+        "conversation_id": "1802930014230589783",
+        "created_at": "2024-06-18T05:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T06:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802930014230589783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/jAlKPJw2YI",
+              "end": 41,
+              "expanded_url": "https://twitter.com/42lovebq/status/1802930014230589783/photo/1",
+              "media_key": "3_1802930005418336256",
+              "start": 18,
+              "url": "https://t.co/jAlKPJw2YI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802930014230589783",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢我的我的……这个叫什么来着？ https://t.co/jAlKPJw2YI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802900561299472385/3G9b9zhq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 184,
+          "like_count": 372,
+          "listed_count": 0,
+          "tweet_count": 1566
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-11T16:14:30.000Z",
+        "description": "某一天随着雨季消失",
+        "id": "1568996373152022529",
+        "location": "华中没有湖",
+        "name": "Qis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777536432539881473/BDa0d2zN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 137,
+          "like_count": 118,
+          "listed_count": 0,
+          "tweet_count": 2503
+        },
+        "username": "42lovebq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1920421963886956694",
+    "created_at": "2025-05-08T10:14:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T11:14:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920421963886956694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1733524426262564864",
+          "start": 3,
+          "username": "_defoko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920421963886956694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920421138879988100",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_defoko: 崩溃啊注意力差还低精力的人到底适合学啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1920421963886956694",
+        "created_at": "2025-05-08T10:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T11:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920421963886956694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1733524426262564864",
+              "start": 3,
+              "username": "_defoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920421963886956694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920421138879988100",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_defoko: 崩溃啊注意力差还低精力的人到底适合学啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733524426262564864",
+        "conversation_id": "1920421138879988100",
+        "created_at": "2025-05-08T10:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T11:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920421138879988100"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920421138879988100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "崩溃啊注意力差还低精力的人到底适合学啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 401,
+          "like_count": 1203,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 3840
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T16:30:18.000Z",
+        "description": "繭=茧 ，第二人格 @I7663299671516｜ @DuvetsDetour @chimera_ui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "I7663299671516"
+              },
+              {
+                "end": 40,
+                "start": 27,
+                "username": "DuvetsDetour"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "chimera_ui"
+              }
+            ]
+          }
+        },
+        "id": "1733524426262564864",
+        "name": "繭",
+        "pinned_tweet_id": "1811778916555845766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913239527881162752/mkAxO3XF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 125,
+          "like_count": 1118,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 686
+        },
+        "username": "_defoko",
+        "verified": false
+      }
+    ]
+  }
+}

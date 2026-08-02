@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972333802468134912",
+        "3_1972333802455543808"
+      ],
+      "media_source_tweet_id": [
+        "1972621375954403481",
+        "1972621375954403481"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1972651749904417101",
+    "created_at": "2025-09-29T13:16:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T14:16:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972651749904417101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1377422613790662657",
+          "start": 3,
+          "username": "kawao_dayo_53"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4DfNG4NiHV",
+          "end": 42,
+          "expanded_url": "https://x.com/kawao_dayo_53/status/1972621375954403481/photo/1",
+          "media_key": "3_1972333802468134912",
+          "start": 19,
+          "url": "https://t.co/4DfNG4NiHV"
+        },
+        {
+          "display_url": "pic.x.com/4DfNG4NiHV",
+          "end": 42,
+          "expanded_url": "https://x.com/kawao_dayo_53/status/1972621375954403481/photo/1",
+          "media_key": "3_1972333802455543808",
+          "start": 19,
+          "url": "https://t.co/4DfNG4NiHV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972651749904417101",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972621375954403481",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kawao_dayo_53: https://t.co/4DfNG4NiHV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972333802468134912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G18jJLqb0AABH2l.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1972333802455543808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G18jJLnbsAA7QPa.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972333802468134912",
+            "3_1972333802455543808"
+          ],
+          "media_source_tweet_id": [
+            "1972621375954403481",
+            "1972621375954403481"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1972651749904417101",
+        "created_at": "2025-09-29T13:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T14:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972651749904417101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1377422613790662657",
+              "start": 3,
+              "username": "kawao_dayo_53"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4DfNG4NiHV",
+              "end": 42,
+              "expanded_url": "https://x.com/kawao_dayo_53/status/1972621375954403481/photo/1",
+              "media_key": "3_1972333802468134912",
+              "start": 19,
+              "url": "https://t.co/4DfNG4NiHV"
+            },
+            {
+              "display_url": "pic.x.com/4DfNG4NiHV",
+              "end": 42,
+              "expanded_url": "https://x.com/kawao_dayo_53/status/1972621375954403481/photo/1",
+              "media_key": "3_1972333802455543808",
+              "start": 19,
+              "url": "https://t.co/4DfNG4NiHV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972651749904417101",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972621375954403481",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kawao_dayo_53: https://t.co/4DfNG4NiHV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972333802468134912",
+            "3_1972333802455543808"
+          ]
+        },
+        "author_id": "1377422613790662657",
+        "conversation_id": "1972621375954403481",
+        "created_at": "2025-09-29T11:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T12:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972621375954403481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4DfNG4NiHV",
+              "end": 23,
+              "expanded_url": "https://x.com/kawao_dayo_53/status/1972621375954403481/photo/1",
+              "media_key": "3_1972333802468134912",
+              "start": 0,
+              "url": "https://t.co/4DfNG4NiHV"
+            },
+            {
+              "display_url": "pic.x.com/4DfNG4NiHV",
+              "end": 23,
+              "expanded_url": "https://x.com/kawao_dayo_53/status/1972621375954403481/photo/1",
+              "media_key": "3_1972333802455543808",
+              "start": 0,
+              "url": "https://t.co/4DfNG4NiHV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972621375954403481",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4DfNG4NiHV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 459,
+          "like_count": 1442,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 4836
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-01T00:49:12.000Z",
+        "description": "とりあえず絵描き",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kawao",
+                "end": 23,
+                "expanded_url": "https://lit.link/kawao",
+                "start": 0,
+                "url": "https://t.co/rpXdBIfxDK"
+              }
+            ]
+          }
+        },
+        "id": "1377422613790662657",
+        "location": "雑多垢よ❗️",
+        "name": "かわお",
+        "pinned_tweet_id": "1950181515322593455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829967474634473475/PT4-ux3t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 261,
+          "like_count": 88021,
+          "listed_count": 5,
+          "media_count": 554,
+          "tweet_count": 20698
+        },
+        "url": "https://t.co/rpXdBIfxDK",
+        "username": "kawao_dayo_53",
+        "verified": false
+      }
+    ]
+  }
+}

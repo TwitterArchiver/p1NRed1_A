@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015697830942556160"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "2015697840262271076",
+    "created_at": "2026-01-26T08:06:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T09:06:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015697840262271076"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/O9KVHBWkhW",
+          "end": 35,
+          "expanded_url": "https://x.com/p1NRed1_A/status/2015697840262271076/photo/1",
+          "media_key": "3_2015697830942556160",
+          "start": 12,
+          "url": "https://t.co/O9KVHBWkhW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015697840262271076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "草泥马逼我都有盗版了？ https://t.co/O9KVHBWkhW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015697830942556160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_kyf2PbQAAJCsz.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015697830942556160"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "2015697840262271076",
+        "created_at": "2026-01-26T08:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T09:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015697840262271076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O9KVHBWkhW",
+              "end": 35,
+              "expanded_url": "https://x.com/p1NRed1_A/status/2015697840262271076/photo/1",
+              "media_key": "3_2015697830942556160",
+              "start": 12,
+              "url": "https://t.co/O9KVHBWkhW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015697840262271076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "草泥马逼我都有盗版了？ https://t.co/O9KVHBWkhW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "尴尬！",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009473729248858112/wt7l_L9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 509,
+          "like_count": 1614,
+          "listed_count": 2,
+          "media_count": 332,
+          "tweet_count": 5617
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

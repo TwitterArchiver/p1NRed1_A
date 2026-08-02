@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968214609590153216"
+      ],
+      "media_source_tweet_id": [
+        "1968214613973143982"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1968232764915974249",
+    "created_at": "2025-09-17T08:37:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T09:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968232764915974249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1377062730377519106",
+          "start": 3,
+          "username": "maru___marusu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iKy5N6HNIj",
+          "end": 51,
+          "expanded_url": "https://x.com/maru___marusu/status/1968214613973143982/photo/1",
+          "media_key": "3_1968214609590153216",
+          "start": 28,
+          "url": "https://t.co/iKy5N6HNIj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968232764915974249",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968214613973143982",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maru___marusu: おうち作った！🏠 https://t.co/iKy5N6HNIj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_1968214609590153216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1CAwmZa8AA7YFZ.jpg",
+        "width": 617
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968214609590153216"
+          ],
+          "media_source_tweet_id": [
+            "1968214613973143982"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1968232764915974249",
+        "created_at": "2025-09-17T08:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T09:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968232764915974249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1377062730377519106",
+              "start": 3,
+              "username": "maru___marusu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iKy5N6HNIj",
+              "end": 51,
+              "expanded_url": "https://x.com/maru___marusu/status/1968214613973143982/photo/1",
+              "media_key": "3_1968214609590153216",
+              "start": 28,
+              "url": "https://t.co/iKy5N6HNIj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968232764915974249",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968214613973143982",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maru___marusu: おうち作った！🏠 https://t.co/iKy5N6HNIj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968214609590153216"
+          ]
+        },
+        "author_id": "1377062730377519106",
+        "conversation_id": "1968214613973143982",
+        "created_at": "2025-09-17T07:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T08:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968214613973143982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iKy5N6HNIj",
+              "end": 32,
+              "expanded_url": "https://x.com/maru___marusu/status/1968214613973143982/photo/1",
+              "media_key": "3_1968214609590153216",
+              "start": 9,
+              "url": "https://t.co/iKy5N6HNIj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968214613973143982",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 903,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "おうち作った！🏠 https://t.co/iKy5N6HNIj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 448,
+          "like_count": 1392,
+          "listed_count": 2,
+          "media_count": 263,
+          "tweet_count": 4719
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-31T00:58:41.000Z",
+        "description": "生徒C  マルスって呼んでください",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kawaiisuzu.booth.pm",
+                "end": 23,
+                "expanded_url": "https://kawaiisuzu.booth.pm/",
+                "start": 0,
+                "url": "https://t.co/GKVRggBPgn"
+              }
+            ]
+          }
+        },
+        "id": "1377062730377519106",
+        "location": "絵や写真の無断使用  加工  自作発言 転売 お控えください",
+        "name": "㋜",
+        "pinned_tweet_id": "1878696846979399996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877707228066746368/NnbGeK2X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18672,
+          "following_count": 1191,
+          "like_count": 49328,
+          "listed_count": 131,
+          "media_count": 2883,
+          "tweet_count": 11112
+        },
+        "url": "https://t.co/GKVRggBPgn",
+        "username": "maru___marusu",
+        "verified": false
+      }
+    ]
+  }
+}

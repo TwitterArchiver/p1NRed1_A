@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960012616195301377",
+        "3_1960012677415387136",
+        "3_1960012703147360256",
+        "3_1960012723913375745"
+      ],
+      "media_source_tweet_id": [
+        "1960013101765730459",
+        "1960013101765730459",
+        "1960013101765730459",
+        "1960013101765730459"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1960594826992476240",
+    "created_at": "2025-08-27T06:46:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T07:46:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960594826992476240"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 29,
+          "tag": "さよなら絶望先生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "90135461",
+          "start": 3,
+          "username": "niea58"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sG2G1g5zRK",
+          "end": 68,
+          "expanded_url": "https://x.com/niea58/status/1960013101765730459/photo/1",
+          "media_key": "3_1960012616195301377",
+          "start": 45,
+          "url": "https://t.co/sG2G1g5zRK"
+        },
+        {
+          "display_url": "pic.x.com/sG2G1g5zRK",
+          "end": 68,
+          "expanded_url": "https://x.com/niea58/status/1960013101765730459/photo/1",
+          "media_key": "3_1960012677415387136",
+          "start": 45,
+          "url": "https://t.co/sG2G1g5zRK"
+        },
+        {
+          "display_url": "pic.x.com/sG2G1g5zRK",
+          "end": 68,
+          "expanded_url": "https://x.com/niea58/status/1960013101765730459/photo/1",
+          "media_key": "3_1960012703147360256",
+          "start": 45,
+          "url": "https://t.co/sG2G1g5zRK"
+        },
+        {
+          "display_url": "pic.x.com/sG2G1g5zRK",
+          "end": 68,
+          "expanded_url": "https://x.com/niea58/status/1960013101765730459/photo/1",
+          "media_key": "3_1960012723913375745",
+          "start": 45,
+          "url": "https://t.co/sG2G1g5zRK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960594826992476240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 90
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960013101765730459",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @niea58: 自分のお絵描き掲示板を始めた頃は #さよなら絶望先生 が多い…。 https://t.co/sG2G1g5zRK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 450,
+        "media_key": "3_1960012616195301377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzNdFv-a4AENiWd.png",
+        "width": 350
+      },
+      {
+        "height": 450,
+        "media_key": "3_1960012677415387136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzNdJUCbQAABIh-.png",
+        "width": 350
+      },
+      {
+        "height": 450,
+        "media_key": "3_1960012703147360256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzNdKz5aAAAexVl.png",
+        "width": 350
+      },
+      {
+        "height": 450,
+        "media_key": "3_1960012723913375745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzNdMBQaQAEBSVk.png",
+        "width": 350
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960012616195301377",
+            "3_1960012677415387136",
+            "3_1960012703147360256",
+            "3_1960012723913375745"
+          ],
+          "media_source_tweet_id": [
+            "1960013101765730459",
+            "1960013101765730459",
+            "1960013101765730459",
+            "1960013101765730459"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1960594826992476240",
+        "created_at": "2025-08-27T06:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T07:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960594826992476240"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 29,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "90135461",
+              "start": 3,
+              "username": "niea58"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sG2G1g5zRK",
+              "end": 68,
+              "expanded_url": "https://x.com/niea58/status/1960013101765730459/photo/1",
+              "media_key": "3_1960012616195301377",
+              "start": 45,
+              "url": "https://t.co/sG2G1g5zRK"
+            },
+            {
+              "display_url": "pic.x.com/sG2G1g5zRK",
+              "end": 68,
+              "expanded_url": "https://x.com/niea58/status/1960013101765730459/photo/1",
+              "media_key": "3_1960012677415387136",
+              "start": 45,
+              "url": "https://t.co/sG2G1g5zRK"
+            },
+            {
+              "display_url": "pic.x.com/sG2G1g5zRK",
+              "end": 68,
+              "expanded_url": "https://x.com/niea58/status/1960013101765730459/photo/1",
+              "media_key": "3_1960012703147360256",
+              "start": 45,
+              "url": "https://t.co/sG2G1g5zRK"
+            },
+            {
+              "display_url": "pic.x.com/sG2G1g5zRK",
+              "end": 68,
+              "expanded_url": "https://x.com/niea58/status/1960013101765730459/photo/1",
+              "media_key": "3_1960012723913375745",
+              "start": 45,
+              "url": "https://t.co/sG2G1g5zRK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960594826992476240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960013101765730459",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @niea58: 自分のお絵描き掲示板を始めた頃は #さよなら絶望先生 が多い…。 https://t.co/sG2G1g5zRK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960012616195301377",
+            "3_1960012677415387136",
+            "3_1960012703147360256",
+            "3_1960012723913375745"
+          ]
+        },
+        "author_id": "90135461",
+        "conversation_id": "1960013101765730459",
+        "created_at": "2025-08-25T16:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T17:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960013101765730459"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 17,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sG2G1g5zRK",
+              "end": 56,
+              "expanded_url": "https://x.com/niea58/status/1960013101765730459/photo/1",
+              "media_key": "3_1960012616195301377",
+              "start": 33,
+              "url": "https://t.co/sG2G1g5zRK"
+            },
+            {
+              "display_url": "pic.x.com/sG2G1g5zRK",
+              "end": 56,
+              "expanded_url": "https://x.com/niea58/status/1960013101765730459/photo/1",
+              "media_key": "3_1960012677415387136",
+              "start": 33,
+              "url": "https://t.co/sG2G1g5zRK"
+            },
+            {
+              "display_url": "pic.x.com/sG2G1g5zRK",
+              "end": 56,
+              "expanded_url": "https://x.com/niea58/status/1960013101765730459/photo/1",
+              "media_key": "3_1960012703147360256",
+              "start": 33,
+              "url": "https://t.co/sG2G1g5zRK"
+            },
+            {
+              "display_url": "pic.x.com/sG2G1g5zRK",
+              "end": 56,
+              "expanded_url": "https://x.com/niea58/status/1960013101765730459/photo/1",
+              "media_key": "3_1960012723913375745",
+              "start": 33,
+              "url": "https://t.co/sG2G1g5zRK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960013101765730459",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 10958,
+          "like_count": 480,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "自分のお絵描き掲示板を始めた頃は #さよなら絶望先生 が多い…。 https://t.co/sG2G1g5zRK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 433,
+          "like_count": 1318,
+          "listed_count": 2,
+          "media_count": 249,
+          "tweet_count": 4527
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-15T10:02:54.000Z",
+        "description": "お絵かき界の片隅で努力するのが楽しい日々です。 ☆Faintia https://t.co/CyPNwkSgSE… ☆pawoo https://t.co/L25B2MPdIu よろしくお願い致します。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fantia.jp/fanclubs/12996",
+                "end": 56,
+                "expanded_url": "http://fantia.jp/fanclubs/12996",
+                "start": 33,
+                "url": "https://t.co/CyPNwkSgSE"
+              },
+              {
+                "display_url": "pawoo.net/@niea",
+                "end": 88,
+                "expanded_url": "http://pawoo.net/@niea",
+                "start": 65,
+                "url": "https://t.co/L25B2MPdIu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/member.php?id=11103",
+                "start": 0,
+                "url": "https://t.co/B16EvsH9K2"
+              }
+            ]
+          }
+        },
+        "id": "90135461",
+        "location": "東京都品川区",
+        "name": "にえあ☮️ 夏コミありがとうございました。",
+        "pinned_tweet_id": "1941088882357096705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1309855032/origin1302676025280_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8602,
+          "following_count": 1796,
+          "like_count": 56138,
+          "listed_count": 173,
+          "media_count": 6758,
+          "tweet_count": 90507
+        },
+        "url": "https://t.co/B16EvsH9K2",
+        "username": "niea58",
+        "verified": false
+      }
+    ]
+  }
+}

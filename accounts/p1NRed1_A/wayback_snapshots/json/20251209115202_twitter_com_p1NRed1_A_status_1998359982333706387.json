@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1998009770024845312"
+      ],
+      "media_source_tweet_id": [
+        "1998009799867240710"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1998359982333706387",
+    "created_at": "2025-12-09T11:52:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T12:52:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998359982333706387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1728530737513558017",
+          "start": 3,
+          "username": "asspecf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wKJoz5Sy5p",
+          "end": 36,
+          "expanded_url": "https://x.com/asspecf/status/1998009799867240710/video/1",
+          "media_key": "7_1998009770024845312",
+          "start": 13,
+          "url": "https://t.co/wKJoz5Sy5p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998359982333706387",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 544
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998009799867240710",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @asspecf: https://t.co/wKJoz5Sy5p"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27445,
+        "height": 480,
+        "media_key": "7_1998009770024845312",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1998009770024845312/pu/img/gtJztfsRluuFXDzO.jpg",
+        "public_metrics": {
+          "view_count": 8343
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1998009770024845312/pu/vid/avc1/360x270/CvHeCsIKIarPtNNO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1998009770024845312/pu/vid/avc1/480x360/uPKpPd0PDZtmgr5y.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1998009770024845312/pu/vid/avc1/640x480/MI4vwBUxKczHVjQY.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1998009770024845312/pu/pl/fVJCWfC1NNE1jDZl.m3u8?tag=12&v=820"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1998009770024845312"
+          ],
+          "media_source_tweet_id": [
+            "1998009799867240710"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1998359982333706387",
+        "created_at": "2025-12-09T11:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T12:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998359982333706387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1728530737513558017",
+              "start": 3,
+              "username": "asspecf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wKJoz5Sy5p",
+              "end": 36,
+              "expanded_url": "https://x.com/asspecf/status/1998009799867240710/video/1",
+              "media_key": "7_1998009770024845312",
+              "start": 13,
+              "url": "https://t.co/wKJoz5Sy5p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998359982333706387",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 544
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998009799867240710",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @asspecf: https://t.co/wKJoz5Sy5p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1998009770024845312"
+          ]
+        },
+        "author_id": "1728530737513558017",
+        "conversation_id": "1998009799867240710",
+        "created_at": "2025-12-08T12:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T13:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998009799867240710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wKJoz5Sy5p",
+              "end": 23,
+              "expanded_url": "https://x.com/asspecf/status/1998009799867240710/video/1",
+              "media_key": "7_1998009770024845312",
+              "start": 0,
+              "url": "https://t.co/wKJoz5Sy5p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998009799867240710",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 582,
+          "impression_count": 22510,
+          "like_count": 2735,
+          "quote_count": 8,
+          "reply_count": 10,
+          "retweet_count": 544
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wKJoz5Sy5p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "我擅长产出大粪",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 499,
+          "like_count": 1582,
+          "listed_count": 2,
+          "media_count": 315,
+          "tweet_count": 5390
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T21:47:08.000Z",
+        "description": "I mainly post about touhou but sometimes other stuff\n \ndiscord: asspecf\n\nDNI: Homo/transphobes, loli/shotacons, proshippers\n\ntell me if I follow bad people!!",
+        "id": "1728530737513558017",
+        "location": "he/they",
+        "name": "aspecf",
+        "pinned_tweet_id": "1973903506235863545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993963304054562816/cb7WFMZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 803,
+          "like_count": 139600,
+          "listed_count": 6,
+          "media_count": 566,
+          "tweet_count": 15656
+        },
+        "username": "asspecf",
+        "verified": false
+      }
+    ]
+  }
+}

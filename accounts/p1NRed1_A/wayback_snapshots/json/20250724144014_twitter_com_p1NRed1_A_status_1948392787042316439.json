@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948313635069280256"
+      ],
+      "media_source_tweet_id": [
+        "1948313640341225787"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1948392787042316439",
+    "created_at": "2025-07-24T14:40:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T15:40:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948392787042316439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1923594726634291201",
+          "start": 3,
+          "username": "aka778642593011"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JTV0Y46U8q",
+          "end": 46,
+          "expanded_url": "https://x.com/aka778642593011/status/1948313640341225787/photo/1",
+          "media_key": "3_1948313635069280256",
+          "start": 23,
+          "url": "https://t.co/JTV0Y46U8q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948392787042316439",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948313640341225787",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aka778642593011: r https://t.co/JTV0Y46U8q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1240,
+        "media_key": "3_1948313635069280256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwnM7bFawAA6zLT.jpg",
+        "width": 1754
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948313635069280256"
+          ],
+          "media_source_tweet_id": [
+            "1948313640341225787"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1948392787042316439",
+        "created_at": "2025-07-24T14:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T15:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948392787042316439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1923594726634291201",
+              "start": 3,
+              "username": "aka778642593011"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JTV0Y46U8q",
+              "end": 46,
+              "expanded_url": "https://x.com/aka778642593011/status/1948313640341225787/photo/1",
+              "media_key": "3_1948313635069280256",
+              "start": 23,
+              "url": "https://t.co/JTV0Y46U8q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948392787042316439",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948313640341225787",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aka778642593011: r https://t.co/JTV0Y46U8q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948313635069280256"
+          ]
+        },
+        "author_id": "1923594726634291201",
+        "conversation_id": "1948313640341225787",
+        "created_at": "2025-07-24T09:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T10:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948313640341225787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JTV0Y46U8q",
+              "end": 25,
+              "expanded_url": "https://x.com/aka778642593011/status/1948313640341225787/photo/1",
+              "media_key": "3_1948313635069280256",
+              "start": 2,
+              "url": "https://t.co/JTV0Y46U8q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948313640341225787",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 3744,
+          "like_count": 372,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "r https://t.co/JTV0Y46U8q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 415,
+          "like_count": 1260,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 4362
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-17T04:21:53.000Z",
+        "description": "趣味全開",
+        "id": "1923594726634291201",
+        "name": "aka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924063541016793088/zZTe4ghR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 11,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 18
+        },
+        "username": "aka778642593011",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964930530396311552"
+      ],
+      "media_source_tweet_id": [
+        "1967679819790880857"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1967966235615957118",
+    "created_at": "2025-09-16T14:58:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T15:58:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967966235615957118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1924609732184309764",
+          "start": 3,
+          "username": "Reitarded_daily"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xLIzVR45tY",
+          "end": 44,
+          "expanded_url": "https://x.com/Reitarded_daily/status/1967679819790880857/photo/1",
+          "media_key": "3_1964930530396311552",
+          "start": 21,
+          "url": "https://t.co/xLIzVR45tY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967966235615957118",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967679819790880857",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Reitarded_daily: https://t.co/xLIzVR45tY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 719,
+        "media_key": "3_1964930530396311552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0TV6CCXkAATs4y.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964930530396311552"
+          ],
+          "media_source_tweet_id": [
+            "1967679819790880857"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1967966235615957118",
+        "created_at": "2025-09-16T14:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T15:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967966235615957118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1924609732184309764",
+              "start": 3,
+              "username": "Reitarded_daily"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xLIzVR45tY",
+              "end": 44,
+              "expanded_url": "https://x.com/Reitarded_daily/status/1967679819790880857/photo/1",
+              "media_key": "3_1964930530396311552",
+              "start": 21,
+              "url": "https://t.co/xLIzVR45tY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967966235615957118",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967679819790880857",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Reitarded_daily: https://t.co/xLIzVR45tY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964930530396311552"
+          ]
+        },
+        "author_id": "1924609732184309764",
+        "conversation_id": "1967679819790880857",
+        "created_at": "2025-09-15T20:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T21:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967679819790880857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xLIzVR45tY",
+              "end": 23,
+              "expanded_url": "https://x.com/Reitarded_daily/status/1967679819790880857/photo/1",
+              "media_key": "3_1964930530396311552",
+              "start": 0,
+              "url": "https://t.co/xLIzVR45tY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967679819790880857",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 10817,
+          "like_count": 1075,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xLIzVR45tY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 448,
+          "like_count": 1389,
+          "listed_count": 2,
+          "media_count": 263,
+          "tweet_count": 4713
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-19T23:35:02.000Z",
+        "description": "Account dedicated to posting wholesome SFW pictures & fanart of Rei Ayanami.",
+        "id": "1924609732184309764",
+        "location": "Tokyo-3",
+        "name": "Rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924612821351890944/1rlEoc5Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 3,
+          "media_count": 119,
+          "tweet_count": 120
+        },
+        "username": "Reitarded_daily",
+        "verified": false
+      }
+    ]
+  }
+}

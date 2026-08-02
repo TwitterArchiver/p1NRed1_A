@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1825563729657757696"
+      ],
+      "media_source_tweet_id": [
+        "1825563789338542472"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1825760184842727555",
+    "created_at": "2024-08-20T05:02:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-20T06:02:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825760184842727555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1765541877044875264",
+          "start": 3,
+          "username": "EveryDaioh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/07rpdtkya8",
+          "end": 61,
+          "expanded_url": "https://twitter.com/EveryDaioh/status/1825563789338542472/photo/1",
+          "media_key": "3_1825563729657757696",
+          "start": 38,
+          "url": "https://t.co/07rPdTKya8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825760184842727555",
+    "lang": "hu",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825563789338542472",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EveryDaioh: Osak off the Osakza 🥪 https://t.co/07rPdTKya8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "3_1825563729657757696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVW0ijUWgAApJ2b.jpg",
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1825563729657757696"
+          ],
+          "media_source_tweet_id": [
+            "1825563789338542472"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1825760184842727555",
+        "created_at": "2024-08-20T05:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T06:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825760184842727555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1765541877044875264",
+              "start": 3,
+              "username": "EveryDaioh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/07rpdtkya8",
+              "end": 61,
+              "expanded_url": "https://twitter.com/EveryDaioh/status/1825563789338542472/photo/1",
+              "media_key": "3_1825563729657757696",
+              "start": 38,
+              "url": "https://t.co/07rPdTKya8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825760184842727555",
+        "lang": "hu",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825563789338542472",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EveryDaioh: Osak off the Osakza 🥪 https://t.co/07rPdTKya8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1825563729657757696"
+          ]
+        },
+        "author_id": "1765541877044875264",
+        "conversation_id": "1825563789338542472",
+        "created_at": "2024-08-19T16:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T17:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825563789338542472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/07rpdtkya8",
+              "end": 45,
+              "expanded_url": "https://twitter.com/EveryDaioh/status/1825563789338542472/photo/1",
+              "media_key": "3_1825563729657757696",
+              "start": 22,
+              "url": "https://t.co/07rPdTKya8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825563789338542472",
+        "lang": "hu",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 986,
+          "like_count": 115,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "Osak off the Osakza 🥪 https://t.co/07rPdTKya8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 259,
+          "like_count": 735,
+          "listed_count": 0,
+          "tweet_count": 2449
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T00:56:16.000Z",
+        "description": "Following Anything Azumanga Daioh Related\nDM To Get Followed, Just Be Azumanga Related Things\nOwner: \n@Silly_Kingdom\nHelper: \n@nectoes\nnsfw, pedos, zoo's dni",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 102,
+                "username": "Silly_Kingdom"
+              },
+              {
+                "end": 134,
+                "start": 126,
+                "username": "nectoes"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "finddaioh.straw.page",
+                "end": 23,
+                "expanded_url": "https://finddaioh.straw.page",
+                "start": 0,
+                "url": "https://t.co/TRmIlfnAm7"
+              }
+            ]
+          }
+        },
+        "id": "1765541877044875264",
+        "location": "peace",
+        "name": "Following Every Azumanga Daioh Accounts",
+        "pinned_tweet_id": "1799192851558904108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807861082360336385/QJMZM5Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3284,
+          "following_count": 163,
+          "like_count": 2093,
+          "listed_count": 5,
+          "tweet_count": 2631
+        },
+        "url": "https://t.co/TRmIlfnAm7",
+        "username": "EveryDaioh",
+        "verified": false
+      }
+    ]
+  }
+}

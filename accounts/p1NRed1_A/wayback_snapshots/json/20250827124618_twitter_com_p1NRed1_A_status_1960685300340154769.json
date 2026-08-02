@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959459667232636928"
+      ],
+      "media_source_tweet_id": [
+        "1959459674660696242"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1960685300340154769",
+    "created_at": "2025-08-27T12:46:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T13:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960685300340154769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1748644440166850560",
+          "start": 3,
+          "username": "nddk_aaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kmVGI1NPha",
+          "end": 47,
+          "expanded_url": "https://x.com/nddk_aaa/status/1959459674660696242/photo/1",
+          "media_key": "3_1959459667232636928",
+          "start": 24,
+          "url": "https://t.co/kmVGI1NPha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960685300340154769",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959459674660696242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nddk_aaa: Sayonara… https://t.co/kmVGI1NPha"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1304,
+        "media_key": "3_1959459667232636928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzFmL4kbQAAmtf_.jpg",
+        "width": 1371
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959459667232636928"
+          ],
+          "media_source_tweet_id": [
+            "1959459674660696242"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1960685300340154769",
+        "created_at": "2025-08-27T12:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T13:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960685300340154769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1748644440166850560",
+              "start": 3,
+              "username": "nddk_aaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kmVGI1NPha",
+              "end": 47,
+              "expanded_url": "https://x.com/nddk_aaa/status/1959459674660696242/photo/1",
+              "media_key": "3_1959459667232636928",
+              "start": 24,
+              "url": "https://t.co/kmVGI1NPha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960685300340154769",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959459674660696242",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nddk_aaa: Sayonara… https://t.co/kmVGI1NPha"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959459667232636928"
+          ]
+        },
+        "author_id": "1748644440166850560",
+        "conversation_id": "1959459674660696242",
+        "created_at": "2025-08-24T03:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T04:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959459674660696242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kmVGI1NPha",
+              "end": 33,
+              "expanded_url": "https://x.com/nddk_aaa/status/1959459674660696242/photo/1",
+              "media_key": "3_1959459667232636928",
+              "start": 10,
+              "url": "https://t.co/kmVGI1NPha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959459674660696242",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 1573,
+          "like_count": 127,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "Sayonara… https://t.co/kmVGI1NPha"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 436,
+          "like_count": 1321,
+          "listed_count": 2,
+          "media_count": 250,
+          "tweet_count": 4533
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T09:52:03.000Z",
+        "description": "なにかを載せたい。　雑多注意",
+        "id": "1748644440166850560",
+        "name": "tst",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748645339035516928/fADFj146_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 17,
+          "like_count": 886,
+          "listed_count": 7,
+          "media_count": 36,
+          "tweet_count": 61
+        },
+        "username": "nddk_aaa",
+        "verified": false
+      }
+    ]
+  }
+}

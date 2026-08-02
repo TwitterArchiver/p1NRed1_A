@@ -1,0 +1,281 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1802837317792477184"
+      ],
+      "media_source_tweet_id": [
+        "1802837343914934773"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1802952148554334445",
+    "created_at": "2024-06-18T06:31:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-18T07:31:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802952148554334445"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 17,
+          "tag": "NozomuItoFreaky"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1727778607123095552",
+          "start": 3,
+          "username": "skibidiijun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/jVxVxJZEBH",
+          "end": 57,
+          "expanded_url": "https://twitter.com/skibidiijun/status/1802837343914934773/video/1",
+          "media_key": "7_1802837317792477184",
+          "start": 34,
+          "url": "https://t.co/jVxVxJZEBH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802952148554334445",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802837343914934773",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @skibidiijun: #NozomuItoFreaky https://t.co/jVxVxJZEBH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6777,
+        "height": 1024,
+        "media_key": "7_1802837317792477184",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1802837317792477184/pu/img/Y-qqQbuJsEe1300j.jpg",
+        "public_metrics": {
+          "view_count": 116
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1802837317792477184/pu/vid/avc1/320x568/E2T7C-WnPl7DZRuv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1802837317792477184/pu/vid/avc1/480x852/Pcf566299r1AjtH5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1802837317792477184/pu/vid/avc1/576x1024/RZ7aNYAT3iY2toud.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1802837317792477184/pu/pl/BwVw8ngpoRf89mJ2.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1802837317792477184"
+          ],
+          "media_source_tweet_id": [
+            "1802837343914934773"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1802952148554334445",
+        "created_at": "2024-06-18T06:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T07:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802952148554334445"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 17,
+              "tag": "NozomuItoFreaky"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1727778607123095552",
+              "start": 3,
+              "username": "skibidiijun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/jVxVxJZEBH",
+              "end": 57,
+              "expanded_url": "https://twitter.com/skibidiijun/status/1802837343914934773/video/1",
+              "media_key": "7_1802837317792477184",
+              "start": 34,
+              "url": "https://t.co/jVxVxJZEBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802952148554334445",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802837343914934773",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @skibidiijun: #NozomuItoFreaky https://t.co/jVxVxJZEBH"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1802837317792477184"
+          ]
+        },
+        "author_id": "1727778607123095552",
+        "conversation_id": "1802837343914934773",
+        "created_at": "2024-06-17T22:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T23:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802837343914934773"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 0,
+              "tag": "NozomuItoFreaky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/jVxVxJZEBH",
+              "end": 40,
+              "expanded_url": "https://twitter.com/skibidiijun/status/1802837343914934773/video/1",
+              "media_key": "7_1802837317792477184",
+              "start": 17,
+              "url": "https://t.co/jVxVxJZEBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802837343914934773",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 372,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "#NozomuItoFreaky https://t.co/jVxVxJZEBH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802900561299472385/3G9b9zhq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 184,
+          "like_count": 372,
+          "listed_count": 0,
+          "tweet_count": 1570
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-23T19:58:29.000Z",
+        "description": "im juntastic",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t4katomon.straw.page",
+                "end": 23,
+                "expanded_url": "https://t4katomon.straw.page/",
+                "start": 0,
+                "url": "https://t.co/tALF2U9aWJ"
+              }
+            ]
+          }
+        },
+        "id": "1727778607123095552",
+        "location": "he/she ♰",
+        "name": "#SkibidiSigmaJun",
+        "pinned_tweet_id": "1727785387425182077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800901163677618176/dtloMvoM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 245,
+          "like_count": 39536,
+          "listed_count": 0,
+          "tweet_count": 6105
+        },
+        "url": "https://t.co/tALF2U9aWJ",
+        "username": "skibidiijun",
+        "verified": false
+      }
+    ]
+  }
+}

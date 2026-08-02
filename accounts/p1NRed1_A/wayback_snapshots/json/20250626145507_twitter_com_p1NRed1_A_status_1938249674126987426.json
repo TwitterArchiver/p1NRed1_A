@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938237784084647938"
+      ],
+      "media_source_tweet_id": [
+        "1938238209382899955"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1938249674126987426",
+    "created_at": "2025-06-26T14:55:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T15:55:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938249674126987426"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "丸井ちゃん",
+          "probability": 0.7302,
+          "start": 29,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 36,
+          "tag": "過去絵"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "23044793",
+          "start": 3,
+          "username": "aogaeru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1HeOVKmiku",
+          "end": 64,
+          "expanded_url": "https://x.com/aogaeru/status/1938238209382899955/photo/1",
+          "media_key": "3_1938237784084647938",
+          "start": 41,
+          "url": "https://t.co/1HeOVKmiku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938249674126987426",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938238209382899955",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aogaeru: ショートケーキは穏やかに食べたい丸井ちゃん。 #過去絵 https://t.co/1HeOVKmiku"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1938237784084647938",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuYA_tKbEAILZTu.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938237784084647938"
+          ],
+          "media_source_tweet_id": [
+            "1938238209382899955"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1938249674126987426",
+        "created_at": "2025-06-26T14:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T15:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938249674126987426"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "丸井ちゃん",
+              "probability": 0.7302,
+              "start": 29,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "過去絵"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "23044793",
+              "start": 3,
+              "username": "aogaeru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1HeOVKmiku",
+              "end": 64,
+              "expanded_url": "https://x.com/aogaeru/status/1938238209382899955/photo/1",
+              "media_key": "3_1938237784084647938",
+              "start": 41,
+              "url": "https://t.co/1HeOVKmiku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938249674126987426",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938238209382899955",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aogaeru: ショートケーキは穏やかに食べたい丸井ちゃん。 #過去絵 https://t.co/1HeOVKmiku"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938237784084647938"
+          ]
+        },
+        "author_id": "23044793",
+        "conversation_id": "1938238209382899955",
+        "created_at": "2025-06-26T14:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T15:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938238209382899955"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "丸井ちゃん",
+              "probability": 0.7319,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "過去絵"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1HeOVKmiku",
+              "end": 51,
+              "expanded_url": "https://x.com/aogaeru/status/1938238209382899955/photo/1",
+              "media_key": "3_1938237784084647938",
+              "start": 28,
+              "url": "https://t.co/1HeOVKmiku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938238209382899955",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 62,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "ショートケーキは穏やかに食べたい丸井ちゃん。 #過去絵 https://t.co/1HeOVKmiku"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 416,
+          "like_count": 1239,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 4181
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-06T08:24:48.000Z",
+        "description": "女の子の絵を描いてれば幸せ。 skeb: https://t.co/YARQD97qZV #2018feb_baby #統合失調症",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 45,
+                "tag": "2018feb_baby"
+              },
+              {
+                "end": 65,
+                "start": 59,
+                "tag": "統合失調症"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@aogaeru",
+                "end": 44,
+                "expanded_url": "http://skeb.jp/@aogaeru",
+                "start": 21,
+                "url": "https://t.co/YARQD97qZV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/aogaeru",
+                "end": 23,
+                "expanded_url": "https://potofu.me/aogaeru",
+                "start": 0,
+                "url": "https://t.co/UEJ8iwueDr"
+              }
+            ]
+          }
+        },
+        "id": "23044793",
+        "location": "ぷちっと星とわの市臓物島",
+        "name": "あおがえる。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/985644955006730240/zu0P2et6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 315,
+          "like_count": 64349,
+          "listed_count": 48,
+          "media_count": 4802,
+          "tweet_count": 57660
+        },
+        "url": "https://t.co/UEJ8iwueDr",
+        "username": "aogaeru",
+        "verified": false
+      }
+    ]
+  }
+}

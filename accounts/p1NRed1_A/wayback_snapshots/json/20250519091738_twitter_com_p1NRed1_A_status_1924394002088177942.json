@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1924381883842035783",
+    "created_at": "2025-05-19T09:17:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T10:17:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924394002088177942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1835230349225492480",
+          "start": 0,
+          "username": "waitformetilim_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924394002088177942",
+    "in_reply_to_user_id": "1835230349225492480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924381883842035783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@waitformetilim_ 嘿嘿嘿你能喜欢真的太好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 694,
+        "media_key": "3_1924381877491662848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrTHHywXAAAKnp_.jpg",
+        "width": 724
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1924381883842035783",
+        "created_at": "2025-05-19T09:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T10:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924394002088177942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1835230349225492480",
+              "start": 0,
+              "username": "waitformetilim_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924394002088177942",
+        "in_reply_to_user_id": "1835230349225492480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924381883842035783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@waitformetilim_ 嘿嘿嘿你能喜欢真的太好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924381877491662848"
+          ]
+        },
+        "author_id": "1835230349225492480",
+        "conversation_id": "1924381883842035783",
+        "created_at": "2025-05-19T08:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T09:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924381883842035783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1haE8smPm5",
+              "end": 60,
+              "expanded_url": "https://x.com/waitformetilim_/status/1924381883842035783/photo/1",
+              "media_key": "3_1924381877491662848",
+              "start": 37,
+              "url": "https://t.co/1haE8smPm5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924381883842035783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咕咚老師幫我畫的！我真的有這麼可愛嘛www   這太可愛了 好可愛好可愛 https://t.co/1haE8smPm5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 407,
+          "like_count": 1216,
+          "listed_count": 1,
+          "media_count": 216,
+          "tweet_count": 3917
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T08:13:21.000Z",
+        "description": "I can't begin to start again why can't I just be perfect?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/waitformetilim…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/waitformetilimgone",
+                "start": 0,
+                "url": "https://t.co/dzHqpxIaMM"
+              }
+            ]
+          }
+        },
+        "id": "1835230349225492480",
+        "location": "Dream ",
+        "name": "waitformetilimgone",
+        "pinned_tweet_id": "1900916442792685651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835600773469843456/I6bWTJA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 130,
+          "like_count": 5401,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 894
+        },
+        "url": "https://t.co/dzHqpxIaMM",
+        "username": "waitformetilim_",
+        "verified": false
+      }
+    ]
+  }
+}

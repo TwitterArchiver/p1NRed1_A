@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1894750345827611101",
+    "created_at": "2025-02-27T11:37:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T12:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895075835922796801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1726433251131011072",
+          "start": 0,
+          "username": "hehe_da16070"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895075835922796801",
+    "in_reply_to_user_id": "1726433251131011072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894985443361665141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hehe_da16070 哇谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1894750345827611101",
+        "created_at": "2025-02-27T11:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T12:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895075835922796801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726433251131011072",
+              "start": 0,
+              "username": "hehe_da16070"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895075835922796801",
+        "in_reply_to_user_id": "1726433251131011072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894985443361665141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hehe_da16070 哇谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726433251131011072",
+        "conversation_id": "1894750345827611101",
+        "created_at": "2025-02-27T05:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T06:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894985443361665141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894985443361665141",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894750345827611101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 画的好棒👍🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889564810410627072/YnTsykE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 310,
+          "like_count": 1078,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 3318
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-20T02:52:36.000Z",
+        "description": "只擦不黄",
+        "id": "1726433251131011072",
+        "location": "192.168.1.1",
+        "name": "是瑞树捏",
+        "pinned_tweet_id": "1854815201373437970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854814921789521921/AepTJh_h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 69,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 229
+        },
+        "username": "hehe_da16070",
+        "verified": false
+      }
+    ]
+  }
+}

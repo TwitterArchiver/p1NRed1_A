@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1803281443529040308",
+    "created_at": "2024-06-20T05:56:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-20T06:56:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803668128171184627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1299419057649790977",
+          "start": 0,
+          "username": "Bionic_blood"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803668128171184627",
+    "in_reply_to_user_id": "1299419057649790977",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803631674242236916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bionic_blood 2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1803281443529040308",
+        "created_at": "2024-06-20T05:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T06:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803668128171184627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1299419057649790977",
+              "start": 0,
+              "username": "Bionic_blood"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803668128171184627",
+        "in_reply_to_user_id": "1299419057649790977",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803631674242236916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bionic_blood 2"
+      },
+      {
+        "attachments": {},
+        "author_id": "1299419057649790977",
+        "conversation_id": "1803281443529040308",
+        "created_at": "2024-06-20T03:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T04:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803631674242236916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803631674242236916",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803281443529040308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802900561299472385/3G9b9zhq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 192,
+          "like_count": 399,
+          "listed_count": 0,
+          "tweet_count": 1626
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-28T18:50:29.000Z",
+        "description": "Prose narrative,but like a diary. #📓 #🚬",
+        "id": "1299419057649790977",
+        "name": "4",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799550011828764672/cSWAA-QH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6786,
+          "following_count": 1464,
+          "like_count": 28780,
+          "listed_count": 16,
+          "tweet_count": 21107
+        },
+        "username": "Bionic_blood",
+        "verified": false
+      }
+    ]
+  }
+}

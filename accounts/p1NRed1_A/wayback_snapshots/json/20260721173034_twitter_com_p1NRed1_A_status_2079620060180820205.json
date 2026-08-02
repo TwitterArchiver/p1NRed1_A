@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079620017927462912"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "2079620060180820205",
+    "created_at": "2026-07-21T17:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T18:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079620060180820205"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/23M9g7d0Ud",
+          "end": 29,
+          "expanded_url": "https://x.com/p1NRed1_A/status/2079620060180820205/video/1",
+          "media_key": "13_2079620017927462912",
+          "start": 6,
+          "url": "https://t.co/23M9g7d0Ud"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079620060180820205",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不会回龙 https://t.co/23M9g7d0Ud"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9900,
+        "height": 1280,
+        "media_key": "13_2079620017927462912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079620017927462912/img/gTWg9cItz8SX5S2A.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079620017927462912/vid/avc1/320x568/E72ped2so4gXtdYB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079620017927462912/vid/avc1/480x852/ePkJ9iasZ1PN-QJ3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079620017927462912/vid/avc1/720x1280/2ceiTn72OQZa1ENy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079620017927462912/pl/Qts35ANVgKAQUWfE.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079620017927462912"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "2079620060180820205",
+        "created_at": "2026-07-21T17:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T18:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079620060180820205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/23M9g7d0Ud",
+              "end": 29,
+              "expanded_url": "https://x.com/p1NRed1_A/status/2079620060180820205/video/1",
+              "media_key": "13_2079620017927462912",
+              "start": 6,
+              "url": "https://t.co/23M9g7d0Ud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079620060180820205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不会回龙 https://t.co/23M9g7d0Ud"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/9GooAZ0z7o"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "死全家星",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076577294790139904/Fz-jPCGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 577,
+          "like_count": 1789,
+          "listed_count": 3,
+          "media_count": 432,
+          "tweet_count": 7029
+        },
+        "url": "https://t.co/9GooAZ0z7o",
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

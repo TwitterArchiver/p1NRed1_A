@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964288435038175232",
+        "3_1964288434589384704",
+        "3_1964288434610253824",
+        "3_1964288435017097216"
+      ],
+      "media_source_tweet_id": [
+        "1964288461902622828",
+        "1964288461902622828",
+        "1964288461902622828",
+        "1964288461902622828"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1964733102355513450",
+    "created_at": "2025-09-07T16:50:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T17:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964733102355513450"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 40,
+          "tag": "さよなら絶望先生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1819579882969747458",
+          "start": 3,
+          "username": "look1560370"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QSafJoe6yi",
+          "end": 73,
+          "expanded_url": "https://x.com/look1560370/status/1964288461902622828/photo/1",
+          "media_key": "3_1964288435038175232",
+          "start": 50,
+          "url": "https://t.co/QSafJoe6yi"
+        },
+        {
+          "display_url": "pic.x.com/QSafJoe6yi",
+          "end": 73,
+          "expanded_url": "https://x.com/look1560370/status/1964288461902622828/photo/1",
+          "media_key": "3_1964288434589384704",
+          "start": 50,
+          "url": "https://t.co/QSafJoe6yi"
+        },
+        {
+          "display_url": "pic.x.com/QSafJoe6yi",
+          "end": 73,
+          "expanded_url": "https://x.com/look1560370/status/1964288461902622828/photo/1",
+          "media_key": "3_1964288434610253824",
+          "start": 50,
+          "url": "https://t.co/QSafJoe6yi"
+        },
+        {
+          "display_url": "pic.x.com/QSafJoe6yi",
+          "end": 73,
+          "expanded_url": "https://x.com/look1560370/status/1964288461902622828/photo/1",
+          "media_key": "3_1964288435017097216",
+          "start": 50,
+          "url": "https://t.co/QSafJoe6yi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964733102355513450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964288461902622828",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @look1560370: 画出了不像加贺爱的加贺爱！对不起对不起对不起\n#さよなら絶望先生 https://t.co/QSafJoe6yi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2061,
+        "media_key": "3_1964288435038175232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0KN7KbbwAAI93g.jpg",
+        "width": 1671
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1964288434589384704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0KN7IwbwAAQ_aS.jpg",
+        "width": 1795
+      },
+      {
+        "height": 1563,
+        "media_key": "3_1964288434610253824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0KN7I1aMAAqqzR.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1964288435017097216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0KN7KWaIAA7_Hq.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964288435038175232",
+            "3_1964288434589384704",
+            "3_1964288434610253824",
+            "3_1964288435017097216"
+          ],
+          "media_source_tweet_id": [
+            "1964288461902622828",
+            "1964288461902622828",
+            "1964288461902622828",
+            "1964288461902622828"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1964733102355513450",
+        "created_at": "2025-09-07T16:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T17:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964733102355513450"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 40,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1819579882969747458",
+              "start": 3,
+              "username": "look1560370"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QSafJoe6yi",
+              "end": 73,
+              "expanded_url": "https://x.com/look1560370/status/1964288461902622828/photo/1",
+              "media_key": "3_1964288435038175232",
+              "start": 50,
+              "url": "https://t.co/QSafJoe6yi"
+            },
+            {
+              "display_url": "pic.x.com/QSafJoe6yi",
+              "end": 73,
+              "expanded_url": "https://x.com/look1560370/status/1964288461902622828/photo/1",
+              "media_key": "3_1964288434589384704",
+              "start": 50,
+              "url": "https://t.co/QSafJoe6yi"
+            },
+            {
+              "display_url": "pic.x.com/QSafJoe6yi",
+              "end": 73,
+              "expanded_url": "https://x.com/look1560370/status/1964288461902622828/photo/1",
+              "media_key": "3_1964288434610253824",
+              "start": 50,
+              "url": "https://t.co/QSafJoe6yi"
+            },
+            {
+              "display_url": "pic.x.com/QSafJoe6yi",
+              "end": 73,
+              "expanded_url": "https://x.com/look1560370/status/1964288461902622828/photo/1",
+              "media_key": "3_1964288435017097216",
+              "start": 50,
+              "url": "https://t.co/QSafJoe6yi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964733102355513450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964288461902622828",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @look1560370: 画出了不像加贺爱的加贺爱！对不起对不起对不起\n#さよなら絶望先生 https://t.co/QSafJoe6yi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964288435038175232",
+            "3_1964288434589384704",
+            "3_1964288434610253824",
+            "3_1964288435017097216"
+          ]
+        },
+        "author_id": "1819579882969747458",
+        "conversation_id": "1964288461902622828",
+        "created_at": "2025-09-06T11:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T12:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964288461902622828"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 23,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QSafJoe6yi",
+              "end": 56,
+              "expanded_url": "https://x.com/look1560370/status/1964288461902622828/photo/1",
+              "media_key": "3_1964288435038175232",
+              "start": 33,
+              "url": "https://t.co/QSafJoe6yi"
+            },
+            {
+              "display_url": "pic.x.com/QSafJoe6yi",
+              "end": 56,
+              "expanded_url": "https://x.com/look1560370/status/1964288461902622828/photo/1",
+              "media_key": "3_1964288434589384704",
+              "start": 33,
+              "url": "https://t.co/QSafJoe6yi"
+            },
+            {
+              "display_url": "pic.x.com/QSafJoe6yi",
+              "end": 56,
+              "expanded_url": "https://x.com/look1560370/status/1964288461902622828/photo/1",
+              "media_key": "3_1964288434610253824",
+              "start": 33,
+              "url": "https://t.co/QSafJoe6yi"
+            },
+            {
+              "display_url": "pic.x.com/QSafJoe6yi",
+              "end": 56,
+              "expanded_url": "https://x.com/look1560370/status/1964288461902622828/photo/1",
+              "media_key": "3_1964288435017097216",
+              "start": 33,
+              "url": "https://t.co/QSafJoe6yi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964288461902622828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 460,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "画出了不像加贺爱的加贺爱！对不起对不起对不起\n#さよなら絶望先生 https://t.co/QSafJoe6yi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 444,
+          "like_count": 1364,
+          "listed_count": 2,
+          "media_count": 258,
+          "tweet_count": 4639
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-03T03:43:53.000Z",
+        "description": "纯路过少女/上学中/目前处于产品冷",
+        "id": "1819579882969747458",
+        "name": "eyuhzoN",
+        "pinned_tweet_id": "1956701054248116530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951947698854301696/nj1Zt9BQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 68,
+          "like_count": 487,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 170
+        },
+        "username": "look1560370",
+        "verified": false
+      }
+    ]
+  }
+}

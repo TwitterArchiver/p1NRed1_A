@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1911471664187183573",
+    "created_at": "2025-04-14T01:19:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T02:19:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911590109167886612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1464789610307932168",
+          "start": 0,
+          "username": "okinomiyuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911590109167886612",
+    "in_reply_to_user_id": "1464789610307932168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911471664187183573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@okinomiyuki 像一段蛋堡的rap喜欢蛋堡的人不要骂我我瞎说的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1911471664187183573",
+        "created_at": "2025-04-14T01:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T02:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911590109167886612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1464789610307932168",
+              "start": 0,
+              "username": "okinomiyuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911590109167886612",
+        "in_reply_to_user_id": "1464789610307932168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911471664187183573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@okinomiyuki 像一段蛋堡的rap喜欢蛋堡的人不要骂我我瞎说的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464789610307932168",
+        "conversation_id": "1911471664187183573",
+        "created_at": "2025-04-13T17:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T18:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911471664187183573"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1911471664187183573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在拿着手机这个手机是暑假的时候买的那个时候爸爸把快递扔在我桌子上手机壳是硅胶的会黏我的口袋裤子 裤子口袋 裤子挂在床前 材料是牛仔旁边有半袖纯棉的四月初七十块钱买到的 我躺在床上 床上有枕头枕巾被子 被子很皱 很皱 电脑包在旁边 我没有穿内衣 我穿了安睡裤 我在充电我在充电快充到30"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910291251003547648/-uuCvZrl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 361,
+          "like_count": 1139,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 3513
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-28T02:54:03.000Z",
+        "description": "shed tears hundred percent",
+        "id": "1464789610307932168",
+        "location": "in your ass",
+        "name": "みゆき",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683544393356288000/T-ERy6Rm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 281,
+          "like_count": 4695,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1838
+        },
+        "username": "okinomiyuki",
+        "verified": false
+      }
+    ]
+  }
+}

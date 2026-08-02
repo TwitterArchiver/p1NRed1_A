@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1997975366636564741",
+    "created_at": "2025-12-08T13:56:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T14:56:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998028866162754031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1962465706756448256",
+          "start": 0,
+          "username": "memom1229345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998028866162754031",
+    "in_reply_to_user_id": "1962465706756448256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997975366636564741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@memom1229345 又咋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1997975366636564741",
+        "created_at": "2025-12-08T13:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T14:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998028866162754031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1962465706756448256",
+              "start": 0,
+              "username": "memom1229345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998028866162754031",
+        "in_reply_to_user_id": "1962465706756448256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997975366636564741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@memom1229345 又咋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962465706756448256",
+        "conversation_id": "1997975366636564741",
+        "created_at": "2025-12-08T10:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T11:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997975366636564741"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997975366636564741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然但是，aaa，这样吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "我擅长产出大粪",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 499,
+          "like_count": 1580,
+          "listed_count": 2,
+          "media_count": 314,
+          "tweet_count": 5385
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T10:41:26.000Z",
+        "description": "很神秘很神秘",
+        "id": "1962465706756448256",
+        "name": "mome",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962468282180714496/oZ5GIMAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 137,
+          "like_count": 597,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 102
+        },
+        "username": "memom1229345",
+        "verified": false
+      }
+    ]
+  }
+}

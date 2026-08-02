@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2049435539737325589",
+    "created_at": "2026-04-29T23:30:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T00:30:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049632522875842682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1641809327815290880",
+          "start": 0,
+          "username": "kotonami999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049632522875842682",
+    "in_reply_to_user_id": "1641809327815290880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049627364955717746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kotonami999 外卖员用不着写字"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2049435539737325589",
+        "created_at": "2026-04-29T23:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T00:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049632522875842682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1641809327815290880",
+              "start": 0,
+              "username": "kotonami999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049632522875842682",
+        "in_reply_to_user_id": "1641809327815290880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049627364955717746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kotonami999 外卖员用不着写字"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641809327815290880",
+        "conversation_id": "2049435539737325589",
+        "created_at": "2026-04-29T23:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T00:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049627364955717746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049627364955717746",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049435539737325589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 我都不会写字了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 545,
+          "like_count": 1651,
+          "listed_count": 3,
+          "media_count": 348,
+          "tweet_count": 5988
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T14:27:22.000Z",
+        "description": "嗯。叫我小琴就好",
+        "id": "1641809327815290880",
+        "location": "666999",
+        "name": "呃呃",
+        "pinned_tweet_id": "2002579529865572866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970394553267167233/_Q3SRvH5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 316,
+          "like_count": 1680,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 871
+        },
+        "username": "kotonami999",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,528 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939604864520134656",
+        "3_1939604863790223360",
+        "3_1939604864507510784",
+        "3_1939604864687886336"
+      ],
+      "media_source_tweet_id": [
+        "1939604878302818665",
+        "1939604878302818665",
+        "1939604878302818665",
+        "1939604878302818665"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1939618609397104834",
+    "created_at": "2025-06-30T09:34:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T10:34:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939618609397104834"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 15,
+          "tag": "今月描いた絵を晒そう"
+        },
+        {
+          "end": 36,
+          "start": 27,
+          "tag": "さよなら絶望先生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1176480058292129793",
+          "start": 3,
+          "username": "5t5t5szbh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tXKc0vewAX",
+          "end": 60,
+          "expanded_url": "https://x.com/5t5t5szbh/status/1939604878302818665/photo/1",
+          "media_key": "3_1939604864520134656",
+          "start": 37,
+          "url": "https://t.co/tXKc0vewAX"
+        },
+        {
+          "display_url": "pic.x.com/tXKc0vewAX",
+          "end": 60,
+          "expanded_url": "https://x.com/5t5t5szbh/status/1939604878302818665/photo/1",
+          "media_key": "3_1939604863790223360",
+          "start": 37,
+          "url": "https://t.co/tXKc0vewAX"
+        },
+        {
+          "display_url": "pic.x.com/tXKc0vewAX",
+          "end": 60,
+          "expanded_url": "https://x.com/5t5t5szbh/status/1939604878302818665/photo/1",
+          "media_key": "3_1939604864507510784",
+          "start": 37,
+          "url": "https://t.co/tXKc0vewAX"
+        },
+        {
+          "display_url": "pic.x.com/tXKc0vewAX",
+          "end": 60,
+          "expanded_url": "https://x.com/5t5t5szbh/status/1939604878302818665/photo/1",
+          "media_key": "3_1939604864687886336",
+          "start": 37,
+          "url": "https://t.co/tXKc0vewAX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939618609397104834",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939604878302818665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @5t5t5szbh: #今月描いた絵を晒そう\n#さよなら絶望先生 https://t.co/tXKc0vewAX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1844,
+        "media_key": "3_1939604864520134656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GurcWQpXoAATcPk.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1939604863790223360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GurcWN7WEAAe7RI.jpg",
+        "width": 768
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1939604864507510784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GurcWQmXAAANQl7.jpg",
+        "width": 1448
+      },
+      {
+        "height": 880,
+        "media_key": "3_1939604864687886336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GurcWRRXUAAItPP.jpg",
+        "width": 614
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939604864520134656",
+            "3_1939604863790223360",
+            "3_1939604864507510784",
+            "3_1939604864687886336"
+          ],
+          "media_source_tweet_id": [
+            "1939604878302818665",
+            "1939604878302818665",
+            "1939604878302818665",
+            "1939604878302818665"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1939618609397104834",
+        "created_at": "2025-06-30T09:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T10:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939618609397104834"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 15,
+              "tag": "今月描いた絵を晒そう"
+            },
+            {
+              "end": 36,
+              "start": 27,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1176480058292129793",
+              "start": 3,
+              "username": "5t5t5szbh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tXKc0vewAX",
+              "end": 60,
+              "expanded_url": "https://x.com/5t5t5szbh/status/1939604878302818665/photo/1",
+              "media_key": "3_1939604864520134656",
+              "start": 37,
+              "url": "https://t.co/tXKc0vewAX"
+            },
+            {
+              "display_url": "pic.x.com/tXKc0vewAX",
+              "end": 60,
+              "expanded_url": "https://x.com/5t5t5szbh/status/1939604878302818665/photo/1",
+              "media_key": "3_1939604863790223360",
+              "start": 37,
+              "url": "https://t.co/tXKc0vewAX"
+            },
+            {
+              "display_url": "pic.x.com/tXKc0vewAX",
+              "end": 60,
+              "expanded_url": "https://x.com/5t5t5szbh/status/1939604878302818665/photo/1",
+              "media_key": "3_1939604864507510784",
+              "start": 37,
+              "url": "https://t.co/tXKc0vewAX"
+            },
+            {
+              "display_url": "pic.x.com/tXKc0vewAX",
+              "end": 60,
+              "expanded_url": "https://x.com/5t5t5szbh/status/1939604878302818665/photo/1",
+              "media_key": "3_1939604864687886336",
+              "start": 37,
+              "url": "https://t.co/tXKc0vewAX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939618609397104834",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939604878302818665",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @5t5t5szbh: #今月描いた絵を晒そう\n#さよなら絶望先生 https://t.co/tXKc0vewAX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939604864520134656",
+            "3_1939604863790223360",
+            "3_1939604864507510784",
+            "3_1939604864687886336"
+          ]
+        },
+        "author_id": "1176480058292129793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1939604878302818665",
+        "created_at": "2025-06-30T08:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T09:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939604878302818665"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "今月描いた絵を晒そう"
+            },
+            {
+              "end": 21,
+              "start": 12,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tXKc0vewAX",
+              "end": 45,
+              "expanded_url": "https://x.com/5t5t5szbh/status/1939604878302818665/photo/1",
+              "media_key": "3_1939604864520134656",
+              "start": 22,
+              "url": "https://t.co/tXKc0vewAX"
+            },
+            {
+              "display_url": "pic.x.com/tXKc0vewAX",
+              "end": 45,
+              "expanded_url": "https://x.com/5t5t5szbh/status/1939604878302818665/photo/1",
+              "media_key": "3_1939604863790223360",
+              "start": 22,
+              "url": "https://t.co/tXKc0vewAX"
+            },
+            {
+              "display_url": "pic.x.com/tXKc0vewAX",
+              "end": 45,
+              "expanded_url": "https://x.com/5t5t5szbh/status/1939604878302818665/photo/1",
+              "media_key": "3_1939604864507510784",
+              "start": 22,
+              "url": "https://t.co/tXKc0vewAX"
+            },
+            {
+              "display_url": "pic.x.com/tXKc0vewAX",
+              "end": 45,
+              "expanded_url": "https://x.com/5t5t5szbh/status/1939604878302818665/photo/1",
+              "media_key": "3_1939604864687886336",
+              "start": 22,
+              "url": "https://t.co/tXKc0vewAX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939604878302818665",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#今月描いた絵を晒そう\n#さよなら絶望先生 https://t.co/tXKc0vewAX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 416,
+          "like_count": 1248,
+          "listed_count": 1,
+          "media_count": 232,
+          "tweet_count": 4254
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-24T12:55:06.000Z",
+        "description": "",
+        "id": "1176480058292129793",
+        "name": "タカ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937428016520642560/tK1QM0Zd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 321,
+          "like_count": 5591,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 3875
+        },
+        "username": "5t5t5szbh",
+        "verified": false
+      }
+    ]
+  }
+}

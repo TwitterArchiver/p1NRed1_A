@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956755945281011712"
+      ],
+      "media_source_tweet_id": [
+        "1956755952751034495"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1957470664987992088",
+    "created_at": "2025-08-18T15:52:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T16:52:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957470664987992088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1870131622252830720",
+          "start": 3,
+          "username": "oroka_0501"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LYbTEXcvB2",
+          "end": 58,
+          "expanded_url": "https://x.com/oroka_0501/status/1956755952751034495/photo/1",
+          "media_key": "3_1956755945281011712",
+          "start": 35,
+          "url": "https://t.co/LYbTEXcvB2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957470664987992088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 131
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956755952751034495",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oroka_0501: 億年ぶりの男装です。\n絶望しました… https://t.co/LYbTEXcvB2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956755945281011712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyfLKjabwAA5tSz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956755945281011712"
+          ],
+          "media_source_tweet_id": [
+            "1956755952751034495"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1957470664987992088",
+        "created_at": "2025-08-18T15:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T16:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957470664987992088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1870131622252830720",
+              "start": 3,
+              "username": "oroka_0501"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LYbTEXcvB2",
+              "end": 58,
+              "expanded_url": "https://x.com/oroka_0501/status/1956755952751034495/photo/1",
+              "media_key": "3_1956755945281011712",
+              "start": 35,
+              "url": "https://t.co/LYbTEXcvB2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957470664987992088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 131
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956755952751034495",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oroka_0501: 億年ぶりの男装です。\n絶望しました… https://t.co/LYbTEXcvB2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956755945281011712"
+          ]
+        },
+        "author_id": "1870131622252830720",
+        "conversation_id": "1956755952751034495",
+        "created_at": "2025-08-16T16:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T17:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956755952751034495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LYbTEXcvB2",
+              "end": 42,
+              "expanded_url": "https://x.com/oroka_0501/status/1956755952751034495/photo/1",
+              "media_key": "3_1956755945281011712",
+              "start": 19,
+              "url": "https://t.co/LYbTEXcvB2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956755952751034495",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 21124,
+          "like_count": 1011,
+          "quote_count": 12,
+          "reply_count": 13,
+          "retweet_count": 131
+        },
+        "reply_settings": "everyone",
+        "text": "億年ぶりの男装です。\n絶望しました… https://t.co/LYbTEXcvB2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 421,
+          "like_count": 1298,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 4463
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T15:38:45.000Z",
+        "description": "愛知/アイコン⇒ @mitsuya_fn57 さん/マロ⇒ https://t.co/RvyUoKOGm5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "mitsuya_fn57"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/gf9m1cegc43acu…",
+                "end": 53,
+                "expanded_url": "https://marshmallow-qa.com/gf9m1cegc43acu4?t=LV4eXg&utm_medium=url_text&utm_source=promotion",
+                "start": 30,
+                "url": "https://t.co/RvyUoKOGm5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/orokakakaka",
+                "end": 23,
+                "expanded_url": "https://lit.link/orokakakaka",
+                "start": 0,
+                "url": "https://t.co/n9sq4Miup6"
+              }
+            ]
+          }
+        },
+        "id": "1870131622252830720",
+        "name": "愚",
+        "pinned_tweet_id": "1956755952751034495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945108532677795841/JivyEJpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1762,
+          "following_count": 76,
+          "like_count": 2713,
+          "listed_count": 3,
+          "media_count": 197,
+          "tweet_count": 2323
+        },
+        "url": "https://t.co/n9sq4Miup6",
+        "username": "oroka_0501",
+        "verified": false
+      }
+    ]
+  }
+}

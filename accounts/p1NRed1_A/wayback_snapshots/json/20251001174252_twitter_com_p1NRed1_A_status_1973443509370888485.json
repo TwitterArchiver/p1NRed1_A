@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972944188120645632"
+      ],
+      "media_source_tweet_id": [
+        "1972944195271925803"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1973443509370888485",
+    "created_at": "2025-10-01T17:42:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T18:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973443509370888485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1414831844",
+          "start": 3,
+          "username": "mitsuya_fn57"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HaMzo6vg7I",
+          "end": 68,
+          "expanded_url": "https://x.com/mitsuya_fn57/status/1972944195271925803/photo/1",
+          "media_key": "3_1972944188120645632",
+          "start": 45,
+          "url": "https://t.co/HaMzo6vg7I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973443509370888485",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972944195271925803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mitsuya_fn57: 多分見栄え的にはこんな感じに収めた方が良いんだけれど https://t.co/HaMzo6vg7I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1987,
+        "media_key": "3_1972944188120645632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2FOSTaaQAAtP-z.jpg",
+        "width": 857
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972944188120645632"
+          ],
+          "media_source_tweet_id": [
+            "1972944195271925803"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1973443509370888485",
+        "created_at": "2025-10-01T17:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T18:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973443509370888485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1414831844",
+              "start": 3,
+              "username": "mitsuya_fn57"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HaMzo6vg7I",
+              "end": 68,
+              "expanded_url": "https://x.com/mitsuya_fn57/status/1972944195271925803/photo/1",
+              "media_key": "3_1972944188120645632",
+              "start": 45,
+              "url": "https://t.co/HaMzo6vg7I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973443509370888485",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972944195271925803",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mitsuya_fn57: 多分見栄え的にはこんな感じに収めた方が良いんだけれど https://t.co/HaMzo6vg7I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972944188120645632"
+          ]
+        },
+        "author_id": "1414831844",
+        "conversation_id": "1972944195271925803",
+        "created_at": "2025-09-30T08:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T09:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972944195271925803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HaMzo6vg7I",
+              "end": 50,
+              "expanded_url": "https://x.com/mitsuya_fn57/status/1972944195271925803/photo/1",
+              "media_key": "3_1972944188120645632",
+              "start": 27,
+              "url": "https://t.co/HaMzo6vg7I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972944195271925803",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 3868,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "多分見栄え的にはこんな感じに収めた方が良いんだけれど https://t.co/HaMzo6vg7I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 466,
+          "like_count": 1461,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 4891
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-09T07:01:51.000Z",
+        "description": "絵 筋トレ ギター 小説 アニメ pixiv https://t.co/7lfJvtC2rH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/18366545",
+                "end": 46,
+                "expanded_url": "https://www.pixiv.net/users/18366545",
+                "start": 23,
+                "url": "https://t.co/7lfJvtC2rH"
+              }
+            ]
+          }
+        },
+        "id": "1414831844",
+        "location": "四国の毒吹き",
+        "name": "mitsuya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961773678447980544/WBeuqgtZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5222,
+          "following_count": 919,
+          "like_count": 191649,
+          "listed_count": 36,
+          "media_count": 12709,
+          "tweet_count": 102009
+        },
+        "username": "mitsuya_fn57",
+        "verified": false
+      }
+    ]
+  }
+}

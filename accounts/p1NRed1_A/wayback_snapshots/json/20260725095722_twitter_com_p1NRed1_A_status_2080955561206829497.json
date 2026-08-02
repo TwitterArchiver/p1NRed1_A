@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2080951977207623746",
+    "created_at": "2026-07-25T09:57:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T10:57:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080955561206829497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1905624461237227520",
+          "start": 0,
+          "username": "WJ59h71"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080955561206829497",
+    "in_reply_to_user_id": "1905624461237227520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080954908086530162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WJ59h71 我没吸过。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2080951977207623746",
+        "created_at": "2026-07-25T09:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T10:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080955561206829497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1905624461237227520",
+              "start": 0,
+              "username": "WJ59h71"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080955561206829497",
+        "in_reply_to_user_id": "1905624461237227520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080954908086530162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WJ59h71 我没吸过。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905624461237227520",
+        "conversation_id": "2080951977207623746",
+        "created_at": "2026-07-25T09:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T10:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080954908086530162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080954908086530162",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080951977207623746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 我靠是真的那个啥吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/9GooAZ0z7o"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "死全家星",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076577294790139904/Fz-jPCGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 587,
+          "like_count": 1800,
+          "listed_count": 3,
+          "media_count": 441,
+          "tweet_count": 7124
+        },
+        "url": "https://t.co/9GooAZ0z7o",
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T14:14:23.000Z",
+        "description": "怨气很重的一根葱",
+        "id": "1905624461237227520",
+        "location": "火星",
+        "name": "離别時雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076561812963872768/x5rk5-pO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 44,
+          "like_count": 3575,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 329
+        },
+        "url": "",
+        "username": "WJ59h71",
+        "verified": false
+      }
+    ]
+  }
+}

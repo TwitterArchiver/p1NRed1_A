@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_source_tweet_id": [
+        "1825733622625656917"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1825755527772778826",
+    "created_at": "2024-08-20T04:43:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-20T05:43:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825755527772778826"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "nami",
+          "probability": 0.7005,
+          "start": 20,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1700919716724744192",
+          "start": 3,
+          "username": "kreineur"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w4wvocxyn5",
+          "end": 48,
+          "expanded_url": "https://twitter.com/kreineur/status/1825733622625656917/photo/1",
+          "media_key": "3_1825733621165989889",
+          "start": 25,
+          "url": "https://t.co/W4wVOCXYn5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825755527772778826",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825733622625656917",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kreineur: funny nami https://t.co/W4wVOCXYn5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_source_tweet_id": [
+            "1825733622625656917"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1825755527772778826",
+        "created_at": "2024-08-20T04:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T05:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825755527772778826"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "nami",
+              "probability": 0.7005,
+              "start": 20,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1700919716724744192",
+              "start": 3,
+              "username": "kreineur"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w4wvocxyn5",
+              "end": 48,
+              "expanded_url": "https://twitter.com/kreineur/status/1825733622625656917/photo/1",
+              "media_key": "3_1825733621165989889",
+              "start": 25,
+              "url": "https://t.co/W4wVOCXYn5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825755527772778826",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825733622625656917",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kreineur: funny nami https://t.co/W4wVOCXYn5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1825733621165989889"
+          ]
+        },
+        "author_id": "1700919716724744192",
+        "conversation_id": "1825733622625656917",
+        "created_at": "2024-08-20T03:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T04:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825733622625656917"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "nami",
+              "probability": 0.4862,
+              "start": 6,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w4wvocxyn5",
+              "end": 34,
+              "expanded_url": "https://twitter.com/kreineur/status/1825733622625656917/photo/1",
+              "media_key": "3_1825733621165989889",
+              "start": 11,
+              "url": "https://t.co/W4wVOCXYn5"
+            },
+            {
+              "display_url": "x.com/DanTheMediocre…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/DanTheMediocre/status/1825708749505396797",
+              "start": 35,
+              "url": "https://t.co/5sNzlyNAIi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825733622625656917",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825708749505396797",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "funny nami https://t.co/W4wVOCXYn5 https://t.co/5sNzlyNAIi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 259,
+          "like_count": 732,
+          "listed_count": 0,
+          "tweet_count": 2444
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T17:10:56.000Z",
+        "description": "(he/him) i'm 15 and i like to draw \nmeow meow meow\n\n*my laptop broke so i'm stuck drawing traditionally",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kre.straw.page",
+                "end": 23,
+                "expanded_url": "https://kre.straw.page/",
+                "start": 0,
+                "url": "https://t.co/rgzzBVyULD"
+              }
+            ]
+          }
+        },
+        "id": "1700919716724744192",
+        "location": "entrails island",
+        "name": "kre",
+        "pinned_tweet_id": "1783365819646239165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799475391154851840/E0D3KKhG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 1189,
+          "like_count": 36557,
+          "listed_count": 0,
+          "tweet_count": 1496
+        },
+        "url": "https://t.co/rgzzBVyULD",
+        "username": "kreineur",
+        "verified": false
+      }
+    ]
+  }
+}

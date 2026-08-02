@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2082700924582314037",
+    "created_at": "2026-07-30T05:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T06:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082700924582314037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1515000394858041344",
+          "start": 3,
+          "username": "barotws"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082700924582314037",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4465
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082554036054639052",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @barotws: J’en ai marre de vivre dans la souffrance depuis 27 ans à cause d’une erreur médicale à ma naissance (on m’a coupé le cordon a…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2082700924582314037",
+        "created_at": "2026-07-30T05:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T06:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082700924582314037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1515000394858041344",
+              "start": 3,
+              "username": "barotws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082700924582314037",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4465
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082554036054639052",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @barotws: J’en ai marre de vivre dans la souffrance depuis 27 ans à cause d’une erreur médicale à ma naissance (on m’a coupé le cordon a…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515000394858041344",
+        "conversation_id": "2082554036054639052",
+        "created_at": "2026-07-29T19:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T20:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082554036054639052"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082554036054639052",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1226,
+          "impression_count": 756534,
+          "like_count": 27432,
+          "quote_count": 189,
+          "reply_count": 53,
+          "retweet_count": 4471
+        },
+        "reply_settings": "everyone",
+        "text": "J’en ai marre de vivre dans la souffrance depuis 27 ans à cause d’une erreur médicale à ma naissance (on m’a coupé le cordon au lieu de me trancher la gorge)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/9GooAZ0z7o"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "死全家星",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076577294790139904/Fz-jPCGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 592,
+          "like_count": 1806,
+          "listed_count": 3,
+          "media_count": 449,
+          "tweet_count": 7228
+        },
+        "url": "https://t.co/9GooAZ0z7o",
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-15T16:13:44.000Z",
+        "description": "main character",
+        "id": "1515000394858041344",
+        "location": "Saturne",
+        "name": "BMS | barbie",
+        "pinned_tweet_id": "1958932488589361192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031788619204026368/X37WVFnd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 184,
+          "like_count": 32111,
+          "listed_count": 4,
+          "media_count": 353,
+          "tweet_count": 16886
+        },
+        "url": "",
+        "username": "barotws",
+        "verified": false
+      }
+    ]
+  }
+}

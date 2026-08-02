@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963073865388789760"
+      ],
+      "media_source_tweet_id": [
+        "1963073872934404412"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1963091161557647521",
+    "created_at": "2025-09-03T04:06:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T05:06:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963091161557647521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1413308922719395840",
+          "start": 3,
+          "username": "kakiko_orogi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jAqR1RGmlM",
+          "end": 50,
+          "expanded_url": "https://x.com/kakiko_orogi/status/1963073872934404412/photo/1",
+          "media_key": "3_1963073865388789760",
+          "start": 27,
+          "url": "https://t.co/jAqR1RGmlM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963091161557647521",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963073872934404412",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kakiko_orogi: ワンドロらくがき https://t.co/jAqR1RGmlM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1963073865388789760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz49R55aEAAH_EI.jpg",
+        "width": 1389
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963073865388789760"
+          ],
+          "media_source_tweet_id": [
+            "1963073872934404412"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1963091161557647521",
+        "created_at": "2025-09-03T04:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T05:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963091161557647521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1413308922719395840",
+              "start": 3,
+              "username": "kakiko_orogi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jAqR1RGmlM",
+              "end": 50,
+              "expanded_url": "https://x.com/kakiko_orogi/status/1963073872934404412/photo/1",
+              "media_key": "3_1963073865388789760",
+              "start": 27,
+              "url": "https://t.co/jAqR1RGmlM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963091161557647521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963073872934404412",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kakiko_orogi: ワンドロらくがき https://t.co/jAqR1RGmlM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963073865388789760"
+          ]
+        },
+        "author_id": "1413308922719395840",
+        "conversation_id": "1963073872934404412",
+        "created_at": "2025-09-03T02:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T03:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963073872934404412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jAqR1RGmlM",
+              "end": 32,
+              "expanded_url": "https://x.com/kakiko_orogi/status/1963073872934404412/photo/1",
+              "media_key": "3_1963073865388789760",
+              "start": 9,
+              "url": "https://t.co/jAqR1RGmlM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963073872934404412",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 230,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "ワンドロらくがき https://t.co/jAqR1RGmlM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 439,
+          "like_count": 1348,
+          "listed_count": 2,
+          "media_count": 258,
+          "tweet_count": 4617
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-09T01:30:59.000Z",
+        "description": "絵描き。絵の転載・加工・使用・AI学習禁止❎ たまにTVの感想(アニメ朝ドラ大河お笑い)/漫画/ゲーム/カラオケ。 特に京アニ、進撃、庵野、イクニ、久米田康治先生が好きです。 ♻️❤👤ありがとうございます🙇‍♀️ 面識ある方のみフォロバしてます🙇‍♀️2023/12/28〜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@kakiko_orogi",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@kakiko_orogi",
+                "start": 0,
+                "url": "https://t.co/Xt5anlBN47"
+              }
+            ]
+          }
+        },
+        "id": "1413308922719395840",
+        "name": "ば な な っ とう🍞Skeb募集中",
+        "pinned_tweet_id": "1927565168050938279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960649730482114560/aO1zxIUq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 16,
+          "like_count": 9301,
+          "listed_count": 9,
+          "media_count": 122,
+          "tweet_count": 1044
+        },
+        "url": "https://t.co/Xt5anlBN47",
+        "username": "kakiko_orogi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2076393544047370549",
+    "created_at": "2026-07-12T19:49:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T20:49:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076393544047370549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "55755013",
+          "start": 3,
+          "username": "wastedju"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076393544047370549",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 436
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076132083320103106",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wastedju: I’m sick of niggas thinking they music is experimental cause it’s loud as fuck and sounds like shit"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2076393544047370549",
+        "created_at": "2026-07-12T19:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T20:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076393544047370549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "55755013",
+              "start": 3,
+              "username": "wastedju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076393544047370549",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 436
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076132083320103106",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wastedju: I’m sick of niggas thinking they music is experimental cause it’s loud as fuck and sounds like shit"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "55755013",
+        "conversation_id": "2076132083320103106",
+        "created_at": "2026-07-12T02:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T03:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076132083320103106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076132083320103106",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 172,
+          "impression_count": 83891,
+          "like_count": 3885,
+          "quote_count": 30,
+          "reply_count": 40,
+          "retweet_count": 436
+        },
+        "reply_settings": "everyone",
+        "text": "I’m sick of niggas thinking they music is experimental cause it’s loud as fuck and sounds like shit"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/9GooAZ0z7o"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "死全家星",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 569,
+          "like_count": 1785,
+          "listed_count": 3,
+          "media_count": 418,
+          "tweet_count": 6935
+        },
+        "url": "https://t.co/9GooAZ0z7o",
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-11T04:15:12.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rb.gy/dkn6wu",
+                "end": 23,
+                "expanded_url": "https://rb.gy/dkn6wu",
+                "start": 0,
+                "url": "https://t.co/T6LJRvLCel"
+              }
+            ]
+          }
+        },
+        "id": "55755013",
+        "location": "somewhere",
+        "name": "julian gates",
+        "pinned_tweet_id": "1943670150193983596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982348022827692032/jAeA0JmB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 340,
+          "like_count": 41912,
+          "listed_count": 9,
+          "media_count": 623,
+          "tweet_count": 11140
+        },
+        "url": "https://t.co/T6LJRvLCel",
+        "username": "wastedju",
+        "verified": false
+      }
+    ]
+  }
+}

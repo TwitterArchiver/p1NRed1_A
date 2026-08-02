@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075962413695029248"
+      ],
+      "media_source_tweet_id": [
+        "2075962522918862855"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "2075962591776854094",
+    "created_at": "2026-07-11T15:17:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T16:17:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075962591776854094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1962465706756448256",
+          "start": 3,
+          "username": "memom1229345"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XupbzCUieO",
+          "end": 41,
+          "expanded_url": "https://x.com/memom1229345/status/2075962522918862855/photo/1",
+          "media_key": "3_2075962413695029248",
+          "start": 18,
+          "url": "https://t.co/XupbzCUieO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075962591776854094",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075962522918862855",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @memom1229345: https://t.co/XupbzCUieO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2075962413695029248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9M0Pta0AAT6R9.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075962413695029248"
+          ],
+          "media_source_tweet_id": [
+            "2075962522918862855"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "2075962591776854094",
+        "created_at": "2026-07-11T15:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075962591776854094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1962465706756448256",
+              "start": 3,
+              "username": "memom1229345"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XupbzCUieO",
+              "end": 41,
+              "expanded_url": "https://x.com/memom1229345/status/2075962522918862855/photo/1",
+              "media_key": "3_2075962413695029248",
+              "start": 18,
+              "url": "https://t.co/XupbzCUieO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075962591776854094",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075962522918862855",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @memom1229345: https://t.co/XupbzCUieO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075962413695029248"
+          ]
+        },
+        "author_id": "1962465706756448256",
+        "conversation_id": "2075962522918862855",
+        "created_at": "2026-07-11T15:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075962522918862855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XupbzCUieO",
+              "end": 23,
+              "expanded_url": "https://x.com/memom1229345/status/2075962522918862855/photo/1",
+              "media_key": "3_2075962413695029248",
+              "start": 0,
+              "url": "https://t.co/XupbzCUieO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075962522918862855",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XupbzCUieO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "无人在意星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 10,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/W46MozUxms"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "无人在意星",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 563,
+          "like_count": 1779,
+          "listed_count": 3,
+          "media_count": 415,
+          "tweet_count": 6901
+        },
+        "url": "https://t.co/W46MozUxms",
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T10:41:26.000Z",
+        "description": "@p1NRed1_A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "p1NRed1_A"
+              }
+            ]
+          }
+        },
+        "id": "1962465706756448256",
+        "name": "超级活人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075848097897521152/0IBx31R0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 179,
+          "like_count": 1141,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 265
+        },
+        "url": "",
+        "username": "memom1229345",
+        "verified": false
+      }
+    ]
+  }
+}

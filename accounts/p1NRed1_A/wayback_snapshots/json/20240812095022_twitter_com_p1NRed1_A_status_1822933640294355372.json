@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1822933640294355372",
+    "created_at": "2024-08-12T09:50:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T10:50:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1822933640294355372"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/juusannofuyu/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/juusannofuyu/status/1822347013079572834",
+          "start": 4,
+          "url": "https://t.co/7k4ebYHWg9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822933640294355372",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822347013079572834",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "激萌啊 https://t.co/7k4ebYHWg9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1822933640294355372",
+        "created_at": "2024-08-12T09:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T10:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822933640294355372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/juusannofuyu/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/juusannofuyu/status/1822347013079572834",
+              "start": 4,
+              "url": "https://t.co/7k4ebYHWg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822933640294355372",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822347013079572834",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "激萌啊 https://t.co/7k4ebYHWg9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1822347009992568832"
+          ]
+        },
+        "author_id": "1588329160967335936",
+        "conversation_id": "1822347013079572834",
+        "created_at": "2024-08-10T18:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T19:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822347013079572834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/huqeryxbif",
+              "end": 36,
+              "expanded_url": "https://twitter.com/juusannofuyu/status/1822347013079572834/photo/1",
+              "media_key": "3_1822347009992568832",
+              "start": 13,
+              "url": "https://t.co/HUqEryXBiF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822347013079572834",
+        "lang": "cy",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2875,
+          "like_count": 193,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "shinobu chan https://t.co/HUqEryXBiF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 254,
+          "like_count": 666,
+          "listed_count": 0,
+          "tweet_count": 2323
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-04T00:36:24.000Z",
+        "description": "kono modokashii sekai no uede, kimi to waratte itai",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "anilist.co/user/kyuuseish…",
+                "end": 23,
+                "expanded_url": "https://anilist.co/user/kyuuseishuupon/",
+                "start": 0,
+                "url": "https://t.co/jDCDcIJZyg"
+              }
+            ]
+          }
+        },
+        "id": "1588329160967335936",
+        "location": "ARIA COMPANY",
+        "name": "pon",
+        "pinned_tweet_id": "1797756539534803177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820346486506295297/_JFb3FFJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 409,
+          "like_count": 41599,
+          "listed_count": 3,
+          "tweet_count": 6309
+        },
+        "url": "https://t.co/jDCDcIJZyg",
+        "username": "juusannofuyu",
+        "verified": false
+      }
+    ]
+  }
+}

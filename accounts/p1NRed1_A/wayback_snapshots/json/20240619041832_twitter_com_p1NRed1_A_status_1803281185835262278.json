@@ -1,0 +1,238 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1803281185835262278",
+    "created_at": "2024-06-19T04:18:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T05:18:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1803281185835262278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1733524426262564864",
+          "start": 0,
+          "username": "Magura547455"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/cldeop/status/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/cldeop/status/1803206558727168459",
+          "start": 14,
+          "url": "https://t.co/0SikhyLQ7R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803281185835262278",
+    "in_reply_to_user_id": "1733524426262564864",
+    "lang": "qam",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803206558727168459",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Magura547455 https://t.co/0SikhyLQ7R"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1803281185835262278",
+        "created_at": "2024-06-19T04:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T05:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803281185835262278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1733524426262564864",
+              "start": 0,
+              "username": "Magura547455"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/cldeop/status/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/cldeop/status/1803206558727168459",
+              "start": 14,
+              "url": "https://t.co/0SikhyLQ7R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803281185835262278",
+        "in_reply_to_user_id": "1733524426262564864",
+        "lang": "qam",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803206558727168459",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Magura547455 https://t.co/0SikhyLQ7R"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1802164816590831616"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1803206558727168459",
+        "created_at": "2024-06-18T23:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T00:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803206558727168459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/nUPy9PxzAc",
+              "end": 25,
+              "expanded_url": "https://twitter.com/Cldeop/status/1803206558727168459/photo/1",
+              "media_key": "3_1802164816590831616",
+              "start": 2,
+              "url": "https://t.co/nUPy9PxzAc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803206558727168459",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 86664,
+          "like_count": 961,
+          "quote_count": 7,
+          "reply_count": 4,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/nUPy9PxzAc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802900561299472385/3G9b9zhq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 190,
+          "like_count": 388,
+          "listed_count": 0,
+          "tweet_count": 1610
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T16:30:18.000Z",
+        "description": "",
+        "id": "1733524426262564864",
+        "location": "ボルテクス界",
+        "name": "物之茧茧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803096098422067201/1YqTugy5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 11,
+          "like_count": 153,
+          "listed_count": 0,
+          "tweet_count": 222
+        },
+        "username": "Magura547455",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "推特见证每一种生物\n生活号@ACldJP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 14,
+                "username": "ACldJP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "v50to.me",
+                "end": 23,
+                "expanded_url": "http://v50to.me",
+                "start": 0,
+                "url": "https://t.co/oRLDNvSezp"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1799437135747125690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696802554318061568/M4Tec_5U_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21010,
+          "following_count": 432,
+          "like_count": 14021,
+          "listed_count": 93,
+          "tweet_count": 5328
+        },
+        "url": "https://t.co/oRLDNvSezp",
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

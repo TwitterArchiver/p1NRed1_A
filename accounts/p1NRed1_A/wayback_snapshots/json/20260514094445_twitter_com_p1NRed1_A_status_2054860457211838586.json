@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2054436758356647936"
+      ],
+      "media_source_tweet_id": [
+        "2054436857237360686"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "2054860457211838586",
+    "created_at": "2026-05-14T09:44:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T10:44:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054860457211838586"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/inbh8daCzS",
+          "end": 25,
+          "expanded_url": "https://x.com/songshuyu11/status/2054436857237360686/video/1",
+          "media_key": "13_2054436758356647936",
+          "start": 2,
+          "url": "https://t.co/inbh8daCzS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054860457211838586",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🤯 https://t.co/inbh8daCzS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20166,
+        "height": 1280,
+        "media_key": "13_2054436758356647936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054436758356647936/img/nrV0RllTtS91mSVA.jpg",
+        "public_metrics": {
+          "view_count": 155159
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054436758356647936/vid/avc1/320x568/u8WWa_jE9ciF97dJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054436758356647936/vid/avc1/480x852/BN9tRIY-rR7mCu70.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054436758356647936/vid/avc1/720x1280/ihJ22G5xu9ssyUuO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054436758356647936/pl/-1d7JIBNVdYyGHBB.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054436758356647936"
+          ],
+          "media_source_tweet_id": [
+            "2054436857237360686"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "2054860457211838586",
+        "created_at": "2026-05-14T09:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054860457211838586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/inbh8daCzS",
+              "end": 25,
+              "expanded_url": "https://x.com/songshuyu11/status/2054436857237360686/video/1",
+              "media_key": "13_2054436758356647936",
+              "start": 2,
+              "url": "https://t.co/inbh8daCzS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054860457211838586",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤯 https://t.co/inbh8daCzS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 566,
+          "like_count": 1657,
+          "listed_count": 3,
+          "media_count": 353,
+          "tweet_count": 6204
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

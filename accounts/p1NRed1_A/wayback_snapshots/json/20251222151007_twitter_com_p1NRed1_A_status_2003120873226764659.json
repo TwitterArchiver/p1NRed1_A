@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2001707739597209600"
+      ],
+      "media_source_tweet_id": [
+        "2001819774427500711"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2003120873226764659",
+    "created_at": "2025-12-22T15:10:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T16:10:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003120873226764659"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "U.N. Owen",
+          "probability": 0.7463,
+          "start": 16,
+          "type": "Person"
+        },
+        {
+          "end": 32,
+          "normalized_text": "Her",
+          "probability": 0.8053,
+          "start": 30,
+          "type": "Other"
+        },
+        {
+          "end": 39,
+          "normalized_text": "ZUN",
+          "probability": 0.5031,
+          "start": 37,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1876544393462644736",
+          "start": 3,
+          "username": "WAVArchive"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q0PKrJZfpL",
+          "end": 71,
+          "expanded_url": "https://x.com/WAVArchive/status/2001819774427500711/video/1",
+          "media_key": "13_2001707739597209600",
+          "start": 48,
+          "url": "https://t.co/Q0PKrJZfpL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003120873226764659",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1702
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001819774427500711",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WAVArchive: U.N. Owen Was Her? - ZUN (2002) https://t.co/Q0PKrJZfpL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 320874,
+        "height": 240,
+        "media_key": "13_2001707739597209600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2001707739597209600/img/WxXr5bITOp6nHhqD.jpg",
+        "public_metrics": {
+          "view_count": 55945
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001707739597209600/vid/avc1/320x240/gNidzxjgkq6Bf1mR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2001707739597209600/pl/Lwte__aoGu2POITE.m3u8?v=d3b"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001707739597209600"
+          ],
+          "media_source_tweet_id": [
+            "2001819774427500711"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2003120873226764659",
+        "created_at": "2025-12-22T15:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T16:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003120873226764659"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "U.N. Owen",
+              "probability": 0.7463,
+              "start": 16,
+              "type": "Person"
+            },
+            {
+              "end": 32,
+              "normalized_text": "Her",
+              "probability": 0.8053,
+              "start": 30,
+              "type": "Other"
+            },
+            {
+              "end": 39,
+              "normalized_text": "ZUN",
+              "probability": 0.5031,
+              "start": 37,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1876544393462644736",
+              "start": 3,
+              "username": "WAVArchive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q0PKrJZfpL",
+              "end": 71,
+              "expanded_url": "https://x.com/WAVArchive/status/2001819774427500711/video/1",
+              "media_key": "13_2001707739597209600",
+              "start": 48,
+              "url": "https://t.co/Q0PKrJZfpL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003120873226764659",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1702
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001819774427500711",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WAVArchive: U.N. Owen Was Her? - ZUN (2002) https://t.co/Q0PKrJZfpL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001707739597209600"
+          ]
+        },
+        "author_id": "1876544393462644736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2001819774427500711",
+        "created_at": "2025-12-19T01:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T02:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001819774427500711"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "U.N. Owen",
+              "probability": 0.9173,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 16,
+              "normalized_text": "Her",
+              "probability": 0.4864,
+              "start": 14,
+              "type": "Other"
+            },
+            {
+              "end": 23,
+              "normalized_text": "ZUN",
+              "probability": 0.3849,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q0PKrJZfpL",
+              "end": 55,
+              "expanded_url": "https://x.com/WAVArchive/status/2001819774427500711/video/1",
+              "media_key": "13_2001707739597209600",
+              "start": 32,
+              "url": "https://t.co/Q0PKrJZfpL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001819774427500711",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1324,
+          "impression_count": 158023,
+          "like_count": 6386,
+          "quote_count": 73,
+          "reply_count": 35,
+          "retweet_count": 1702
+        },
+        "reply_settings": "everyone",
+        "text": "U.N. Owen Was Her? - ZUN (2002) https://t.co/Q0PKrJZfpL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "我擅长产出大粪",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 494,
+          "like_count": 1594,
+          "listed_count": 2,
+          "media_count": 320,
+          "tweet_count": 5445
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T08:20:39.000Z",
+        "description": "where old melodies reside—and echo back in your heart.",
+        "id": "1876544393462644736",
+        "name": "WAV Archive",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000404432043810820/md1UWYxa_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9626,
+          "following_count": 0,
+          "like_count": 45,
+          "listed_count": 8,
+          "media_count": 37,
+          "tweet_count": 38
+        },
+        "username": "WAVArchive",
+        "verified": true
+      }
+    ]
+  }
+}

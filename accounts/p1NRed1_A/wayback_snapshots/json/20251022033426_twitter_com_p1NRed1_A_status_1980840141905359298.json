@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1980840141905359298",
+    "created_at": "2025-10-22T03:34:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T04:34:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980840141905359298"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/livelaughosaka…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/livelaughosaka/status/1980611318886314323",
+          "start": 4,
+          "url": "https://t.co/Qg76O0Ivjd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980840141905359298",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980611318886314323",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "。啊啊 https://t.co/Qg76O0Ivjd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 716,
+        "media_key": "3_1980611316881534976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3yLf7zXsAA5q0X.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1980840141905359298",
+        "created_at": "2025-10-22T03:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T04:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980840141905359298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/livelaughosaka…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/livelaughosaka/status/1980611318886314323",
+              "start": 4,
+              "url": "https://t.co/Qg76O0Ivjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980840141905359298",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980611318886314323",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "。啊啊 https://t.co/Qg76O0Ivjd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980611316881534976"
+          ]
+        },
+        "author_id": "1839908564363816961",
+        "conversation_id": "1980611318886314323",
+        "created_at": "2025-10-21T12:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T13:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980611318886314323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9g1WhjwzMm",
+              "end": 23,
+              "expanded_url": "https://x.com/livelaughosaka/status/1980611318886314323/photo/1",
+              "media_key": "3_1980611316881534976",
+              "start": 0,
+              "url": "https://t.co/9g1WhjwzMm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980611318886314323",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 190,
+          "impression_count": 21108,
+          "like_count": 2390,
+          "quote_count": 11,
+          "reply_count": 13,
+          "retweet_count": 190
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9g1WhjwzMm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 488,
+          "like_count": 1517,
+          "listed_count": 2,
+          "media_count": 302,
+          "tweet_count": 5151
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T06:02:50.000Z",
+        "description": "you can never have enough osaka| ran by @DunBun07",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "DunBun07"
+              }
+            ]
+          }
+        },
+        "id": "1839908564363816961",
+        "location": "Osaka, Japan",
+        "name": "Random Osaka あ 🐌",
+        "pinned_tweet_id": "1858214971676438846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973886726239084544/KXAgIU8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5249,
+          "following_count": 74,
+          "like_count": 2929,
+          "listed_count": 0,
+          "media_count": 964,
+          "tweet_count": 2060
+        },
+        "username": "livelaughosaka",
+        "verified": false
+      }
+    ]
+  }
+}

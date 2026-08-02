@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1888849407216582988",
+    "created_at": "2025-02-10T10:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T11:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888901806975013156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1841050394375380998",
+          "start": 0,
+          "username": "wmyzzzzt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888901806975013156",
+    "in_reply_to_user_id": "1841050394375380998",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888898641626341450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmyzzzzt 好高的情商！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1888849407216582988",
+        "created_at": "2025-02-10T10:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T11:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888901806975013156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1841050394375380998",
+              "start": 0,
+              "username": "wmyzzzzt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888901806975013156",
+        "in_reply_to_user_id": "1841050394375380998",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888898641626341450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmyzzzzt 好高的情商！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841050394375380998",
+        "conversation_id": "1888849407216582988",
+        "created_at": "2025-02-10T10:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T11:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888898641626341450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888898641626341450",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888874611535917529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 哇….咕咚老師心大福大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873724650511110144/1z-X8l1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 302,
+          "like_count": 1052,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 3239
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T09:40:03.000Z",
+        "description": "我知道，在未來等待著我的，一定是痛苦 ｜@qwq_shark",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "qwq_shark"
+              }
+            ]
+          }
+        },
+        "id": "1841050394375380998",
+        "location": "LCL之海",
+        "name": "禁煙",
+        "pinned_tweet_id": "1887912366735769634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868273687943880704/dPe3teo6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 164,
+          "like_count": 14646,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 1945
+        },
+        "username": "wmyzzzzt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2007685582953295993",
+    "created_at": "2026-01-04T05:30:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T06:30:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007685986453762393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1962465706756448256",
+          "start": 0,
+          "username": "memom1229345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007685986453762393",
+    "in_reply_to_user_id": "1962465706756448256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007685850545729979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@memom1229345 这是我小名吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2007685582953295993",
+        "created_at": "2026-01-04T05:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T06:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007685986453762393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1962465706756448256",
+              "start": 0,
+              "username": "memom1229345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007685986453762393",
+        "in_reply_to_user_id": "1962465706756448256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007685850545729979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@memom1229345 这是我小名吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962465706756448256",
+        "conversation_id": "2007685582953295993",
+        "created_at": "2026-01-04T05:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T06:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007685850545729979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007685850545729979",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007685582953295993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 蒽蒽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "我擅长产出大粪",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 497,
+          "like_count": 1602,
+          "listed_count": 2,
+          "media_count": 326,
+          "tweet_count": 5511
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T10:41:26.000Z",
+        "description": "很神秘很神秘",
+        "id": "1962465706756448256",
+        "name": "mome",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962468282180714496/oZ5GIMAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 170,
+          "like_count": 837,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 128
+        },
+        "username": "memom1229345",
+        "verified": false
+      }
+    ]
+  }
+}

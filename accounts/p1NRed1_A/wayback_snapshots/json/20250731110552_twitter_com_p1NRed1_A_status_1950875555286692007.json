@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950873846544044032"
+      ],
+      "media_source_tweet_id": [
+        "1950873852243780061"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1950875555286692007",
+    "created_at": "2025-07-31T11:05:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T12:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950875555286692007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1223498653177798657",
+          "start": 3,
+          "username": "senseeeuwaaaaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NsEEpMMMh3",
+          "end": 43,
+          "expanded_url": "https://x.com/senseeeuwaaaaa/status/1950873852243780061/photo/1",
+          "media_key": "3_1950873846544044032",
+          "start": 20,
+          "url": "https://t.co/NsEEpMMMh3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950875555286692007",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950873852243780061",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @senseeeuwaaaaa: https://t.co/NsEEpMMMh3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "3_1950873846544044032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxLlbWDbkAAfSFb.png",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950873846544044032"
+          ],
+          "media_source_tweet_id": [
+            "1950873852243780061"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1950875555286692007",
+        "created_at": "2025-07-31T11:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T12:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950875555286692007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1223498653177798657",
+              "start": 3,
+              "username": "senseeeuwaaaaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NsEEpMMMh3",
+              "end": 43,
+              "expanded_url": "https://x.com/senseeeuwaaaaa/status/1950873852243780061/photo/1",
+              "media_key": "3_1950873846544044032",
+              "start": 20,
+              "url": "https://t.co/NsEEpMMMh3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950875555286692007",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950873852243780061",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @senseeeuwaaaaa: https://t.co/NsEEpMMMh3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950873846544044032"
+          ]
+        },
+        "author_id": "1223498653177798657",
+        "conversation_id": "1950873852243780061",
+        "created_at": "2025-07-31T10:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T11:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950873852243780061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NsEEpMMMh3",
+              "end": 23,
+              "expanded_url": "https://x.com/senseeeuwaaaaa/status/1950873852243780061/photo/1",
+              "media_key": "3_1950873846544044032",
+              "start": 0,
+              "url": "https://t.co/NsEEpMMMh3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950873852243780061",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NsEEpMMMh3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 421,
+          "like_count": 1269,
+          "listed_count": 1,
+          "media_count": 236,
+          "tweet_count": 4387
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-01T06:50:01.000Z",
+        "description": "18↑先生を1人でも多く描く方法を画策しています。通知は大体offです。 ▶︎sagari020084@gmail.com ▶https://t.co/YS2V3R6ZEv ▶趣味/VRC→@sgr_vvv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 95,
+                "username": "sgr_vvv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/15925103",
+                "end": 86,
+                "expanded_url": "https://www.pixiv.net/users/15925103",
+                "start": 63,
+                "url": "https://t.co/YS2V3R6ZEv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@senseeeuwaaaaa",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@senseeeuwaaaaa",
+                "start": 0,
+                "url": "https://t.co/sINZco1gao"
+              }
+            ]
+          }
+        },
+        "id": "1223498653177798657",
+        "location": "don’t reupload or use.",
+        "name": "辛岩サガリ🍤skeb募集",
+        "pinned_tweet_id": "1747467204940255618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1542552806166450176/8H6Px_Fy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1210,
+          "following_count": 48,
+          "like_count": 772,
+          "listed_count": 12,
+          "media_count": 1905,
+          "tweet_count": 9653
+        },
+        "url": "https://t.co/sINZco1gao",
+        "username": "senseeeuwaaaaa",
+        "verified": false
+      }
+    ]
+  }
+}

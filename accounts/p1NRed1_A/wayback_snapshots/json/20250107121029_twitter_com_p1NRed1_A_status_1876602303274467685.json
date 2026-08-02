@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1876429260186861569"
+      ],
+      "media_source_tweet_id": [
+        "1876429266562482448"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1876602303274467685",
+    "created_at": "2025-01-07T12:10:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T13:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876602303274467685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1499611234546630656",
+          "start": 3,
+          "username": "DanTheMediocre"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LIfb23YbDt",
+          "end": 75,
+          "expanded_url": "https://x.com/DanTheMediocre/status/1876429266562482448/photo/1",
+          "media_key": "16_1876429260186861569",
+          "start": 52,
+          "url": "https://t.co/LIfb23YbDt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876602303274467685",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876429266562482448",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DanTheMediocre: The world has forgotten MAEDAX💔 https://t.co/LIfb23YbDt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 280,
+        "media_key": "16_1876429260186861569",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GgpqeGuWQAE3yY1.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GgpqeGuWQAE3yY1.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1876429260186861569"
+          ],
+          "media_source_tweet_id": [
+            "1876429266562482448"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1876602303274467685",
+        "created_at": "2025-01-07T12:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T13:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876602303274467685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1499611234546630656",
+              "start": 3,
+              "username": "DanTheMediocre"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LIfb23YbDt",
+              "end": 75,
+              "expanded_url": "https://x.com/DanTheMediocre/status/1876429266562482448/photo/1",
+              "media_key": "16_1876429260186861569",
+              "start": 52,
+              "url": "https://t.co/LIfb23YbDt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876602303274467685",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876429266562482448",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DanTheMediocre: The world has forgotten MAEDAX💔 https://t.co/LIfb23YbDt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1876429260186861569"
+          ]
+        },
+        "author_id": "1499611234546630656",
+        "conversation_id": "1876429266562482448",
+        "created_at": "2025-01-07T00:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T01:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876429266562482448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LIfb23YbDt",
+              "end": 55,
+              "expanded_url": "https://x.com/DanTheMediocre/status/1876429266562482448/photo/1",
+              "media_key": "16_1876429260186861569",
+              "start": 32,
+              "url": "https://t.co/LIfb23YbDt"
+            },
+            {
+              "display_url": "x.com/sodach1/status…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/sodach1/status/1876425359849353415",
+              "start": 56,
+              "url": "https://t.co/k7JtZeKtZV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876429266562482448",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1402,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876425359849353415",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "The world has forgotten MAEDAX💔 https://t.co/LIfb23YbDt https://t.co/k7JtZeKtZV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873724650511110144/1z-X8l1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 301,
+          "like_count": 1040,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 3212
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T05:03:56.000Z",
+        "description": "Manga coloring in pfp and banner by @blurredcanvas\nLover of all things Fukumoto",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 36,
+                "username": "blurredcanvas"
+              }
+            ]
+          }
+        },
+        "id": "1499611234546630656",
+        "name": "Dan the Adequate",
+        "pinned_tweet_id": "1509989705164673033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697947900393730048/tfaN29gN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 1020,
+          "like_count": 481418,
+          "listed_count": 5,
+          "media_count": 3964,
+          "tweet_count": 42165
+        },
+        "username": "DanTheMediocre",
+        "verified": false
+      }
+    ]
+  }
+}

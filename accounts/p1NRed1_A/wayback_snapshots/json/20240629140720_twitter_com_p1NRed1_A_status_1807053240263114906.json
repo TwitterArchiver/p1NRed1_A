@@ -1,0 +1,229 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1807053209682452480",
+        "7_1807053209682477056",
+        "3_1807053209741176832"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1807053240263114906",
+    "created_at": "2024-06-29T14:07:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-29T15:07:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1807053240263114906"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/YLkpBGHUP1",
+          "end": 29,
+          "expanded_url": "https://twitter.com/p1NRed1_A/status/1807053240263114906/video/1",
+          "media_key": "3_1807053209682452480",
+          "start": 6,
+          "url": "https://t.co/YLkpBGHUP1"
+        },
+        {
+          "display_url": "pic.twitter.com/YLkpBGHUP1",
+          "end": 29,
+          "expanded_url": "https://twitter.com/p1NRed1_A/status/1807053240263114906/video/1",
+          "media_key": "7_1807053209682477056",
+          "start": 6,
+          "url": "https://t.co/YLkpBGHUP1"
+        },
+        {
+          "display_url": "pic.twitter.com/YLkpBGHUP1",
+          "end": 29,
+          "expanded_url": "https://twitter.com/p1NRed1_A/status/1807053240263114906/video/1",
+          "media_key": "3_1807053209741176832",
+          "start": 6,
+          "url": "https://t.co/YLkpBGHUP1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807053240263114906",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天玩的喵 https://t.co/YLkpBGHUP1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1807053209682452480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRPxUe1aIAACwyA.jpg",
+        "width": 1920
+      },
+      {
+        "duration_ms": 5933,
+        "height": 960,
+        "media_key": "7_1807053209682477056",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1807053209682477056/pu/img/h9Zjg9JqvId8Wad7.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1807053209682477056/pu/vid/avc1/320x564/saV9rwc78vZCbw3o.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1807053209682477056/pu/vid/avc1/480x846/LaF_fjgjJW3VLD9n.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1807053209682477056/pu/vid/avc1/544x960/Ge0vajt6b3V18SQs.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1807053209682477056/pu/pl/DKJl8l6wy26AttEf.m3u8?tag=12"
+          }
+        ],
+        "width": 544
+      },
+      {
+        "height": 750,
+        "media_key": "3_1807053209741176832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRPxUfDaMAAXoOg.jpg",
+        "width": 1333
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1807053209682452480",
+            "7_1807053209682477056",
+            "3_1807053209741176832"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1807053240263114906",
+        "created_at": "2024-06-29T14:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T15:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807053240263114906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/YLkpBGHUP1",
+              "end": 29,
+              "expanded_url": "https://twitter.com/p1NRed1_A/status/1807053240263114906/video/1",
+              "media_key": "3_1807053209682452480",
+              "start": 6,
+              "url": "https://t.co/YLkpBGHUP1"
+            },
+            {
+              "display_url": "pic.twitter.com/YLkpBGHUP1",
+              "end": 29,
+              "expanded_url": "https://twitter.com/p1NRed1_A/status/1807053240263114906/video/1",
+              "media_key": "7_1807053209682477056",
+              "start": 6,
+              "url": "https://t.co/YLkpBGHUP1"
+            },
+            {
+              "display_url": "pic.twitter.com/YLkpBGHUP1",
+              "end": 29,
+              "expanded_url": "https://twitter.com/p1NRed1_A/status/1807053240263114906/video/1",
+              "media_key": "3_1807053209741176832",
+              "start": 6,
+              "url": "https://t.co/YLkpBGHUP1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807053240263114906",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天玩的喵 https://t.co/YLkpBGHUP1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563382332014593/-06gBRx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 207,
+          "like_count": 451,
+          "listed_count": 0,
+          "tweet_count": 1814
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

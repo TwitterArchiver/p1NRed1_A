@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2078674414883967365",
+    "created_at": "2026-07-19T02:52:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T03:52:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078674414883967365"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/incelchan/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/incelchan/status/2077836730443715041",
+          "start": 5,
+          "url": "https://t.co/I4cPF9qrqB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078674414883967365",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077836730443715041",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "mood https://t.co/I4cPF9qrqB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21902,
+        "height": 720,
+        "media_key": "13_2077836674206474240",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077836674206474240/img/is4HkaCfMHdXKmIJ.jpg",
+        "public_metrics": {
+          "view_count": 624784
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077836674206474240/vid/avc1/320x400/hfqOxYt7qjH2EQYT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077836674206474240/vid/avc1/480x600/1yWspOYAAFqDDapO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077836674206474240/vid/avc1/576x720/8ywkNndnTz_6iM_k.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077836674206474240/pl/JQMAeHRIKUwLU-sN.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2078674414883967365",
+        "created_at": "2026-07-19T02:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T03:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078674414883967365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/incelchan/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/incelchan/status/2077836730443715041",
+              "start": 5,
+              "url": "https://t.co/I4cPF9qrqB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078674414883967365",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077836730443715041",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "mood https://t.co/I4cPF9qrqB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077836674206474240"
+          ]
+        },
+        "author_id": "1870242526583783424",
+        "conversation_id": "2077836730443715041",
+        "created_at": "2026-07-16T19:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T20:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077836730443715041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AJuH8ANmcV",
+              "end": 51,
+              "expanded_url": "https://x.com/incelchan/status/2077836730443715041/video/1",
+              "media_key": "13_2077836674206474240",
+              "start": 28,
+              "url": "https://t.co/AJuH8ANmcV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077836730443715041",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2331,
+          "impression_count": 1725132,
+          "like_count": 13200,
+          "quote_count": 651,
+          "reply_count": 507,
+          "retweet_count": 2212
+        },
+        "reply_settings": "everyone",
+        "text": "it’s so satisfying to watch https://t.co/AJuH8ANmcV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/9GooAZ0z7o"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "死全家星",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076577294790139904/Fz-jPCGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 571,
+          "like_count": 1789,
+          "listed_count": 3,
+          "media_count": 423,
+          "tweet_count": 6980
+        },
+        "url": "https://t.co/9GooAZ0z7o",
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T22:59:14.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/6mXrA5wesE",
+                "end": 23,
+                "expanded_url": "https://discord.gg/6mXrA5wesE",
+                "start": 0,
+                "url": "https://t.co/CuSBz8daVy"
+              }
+            ]
+          }
+        },
+        "id": "1870242526583783424",
+        "location": "ig is cutecwl",
+        "name": "angel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066341431925723136/OzosJYG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 547,
+          "like_count": 2335,
+          "listed_count": 6,
+          "media_count": 22,
+          "tweet_count": 246
+        },
+        "url": "https://t.co/CuSBz8daVy",
+        "username": "incelchan",
+        "verified": false
+      }
+    ]
+  }
+}

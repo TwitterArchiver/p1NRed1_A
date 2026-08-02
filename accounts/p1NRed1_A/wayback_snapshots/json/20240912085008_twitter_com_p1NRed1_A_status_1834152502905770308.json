@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1834152502905770308",
+    "created_at": "2024-09-12T08:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T09:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1834152502905770308"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/od_wiki/status…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/od_wiki/status/1834065208794644524",
+          "start": 18,
+          "url": "https://t.co/hCHmytjoON"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834152502905770308",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834065208794644524",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "凸^-^凸快跳楼啊每天发微信讲屁呢 https://t.co/hCHmytjoON"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1834152502905770308",
+        "created_at": "2024-09-12T08:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T09:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834152502905770308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/od_wiki/status…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/od_wiki/status/1834065208794644524",
+              "start": 18,
+              "url": "https://t.co/hCHmytjoON"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834152502905770308",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834065208794644524",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "凸^-^凸快跳楼啊每天发微信讲屁呢 https://t.co/hCHmytjoON"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747138924450029568",
+        "conversation_id": "1834065208794644524",
+        "created_at": "2024-09-12T03:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T04:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834065208794644524"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1834065208794644524",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5748,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "没地方去了，之前联系到的那个人不在家，我未来一周或者两周差不多会过去…有的话请联系一下我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 268,
+          "like_count": 864,
+          "listed_count": 0,
+          "tweet_count": 2734
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T06:09:23.000Z",
+        "description": "个人Galgame站：https://t.co/OXiOIO9QLM\n个人博客：https://t.co/jzBbyyNnJF\n赌狗俱乐部：https://t.co/VGq4FK04Cv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "58game.xyz",
+                "end": 34,
+                "expanded_url": "https://58game.xyz/",
+                "start": 11,
+                "url": "https://t.co/OXiOIO9QLM"
+              },
+              {
+                "display_url": "hiv.icu",
+                "end": 63,
+                "expanded_url": "https://hiv.icu/",
+                "start": 40,
+                "url": "https://t.co/jzBbyyNnJF"
+              },
+              {
+                "display_url": "t.me/dugoujulebu",
+                "end": 93,
+                "expanded_url": "https://t.me/dugoujulebu",
+                "start": 70,
+                "url": "https://t.co/VGq4FK04Cv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "https://www.od-wiki.com/",
+                "start": 0,
+                "url": "https://t.co/YHP0zrJSxF"
+              }
+            ]
+          }
+        },
+        "id": "1747138924450029568",
+        "location": "東京 港区",
+        "name": "✟°ʚ胖猫ɞ°✟",
+        "pinned_tweet_id": "1825493982753017955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821511007279206400/sD9YYCcq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10605,
+          "following_count": 5422,
+          "like_count": 4901,
+          "listed_count": 9,
+          "tweet_count": 3435
+        },
+        "url": "https://t.co/YHP0zrJSxF",
+        "username": "od_wiki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1864936023140286464"
+      ],
+      "media_source_tweet_id": [
+        "1864936035727376395"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1864955572464009440",
+    "created_at": "2024-12-06T08:50:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-06T09:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864955572464009440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "995998571894751232",
+          "start": 3,
+          "username": "pajamabou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KnXdxRgbbO",
+          "end": 44,
+          "expanded_url": "https://x.com/pajamabou/status/1864936035727376395/photo/1",
+          "media_key": "3_1864936023140286464",
+          "start": 21,
+          "url": "https://t.co/KnXdxRgbbO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864955572464009440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864936035727376395",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pajamabou: 押し寄せる https://t.co/KnXdxRgbbO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1685,
+        "media_key": "3_1864936023140286464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeGVbqQbQAAl3rR.jpg",
+        "width": 2306
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864936023140286464"
+          ],
+          "media_source_tweet_id": [
+            "1864936035727376395"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1864955572464009440",
+        "created_at": "2024-12-06T08:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T09:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864955572464009440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "995998571894751232",
+              "start": 3,
+              "username": "pajamabou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KnXdxRgbbO",
+              "end": 44,
+              "expanded_url": "https://x.com/pajamabou/status/1864936035727376395/photo/1",
+              "media_key": "3_1864936023140286464",
+              "start": 21,
+              "url": "https://t.co/KnXdxRgbbO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864955572464009440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864936035727376395",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pajamabou: 押し寄せる https://t.co/KnXdxRgbbO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864936023140286464"
+          ]
+        },
+        "author_id": "995998571894751232",
+        "conversation_id": "1864936035727376395",
+        "created_at": "2024-12-06T07:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T08:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864936035727376395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KnXdxRgbbO",
+              "end": 29,
+              "expanded_url": "https://x.com/pajamabou/status/1864936035727376395/photo/1",
+              "media_key": "3_1864936023140286464",
+              "start": 6,
+              "url": "https://t.co/KnXdxRgbbO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864936035727376395",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 7404,
+          "like_count": 434,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "押し寄せる https://t.co/KnXdxRgbbO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 296,
+          "like_count": 1012,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 3131
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-14T12:05:39.000Z",
+        "description": "絵描き🐚\n作品の購入、依頼等 →DMかpajamabou@gmail.comへお願いします。                \n \nインスタ\n(https://t.co/9XaFxcumV8 )画集の販売(https://t.co/Sg19xj9Uuf)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/himadanaka",
+                "end": 94,
+                "expanded_url": "http://instagram.com/himadanaka",
+                "start": 71,
+                "url": "https://t.co/9XaFxcumV8"
+              },
+              {
+                "display_url": "pajamabou.booth.pm",
+                "end": 125,
+                "expanded_url": "http://pajamabou.booth.pm/",
+                "start": 102,
+                "url": "https://t.co/Sg19xj9Uuf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sites.google.com/u/1/d/13tTJ0kf…",
+                "end": 23,
+                "expanded_url": "https://sites.google.com/u/1/d/13tTJ0kfX8DAIRtYAKGGDGf90PUBVdvxY/preview",
+                "start": 0,
+                "url": "https://t.co/o7xGi3SdpM"
+              }
+            ]
+          }
+        },
+        "id": "995998571894751232",
+        "location": "神奈川県",
+        "name": "ひま",
+        "pinned_tweet_id": "1753695269034864959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1361370246750212107/b4lOajh4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33909,
+          "following_count": 329,
+          "like_count": 52191,
+          "listed_count": 305,
+          "media_count": 238,
+          "tweet_count": 3184
+        },
+        "url": "https://t.co/o7xGi3SdpM",
+        "username": "pajamabou",
+        "verified": false
+      }
+    ]
+  }
+}

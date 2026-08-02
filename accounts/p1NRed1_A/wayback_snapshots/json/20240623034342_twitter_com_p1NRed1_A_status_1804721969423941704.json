@@ -1,0 +1,233 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1804714745720954880"
+      ],
+      "media_source_tweet_id": [
+        "1804714748489204195"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1804721969423941704",
+    "created_at": "2024-06-23T03:43:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-23T04:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804721969423941704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1679841149526380548",
+          "start": 3,
+          "username": "OsakaDailyAzu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/vFdGRvQxDo",
+          "end": 42,
+          "expanded_url": "https://twitter.com/OsakaDailyAzu/status/1804714748489204195/photo/1",
+          "media_key": "3_1804714745720954880",
+          "start": 19,
+          "url": "https://t.co/vFdGRvQxDo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804721969423941704",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804714748489204195",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OsakaDailyAzu: https://t.co/vFdGRvQxDo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_1804714745720954880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQuif9ubYAA4_zh.jpg",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804714745720954880"
+          ],
+          "media_source_tweet_id": [
+            "1804714748489204195"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1804721969423941704",
+        "created_at": "2024-06-23T03:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T04:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804721969423941704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1679841149526380548",
+              "start": 3,
+              "username": "OsakaDailyAzu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/vFdGRvQxDo",
+              "end": 42,
+              "expanded_url": "https://twitter.com/OsakaDailyAzu/status/1804714748489204195/photo/1",
+              "media_key": "3_1804714745720954880",
+              "start": 19,
+              "url": "https://t.co/vFdGRvQxDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804721969423941704",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804714748489204195",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OsakaDailyAzu: https://t.co/vFdGRvQxDo"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804714745720954880"
+          ]
+        },
+        "author_id": "1679841149526380548",
+        "conversation_id": "1804714748489204195",
+        "created_at": "2024-06-23T03:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T04:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804714748489204195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/vFdGRvQxDo",
+              "end": 23,
+              "expanded_url": "https://twitter.com/OsakaDailyAzu/status/1804714748489204195/photo/1",
+              "media_key": "3_1804714745720954880",
+              "start": 0,
+              "url": "https://t.co/vFdGRvQxDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804714748489204195",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1108,
+          "like_count": 161,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vFdGRvQxDo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802900561299472385/3G9b9zhq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 193,
+          "like_count": 401,
+          "listed_count": 0,
+          "tweet_count": 1660
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T13:12:10.000Z",
+        "description": "ah post Video or Picture of Ayumu Kasuga (Osaka) from Azumanga Daioh Daily around 10 AM GMT+8!\n\nFollow @DailyOsakaPics for more Osaka!!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 103,
+                "username": "DailyOsakaPics"
+              }
+            ]
+          }
+        },
+        "id": "1679841149526380548",
+        "location": "Osaka",
+        "name": "Daily Osaka",
+        "pinned_tweet_id": "1729323277334847973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787115883074347008/kVS3LyMo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19464,
+          "following_count": 111,
+          "like_count": 2854,
+          "listed_count": 11,
+          "tweet_count": 1523
+        },
+        "username": "OsakaDailyAzu",
+        "verified": false
+      }
+    ]
+  }
+}

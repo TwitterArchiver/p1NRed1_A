@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1912280109584633856"
+      ],
+      "media_source_tweet_id": [
+        "1912280283468144869"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1912468773984182299",
+    "created_at": "2025-04-16T11:31:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T12:31:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912468773984182299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1544303825724420096",
+          "start": 3,
+          "username": "510marik0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zijhf5tKoA",
+          "end": 59,
+          "expanded_url": "https://x.com/510marik0/status/1912280283468144869/video/1",
+          "media_key": "13_1912280109584633856",
+          "start": 36,
+          "url": "https://t.co/Zijhf5tKoA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912468773984182299",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 141
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912280283468144869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @510marik0: 楽しかった！\n\n꒰ঌ♨໒꒱\n    ꒷꒦ https://t.co/Zijhf5tKoA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13933,
+        "height": 1280,
+        "media_key": "13_1912280109584633856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1912280109584633856/img/520YD4pgTG3E-zvW.jpg",
+        "public_metrics": {
+          "view_count": 19184
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912280109584633856/vid/avc1/320x568/8YuQ3h3Un_jZkkDB.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912280109584633856/vid/avc1/480x852/5gCxvcjKW_deslmN.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912280109584633856/vid/avc1/720x1280/JWjFbMWy3MGZW59M.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1912280109584633856/pl/NAFy5QD_qDmDtIBY.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1912280109584633856"
+          ],
+          "media_source_tweet_id": [
+            "1912280283468144869"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1912468773984182299",
+        "created_at": "2025-04-16T11:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T12:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912468773984182299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1544303825724420096",
+              "start": 3,
+              "username": "510marik0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zijhf5tKoA",
+              "end": 59,
+              "expanded_url": "https://x.com/510marik0/status/1912280283468144869/video/1",
+              "media_key": "13_1912280109584633856",
+              "start": 36,
+              "url": "https://t.co/Zijhf5tKoA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912468773984182299",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912280283468144869",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @510marik0: 楽しかった！\n\n꒰ঌ♨໒꒱\n    ꒷꒦ https://t.co/Zijhf5tKoA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1912280109584633856"
+          ]
+        },
+        "author_id": "1544303825724420096",
+        "conversation_id": "1912280283468144869",
+        "created_at": "2025-04-15T23:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T00:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912280283468144869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zijhf5tKoA",
+              "end": 44,
+              "expanded_url": "https://x.com/510marik0/status/1912280283468144869/video/1",
+              "media_key": "13_1912280109584633856",
+              "start": 21,
+              "url": "https://t.co/Zijhf5tKoA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912280283468144869",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 47857,
+          "like_count": 903,
+          "quote_count": 17,
+          "reply_count": 4,
+          "retweet_count": 141
+        },
+        "reply_settings": "everyone",
+        "text": "楽しかった！\n\n꒰ঌ♨໒꒱\n    ꒷꒦ https://t.co/Zijhf5tKoA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910291251003547648/-uuCvZrl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 365,
+          "like_count": 1152,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 3551
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-05T12:55:10.000Z",
+        "description": "猫と暮らす元気なおばはん♨️DJ後藤まりこ、後藤まりこアコースティックviolence  POP、ライブなど全ての予定はgoogleカレンダー▶︎https://t.co/KmICvRzRu9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/b0R7M",
+                "end": 96,
+                "expanded_url": "https://x.gd/b0R7M",
+                "start": 73,
+                "url": "https://t.co/KmICvRzRu9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCmI-o…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCmI-oklucCz5RkaBcABsRrQ/featured",
+                "start": 0,
+                "url": "https://t.co/gM3tAKbOlk"
+              }
+            ]
+          }
+        },
+        "id": "1544303825724420096",
+        "location": "http://510yavai.com",
+        "name": "後藤まりこ",
+        "pinned_tweet_id": "1900743767612944896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717621236896026624/_qti1yio_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15062,
+          "following_count": 252,
+          "like_count": 8140,
+          "listed_count": 53,
+          "media_count": 931,
+          "tweet_count": 3688
+        },
+        "url": "https://t.co/gM3tAKbOlk",
+        "username": "510marik0",
+        "verified": false
+      }
+    ]
+  }
+}

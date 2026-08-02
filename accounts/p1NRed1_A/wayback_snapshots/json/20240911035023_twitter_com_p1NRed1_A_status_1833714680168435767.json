@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1833551942846644224"
+      ],
+      "media_source_tweet_id": [
+        "1833552656453009555"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1833714680168435767",
+    "created_at": "2024-09-11T03:50:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-11T04:50:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833714680168435767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "127853465",
+          "start": 3,
+          "username": "kaiikarashi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/msvbedygna",
+          "end": 49,
+          "expanded_url": "https://twitter.com/kaiikarashi/status/1833552656453009555/video/1",
+          "media_key": "7_1833551942846644224",
+          "start": 26,
+          "url": "https://t.co/msVbEdygNa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833714680168435767",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1116
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833552656453009555",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kaiikarashi: オタクアニメ芝居 https://t.co/msVbEdygNa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2958,
+        "height": 1662,
+        "media_key": "7_1833551942846644224",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1833551942846644224/pu/img/-FFeOhoqAdMarnBl.jpg",
+        "public_metrics": {
+          "view_count": 62898
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1833551942846644224/pu/vid/avc1/382x270/Rdb5OX2cHw7SdHUR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1833551942846644224/pu/vid/avc1/508x360/Hvqg3UH19HJhStxP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1833551942846644224/pu/vid/avc1/1018x720/bkJnaaanlBOuB_Ik.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1833551942846644224/pu/pl/SSUlpL9ub6Ca4MP3.m3u8?tag=12"
+          }
+        ],
+        "width": 2352
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1833551942846644224"
+          ],
+          "media_source_tweet_id": [
+            "1833552656453009555"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1833714680168435767",
+        "created_at": "2024-09-11T03:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T04:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833714680168435767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "127853465",
+              "start": 3,
+              "username": "kaiikarashi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/msvbedygna",
+              "end": 49,
+              "expanded_url": "https://twitter.com/kaiikarashi/status/1833552656453009555/video/1",
+              "media_key": "7_1833551942846644224",
+              "start": 26,
+              "url": "https://t.co/msVbEdygNa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833714680168435767",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1116
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833552656453009555",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kaiikarashi: オタクアニメ芝居 https://t.co/msVbEdygNa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1833551942846644224"
+          ]
+        },
+        "author_id": "127853465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1833552656453009555",
+        "created_at": "2024-09-10T17:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T18:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833552656453009555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/msvbedygna",
+              "end": 32,
+              "expanded_url": "https://twitter.com/kaiikarashi/status/1833552656453009555/video/1",
+              "media_key": "7_1833551942846644224",
+              "start": 9,
+              "url": "https://t.co/msVbEdygNa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833552656453009555",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1529,
+          "impression_count": 166585,
+          "like_count": 9332,
+          "quote_count": 22,
+          "reply_count": 1,
+          "retweet_count": 1116
+        },
+        "reply_settings": "everyone",
+        "text": "オタクアニメ芝居 https://t.co/msVbEdygNa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 268,
+          "like_count": 861,
+          "listed_count": 0,
+          "tweet_count": 2728
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-30T12:46:29.000Z",
+        "description": "アニメ原人です。プロフ画像が頻繁に変わります。ばかばかしい作画が得意です。お台場https://t.co/SBFrGCpIPd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/kaiikarashi",
+                "end": 63,
+                "expanded_url": "http://odaibako.net/u/kaiikarashi",
+                "start": 40,
+                "url": "https://t.co/SBFrGCpIPd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/member.php?id=813066",
+                "start": 0,
+                "url": "https://t.co/b1el5I9fUP"
+              }
+            ]
+          }
+        },
+        "id": "127853465",
+        "location": "ネリリ星人",
+        "name": "ナマズとタガメ料理の店髙橋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833501782615744512/kqHLn61C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90064,
+          "following_count": 2031,
+          "like_count": 17673,
+          "listed_count": 878,
+          "tweet_count": 38612
+        },
+        "url": "https://t.co/b1el5I9fUP",
+        "username": "kaiikarashi",
+        "verified": false
+      }
+    ]
+  }
+}

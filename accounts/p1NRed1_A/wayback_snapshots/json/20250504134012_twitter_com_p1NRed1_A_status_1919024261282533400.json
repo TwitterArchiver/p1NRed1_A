@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1919024261282533400",
+    "created_at": "2025-05-04T13:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T14:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919024261282533400"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/duvetsdetour/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/duvetsdetour/status/1919022299639914501",
+          "start": 4,
+          "url": "https://t.co/RkTMK7Qnw0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919024261282533400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919022299639914501",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "快来玩 https://t.co/RkTMK7Qnw0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1919024261282533400",
+        "created_at": "2025-05-04T13:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T14:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919024261282533400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/duvetsdetour/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/duvetsdetour/status/1919022299639914501",
+              "start": 4,
+              "url": "https://t.co/RkTMK7Qnw0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919024261282533400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919022299639914501",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "快来玩 https://t.co/RkTMK7Qnw0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753324501167960064",
+        "conversation_id": "1919022299639914501",
+        "created_at": "2025-05-04T13:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T14:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919022299639914501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "䴄’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1ypKd…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1ypKdZLmpenJW",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 明日方舟",
+              "unwound_url": "https://twitter.com/i/spaces/1ypKdZLmpenJW/peek",
+              "url": "https://t.co/QOagOK0Jnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919022299639914501",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QOagOK0Jnb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 396,
+          "like_count": 1194,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 3773
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T07:48:51.000Z",
+        "description": "ROM専//共犯者@_defoko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "_defoko"
+              }
+            ]
+          }
+        },
+        "id": "1753324501167960064",
+        "location": "麦当牢",
+        "name": "䴄",
+        "pinned_tweet_id": "1893544889528525287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918137582967504899/RQ1u8IB7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 1159,
+          "like_count": 5527,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 503
+        },
+        "username": "DuvetsDetour",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1739259791233732831",
+    "created_at": "2025-04-13T12:54:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T13:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911402527850975547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1494342607018749957",
+          "start": 0,
+          "username": "Ran____0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911402527850975547",
+    "in_reply_to_user_id": "1494342607018749957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1739259791233732831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ran____0v0 我谈了是真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1739259791233732831",
+        "created_at": "2025-04-13T12:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T13:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911402527850975547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1494342607018749957",
+              "start": 0,
+              "username": "Ran____0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911402527850975547",
+        "in_reply_to_user_id": "1494342607018749957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1739259791233732831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ran____0v0 我谈了是真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494342607018749957",
+        "conversation_id": "1739259791233732831",
+        "created_at": "2023-12-25T12:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2023-12-25T13:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1739259791233732831"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1739259791233732831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下次住院 要在精神病院谈甜甜的恋爱😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910291251003547648/-uuCvZrl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 361,
+          "like_count": 1140,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 3512
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-17T16:07:04.000Z",
+        "description": "好朋友们@yrmsldwbsss @LeiZhenYuuu @RikAaaaa3259 @hitomi012000_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "yrmsldwbsss"
+              },
+              {
+                "end": 29,
+                "start": 17,
+                "username": "LeiZhenYuuu"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "RikAaaaa3259"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "hitomi012000_"
+              }
+            ]
+          }
+        },
+        "id": "1494342607018749957",
+        "name": "小苒Ran",
+        "pinned_tweet_id": "1779115273628549497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761710842624819200/8wRsVUaq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 157,
+          "like_count": 2996,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 972
+        },
+        "username": "Ran____0v0",
+        "verified": false
+      }
+    ]
+  }
+}

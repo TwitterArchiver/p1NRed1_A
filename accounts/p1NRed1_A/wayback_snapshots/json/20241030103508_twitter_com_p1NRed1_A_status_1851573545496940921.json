@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1851573499191812096",
+        "3_1851573499200221184"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1851573545496940921",
+    "created_at": "2024-10-30T10:35:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-30T11:35:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1851573545496940921"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YdZYoJcZTV",
+          "end": 23,
+          "expanded_url": "https://x.com/p1NRed1_A/status/1851573545496940921/video/1",
+          "media_key": "7_1851573499191812096",
+          "start": 0,
+          "url": "https://t.co/YdZYoJcZTV"
+        },
+        {
+          "display_url": "pic.x.com/YdZYoJcZTV",
+          "end": 23,
+          "expanded_url": "https://x.com/p1NRed1_A/status/1851573545496940921/video/1",
+          "media_key": "3_1851573499200221184",
+          "start": 0,
+          "url": "https://t.co/YdZYoJcZTV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851573545496940921",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/YdZYoJcZTV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23200,
+        "height": 1280,
+        "media_key": "7_1851573499191812096",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1851573499191812096/pu/img/4kC3BUGbT60Hu1z3.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1851573499191812096/pu/vid/avc1/320x568/_6q5MSukbtx_rPhs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1851573499191812096/pu/vid/avc1/480x852/Gatv9zsWtd7-F0Ta.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1851573499191812096/pu/vid/avc1/720x1280/knCvGUQ4dPfgohK4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1851573499191812096/pu/pl/Sn8S67uKzkCWHP-i.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1851573499200221184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbIcSZdbMAAM6ob.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1851573499191812096",
+            "3_1851573499200221184"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1851573545496940921",
+        "created_at": "2024-10-30T10:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T11:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851573545496940921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YdZYoJcZTV",
+              "end": 23,
+              "expanded_url": "https://x.com/p1NRed1_A/status/1851573545496940921/video/1",
+              "media_key": "7_1851573499191812096",
+              "start": 0,
+              "url": "https://t.co/YdZYoJcZTV"
+            },
+            {
+              "display_url": "pic.x.com/YdZYoJcZTV",
+              "end": 23,
+              "expanded_url": "https://x.com/p1NRed1_A/status/1851573545496940921/video/1",
+              "media_key": "3_1851573499200221184",
+              "start": 0,
+              "url": "https://t.co/YdZYoJcZTV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851573545496940921",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YdZYoJcZTV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 285,
+          "like_count": 982,
+          "listed_count": 0,
+          "tweet_count": 3029
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1978659601718411707",
+    "created_at": "2025-10-16T03:09:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T04:09:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978659601718411707"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1978659601718411707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我说真的我打无梦的时候感觉某张谱的剧情是两个小屁孩烧房子点着了然后星星他们来救火然后一堆键盘来一起帮忙然后小屁孩被揍的半死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1978659601718411707",
+        "created_at": "2025-10-16T03:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T04:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978659601718411707"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978659601718411707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说真的我打无梦的时候感觉某张谱的剧情是两个小屁孩烧房子点着了然后星星他们来救火然后一堆键盘来一起帮忙然后小屁孩被揍的半死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 474,
+          "like_count": 1494,
+          "listed_count": 2,
+          "media_count": 289,
+          "tweet_count": 5036
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

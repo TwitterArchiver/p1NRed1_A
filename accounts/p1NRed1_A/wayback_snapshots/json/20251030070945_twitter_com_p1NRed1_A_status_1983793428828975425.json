@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983793421824450560"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1983793428828975425",
+    "created_at": "2025-10-30T07:09:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T08:09:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983793428828975425"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0uNQ3T4H1w",
+          "end": 30,
+          "expanded_url": "https://x.com/p1NRed1_A/status/1983793428828975425/photo/1",
+          "media_key": "3_1983793421824450560",
+          "start": 7,
+          "url": "https://t.co/0uNQ3T4H1w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983793428828975425",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "bzqq猫猫 https://t.co/0uNQ3T4H1w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983793421824450560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4fZm0eaYAAR9ba.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983793421824450560"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1983793428828975425",
+        "created_at": "2025-10-30T07:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T08:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983793428828975425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0uNQ3T4H1w",
+              "end": 30,
+              "expanded_url": "https://x.com/p1NRed1_A/status/1983793428828975425/photo/1",
+              "media_key": "3_1983793421824450560",
+              "start": 7,
+              "url": "https://t.co/0uNQ3T4H1w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983793428828975425",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "bzqq猫猫 https://t.co/0uNQ3T4H1w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 490,
+          "like_count": 1536,
+          "listed_count": 2,
+          "media_count": 304,
+          "tweet_count": 5231
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

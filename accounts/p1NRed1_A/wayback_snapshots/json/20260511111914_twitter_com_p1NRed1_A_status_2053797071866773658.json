@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2053748886200877367",
+    "created_at": "2026-05-11T11:19:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T12:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053797071866773658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1974899233418346496",
+          "start": 0,
+          "username": "a6b5ca"
+        },
+        {
+          "end": 15,
+          "id": "1225559787414401025",
+          "start": 8,
+          "username": "Gun1nx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053797071866773658",
+    "in_reply_to_user_id": "1974899233418346496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053796551441678414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a6b5ca @Gun1nx 中二机况好差。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2053748886200877367",
+        "created_at": "2026-05-11T11:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T12:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053797071866773658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1974899233418346496",
+              "start": 0,
+              "username": "a6b5ca"
+            },
+            {
+              "end": 15,
+              "id": "1225559787414401025",
+              "start": 8,
+              "username": "Gun1nx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053797071866773658",
+        "in_reply_to_user_id": "1974899233418346496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053796551441678414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a6b5ca @Gun1nx 中二机况好差。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974899233418346496",
+        "conversation_id": "2053748886200877367",
+        "created_at": "2026-05-11T11:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T12:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053796551441678414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            },
+            {
+              "end": 18,
+              "id": "1225559787414401025",
+              "start": 11,
+              "username": "Gun1nx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053796551441678414",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053792526885351903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A @Gun1nx 那就打中二去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 564,
+          "like_count": 1654,
+          "listed_count": 3,
+          "media_count": 351,
+          "tweet_count": 6163
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T18:07:43.000Z",
+        "description": "20↑ ｜多忙低浮上 ｜無断轉載·使用禁止｜ AI🚫 中文/en🉑日本語勉强中\n血图预警",
+        "id": "1974899233418346496",
+        "name": "tosuka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974899463408758784/SApG3VDG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 9,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 52
+        },
+        "username": "a6b5ca",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-06T23:20:04.000Z",
+        "description": "04年宅宅/男/坐标厦门/\n目前是萌新狂热舞萌痴\n爱玩点gal/音游/魂",
+        "id": "1225559787414401025",
+        "location": "潮湿的角落",
+        "name": "Sangu1s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045179371468800005/hg0tnpuk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 200,
+          "like_count": 13019,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1045
+        },
+        "username": "Gun1nx",
+        "verified": false
+      }
+    ]
+  }
+}

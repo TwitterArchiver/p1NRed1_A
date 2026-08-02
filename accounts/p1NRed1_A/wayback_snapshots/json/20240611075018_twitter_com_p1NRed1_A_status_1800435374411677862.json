@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1800373632218366405",
+    "created_at": "2024-06-11T07:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-11T08:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800435374411677862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1689218394493743104",
+          "start": 0,
+          "username": "EGOIST2KING"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800435374411677862",
+    "in_reply_to_user_id": "1689218394493743104",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800435057519427592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EGOIST2KING 没fo不允许"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1800373632218366405",
+        "created_at": "2024-06-11T07:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T08:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800435374411677862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1689218394493743104",
+              "start": 0,
+              "username": "EGOIST2KING"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800435374411677862",
+        "in_reply_to_user_id": "1689218394493743104",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800435057519427592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EGOIST2KING 没fo不允许"
+      },
+      {
+        "attachments": {},
+        "author_id": "1689218394493743104",
+        "conversation_id": "1800373632218366405",
+        "created_at": "2024-06-11T07:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T08:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800435057519427592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800435057519427592",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800373632218366405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 路过，参与一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800005249027203073/CQR3vaAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 177,
+          "like_count": 332,
+          "listed_count": 0,
+          "tweet_count": 1241
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T10:14:12.000Z",
+        "description": "钱是熨斗，可以熨平生活的一切褶皱",
+        "id": "1689218394493743104",
+        "location": "长安",
+        "name": "销言钥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1691565711057940481/vShuMjXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 57,
+          "like_count": 1993,
+          "listed_count": 0,
+          "tweet_count": 270
+        },
+        "username": "EGOIST2KING",
+        "verified": false
+      }
+    ]
+  }
+}

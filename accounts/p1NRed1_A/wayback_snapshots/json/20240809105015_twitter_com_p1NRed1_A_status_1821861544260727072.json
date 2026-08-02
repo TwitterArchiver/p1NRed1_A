@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1821835720287547392"
+      ],
+      "media_source_tweet_id": [
+        "1821835724943139281"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1821861544260727072",
+    "created_at": "2024-08-09T10:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-09T11:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821861544260727072"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 24,
+          "tag": "さよなら絶望先生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1750095245151502336",
+          "start": 3,
+          "username": "zetubo_shita_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mr0jbivbpy",
+          "end": 57,
+          "expanded_url": "https://twitter.com/zetubo_shita_/status/1821835724943139281/photo/1",
+          "media_key": "3_1821835720287547392",
+          "start": 34,
+          "url": "https://t.co/mR0jBIVBPy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821861544260727072",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821835724943139281",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zetubo_shita_: 絵柄迷走 #さよなら絶望先生 https://t.co/mR0jBIVBPy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 749,
+        "media_key": "3_1821835720287547392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUh172LbcAAxnyV.jpg",
+        "width": 1120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821835720287547392"
+          ],
+          "media_source_tweet_id": [
+            "1821835724943139281"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1821861544260727072",
+        "created_at": "2024-08-09T10:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T11:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821861544260727072"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 24,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1750095245151502336",
+              "start": 3,
+              "username": "zetubo_shita_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mr0jbivbpy",
+              "end": 57,
+              "expanded_url": "https://twitter.com/zetubo_shita_/status/1821835724943139281/photo/1",
+              "media_key": "3_1821835720287547392",
+              "start": 34,
+              "url": "https://t.co/mR0jBIVBPy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821861544260727072",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821835724943139281",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zetubo_shita_: 絵柄迷走 #さよなら絶望先生 https://t.co/mR0jBIVBPy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821835720287547392"
+          ]
+        },
+        "author_id": "1750095245151502336",
+        "conversation_id": "1821835724943139281",
+        "created_at": "2024-08-09T09:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T10:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821835724943139281"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 5,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mr0jbivbpy",
+              "end": 38,
+              "expanded_url": "https://twitter.com/zetubo_shita_/status/1821835724943139281/photo/1",
+              "media_key": "3_1821835720287547392",
+              "start": 15,
+              "url": "https://t.co/mR0jBIVBPy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821835724943139281",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "絵柄迷走 #さよなら絶望先生 https://t.co/mR0jBIVBPy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563382332014593/-06gBRx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 249,
+          "like_count": 644,
+          "listed_count": 0,
+          "tweet_count": 2289
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T09:56:47.000Z",
+        "description": "久米田先生垢 十丸院＆望Love❣️ 最近低浮上気味",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/mC9oPpaCDhdN…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/mC9oPpaCDhdNh7XMnKYiNA97zs82",
+                "start": 0,
+                "url": "https://t.co/8bfv1OCkc6"
+              }
+            ]
+          }
+        },
+        "id": "1750095245151502336",
+        "location": "やべーよ十丸院 あいつ マジやべーよ",
+        "name": "ゼッタイ‼️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791076558658236416/3VWno11W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 24,
+          "like_count": 1489,
+          "listed_count": 0,
+          "tweet_count": 717
+        },
+        "url": "https://t.co/8bfv1OCkc6",
+        "username": "zetubo_shita_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1806534755338604761",
+    "created_at": "2024-06-28T05:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-28T06:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806564000207151104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1753324501167960064",
+          "start": 0,
+          "username": "tachibanalove01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806564000207151104",
+    "in_reply_to_user_id": "1753324501167960064",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806534755338604761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tachibanalove01 谁死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1806534755338604761",
+        "created_at": "2024-06-28T05:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T06:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806564000207151104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1753324501167960064",
+              "start": 0,
+              "username": "tachibanalove01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806564000207151104",
+        "in_reply_to_user_id": "1753324501167960064",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806534755338604761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tachibanalove01 谁死了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1753324501167960064",
+        "conversation_id": "1806534755338604761",
+        "created_at": "2024-06-28T03:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T04:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806534755338604761"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1806534755338604761",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯我没有更重要的东西了最重要的人去年今日再也不存在了躯体和灵魂都是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563382332014593/-06gBRx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 205,
+          "like_count": 445,
+          "listed_count": 0,
+          "tweet_count": 1800
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T07:48:51.000Z",
+        "description": "ヨルシカ/神聖かまってちゃん/骂我先骂@p1NRed1_A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "p1NRed1_A"
+              }
+            ]
+          }
+        },
+        "id": "1753324501167960064",
+        "location": "你心里",
+        "name": "穗西德",
+        "pinned_tweet_id": "1805982958525747496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563451064172551/1AouX01P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 357,
+          "like_count": 1689,
+          "listed_count": 0,
+          "tweet_count": 1265
+        },
+        "username": "tachibanalove01",
+        "verified": false
+      }
+    ]
+  }
+}

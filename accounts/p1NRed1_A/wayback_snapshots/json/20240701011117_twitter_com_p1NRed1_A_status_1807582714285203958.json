@@ -1,0 +1,274 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1806961782151639040"
+      ],
+      "media_source_tweet_id": [
+        "1806961822568010080"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1807582714285203958",
+    "created_at": "2024-07-01T01:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-01T02:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807582714285203958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1001013388330192896",
+          "start": 3,
+          "username": "ichiipsy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/qezXCjZ82E",
+          "end": 69,
+          "expanded_url": "https://twitter.com/i/status/1806961822568010080/video/1",
+          "media_key": "7_1806961782151639040",
+          "start": 46,
+          "url": "https://t.co/qezXCjZ82E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807582714285203958",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807568787870503274",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ichiipsy: ハンマーヘッドシャークの子供と並走する犬\nなんだかみてて和む\n\nhttps://t.co/qezXCjZ82E"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11679,
+        "height": 1024,
+        "media_key": "7_1806961782151639040",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1806961782151639040/pu/img/E2ywTgEZOnBpC5Yl.jpg",
+        "public_metrics": {
+          "view_count": 1369941
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1806961782151639040/pu/vid/avc1/320x568/3hGxyme1Szf58WHg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1806961782151639040/pu/vid/avc1/480x852/97EDqIJ-btbfi_rM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1806961782151639040/pu/vid/avc1/576x1024/IdJTuBy53tzd0KA6.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1806961782151639040/pu/pl/C9hLctNOyo8r7PvU.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1806961782151639040"
+          ],
+          "media_source_tweet_id": [
+            "1806961822568010080"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1807582714285203958",
+        "created_at": "2024-07-01T01:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T02:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807582714285203958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1001013388330192896",
+              "start": 3,
+              "username": "ichiipsy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/qezXCjZ82E",
+              "end": 69,
+              "expanded_url": "https://twitter.com/i/status/1806961822568010080/video/1",
+              "media_key": "7_1806961782151639040",
+              "start": 46,
+              "url": "https://t.co/qezXCjZ82E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807582714285203958",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807568787870503274",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ichiipsy: ハンマーヘッドシャークの子供と並走する犬\nなんだかみてて和む\n\nhttps://t.co/qezXCjZ82E"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1806961782151639040"
+          ],
+          "media_source_tweet_id": [
+            "1806961822568010080"
+          ]
+        },
+        "author_id": "1001013388330192896",
+        "conversation_id": "1807568787870503274",
+        "created_at": "2024-07-01T00:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T01:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807568787870503274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/qezXCjZ82E",
+              "end": 55,
+              "expanded_url": "https://twitter.com/i/status/1806961822568010080/video/1",
+              "media_key": "7_1806961782151639040",
+              "start": 32,
+              "url": "https://t.co/qezXCjZ82E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807568787870503274",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1459,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "ハンマーヘッドシャークの子供と並走する犬\nなんだかみてて和む\n\nhttps://t.co/qezXCjZ82E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563382332014593/-06gBRx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 208,
+          "like_count": 456,
+          "listed_count": 0,
+          "tweet_count": 1828
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-28T08:12:44.000Z",
+        "description": "バーチャル精神科医/ なかの人は精神科医/精神保健指定医/日本精神神経学会 専門医/著書『頭んなか「メンヘラなとき」があります。』/ダイヤモンド・オンラインにて連載中https://t.co/I5UDrtT9HA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "diamond.jp/ud/authors/654…",
+                "end": 106,
+                "expanded_url": "https://diamond.jp/ud/authors/6549e2e5905bd4bb34000000",
+                "start": 83,
+                "url": "https://t.co/I5UDrtT9HA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "molbit.jp/column",
+                "end": 23,
+                "expanded_url": "https://molbit.jp/column",
+                "start": 0,
+                "url": "https://t.co/c699qScNFw"
+              }
+            ]
+          }
+        },
+        "id": "1001013388330192896",
+        "location": "バーチャル空間",
+        "name": "いっちー@バーチャル精神科医",
+        "pinned_tweet_id": "1717108496918053254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1088055575387070465/6bW5Ynxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71413,
+          "following_count": 870,
+          "like_count": 67864,
+          "listed_count": 764,
+          "tweet_count": 26675
+        },
+        "url": "https://t.co/c699qScNFw",
+        "username": "ichiipsy",
+        "verified": true
+      }
+    ]
+  }
+}

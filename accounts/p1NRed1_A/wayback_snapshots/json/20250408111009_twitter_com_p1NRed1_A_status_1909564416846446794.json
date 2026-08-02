@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1909469191163592705",
+        "3_1909469191499034624"
+      ],
+      "media_source_tweet_id": [
+        "1909469194296737900",
+        "1909469194296737900"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1909564416846446794",
+    "created_at": "2025-04-08T11:10:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T12:10:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909564416846446794"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "符香ちゃん",
+          "probability": 0.3707,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 30,
+          "tag": "さよなら絶望先生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1176480058292129793",
+          "start": 3,
+          "username": "5t5t5szbh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mp0vWft8tc",
+          "end": 63,
+          "expanded_url": "https://x.com/5t5t5szbh/status/1909469194296737900/photo/1",
+          "media_key": "3_1909469191163592705",
+          "start": 40,
+          "url": "https://t.co/mp0vWft8tc"
+        },
+        {
+          "display_url": "pic.x.com/mp0vWft8tc",
+          "end": 63,
+          "expanded_url": "https://x.com/5t5t5szbh/status/1909469194296737900/photo/1",
+          "media_key": "3_1909469191499034624",
+          "start": 40,
+          "url": "https://t.co/mp0vWft8tc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909564416846446794",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909469194296737900",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @5t5t5szbh: 可符香ちゃんは桜がよく似合う\n#さよなら絶望先生 https://t.co/mp0vWft8tc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1238,
+        "media_key": "3_1909469191163592705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn_MHNDbwAEbiUW.jpg",
+        "width": 1429
+      },
+      {
+        "height": 1225,
+        "media_key": "3_1909469191499034624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn_MHOTaMAA_S1c.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909469191163592705",
+            "3_1909469191499034624"
+          ],
+          "media_source_tweet_id": [
+            "1909469194296737900",
+            "1909469194296737900"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1909564416846446794",
+        "created_at": "2025-04-08T11:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T12:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909564416846446794"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "符香ちゃん",
+              "probability": 0.3707,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 30,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1176480058292129793",
+              "start": 3,
+              "username": "5t5t5szbh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mp0vWft8tc",
+              "end": 63,
+              "expanded_url": "https://x.com/5t5t5szbh/status/1909469194296737900/photo/1",
+              "media_key": "3_1909469191163592705",
+              "start": 40,
+              "url": "https://t.co/mp0vWft8tc"
+            },
+            {
+              "display_url": "pic.x.com/mp0vWft8tc",
+              "end": 63,
+              "expanded_url": "https://x.com/5t5t5szbh/status/1909469194296737900/photo/1",
+              "media_key": "3_1909469191499034624",
+              "start": 40,
+              "url": "https://t.co/mp0vWft8tc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909564416846446794",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909469194296737900",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @5t5t5szbh: 可符香ちゃんは桜がよく似合う\n#さよなら絶望先生 https://t.co/mp0vWft8tc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909469191163592705",
+            "3_1909469191499034624"
+          ]
+        },
+        "author_id": "1176480058292129793",
+        "conversation_id": "1909469194296737900",
+        "created_at": "2025-04-08T04:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T05:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909469194296737900"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "符香ちゃん",
+              "probability": 0.3519,
+              "start": 1,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 15,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mp0vWft8tc",
+              "end": 48,
+              "expanded_url": "https://x.com/5t5t5szbh/status/1909469194296737900/photo/1",
+              "media_key": "3_1909469191163592705",
+              "start": 25,
+              "url": "https://t.co/mp0vWft8tc"
+            },
+            {
+              "display_url": "pic.x.com/mp0vWft8tc",
+              "end": 48,
+              "expanded_url": "https://x.com/5t5t5szbh/status/1909469194296737900/photo/1",
+              "media_key": "3_1909469191499034624",
+              "start": 25,
+              "url": "https://t.co/mp0vWft8tc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909469194296737900",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 235,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "可符香ちゃんは桜がよく似合う\n#さよなら絶望先生 https://t.co/mp0vWft8tc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908472142045601793/4rErpv2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 340,
+          "like_count": 1125,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 3444
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-24T12:55:06.000Z",
+        "description": "",
+        "id": "1176480058292129793",
+        "name": "タカ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900574719285272576/FVRRr-P-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 291,
+          "like_count": 4117,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 3163
+        },
+        "username": "5t5t5szbh",
+        "verified": false
+      }
+    ]
+  }
+}

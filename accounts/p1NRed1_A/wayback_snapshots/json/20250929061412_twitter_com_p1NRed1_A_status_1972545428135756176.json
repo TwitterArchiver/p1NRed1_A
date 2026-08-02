@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1972244824905371648"
+      ],
+      "media_source_tweet_id": [
+        "1972244887950250475"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1972545428135756176",
+    "created_at": "2025-09-29T06:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T07:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972545428135756176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1495523101697888258",
+          "start": 3,
+          "username": "vomitgorelover"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Kitty Gore · single · 2025 · 1 songs",
+          "display_url": "open.spotify.com/album/3UWpXJIE…",
+          "end": 43,
+          "expanded_url": "https://open.spotify.com/album/3UWpXJIEAwC7z7a3gjMbvI?si=8fwOFruyQsGZJZVUx5FG8w",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://pbs.twimg.com/news_img/1972244890051592192/ZvAPbzLL?format=jpg&name=orig",
+              "width": 640
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1972244890051592192/ZvAPbzLL?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 20,
+          "status": 200,
+          "title": "My fist remains bloody - Single by Kitty Gore | Spotify",
+          "unwound_url": "https://open.spotify.com/album/3UWpXJIEAwC7z7a3gjMbvI?si=8fwOFruyQsGZJZVUx5FG8w",
+          "url": "https://t.co/bbeDdVBMN1"
+        },
+        {
+          "display_url": "pic.x.com/C3rWByMo8Q",
+          "end": 67,
+          "expanded_url": "https://x.com/vomitgorelover/status/1972244887950250475/video/1",
+          "media_key": "13_1972244824905371648",
+          "start": 44,
+          "url": "https://t.co/C3rWByMo8Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972545428135756176",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972244887950250475",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vomitgorelover: https://t.co/bbeDdVBMN1 https://t.co/C3rWByMo8Q"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1972545428135756176].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1972545428135756176",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1972545428135756176"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6800,
+        "height": 720,
+        "media_key": "13_1972244824905371648",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1972244824905371648/img/3EbemOTH5xh5M72p.jpg",
+        "public_metrics": {
+          "view_count": 770
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972244824905371648/vid/avc1/480x270/kZmWih8OhyjQlLby.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972244824905371648/vid/avc1/640x360/KfNGuEpHt38_3iD7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972244824905371648/vid/avc1/1280x720/WQ7DAx6SNODNfsJy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1972244824905371648/pl/fpYvzMIB2pN1etiX.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1972244824905371648"
+          ]
+        },
+        "author_id": "1495523101697888258",
+        "conversation_id": "1972244887950250475",
+        "created_at": "2025-09-28T10:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T11:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972244887950250475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Kitty Gore · single · 2025 · 1 songs",
+              "display_url": "open.spotify.com/album/3UWpXJIE…",
+              "end": 23,
+              "expanded_url": "https://open.spotify.com/album/3UWpXJIEAwC7z7a3gjMbvI?si=8fwOFruyQsGZJZVUx5FG8w",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/1972244890051592192/ZvAPbzLL?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1972244890051592192/ZvAPbzLL?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "My fist remains bloody - Single by Kitty Gore | Spotify",
+              "unwound_url": "https://open.spotify.com/album/3UWpXJIEAwC7z7a3gjMbvI?si=8fwOFruyQsGZJZVUx5FG8w",
+              "url": "https://t.co/bbeDdVBMN1"
+            },
+            {
+              "display_url": "pic.x.com/C3rWByMo8Q",
+              "end": 47,
+              "expanded_url": "https://x.com/vomitgorelover/status/1972244887950250475/video/1",
+              "media_key": "13_1972244824905371648",
+              "start": 24,
+              "url": "https://t.co/C3rWByMo8Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972244887950250475",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 2939,
+          "like_count": 153,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bbeDdVBMN1 https://t.co/C3rWByMo8Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 458,
+          "like_count": 1439,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 4831
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T22:17:56.000Z",
+        "description": "Hardcore hooligan. :3 🇮🇷🏴󠁧󠁢󠁳󠁣󠁴󠁿.          https://t.co/DvB1I2J9Cs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/artist/5LTWVCZ…",
+                "end": 65,
+                "expanded_url": "https://open.spotify.com/artist/5LTWVCZP9xAPItWtIVi9YR?si=FvazimlrSfGGitm2H20iag",
+                "start": 42,
+                "url": "https://t.co/DvB1I2J9Cs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/KittyGoremuzik",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/KittyGoremuzik",
+                "start": 0,
+                "url": "https://t.co/R0qRPoKx70"
+              }
+            ]
+          }
+        },
+        "id": "1495523101697888258",
+        "location": "Down a hole, Glasgow",
+        "name": "ଘ(∩^o^)⊃━☆゜ Kitty Gore",
+        "pinned_tweet_id": "1971403941037699141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957634836924952580/qRQU0JTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22593,
+          "following_count": 253,
+          "like_count": 18648,
+          "listed_count": 55,
+          "media_count": 3061,
+          "tweet_count": 6769
+        },
+        "url": "https://t.co/R0qRPoKx70",
+        "username": "vomitgorelover",
+        "verified": false
+      }
+    ]
+  }
+}

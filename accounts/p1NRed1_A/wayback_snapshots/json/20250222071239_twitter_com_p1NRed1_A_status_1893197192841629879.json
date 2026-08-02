@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1893161715979989366",
+    "created_at": "2025-02-22T07:12:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T08:12:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893197192841629879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1753324501167960064",
+          "start": 0,
+          "username": "DuvetsDetour"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893197192841629879",
+    "in_reply_to_user_id": "1753324501167960064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893165717899616292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DuvetsDetour 这傻逼疯了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1893161715979989366",
+        "created_at": "2025-02-22T07:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T08:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893197192841629879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1753324501167960064",
+              "start": 0,
+              "username": "DuvetsDetour"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893197192841629879",
+        "in_reply_to_user_id": "1753324501167960064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893165717899616292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DuvetsDetour 这傻逼疯了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753324501167960064",
+        "conversation_id": "1893161715979989366",
+        "created_at": "2025-02-22T05:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T06:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893165717899616292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893165717899616292",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893161715979989366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 展开说说？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889564810410627072/YnTsykE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 308,
+          "like_count": 1074,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 3305
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T07:48:51.000Z",
+        "description": "//共犯者@_defoko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "_defoko"
+              }
+            ]
+          }
+        },
+        "id": "1753324501167960064",
+        "location": "神栖六十六",
+        "name": "䴄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886707602014580736/v4mBNrH8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 1117,
+          "like_count": 5167,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 421
+        },
+        "username": "DuvetsDetour",
+        "verified": false
+      }
+    ]
+  }
+}

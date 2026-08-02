@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1885545783380062208"
+      ],
+      "media_source_tweet_id": [
+        "1885545788497158295"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1888533688826450385",
+    "created_at": "2025-02-09T10:21:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T11:21:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888533688826450385"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "望カフ",
+          "probability": 0.5286,
+          "start": 18,
+          "type": "Person"
+        },
+        {
+          "end": 24,
+          "normalized_text": "キャイ",
+          "probability": 0.7168,
+          "start": 22,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1413308922719395840",
+          "start": 3,
+          "username": "kakiko_orogi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X9C9VOl4sb",
+          "end": 69,
+          "expanded_url": "https://x.com/kakiko_orogi/status/1885545788497158295/photo/1",
+          "media_key": "3_1885545783380062208",
+          "start": 46,
+          "url": "https://t.co/X9C9VOl4sb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888533688826450385",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885545788497158295",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kakiko_orogi: 望カフにキャイ〜ンのポーズをさせたかっただけの絵です🥳 https://t.co/X9C9VOl4sb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1885545783380062208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GirN5mIasAA4-bg.jpg",
+        "width": 1470
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885545783380062208"
+          ],
+          "media_source_tweet_id": [
+            "1885545788497158295"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1888533688826450385",
+        "created_at": "2025-02-09T10:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T11:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888533688826450385"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "望カフ",
+              "probability": 0.5286,
+              "start": 18,
+              "type": "Person"
+            },
+            {
+              "end": 24,
+              "normalized_text": "キャイ",
+              "probability": 0.7168,
+              "start": 22,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1413308922719395840",
+              "start": 3,
+              "username": "kakiko_orogi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X9C9VOl4sb",
+              "end": 69,
+              "expanded_url": "https://x.com/kakiko_orogi/status/1885545788497158295/photo/1",
+              "media_key": "3_1885545783380062208",
+              "start": 46,
+              "url": "https://t.co/X9C9VOl4sb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888533688826450385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885545788497158295",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kakiko_orogi: 望カフにキャイ〜ンのポーズをさせたかっただけの絵です🥳 https://t.co/X9C9VOl4sb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885545783380062208"
+          ]
+        },
+        "author_id": "1413308922719395840",
+        "conversation_id": "1885545788497158295",
+        "created_at": "2025-02-01T04:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T05:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885545788497158295"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "望カフ",
+              "probability": 0.5593,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 6,
+              "normalized_text": "キャイ",
+              "probability": 0.6271,
+              "start": 4,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X9C9VOl4sb",
+              "end": 51,
+              "expanded_url": "https://x.com/kakiko_orogi/status/1885545788497158295/photo/1",
+              "media_key": "3_1885545783380062208",
+              "start": 28,
+              "url": "https://t.co/X9C9VOl4sb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885545788497158295",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1336,
+          "like_count": 133,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "望カフにキャイ〜ンのポーズをさせたかっただけの絵です🥳 https://t.co/X9C9VOl4sb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873724650511110144/1z-X8l1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 301,
+          "like_count": 1046,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 3227
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-09T01:30:59.000Z",
+        "description": "絵描き。絵の転載・加工・使用・AI学習禁止❎\nたまにTVの感想(アニメ朝ドラ大河お笑い)/漫画/ゲーム/カラオケ。\n特に京アニ、進撃、庵野、イクニ、久米田康治先生が好きです。\n♻️❤👤ありがとうございます🙇‍♀️\n面識ある方のみフォロバしてます🙇‍♀️2023/12/28〜",
+        "id": "1413308922719395840",
+        "name": "ば な な っ とう🍞",
+        "pinned_tweet_id": "1851260232443564311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848676882977591296/Lum217Ot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 14,
+          "like_count": 6474,
+          "listed_count": 7,
+          "media_count": 28,
+          "tweet_count": 747
+        },
+        "username": "kakiko_orogi",
+        "verified": false
+      }
+    ]
+  }
+}

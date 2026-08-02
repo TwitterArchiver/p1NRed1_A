@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1894781995156131840"
+      ],
+      "media_source_tweet_id": [
+        "1894781996926226611"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1895084908105867312",
+    "created_at": "2025-02-27T12:13:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T13:13:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895084908105867312"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 62,
+          "normalized_text": "azumangadaioh",
+          "probability": 0.5347,
+          "start": 50,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 63,
+          "start": 49,
+          "tag": "azumangadaioh"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1248359568264093700",
+          "start": 3,
+          "username": "azumadeline"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ta4zoh7ImE",
+          "end": 87,
+          "expanded_url": "https://x.com/azumadeline/status/1894781996926226611/photo/1",
+          "media_key": "3_1894781995156131840",
+          "start": 64,
+          "url": "https://t.co/Ta4zoh7ImE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895084908105867312",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894781996926226611",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @azumadeline: Ah'm back and better than ever! #azumangadaioh https://t.co/Ta4zoh7ImE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_1894781995156131840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkueL4QWUAAl5yx.jpg",
+        "width": 760
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894781995156131840"
+          ],
+          "media_source_tweet_id": [
+            "1894781996926226611"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1895084908105867312",
+        "created_at": "2025-02-27T12:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T13:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895084908105867312"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 62,
+              "normalized_text": "azumangadaioh",
+              "probability": 0.5347,
+              "start": 50,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 49,
+              "tag": "azumangadaioh"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1248359568264093700",
+              "start": 3,
+              "username": "azumadeline"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ta4zoh7ImE",
+              "end": 87,
+              "expanded_url": "https://x.com/azumadeline/status/1894781996926226611/photo/1",
+              "media_key": "3_1894781995156131840",
+              "start": 64,
+              "url": "https://t.co/Ta4zoh7ImE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895084908105867312",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894781996926226611",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @azumadeline: Ah'm back and better than ever! #azumangadaioh https://t.co/Ta4zoh7ImE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894781995156131840"
+          ]
+        },
+        "author_id": "1248359568264093700",
+        "conversation_id": "1894781996926226611",
+        "created_at": "2025-02-26T16:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T17:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894781996926226611"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "azumangadaioh",
+              "probability": 0.4691,
+              "start": 33,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 32,
+              "tag": "azumangadaioh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ta4zoh7ImE",
+              "end": 70,
+              "expanded_url": "https://x.com/azumadeline/status/1894781996926226611/photo/1",
+              "media_key": "3_1894781995156131840",
+              "start": 47,
+              "url": "https://t.co/Ta4zoh7ImE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894781996926226611",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 5590,
+          "like_count": 729,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "Ah'm back and better than ever! #azumangadaioh https://t.co/Ta4zoh7ImE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889564810410627072/YnTsykE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 314,
+          "like_count": 1079,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 3284
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-09T21:18:16.000Z",
+        "description": "Hai \n\n-i like fnf exe anime and touhou 😟\n-autistic selfshipper \n- if I'm priv don't be afraid to frq!\n@azumadelineALT backup :)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 102,
+                "username": "azumadelineALT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "azumadeline.straw.page",
+                "end": 23,
+                "expanded_url": "https://azumadeline.straw.page",
+                "start": 0,
+                "url": "https://t.co/nx81saCchJ"
+              }
+            ]
+          }
+        },
+        "id": "1248359568264093700",
+        "location": " she/her/nya@maddieposting",
+        "name": "azumadeline.bsky.social",
+        "pinned_tweet_id": "1700278964931965248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769839800448622592/3VtIN4uf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2901,
+          "following_count": 3043,
+          "like_count": 169775,
+          "listed_count": 23,
+          "media_count": 4503,
+          "tweet_count": 87112
+        },
+        "url": "https://t.co/nx81saCchJ",
+        "username": "azumadeline",
+        "verified": false
+      }
+    ]
+  }
+}

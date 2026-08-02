@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057379431354699776",
+        "3_2057379448446476288"
+      ],
+      "media_source_tweet_id": [
+        "2057468958999986647",
+        "2057468958999986647"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "2057661017887510760",
+    "created_at": "2026-05-22T03:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T04:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057661017887510760"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 79,
+          "start": 56,
+          "tag": "SayonaraZetsubouSensei"
+        },
+        {
+          "end": 89,
+          "start": 80,
+          "tag": "さよなら絶望先生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1199414955927359491",
+          "start": 3,
+          "username": "Sumdude0nline"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CLz3nRAgmT",
+          "end": 113,
+          "expanded_url": "https://x.com/Sumdude0nline/status/2057468958999986647/photo/1",
+          "media_key": "3_2057379431354699776",
+          "start": 90,
+          "url": "https://t.co/CLz3nRAgmT"
+        },
+        {
+          "display_url": "pic.x.com/CLz3nRAgmT",
+          "end": 113,
+          "expanded_url": "https://x.com/Sumdude0nline/status/2057468958999986647/photo/1",
+          "media_key": "3_2057379448446476288",
+          "start": 90,
+          "url": "https://t.co/CLz3nRAgmT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057661017887510760",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057468958999986647",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sumdude0nline: I really liked the train episode lol\n#SayonaraZetsubouSensei #さよなら絶望先生 https://t.co/CLz3nRAgmT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_2057379431354699776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1HsT4XkAAGp0g.jpg",
+        "width": 2580
+      },
+      {
+        "height": 982,
+        "media_key": "3_2057379448446476288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1HtTjXYAABh2h.jpg",
+        "width": 923
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057379431354699776",
+            "3_2057379448446476288"
+          ],
+          "media_source_tweet_id": [
+            "2057468958999986647",
+            "2057468958999986647"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "2057661017887510760",
+        "created_at": "2026-05-22T03:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T04:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057661017887510760"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 56,
+              "tag": "SayonaraZetsubouSensei"
+            },
+            {
+              "end": 89,
+              "start": 80,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1199414955927359491",
+              "start": 3,
+              "username": "Sumdude0nline"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CLz3nRAgmT",
+              "end": 113,
+              "expanded_url": "https://x.com/Sumdude0nline/status/2057468958999986647/photo/1",
+              "media_key": "3_2057379431354699776",
+              "start": 90,
+              "url": "https://t.co/CLz3nRAgmT"
+            },
+            {
+              "display_url": "pic.x.com/CLz3nRAgmT",
+              "end": 113,
+              "expanded_url": "https://x.com/Sumdude0nline/status/2057468958999986647/photo/1",
+              "media_key": "3_2057379448446476288",
+              "start": 90,
+              "url": "https://t.co/CLz3nRAgmT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057661017887510760",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057468958999986647",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sumdude0nline: I really liked the train episode lol\n#SayonaraZetsubouSensei #さよなら絶望先生 https://t.co/CLz3nRAgmT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057379431354699776",
+            "3_2057379448446476288"
+          ]
+        },
+        "author_id": "1199414955927359491",
+        "conversation_id": "2057468958999986647",
+        "created_at": "2026-05-21T14:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057468958999986647"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 37,
+              "tag": "SayonaraZetsubouSensei"
+            },
+            {
+              "end": 70,
+              "start": 61,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CLz3nRAgmT",
+              "end": 94,
+              "expanded_url": "https://x.com/Sumdude0nline/status/2057468958999986647/photo/1",
+              "media_key": "3_2057379431354699776",
+              "start": 71,
+              "url": "https://t.co/CLz3nRAgmT"
+            },
+            {
+              "display_url": "pic.x.com/CLz3nRAgmT",
+              "end": 94,
+              "expanded_url": "https://x.com/Sumdude0nline/status/2057468958999986647/photo/1",
+              "media_key": "3_2057379448446476288",
+              "start": 71,
+              "url": "https://t.co/CLz3nRAgmT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057468958999986647",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 634,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "I really liked the train episode lol\n#SayonaraZetsubouSensei #さよなら絶望先生 https://t.co/CLz3nRAgmT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 568,
+          "like_count": 1658,
+          "listed_count": 3,
+          "media_count": 370,
+          "tweet_count": 6309
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-26T19:49:55.000Z",
+        "description": "Weeb & Gamer, ♂️ (22), Este idiota es de 🇻🇪, Artist & Voice Actor @beppy_eepy @CardboardCROWNZ @Sw3etz_pup @621SantiSalas @MaRS_152 @Setsuu10",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "beppy_eepy"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "CardboardCROWNZ"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "Sw3etz_pup"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "621SantiSalas"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "MaRS_152"
+              },
+              {
+                "end": 141,
+                "start": 132,
+                "username": "Setsuu10"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sumdude0nline.newgrounds.com",
+                "end": 23,
+                "expanded_url": "https://sumdude0nline.newgrounds.com/",
+                "start": 0,
+                "url": "https://t.co/V4F8qWIlXV"
+              }
+            ]
+          }
+        },
+        "id": "1199414955927359491",
+        "location": "Meme Land Island",
+        "name": "SumDudeOnline (Commissions open)",
+        "pinned_tweet_id": "1853918516539224091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984745277715062784/P10MdM40_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 937,
+          "like_count": 338750,
+          "listed_count": 25,
+          "media_count": 7232,
+          "tweet_count": 63708
+        },
+        "url": "https://t.co/V4F8qWIlXV",
+        "username": "Sumdude0nline",
+        "verified": false
+      }
+    ]
+  }
+}

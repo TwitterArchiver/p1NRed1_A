@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1825631676468215808"
+      ],
+      "media_source_tweet_id": [
+        "1825631692721123791"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1825757267561689417",
+    "created_at": "2024-08-20T04:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-20T05:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825757267561689417"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 15,
+          "tag": "AzumangaDaioh"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1237812855031898114",
+          "start": 3,
+          "username": "kasugacat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hr19wppduq",
+          "end": 53,
+          "expanded_url": "https://twitter.com/kasugacat/status/1825631692721123791/photo/1",
+          "media_key": "3_1825631676468215808",
+          "start": 30,
+          "url": "https://t.co/Hr19WpPDUQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825757267561689417",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 113
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825631692721123791",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kasugacat: #AzumangaDaioh https://t.co/Hr19WpPDUQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 742,
+        "media_key": "3_1825631676468215808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVXyVk6WwAALknQ.png",
+        "width": 692
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1825631676468215808"
+          ],
+          "media_source_tweet_id": [
+            "1825631692721123791"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1825757267561689417",
+        "created_at": "2024-08-20T04:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T05:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825757267561689417"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 15,
+              "tag": "AzumangaDaioh"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1237812855031898114",
+              "start": 3,
+              "username": "kasugacat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hr19wppduq",
+              "end": 53,
+              "expanded_url": "https://twitter.com/kasugacat/status/1825631692721123791/photo/1",
+              "media_key": "3_1825631676468215808",
+              "start": 30,
+              "url": "https://t.co/Hr19WpPDUQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825757267561689417",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 113
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825631692721123791",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kasugacat: #AzumangaDaioh https://t.co/Hr19WpPDUQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1825631676468215808"
+          ]
+        },
+        "author_id": "1237812855031898114",
+        "conversation_id": "1825631692721123791",
+        "created_at": "2024-08-19T20:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T21:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825631692721123791"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "AzumangaDaioh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hr19wppduq",
+              "end": 38,
+              "expanded_url": "https://twitter.com/kasugacat/status/1825631692721123791/photo/1",
+              "media_key": "3_1825631676468215808",
+              "start": 15,
+              "url": "https://t.co/Hr19WpPDUQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825631692721123791",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 4576,
+          "like_count": 576,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "#AzumangaDaioh https://t.co/Hr19WpPDUQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 259,
+          "like_count": 734,
+          "listed_count": 0,
+          "tweet_count": 2446
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-11T18:49:26.000Z",
+        "description": "(｡◠𝅒◠｡)⌖˚。\n@horusfucme 𓇼 𓆡⋆.˚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "horusfucme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pronouns.cc/@yvesachu",
+                "end": 23,
+                "expanded_url": "https://pronouns.cc/@yvesachu",
+                "start": 0,
+                "url": "https://t.co/1ANM4oMrMk"
+              }
+            ]
+          }
+        },
+        "id": "1237812855031898114",
+        "location": "♂️ | 17",
+        "name": "ed ୨ৎ",
+        "pinned_tweet_id": "1788333632584597984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825608670333288448/Q-zIuzM7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 283,
+          "like_count": 9548,
+          "listed_count": 0,
+          "tweet_count": 46009
+        },
+        "url": "https://t.co/1ANM4oMrMk",
+        "username": "kasugacat",
+        "verified": false
+      }
+    ]
+  }
+}

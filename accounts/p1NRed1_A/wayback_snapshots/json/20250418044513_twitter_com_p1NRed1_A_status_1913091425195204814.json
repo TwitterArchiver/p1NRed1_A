@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1913091425195204814",
+    "created_at": "2025-04-18T04:45:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T05:45:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913091425195204814"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1913091425195204814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎早上吃肠粉手一滑全撒了到了自习室怎么都集中不了注意力回家了打开电脑画画画一半电脑关机了再打开啥都没了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1913091425195204814",
+        "created_at": "2025-04-18T04:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T05:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913091425195204814"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913091425195204814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎早上吃肠粉手一滑全撒了到了自习室怎么都集中不了注意力回家了打开电脑画画画一半电脑关机了再打开啥都没了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910291251003547648/-uuCvZrl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 372,
+          "like_count": 1153,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 3564
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

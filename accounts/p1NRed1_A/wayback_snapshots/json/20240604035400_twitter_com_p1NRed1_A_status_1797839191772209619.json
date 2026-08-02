@@ -1,0 +1,229 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "16_1797708074465325056"
+      ],
+      "media_source_tweet_id": [
+        "1797708082459611581"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1797839191772209619",
+    "created_at": "2024-06-04T03:54:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-04T04:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797839191772209619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1749141439437819904",
+          "start": 3,
+          "username": "pink_supervlsor"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/lWVj2QdTm8",
+          "end": 61,
+          "expanded_url": "https://twitter.com/pink_supervlsor/status/1797708082459611581/photo/1",
+          "media_key": "16_1797708074465325056",
+          "start": 38,
+          "url": "https://t.co/lWVj2QdTm8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797839191772209619",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797708082459611581",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pink_supervlsor: my favourite gif https://t.co/lWVj2QdTm8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 356,
+        "media_key": "16_1797708074465325056",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GPK9-BRbcAAcW5X.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GPK9-BRbcAAcW5X.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "16_1797708074465325056"
+          ],
+          "media_source_tweet_id": [
+            "1797708082459611581"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1797839191772209619",
+        "created_at": "2024-06-04T03:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-04T04:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797839191772209619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1749141439437819904",
+              "start": 3,
+              "username": "pink_supervlsor"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/lWVj2QdTm8",
+              "end": 61,
+              "expanded_url": "https://twitter.com/pink_supervlsor/status/1797708082459611581/photo/1",
+              "media_key": "16_1797708074465325056",
+              "start": 38,
+              "url": "https://t.co/lWVj2QdTm8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797839191772209619",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797708082459611581",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pink_supervlsor: my favourite gif https://t.co/lWVj2QdTm8"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "16_1797708074465325056"
+          ]
+        },
+        "author_id": "1749141439437819904",
+        "conversation_id": "1797708082459611581",
+        "created_at": "2024-06-03T19:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T20:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797708082459611581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/lWVj2QdTm8",
+              "end": 40,
+              "expanded_url": "https://twitter.com/pink_supervlsor/status/1797708082459611581/photo/1",
+              "media_key": "16_1797708074465325056",
+              "start": 17,
+              "url": "https://t.co/lWVj2QdTm8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797708082459611581",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 230,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "my favourite gif https://t.co/lWVj2QdTm8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797607843975385088/wUYNFJ2h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 166,
+          "like_count": 294,
+          "listed_count": 0,
+          "tweet_count": 1006
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-21T18:46:39.000Z",
+        "description": "hello she/he",
+        "id": "1749141439437819904",
+        "location": "yoyleland 🇵🇭",
+        "name": "east",
+        "pinned_tweet_id": "1797806990879858978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796900159403724800/4HLrqd-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 25,
+          "like_count": 1181,
+          "listed_count": 1,
+          "tweet_count": 124
+        },
+        "username": "pink_supervlsor",
+        "verified": false
+      }
+    ]
+  }
+}

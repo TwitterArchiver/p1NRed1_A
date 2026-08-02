@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1918298209291763858",
+    "created_at": "2025-05-02T13:35:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T14:35:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918298209291763858"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/avxxxxyyyyyy/s…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/avxxxxyyyyyy/status/1918297860833239194",
+          "start": 16,
+          "url": "https://t.co/W1yJhh1J5e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918298209291763858",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918297860833239194",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄ https://t.co/W1yJhh1J5e"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1918298209291763858",
+        "created_at": "2025-05-02T13:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T14:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918298209291763858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/avxxxxyyyyyy/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/avxxxxyyyyyy/status/1918297860833239194",
+              "start": 16,
+              "url": "https://t.co/W1yJhh1J5e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918298209291763858",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918297860833239194",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄ https://t.co/W1yJhh1J5e"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648402059526569988",
+        "conversation_id": "1918297860833239194",
+        "created_at": "2025-05-02T13:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T14:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918297860833239194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918297860833239194",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 我喜欢这个人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 391,
+          "like_count": 1190,
+          "listed_count": 1,
+          "media_count": 204,
+          "tweet_count": 3739
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-18T19:04:21.000Z",
+        "description": "♂/焦虑抑郁/高二/解离中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/avxy95252",
+                "end": 23,
+                "expanded_url": "https://ngl.link/avxy95252",
+                "start": 0,
+                "url": "https://t.co/UhVsTs9oO3"
+              }
+            ]
+          }
+        },
+        "id": "1648402059526569988",
+        "name": "Avxy",
+        "pinned_tweet_id": "1917620493651435575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910328391963938816/QzSFj7s1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 226,
+          "like_count": 3632,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 2080
+        },
+        "url": "https://t.co/UhVsTs9oO3",
+        "username": "Avxxxxyyyyyy",
+        "verified": false
+      }
+    ]
+  }
+}

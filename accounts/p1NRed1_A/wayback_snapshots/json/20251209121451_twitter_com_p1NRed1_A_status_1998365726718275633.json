@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997974343226437633"
+      ],
+      "media_source_tweet_id": [
+        "1997974359101809046"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1998365726718275633",
+    "created_at": "2025-12-09T12:14:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T13:14:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998365726718275633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1589672352966594561",
+          "start": 3,
+          "username": "AnYb568"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4aw4mdvLIH",
+          "end": 45,
+          "expanded_url": "https://x.com/AnYb568/status/1997974359101809046/photo/1",
+          "media_key": "3_1997974343226437633",
+          "start": 22,
+          "url": "https://t.co/4aw4mdvLIH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998365726718275633",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1379
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997974359101809046",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AnYb568: さよならを教えて https://t.co/4aw4mdvLIH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_1997974343226437633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7o7FFZbMAEeOPB.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997974343226437633"
+          ],
+          "media_source_tweet_id": [
+            "1997974359101809046"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1998365726718275633",
+        "created_at": "2025-12-09T12:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T13:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998365726718275633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1589672352966594561",
+              "start": 3,
+              "username": "AnYb568"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4aw4mdvLIH",
+              "end": 45,
+              "expanded_url": "https://x.com/AnYb568/status/1997974359101809046/photo/1",
+              "media_key": "3_1997974343226437633",
+              "start": 22,
+              "url": "https://t.co/4aw4mdvLIH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998365726718275633",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1379
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997974359101809046",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AnYb568: さよならを教えて https://t.co/4aw4mdvLIH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997974343226437633"
+          ]
+        },
+        "author_id": "1589672352966594561",
+        "conversation_id": "1997974359101809046",
+        "created_at": "2025-12-08T10:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T11:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997974359101809046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4aw4mdvLIH",
+              "end": 32,
+              "expanded_url": "https://x.com/AnYb568/status/1997974359101809046/photo/1",
+              "media_key": "3_1997974343226437633",
+              "start": 9,
+              "url": "https://t.co/4aw4mdvLIH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997974359101809046",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1105,
+          "impression_count": 143257,
+          "like_count": 10787,
+          "quote_count": 13,
+          "reply_count": 5,
+          "retweet_count": 1379
+        },
+        "reply_settings": "everyone",
+        "text": "さよならを教えて https://t.co/4aw4mdvLIH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "我擅长产出大粪",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 499,
+          "like_count": 1583,
+          "listed_count": 2,
+          "media_count": 315,
+          "tweet_count": 5391
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-07T17:33:28.000Z",
+        "description": "中文/한국어/English mail:anyb568@foxmail.com\nAn illustrator who updates by chance",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/48449624",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/48449624",
+                "start": 0,
+                "url": "https://t.co/k3oO6Meob3"
+              }
+            ]
+          }
+        },
+        "id": "1589672352966594561",
+        "name": "An_Yb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974763461935775744/KiqBKaVE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17306,
+          "following_count": 3601,
+          "like_count": 468,
+          "listed_count": 122,
+          "media_count": 132,
+          "tweet_count": 288
+        },
+        "url": "https://t.co/k3oO6Meob3",
+        "username": "AnYb568",
+        "verified": false
+      }
+    ]
+  }
+}

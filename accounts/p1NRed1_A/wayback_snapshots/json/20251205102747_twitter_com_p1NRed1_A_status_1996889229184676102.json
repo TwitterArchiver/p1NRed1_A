@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996822912695963648"
+      ],
+      "media_source_tweet_id": [
+        "1996822921092976913"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1996889229184676102",
+    "created_at": "2025-12-05T10:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T11:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996889229184676102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "126286870",
+          "start": 3,
+          "username": "kume_tantou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ulP0lHXvOx",
+          "end": 61,
+          "expanded_url": "https://x.com/kume_tantou/status/1996822921092976913/photo/1",
+          "media_key": "3_1996822912695963648",
+          "start": 38,
+          "url": "https://t.co/ulP0lHXvOx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996889229184676102",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 122
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996822921092976913",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kume_tantou: 中の人(スズキ)映り込み箇所を外して再掲 https://t.co/ulP0lHXvOx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1320,
+        "media_key": "3_1996822912695963648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Yj3AaakAAedf5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996822912695963648"
+          ],
+          "media_source_tweet_id": [
+            "1996822921092976913"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1996889229184676102",
+        "created_at": "2025-12-05T10:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T11:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996889229184676102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "126286870",
+              "start": 3,
+              "username": "kume_tantou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ulP0lHXvOx",
+              "end": 61,
+              "expanded_url": "https://x.com/kume_tantou/status/1996822921092976913/photo/1",
+              "media_key": "3_1996822912695963648",
+              "start": 38,
+              "url": "https://t.co/ulP0lHXvOx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996889229184676102",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 122
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996822921092976913",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kume_tantou: 中の人(スズキ)映り込み箇所を外して再掲 https://t.co/ulP0lHXvOx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996822912695963648"
+          ]
+        },
+        "author_id": "126286870",
+        "conversation_id": "1996822921092976913",
+        "created_at": "2025-12-05T06:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T07:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996822921092976913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ulP0lHXvOx",
+              "end": 44,
+              "expanded_url": "https://x.com/kume_tantou/status/1996822921092976913/photo/1",
+              "media_key": "3_1996822912695963648",
+              "start": 21,
+              "url": "https://t.co/ulP0lHXvOx"
+            },
+            {
+              "display_url": "x.com/kume_tantou/st…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/kume_tantou/status/1996822172850106744",
+              "start": 45,
+              "url": "https://t.co/NvYZWQlE1j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996822921092976913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 64916,
+          "like_count": 798,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 122
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996822172850106744",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中の人(スズキ)映り込み箇所を外して再掲 https://t.co/ulP0lHXvOx https://t.co/NvYZWQlE1j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 497,
+          "like_count": 1573,
+          "listed_count": 2,
+          "media_count": 311,
+          "tweet_count": 5346
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-25T11:00:33.000Z",
+        "description": "講談社の人間が久米田康治先生の生存情報、作品展開情報、などをつぶやきます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "matome.naver.jp/odai/213553126…",
+                "end": 23,
+                "expanded_url": "http://matome.naver.jp/odai/2135531269863561201",
+                "start": 0,
+                "url": "https://t.co/g7XwWwikVM"
+              }
+            ]
+          }
+        },
+        "id": "126286870",
+        "location": "エンドオブザロード",
+        "name": "くめたん（久米田康治先生担当編集ズ）",
+        "pinned_tweet_id": "726468751252561920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/735162527798022149/T5hwSvXx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25204,
+          "following_count": 33,
+          "like_count": 1352,
+          "listed_count": 412,
+          "media_count": 159,
+          "tweet_count": 5807
+        },
+        "url": "https://t.co/g7XwWwikVM",
+        "username": "kume_tantou",
+        "verified": false
+      }
+    ]
+  }
+}

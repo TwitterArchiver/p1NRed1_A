@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2079959539596894235",
+    "created_at": "2026-07-22T15:59:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T16:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079959539596894235"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/p1nred1_a/stat…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/p1nred1_a/status/1909930064051134531",
+          "start": 18,
+          "url": "https://t.co/FXCxxLhWC5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079959539596894235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909930064051134531",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想交朋友了求转发我喜欢聊天和画画 https://t.co/FXCxxLhWC5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2079959539596894235",
+        "created_at": "2026-07-22T15:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079959539596894235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/p1nred1_a/stat…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/p1nred1_a/status/1909930064051134531",
+              "start": 18,
+              "url": "https://t.co/FXCxxLhWC5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079959539596894235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909930064051134531",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想交朋友了求转发我喜欢聊天和画画 https://t.co/FXCxxLhWC5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1909930064051134531",
+        "created_at": "2025-04-09T11:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T12:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909930064051134531"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909930064051134531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29845,
+          "like_count": 108,
+          "quote_count": 4,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "哈喽大家好我是咕咚我喜欢听电子音乐速核硬核psycore吧啦吧啦我还听日摇我爱坂本慎太郎我还喜欢九维虽然我不咋听说唱可以和我聊天吗我不是很懂音乐其实"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/9GooAZ0z7o"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "死全家星",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076577294790139904/Fz-jPCGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 586,
+          "like_count": 1795,
+          "listed_count": 3,
+          "media_count": 438,
+          "tweet_count": 7076
+        },
+        "url": "https://t.co/9GooAZ0z7o",
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986896461251153920"
+      ],
+      "media_source_tweet_id": [
+        "1986896465575485767"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1987076254462582886",
+    "created_at": "2025-11-08T08:34:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T09:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987076254462582886"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 21,
+          "tag": "ソウルイーター"
+        },
+        {
+          "end": 39,
+          "start": 30,
+          "tag": "さよなら絶望先生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1097840512684290049",
+          "start": 3,
+          "username": "_chiriya_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cQNzC1JWUz",
+          "end": 63,
+          "expanded_url": "https://x.com/_chiriya_/status/1986896465575485767/photo/1",
+          "media_key": "3_1986896461251153920",
+          "start": 40,
+          "url": "https://t.co/cQNzC1JWUz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987076254462582886",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986896465575485767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_chiriya_: 左右対称\n\n#ソウルイーター　#さよなら絶望先生 https://t.co/cQNzC1JWUz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1162,
+        "media_key": "3_1986896461251153920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5LfzfJbEAA5lMV.jpg",
+        "width": 805
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986896461251153920"
+          ],
+          "media_source_tweet_id": [
+            "1986896465575485767"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1987076254462582886",
+        "created_at": "2025-11-08T08:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T09:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987076254462582886"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 21,
+              "tag": "ソウルイーター"
+            },
+            {
+              "end": 39,
+              "start": 30,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1097840512684290049",
+              "start": 3,
+              "username": "_chiriya_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cQNzC1JWUz",
+              "end": 63,
+              "expanded_url": "https://x.com/_chiriya_/status/1986896465575485767/photo/1",
+              "media_key": "3_1986896461251153920",
+              "start": 40,
+              "url": "https://t.co/cQNzC1JWUz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987076254462582886",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986896465575485767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_chiriya_: 左右対称\n\n#ソウルイーター　#さよなら絶望先生 https://t.co/cQNzC1JWUz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986896461251153920"
+          ]
+        },
+        "author_id": "1097840512684290049",
+        "conversation_id": "1986896465575485767",
+        "created_at": "2025-11-07T20:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T21:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986896465575485767"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 6,
+              "tag": "ソウルイーター"
+            },
+            {
+              "end": 24,
+              "start": 15,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cQNzC1JWUz",
+              "end": 48,
+              "expanded_url": "https://x.com/_chiriya_/status/1986896465575485767/photo/1",
+              "media_key": "3_1986896461251153920",
+              "start": 25,
+              "url": "https://t.co/cQNzC1JWUz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986896465575485767",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "左右対称\n\n#ソウルイーター　#さよなら絶望先生 https://t.co/cQNzC1JWUz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 497,
+          "like_count": 1550,
+          "listed_count": 2,
+          "media_count": 309,
+          "tweet_count": 5273
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-19T12:49:09.000Z",
+        "description": "塵也（Chiriya）‖漫画・イラスト‖オカルト・近代民俗創作 ‖AI学習禁止‖",
+        "id": "1097840512684290049",
+        "location": "日本 京都",
+        "name": "小早川塵也",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622844441085243392/fnkd6bGc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 170,
+          "like_count": 61,
+          "listed_count": 3,
+          "media_count": 54,
+          "tweet_count": 83
+        },
+        "username": "_chiriya_",
+        "verified": false
+      }
+    ]
+  }
+}

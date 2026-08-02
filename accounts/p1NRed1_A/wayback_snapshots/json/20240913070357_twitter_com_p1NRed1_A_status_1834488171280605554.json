@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1834208748677857280"
+      ],
+      "media_source_tweet_id": [
+        "1834208752985407933"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1834488171280605554",
+    "created_at": "2024-09-13T07:03:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-13T08:03:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834488171280605554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1762285147251265536",
+          "start": 3,
+          "username": "izakazuma"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5hg2x38pku",
+          "end": 38,
+          "expanded_url": "https://twitter.com/izakazuma/status/1834208752985407933/photo/1",
+          "media_key": "3_1834208748677857280",
+          "start": 15,
+          "url": "https://t.co/5hG2X38pku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834488171280605554",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 125
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834208752985407933",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @izakazuma: https://t.co/5hG2X38pku"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1834208748677857280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXRrI4zbgAAX-lX.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834208748677857280"
+          ],
+          "media_source_tweet_id": [
+            "1834208752985407933"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1834488171280605554",
+        "created_at": "2024-09-13T07:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T08:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834488171280605554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1762285147251265536",
+              "start": 3,
+              "username": "izakazuma"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5hg2x38pku",
+              "end": 38,
+              "expanded_url": "https://twitter.com/izakazuma/status/1834208752985407933/photo/1",
+              "media_key": "3_1834208748677857280",
+              "start": 15,
+              "url": "https://t.co/5hG2X38pku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834488171280605554",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 125
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834208752985407933",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @izakazuma: https://t.co/5hG2X38pku"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834208748677857280"
+          ]
+        },
+        "author_id": "1762285147251265536",
+        "conversation_id": "1834208752985407933",
+        "created_at": "2024-09-12T12:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T13:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834208752985407933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5hg2x38pku",
+              "end": 23,
+              "expanded_url": "https://twitter.com/izakazuma/status/1834208752985407933/photo/1",
+              "media_key": "3_1834208748677857280",
+              "start": 0,
+              "url": "https://t.co/5hG2X38pku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834208752985407933",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 12493,
+          "like_count": 827,
+          "quote_count": 5,
+          "reply_count": 9,
+          "retweet_count": 125
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5hG2X38pku"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 270,
+          "like_count": 871,
+          "listed_count": 0,
+          "tweet_count": 2739
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T01:15:01.000Z",
+        "description": "mr awesome, backup: @nishikiyamairl 16, bisexual ahahha my discord is goromajimaconstruction",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "nishikiyamairl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "izanishikiyama.straw.page",
+                "end": 23,
+                "expanded_url": "https://izanishikiyama.straw.page",
+                "start": 0,
+                "url": "https://t.co/GmeinpAQsc"
+              }
+            ]
+          }
+        },
+        "id": "1762285147251265536",
+        "name": "john yakuza",
+        "pinned_tweet_id": "1762287079273496794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834136087247421441/4AcoC-vP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 402,
+          "like_count": 20011,
+          "listed_count": 1,
+          "tweet_count": 8506
+        },
+        "url": "https://t.co/GmeinpAQsc",
+        "username": "izakazuma",
+        "verified": false
+      }
+    ]
+  }
+}

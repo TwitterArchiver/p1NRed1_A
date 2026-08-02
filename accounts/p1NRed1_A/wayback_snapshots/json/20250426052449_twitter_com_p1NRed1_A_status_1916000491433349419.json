@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1915764864318136320"
+      ],
+      "media_source_tweet_id": [
+        "1915764911374025029"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1916000491433349419",
+    "created_at": "2025-04-26T05:24:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T06:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916000491433349419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1897248350166245377",
+          "start": 3,
+          "username": "nikusaibou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qPc3ZVyC6T",
+          "end": 39,
+          "expanded_url": "https://x.com/nikusaibou/status/1915764911374025029/photo/1",
+          "media_key": "3_1915764864318136320",
+          "start": 16,
+          "url": "https://t.co/qPc3ZVyC6T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916000491433349419",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915764911374025029",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nikusaibou: https://t.co/qPc3ZVyC6T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1915764864318136320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpYp_nLbYAAltT_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915764864318136320"
+          ],
+          "media_source_tweet_id": [
+            "1915764911374025029"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1916000491433349419",
+        "created_at": "2025-04-26T05:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T06:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916000491433349419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1897248350166245377",
+              "start": 3,
+              "username": "nikusaibou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qPc3ZVyC6T",
+              "end": 39,
+              "expanded_url": "https://x.com/nikusaibou/status/1915764911374025029/photo/1",
+              "media_key": "3_1915764864318136320",
+              "start": 16,
+              "url": "https://t.co/qPc3ZVyC6T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916000491433349419",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915764911374025029",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nikusaibou: https://t.co/qPc3ZVyC6T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915764864318136320"
+          ]
+        },
+        "author_id": "1897248350166245377",
+        "conversation_id": "1915764911374025029",
+        "created_at": "2025-04-25T13:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T14:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915764911374025029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qPc3ZVyC6T",
+              "end": 23,
+              "expanded_url": "https://x.com/nikusaibou/status/1915764911374025029/photo/1",
+              "media_key": "3_1915764864318136320",
+              "start": 0,
+              "url": "https://t.co/qPc3ZVyC6T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915764911374025029",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 2547,
+          "like_count": 261,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qPc3ZVyC6T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 387,
+          "like_count": 1165,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 3652
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T11:30:42.000Z",
+        "description": "にょす！ねこ細胞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@nikusaibou",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@nikusaibou",
+                "start": 0,
+                "url": "https://t.co/qKhBNz9qiK"
+              }
+            ]
+          }
+        },
+        "id": "1897248350166245377",
+        "name": "nekosaibou",
+        "pinned_tweet_id": "1914182681203810778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905961449392099328/ucuheJqc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 64,
+          "like_count": 665,
+          "listed_count": 4,
+          "media_count": 146,
+          "tweet_count": 341
+        },
+        "url": "https://t.co/qKhBNz9qiK",
+        "username": "nikusaibou",
+        "verified": false
+      }
+    ]
+  }
+}

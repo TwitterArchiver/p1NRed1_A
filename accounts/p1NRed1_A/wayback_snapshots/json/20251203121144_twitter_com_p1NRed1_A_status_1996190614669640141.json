@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996190608751513600"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1996190614669640141",
+    "created_at": "2025-12-03T12:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T13:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996190614669640141"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bmX8Qd2Mq8",
+          "end": 30,
+          "expanded_url": "https://x.com/p1NRed1_A/status/1996190614669640141/photo/1",
+          "media_key": "3_1996190608751513600",
+          "start": 7,
+          "url": "https://t.co/bmX8Qd2Mq8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996190614669640141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我刷到推油了 https://t.co/bmX8Qd2Mq8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996190608751513600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7PkyEqa0AA3ota.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996190608751513600"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1996190614669640141",
+        "created_at": "2025-12-03T12:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T13:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996190614669640141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bmX8Qd2Mq8",
+              "end": 30,
+              "expanded_url": "https://x.com/p1NRed1_A/status/1996190614669640141/photo/1",
+              "media_key": "3_1996190608751513600",
+              "start": 7,
+              "url": "https://t.co/bmX8Qd2Mq8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996190614669640141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刷到推油了 https://t.co/bmX8Qd2Mq8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 499,
+          "like_count": 1574,
+          "listed_count": 2,
+          "media_count": 311,
+          "tweet_count": 5331
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

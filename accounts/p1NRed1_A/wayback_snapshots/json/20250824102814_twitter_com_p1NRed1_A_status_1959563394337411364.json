@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1959563394337411364",
+    "created_at": "2025-08-24T10:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T11:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959563394337411364"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1959563394337411364",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎不由得让我想起和朋友去吃那个什么火锅然后有个男的过生日走到每一桌前面要祝福然后我突发奇想给他唱了生日快乐歌结果他说我唱歌跑调了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1959563394337411364",
+        "created_at": "2025-08-24T10:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T11:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959563394337411364"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959563394337411364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎不由得让我想起和朋友去吃那个什么火锅然后有个男的过生日走到每一桌前面要祝福然后我突发奇想给他唱了生日快乐歌结果他说我唱歌跑调了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 425,
+          "like_count": 1311,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 4495
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1971450390337237358",
+    "created_at": "2025-09-26T06:35:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T07:35:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971463619713130732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1877566766823649284",
+          "start": 0,
+          "username": "No_a1202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971463619713130732",
+    "in_reply_to_user_id": "1877566766823649284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971450390337237358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@No_a1202 这是你的画风吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1971450380178337792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1v_rPLWsAAhT0p.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1971450390337237358",
+        "created_at": "2025-09-26T06:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T07:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971463619713130732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1877566766823649284",
+              "start": 0,
+              "username": "No_a1202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971463619713130732",
+        "in_reply_to_user_id": "1877566766823649284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971450390337237358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@No_a1202 这是你的画风吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971450380178337792"
+          ]
+        },
+        "author_id": "1877566766823649284",
+        "conversation_id": "1971450390337237358",
+        "created_at": "2025-09-26T05:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T06:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971450390337237358"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "朝井明",
+              "probability": 0.847,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LpmOgPriim",
+              "end": 27,
+              "expanded_url": "https://x.com/No_a1202/status/1971450390337237358/photo/1",
+              "media_key": "3_1971450380178337792",
+              "start": 4,
+              "url": "https://t.co/LpmOgPriim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971450390337237358",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朝井明 https://t.co/LpmOgPriim"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 458,
+          "like_count": 1429,
+          "listed_count": 2,
+          "media_count": 269,
+          "tweet_count": 4808
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T04:03:10.000Z",
+        "description": "喜欢久米田康治，喜欢他的画风，畫他的畫風讓我感覺十分舒服，如果我的画让人感到不适，我很抱歉，我是无能的人对不起对不起对不起对不起对不起https://t.co/cvdLrZ5tgq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/7400702538",
+                "end": 90,
+                "expanded_url": "https://weibo.com/u/7400702538",
+                "start": 67,
+                "url": "https://t.co/cvdLrZ5tgq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/112639292",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/112639292",
+                "start": 0,
+                "url": "https://t.co/lhj9bFqBX3"
+              }
+            ]
+          }
+        },
+        "id": "1877566766823649284",
+        "location": "異惑星（现居無錫）",
+        "name": "望愛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966418254961750016/pv5h3V-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 89,
+          "like_count": 3989,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 127
+        },
+        "url": "https://t.co/lhj9bFqBX3",
+        "username": "No_a1202",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1885199627772674049"
+      ],
+      "media_source_tweet_id": [
+        "1885199660655976489"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1899104988015870023",
+    "created_at": "2025-03-10T14:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T15:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899104988015870023"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 16,
+          "tag": "さよなら絶望先生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1218293152307609602",
+          "start": 3,
+          "username": "teknodice_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rttHfubTmD",
+          "end": 49,
+          "expanded_url": "https://x.com/teknodice_/status/1885199660655976489/photo/1",
+          "media_key": "3_1885199627772674049",
+          "start": 26,
+          "url": "https://t.co/rttHfubTmD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899104988015870023",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 555
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885199660655976489",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @teknodice_: #さよなら絶望先生 https://t.co/rttHfubTmD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1176,
+        "media_key": "3_1885199627772674049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GimTEsAWwAE4UWE.png",
+        "width": 413
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885199627772674049"
+          ],
+          "media_source_tweet_id": [
+            "1885199660655976489"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1899104988015870023",
+        "created_at": "2025-03-10T14:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T15:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899104988015870023"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 16,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1218293152307609602",
+              "start": 3,
+              "username": "teknodice_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rttHfubTmD",
+              "end": 49,
+              "expanded_url": "https://x.com/teknodice_/status/1885199660655976489/photo/1",
+              "media_key": "3_1885199627772674049",
+              "start": 26,
+              "url": "https://t.co/rttHfubTmD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899104988015870023",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 555
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885199660655976489",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @teknodice_: #さよなら絶望先生 https://t.co/rttHfubTmD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885199627772674049"
+          ]
+        },
+        "author_id": "1218293152307609602",
+        "conversation_id": "1885199660655976489",
+        "created_at": "2025-01-31T05:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T06:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885199660655976489"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rttHfubTmD",
+              "end": 33,
+              "expanded_url": "https://x.com/teknodice_/status/1885199660655976489/photo/1",
+              "media_key": "3_1885199627772674049",
+              "start": 10,
+              "url": "https://t.co/rttHfubTmD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885199660655976489",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 422,
+          "impression_count": 59010,
+          "like_count": 4551,
+          "quote_count": 5,
+          "reply_count": 5,
+          "retweet_count": 555
+        },
+        "reply_settings": "everyone",
+        "text": "#さよなら絶望先生 https://t.co/rttHfubTmD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889564810410627072/YnTsykE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 321,
+          "like_count": 1078,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 3313
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-17T22:05:03.000Z",
+        "description": "🇵🇭 19, illustration character design etc.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spoliarium.neocities.org",
+                "end": 23,
+                "expanded_url": "http://spoliarium.neocities.org",
+                "start": 0,
+                "url": "https://t.co/BBAFmNZoSA"
+              }
+            ]
+          }
+        },
+        "id": "1218293152307609602",
+        "name": "tekno",
+        "pinned_tweet_id": "1878482164401963017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835428565996736512/l1ITiy1B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6916,
+          "following_count": 1197,
+          "like_count": 53576,
+          "listed_count": 38,
+          "media_count": 364,
+          "tweet_count": 3325
+        },
+        "url": "https://t.co/BBAFmNZoSA",
+        "username": "teknodice_",
+        "verified": false
+      }
+    ]
+  }
+}

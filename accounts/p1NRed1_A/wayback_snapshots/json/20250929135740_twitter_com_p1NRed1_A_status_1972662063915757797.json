@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1971371434908975105"
+      ],
+      "media_source_tweet_id": [
+        "1971371514181353654"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1972662063915757797",
+    "created_at": "2025-09-29T13:57:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T14:57:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972662063915757797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1515079104835379203",
+          "start": 3,
+          "username": "welcometo_blue"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b3nSU5j3kV",
+          "end": 43,
+          "expanded_url": "https://x.com/welcometo_blue/status/1971371514181353654/video/1",
+          "media_key": "13_1971371434908975105",
+          "start": 20,
+          "url": "https://t.co/b3nSU5j3kV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972662063915757797",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1950
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971371514181353654",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @welcometo_blue: https://t.co/b3nSU5j3kV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18666,
+        "height": 720,
+        "media_key": "13_1971371434908975105",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1971371434908975105/img/gnDb8OZwjA2KDbUx.jpg",
+        "public_metrics": {
+          "view_count": 58246
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971371434908975105/vid/avc1/360x270/pn1KSjJHnHcIUUzG.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971371434908975105/vid/avc1/480x360/krECAIbpSIzPolAP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971371434908975105/vid/avc1/960x720/XNiAxhwiVMMl5dS1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1971371434908975105/pl/mb7y7sRfEMXPdXZ-.m3u8?v=cfc"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1971371434908975105"
+          ],
+          "media_source_tweet_id": [
+            "1971371514181353654"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1972662063915757797",
+        "created_at": "2025-09-29T13:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T14:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972662063915757797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1515079104835379203",
+              "start": 3,
+              "username": "welcometo_blue"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b3nSU5j3kV",
+              "end": 43,
+              "expanded_url": "https://x.com/welcometo_blue/status/1971371514181353654/video/1",
+              "media_key": "13_1971371434908975105",
+              "start": 20,
+              "url": "https://t.co/b3nSU5j3kV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972662063915757797",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1950
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971371514181353654",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @welcometo_blue: https://t.co/b3nSU5j3kV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1971371434908975105"
+          ]
+        },
+        "author_id": "1515079104835379203",
+        "conversation_id": "1971371514181353654",
+        "created_at": "2025-09-26T00:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T01:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971371514181353654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b3nSU5j3kV",
+              "end": 23,
+              "expanded_url": "https://x.com/welcometo_blue/status/1971371514181353654/video/1",
+              "media_key": "13_1971371434908975105",
+              "start": 0,
+              "url": "https://t.co/b3nSU5j3kV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971371514181353654",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2642,
+          "impression_count": 82356,
+          "like_count": 11900,
+          "quote_count": 39,
+          "reply_count": 11,
+          "retweet_count": 1950
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/b3nSU5j3kV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 459,
+          "like_count": 1443,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 4842
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-15T21:26:40.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCTg3m…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCTg3mxZgawbx3-v88_nG0ug",
+                "start": 0,
+                "url": "https://t.co/nDpu6Zl7gL"
+              }
+            ]
+          }
+        },
+        "id": "1515079104835379203",
+        "name": "r.e",
+        "pinned_tweet_id": "1929655743416094765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515079290534043649/iWaFsX6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11597,
+          "following_count": 1146,
+          "like_count": 40204,
+          "listed_count": 73,
+          "media_count": 3638,
+          "tweet_count": 7389
+        },
+        "url": "https://t.co/nDpu6Zl7gL",
+        "username": "welcometo_blue",
+        "verified": false
+      }
+    ]
+  }
+}

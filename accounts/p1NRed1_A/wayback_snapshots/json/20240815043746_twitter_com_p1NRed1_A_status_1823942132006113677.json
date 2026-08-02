@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1823814972029231105"
+      ],
+      "media_source_tweet_id": [
+        "1823814976609689679"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1823942132006113677",
+    "created_at": "2024-08-15T04:37:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T05:37:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823942132006113677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1556110173181296641",
+          "start": 3,
+          "username": "workingoncups"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o1ujegtwt1",
+          "end": 52,
+          "expanded_url": "https://twitter.com/workingoncups/status/1823814976609689679/photo/1",
+          "media_key": "3_1823814972029231105",
+          "start": 29,
+          "url": "https://t.co/O1UjeGtWT1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823942132006113677",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823814976609689679",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @workingoncups: SHES HERE https://t.co/O1UjeGtWT1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1823814972029231105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GU9-DdfXYAEcsZT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823814972029231105"
+          ],
+          "media_source_tweet_id": [
+            "1823814976609689679"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1823942132006113677",
+        "created_at": "2024-08-15T04:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T05:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823942132006113677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1556110173181296641",
+              "start": 3,
+              "username": "workingoncups"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o1ujegtwt1",
+              "end": 52,
+              "expanded_url": "https://twitter.com/workingoncups/status/1823814976609689679/photo/1",
+              "media_key": "3_1823814972029231105",
+              "start": 29,
+              "url": "https://t.co/O1UjeGtWT1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823942132006113677",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823814976609689679",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @workingoncups: SHES HERE https://t.co/O1UjeGtWT1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823814972029231105"
+          ]
+        },
+        "author_id": "1556110173181296641",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1823814976609689679",
+        "created_at": "2024-08-14T20:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T21:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823814976609689679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o1ujegtwt1",
+              "end": 33,
+              "expanded_url": "https://twitter.com/workingoncups/status/1823814976609689679/photo/1",
+              "media_key": "3_1823814972029231105",
+              "start": 10,
+              "url": "https://t.co/O1UjeGtWT1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823814976609689679",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 5629,
+          "like_count": 561,
+          "quote_count": 5,
+          "reply_count": 17,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "SHES HERE https://t.co/O1UjeGtWT1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 254,
+          "like_count": 714,
+          "listed_count": 0,
+          "tweet_count": 2415
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T02:49:40.000Z",
+        "description": "i am cups and i love you ♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "on.soundcloud.com/VkmsMQGLiEk1Vx…",
+                "end": 23,
+                "expanded_url": "https://on.soundcloud.com/VkmsMQGLiEk1Vx2QA",
+                "start": 0,
+                "url": "https://t.co/Fu0eHTAOiO"
+              }
+            ]
+          }
+        },
+        "id": "1556110173181296641",
+        "location": "they",
+        "name": "cups",
+        "pinned_tweet_id": "1773079777835888935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821219465624756225/DckIzpkB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1404,
+          "following_count": 761,
+          "like_count": 122264,
+          "listed_count": 2,
+          "tweet_count": 5275
+        },
+        "url": "https://t.co/Fu0eHTAOiO",
+        "username": "workingoncups",
+        "verified": false
+      }
+    ]
+  }
+}

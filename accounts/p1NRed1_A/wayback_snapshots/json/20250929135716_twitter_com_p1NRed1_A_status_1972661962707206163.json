@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1972589611890196480"
+      ],
+      "media_source_tweet_id": [
+        "1972589683445227734"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1972661962707206163",
+    "created_at": "2025-09-29T13:57:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T14:57:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972661962707206163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1530092719653425153",
+          "start": 3,
+          "username": "hirari_rurero"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DPCKw4OwLu",
+          "end": 42,
+          "expanded_url": "https://x.com/hirari_rurero/status/1972589683445227734/video/1",
+          "media_key": "13_1972589611890196480",
+          "start": 19,
+          "url": "https://t.co/DPCKw4OwLu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972661962707206163",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972589683445227734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hirari_rurero: https://t.co/DPCKw4OwLu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9233,
+        "height": 1280,
+        "media_key": "13_1972589611890196480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1972589611890196480/img/bZ4Lq2CcA9FSZBlf.jpg",
+        "public_metrics": {
+          "view_count": 1368
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972589611890196480/vid/avc1/320x568/hAXkiWuELBOSr0pq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972589611890196480/vid/avc1/480x852/qT3WcVB5lUtvr4fV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972589611890196480/vid/avc1/720x1280/n-NlAedZrHWP7n3O.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1972589611890196480/pl/jW-R1s8EKOMr_iBo.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1972589611890196480"
+          ],
+          "media_source_tweet_id": [
+            "1972589683445227734"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1972661962707206163",
+        "created_at": "2025-09-29T13:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T14:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972661962707206163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1530092719653425153",
+              "start": 3,
+              "username": "hirari_rurero"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DPCKw4OwLu",
+              "end": 42,
+              "expanded_url": "https://x.com/hirari_rurero/status/1972589683445227734/video/1",
+              "media_key": "13_1972589611890196480",
+              "start": 19,
+              "url": "https://t.co/DPCKw4OwLu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972661962707206163",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972589683445227734",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hirari_rurero: https://t.co/DPCKw4OwLu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1972589611890196480"
+          ]
+        },
+        "author_id": "1530092719653425153",
+        "conversation_id": "1972589683445227734",
+        "created_at": "2025-09-29T09:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T10:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972589683445227734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DPCKw4OwLu",
+              "end": 23,
+              "expanded_url": "https://x.com/hirari_rurero/status/1972589683445227734/video/1",
+              "media_key": "13_1972589611890196480",
+              "start": 0,
+              "url": "https://t.co/DPCKw4OwLu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972589683445227734",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 4055,
+          "like_count": 227,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DPCKw4OwLu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 459,
+          "like_count": 1442,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 4841
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-27T07:45:26.000Z",
+        "description": "おやすみ(っ˙༥˙🥕ｃ)  Hirari Ikeda / 池田ひらり",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/hilaryikeda",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/hilaryikeda",
+                "start": 0,
+                "url": "https://t.co/oyicwYElTf"
+              }
+            ]
+          }
+        },
+        "id": "1530092719653425153",
+        "name": "ひらり❤️‍🩹",
+        "pinned_tweet_id": "1718358581026971764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761912197268303872/EBnltw5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44899,
+          "following_count": 321,
+          "like_count": 2732,
+          "listed_count": 133,
+          "media_count": 446,
+          "tweet_count": 976
+        },
+        "url": "https://t.co/oyicwYElTf",
+        "username": "hirari_rurero",
+        "verified": false
+      }
+    ]
+  }
+}

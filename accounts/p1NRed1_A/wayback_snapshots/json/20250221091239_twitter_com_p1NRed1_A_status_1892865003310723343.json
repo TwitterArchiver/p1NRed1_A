@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1892851233863438750",
+    "created_at": "2025-02-21T09:12:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T10:12:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892865003310723343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1058614499463360514",
+          "start": 0,
+          "username": "sakuya5552"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892865003310723343",
+    "in_reply_to_user_id": "1058614499463360514",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892859209806729690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakuya5552 嗯…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1892851233863438750",
+        "created_at": "2025-02-21T09:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T10:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892865003310723343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1058614499463360514",
+              "start": 0,
+              "username": "sakuya5552"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892865003310723343",
+        "in_reply_to_user_id": "1058614499463360514",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892859209806729690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakuya5552 嗯…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1058614499463360514",
+        "conversation_id": "1892851233863438750",
+        "created_at": "2025-02-21T08:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T09:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892859209806729690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892859209806729690",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892851233863438750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 感觉像娈童"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889564810410627072/YnTsykE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 306,
+          "like_count": 1073,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 3294
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-03T06:58:59.000Z",
+        "description": "男/社畜/中国在住/日本留学経歴有/ENTP/虚无主义者/形而上学/嗜酒嗜烟但不OD/我基本只会留你喜欢听的话（除非是在躁狂期）/球形关节控/✝️",
+        "id": "1058614499463360514",
+        "location": "きさらぎ駅",
+        "name": "Ikaruga404",
+        "pinned_tweet_id": "1891883294117007457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1058615761743294464/BKrFl4lH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 203,
+          "like_count": 2274,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1123
+        },
+        "username": "sakuya5552",
+        "verified": false
+      }
+    ]
+  }
+}

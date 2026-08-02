@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2079428394689950058",
+    "created_at": "2026-07-21T04:48:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T05:48:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079428394689950058"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/o_044_/status/…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/o_044_/status/2079428132235587887",
+          "start": 25,
+          "url": "https://t.co/rpHMSaVL81"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079428394689950058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079428132235587887",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我还有一个月零三天就成年了有没有人来画我呀。。。 https://t.co/rpHMSaVL81"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079428123532443648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNuc3G8bwAAgFig.jpg",
+        "width": 910
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2079428394689950058",
+        "created_at": "2026-07-21T04:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079428394689950058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/o_044_/status/…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/o_044_/status/2079428132235587887",
+              "start": 25,
+              "url": "https://t.co/rpHMSaVL81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079428394689950058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079428132235587887",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我还有一个月零三天就成年了有没有人来画我呀。。。 https://t.co/rpHMSaVL81"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079428123532443648"
+          ]
+        },
+        "author_id": "1954211015677313024",
+        "conversation_id": "2079428132235587887",
+        "created_at": "2026-07-21T04:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079428132235587887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SOd2t68JfM",
+              "end": 32,
+              "expanded_url": "https://x.com/O_044_/status/2079428132235587887/photo/1",
+              "media_key": "3_2079428123532443648",
+              "start": 9,
+              "url": "https://t.co/SOd2t68JfM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079428132235587887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我的新自设。 https://t.co/SOd2t68JfM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/9GooAZ0z7o"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "死全家星",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076577294790139904/Fz-jPCGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 572,
+          "like_count": 1789,
+          "listed_count": 3,
+          "media_count": 430,
+          "tweet_count": 7010
+        },
+        "url": "https://t.co/9GooAZ0z7o",
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-09T15:59:58.000Z",
+        "description": "自言自语@p1NRed1_A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "p1NRed1_A"
+              }
+            ]
+          }
+        },
+        "id": "1954211015677313024",
+        "name": "咕咚2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071815210562703360/KrzR8jP4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 19,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "O_044_",
+        "verified": false
+      }
+    ]
+  }
+}

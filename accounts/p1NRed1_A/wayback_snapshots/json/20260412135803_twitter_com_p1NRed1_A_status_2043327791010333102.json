@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2043293808100790395",
+    "created_at": "2026-04-12T13:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T14:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043327791010333102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1877920404561690624",
+          "start": 0,
+          "username": "EncounRain"
+        },
+        {
+          "end": 27,
+          "id": "1243590342911410176",
+          "start": 12,
+          "username": "bing2000100830"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043327791010333102",
+    "in_reply_to_user_id": "1877920404561690624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043293808100790395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EncounRain @bing2000100830 评论"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2043293808100790395",
+        "created_at": "2026-04-12T13:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043327791010333102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1877920404561690624",
+              "start": 0,
+              "username": "EncounRain"
+            },
+            {
+              "end": 27,
+              "id": "1243590342911410176",
+              "start": 12,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043327791010333102",
+        "in_reply_to_user_id": "1877920404561690624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043293808100790395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EncounRain @bing2000100830 评论"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877920404561690624",
+        "conversation_id": "2043293808100790395",
+        "created_at": "2026-04-12T11:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043293808100790395"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043293808100790395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "心情好好。。开个抽奖玩肿么样??\n圈点粉❌参与的话关注转发加评论喵\n抽一人三盒玉米片（折现18rmb）\n抽三人一盒玉米片（折现6rmb）\n抽两人赞赏你5.2rmb\n再抽个特殊好了\n抽奶茶一杯（折现20rmb）\nem下周二晚上9点截止!〒_〒\n互关来玩我给你们黑箱（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "全世界第一喜欢的人@memom1229345",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "memom1229345"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 528,
+          "like_count": 1639,
+          "listed_count": 2,
+          "media_count": 346,
+          "tweet_count": 5928
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T03:28:16.000Z",
+        "description": "宝宝你的号是不是被用来刷恶评了\n吐黑泥碎碎念。互fo。。",
+        "id": "1877920404561690624",
+        "location": "東京 新宿区",
+        "name": "wishele",
+        "pinned_tweet_id": "2027287927903129679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042872077460606978/DzMkazwr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 277,
+          "like_count": 10416,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 714
+        },
+        "username": "EncounRain",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "。",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040864556344578048/kDCpXQPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 851,
+          "like_count": 29516,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1730
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

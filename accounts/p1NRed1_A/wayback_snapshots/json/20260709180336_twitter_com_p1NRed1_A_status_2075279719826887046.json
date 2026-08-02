@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2075138879481692160"
+      ],
+      "media_source_tweet_id": [
+        "2075138915800158319"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "2075279719826887046",
+    "created_at": "2026-07-09T18:03:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T19:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075279719826887046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1589672352966594561",
+          "start": 3,
+          "username": "AnYb568"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R2WQJLUSAe",
+          "end": 36,
+          "expanded_url": "https://x.com/AnYb568/status/2075138915800158319/video/1",
+          "media_key": "13_2075138879481692160",
+          "start": 13,
+          "url": "https://t.co/R2WQJLUSAe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075279719826887046",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 925
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075138915800158319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AnYb568: https://t.co/R2WQJLUSAe"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10000,
+        "height": 896,
+        "media_key": "13_2075138879481692160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075138879481692160/img/TGQhtHWOrzlsVekV.jpg",
+        "public_metrics": {
+          "view_count": 49090
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075138879481692160/vid/avc1/320x448/rXxINa8bFYFRIv-2.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075138879481692160/vid/avc1/480x672/s3ShD-9u_y34oR8D.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075138879481692160/vid/avc1/640x896/cREZ4OZ-x_WkDrTi.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075138879481692160/pl/47LKO7SbO2YadIL2.m3u8?tag=14"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075138879481692160"
+          ],
+          "media_source_tweet_id": [
+            "2075138915800158319"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "2075279719826887046",
+        "created_at": "2026-07-09T18:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T19:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075279719826887046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1589672352966594561",
+              "start": 3,
+              "username": "AnYb568"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R2WQJLUSAe",
+              "end": 36,
+              "expanded_url": "https://x.com/AnYb568/status/2075138915800158319/video/1",
+              "media_key": "13_2075138879481692160",
+              "start": 13,
+              "url": "https://t.co/R2WQJLUSAe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075279719826887046",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 925
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075138915800158319",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AnYb568: https://t.co/R2WQJLUSAe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075138879481692160"
+          ]
+        },
+        "author_id": "1589672352966594561",
+        "conversation_id": "2075138915800158319",
+        "created_at": "2026-07-09T08:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T09:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075138915800158319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R2WQJLUSAe",
+              "end": 23,
+              "expanded_url": "https://x.com/AnYb568/status/2075138915800158319/video/1",
+              "media_key": "13_2075138879481692160",
+              "start": 0,
+              "url": "https://t.co/R2WQJLUSAe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075138915800158319",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1625,
+          "impression_count": 148368,
+          "like_count": 18518,
+          "quote_count": 8,
+          "reply_count": 13,
+          "retweet_count": 925
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/R2WQJLUSAe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "无人在意星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 10,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/W46MozUxms"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "无人在意星",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 565,
+          "like_count": 1771,
+          "listed_count": 3,
+          "media_count": 411,
+          "tweet_count": 6854
+        },
+        "url": "https://t.co/W46MozUxms",
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-07T17:33:28.000Z",
+        "description": "中文/한국어/English mail:anyb568@foxmail.com\nAn illustrator who updates by chance",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/48449624",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/48449624",
+                "start": 0,
+                "url": "https://t.co/k3oO6Meob3"
+              }
+            ]
+          }
+        },
+        "id": "1589672352966594561",
+        "name": "An_Yb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974763461935775744/KiqBKaVE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35298,
+          "following_count": 3678,
+          "like_count": 523,
+          "listed_count": 224,
+          "media_count": 180,
+          "tweet_count": 418
+        },
+        "url": "https://t.co/k3oO6Meob3",
+        "username": "AnYb568",
+        "verified": false
+      }
+    ]
+  }
+}

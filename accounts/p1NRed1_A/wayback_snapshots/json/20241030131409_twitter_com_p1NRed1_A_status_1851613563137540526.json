@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1851593042639437824"
+      ],
+      "media_source_tweet_id": [
+        "1851593050608591301"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1311766165065142273",
+          "name": "Higurashi When They Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311766165065142273",
+          "name": "Higurashi When They Cry"
+        }
+      }
+    ],
+    "conversation_id": "1851613563137540526",
+    "created_at": "2024-10-30T13:14:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-30T14:14:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851613563137540526"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "竜宮レナ",
+          "probability": 0.6151,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 20,
+          "tag": "ひぐらしのなく頃に"
+        },
+        {
+          "end": 38,
+          "start": 31,
+          "tag": "ひぐらしFA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1766673780515241984",
+          "start": 3,
+          "username": "Kinutaku_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TbyhlxseGG",
+          "end": 62,
+          "expanded_url": "https://x.com/Kinutaku_/status/1851593050608591301/photo/1",
+          "media_key": "3_1851593042639437824",
+          "start": 39,
+          "url": "https://t.co/TbyhlxseGG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851613563137540526",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851593050608591301",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kinutaku_: 竜宮レナ\n#ひぐらしのなく頃に #ひぐらしFA https://t.co/TbyhlxseGG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1851593042639437824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbIuD-cbwAAdO6E.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851593042639437824"
+          ],
+          "media_source_tweet_id": [
+            "1851593050608591301"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          }
+        ],
+        "conversation_id": "1851613563137540526",
+        "created_at": "2024-10-30T13:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T14:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851613563137540526"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "竜宮レナ",
+              "probability": 0.6151,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 20,
+              "tag": "ひぐらしのなく頃に"
+            },
+            {
+              "end": 38,
+              "start": 31,
+              "tag": "ひぐらしFA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1766673780515241984",
+              "start": 3,
+              "username": "Kinutaku_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TbyhlxseGG",
+              "end": 62,
+              "expanded_url": "https://x.com/Kinutaku_/status/1851593050608591301/photo/1",
+              "media_key": "3_1851593042639437824",
+              "start": 39,
+              "url": "https://t.co/TbyhlxseGG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851613563137540526",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851593050608591301",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kinutaku_: 竜宮レナ\n#ひぐらしのなく頃に #ひぐらしFA https://t.co/TbyhlxseGG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851593042639437824"
+          ]
+        },
+        "author_id": "1766673780515241984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          }
+        ],
+        "conversation_id": "1851593050608591301",
+        "created_at": "2024-10-30T11:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T12:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851593050608591301"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "竜宮レナ",
+              "probability": 0.6376,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 5,
+              "tag": "ひぐらしのなく頃に"
+            },
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "ひぐらしFA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TbyhlxseGG",
+              "end": 47,
+              "expanded_url": "https://x.com/Kinutaku_/status/1851593050608591301/photo/1",
+              "media_key": "3_1851593042639437824",
+              "start": 24,
+              "url": "https://t.co/TbyhlxseGG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851593050608591301",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 2914,
+          "like_count": 364,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "竜宮レナ\n#ひぐらしのなく頃に #ひぐらしFA https://t.co/TbyhlxseGG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 285,
+          "like_count": 983,
+          "listed_count": 0,
+          "tweet_count": 3033
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T03:56:40.000Z",
+        "description": "☁",
+        "id": "1766673780515241984",
+        "name": "きぬたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766707068726378496/ZQwKLWRO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6189,
+          "following_count": 2,
+          "like_count": 122,
+          "listed_count": 27,
+          "tweet_count": 55
+        },
+        "username": "Kinutaku_",
+        "verified": false
+      }
+    ]
+  }
+}

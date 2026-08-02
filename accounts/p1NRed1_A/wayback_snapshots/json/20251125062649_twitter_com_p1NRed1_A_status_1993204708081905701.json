@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1992593694848111012",
+    "created_at": "2025-11-25T06:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T07:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993204708081905701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1877566766823649284",
+          "start": 0,
+          "username": "No_a1202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993204708081905701",
+    "in_reply_to_user_id": "1877566766823649284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992593694848111012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@No_a1202 我好喜欢这个，好棒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_1992593677462441984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6cdZHbWkAAnKB_.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1992593694848111012",
+        "created_at": "2025-11-25T06:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T07:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993204708081905701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1877566766823649284",
+              "start": 0,
+              "username": "No_a1202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993204708081905701",
+        "in_reply_to_user_id": "1877566766823649284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992593694848111012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@No_a1202 我好喜欢这个，好棒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992593677462441984"
+          ]
+        },
+        "author_id": "1877566766823649284",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1992593694848111012",
+        "created_at": "2025-11-23T13:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T14:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992593694848111012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4v0BQh4ezn",
+              "end": 36,
+              "expanded_url": "https://x.com/No_a1202/status/1992593694848111012/photo/1",
+              "media_key": "3_1992593677462441984",
+              "start": 13,
+              "url": "https://t.co/4v0BQh4ezn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992593694848111012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 998,
+          "like_count": 90,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "常月缠\n新风格尝试失败了 https://t.co/4v0BQh4ezn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 499,
+          "like_count": 1551,
+          "listed_count": 2,
+          "media_count": 310,
+          "tweet_count": 5288
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T04:03:10.000Z",
+        "description": "喜欢久米田康治，喜欢他的画风，畫他的畫風讓我感覺十分舒服，如果我的画让人感到不适，我很抱歉，我是无能的人对不起对不起对不起对不起对不起https://t.co/cvdLrZ5tgq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/7400702538",
+                "end": 90,
+                "expanded_url": "https://weibo.com/u/7400702538",
+                "start": 67,
+                "url": "https://t.co/cvdLrZ5tgq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/112639292",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/112639292",
+                "start": 0,
+                "url": "https://t.co/lhj9bFqBX3"
+              }
+            ]
+          }
+        },
+        "id": "1877566766823649284",
+        "location": "異惑星（现居日本以西的神秘国家）",
+        "name": "望愛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966418254961750016/pv5h3V-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 94,
+          "like_count": 5810,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 212
+        },
+        "url": "https://t.co/lhj9bFqBX3",
+        "username": "No_a1202",
+        "verified": false
+      }
+    ]
+  }
+}

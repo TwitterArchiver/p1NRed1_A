@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984534734043824133"
+      ],
+      "media_source_tweet_id": [
+        "1984534739987153142"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1984879223862161535",
+    "created_at": "2025-11-02T07:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T08:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984879223862161535"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 23,
+          "tag": "あずまんが大王"
+        },
+        {
+          "end": 46,
+          "start": 32,
+          "tag": "azumangadaioh"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1789670767074115584",
+          "start": 3,
+          "username": "kuonoku95712"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NHyP0k9NJy",
+          "end": 70,
+          "expanded_url": "https://x.com/kuonoku95712/status/1984534739987153142/photo/1",
+          "media_key": "3_1984534734043824133",
+          "start": 47,
+          "url": "https://t.co/NHyP0k9NJy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984879223862161535",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 401
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984534739987153142",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuonoku95712: 👽🛸🐱\n #あずまんが大王 #azumangadaioh https://t.co/NHyP0k9NJy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1704,
+        "media_key": "3_1984534734043824133",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4p703sbQAUJN9e.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984534734043824133"
+          ],
+          "media_source_tweet_id": [
+            "1984534739987153142"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1984879223862161535",
+        "created_at": "2025-11-02T07:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T08:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984879223862161535"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 23,
+              "tag": "あずまんが大王"
+            },
+            {
+              "end": 46,
+              "start": 32,
+              "tag": "azumangadaioh"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1789670767074115584",
+              "start": 3,
+              "username": "kuonoku95712"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NHyP0k9NJy",
+              "end": 70,
+              "expanded_url": "https://x.com/kuonoku95712/status/1984534739987153142/photo/1",
+              "media_key": "3_1984534734043824133",
+              "start": 47,
+              "url": "https://t.co/NHyP0k9NJy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984879223862161535",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 401
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984534739987153142",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuonoku95712: 👽🛸🐱\n #あずまんが大王 #azumangadaioh https://t.co/NHyP0k9NJy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984534734043824133"
+          ]
+        },
+        "author_id": "1789670767074115584",
+        "conversation_id": "1984534739987153142",
+        "created_at": "2025-11-01T08:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T09:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984534739987153142"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 5,
+              "tag": "あずまんが大王"
+            },
+            {
+              "end": 28,
+              "start": 14,
+              "tag": "azumangadaioh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NHyP0k9NJy",
+              "end": 52,
+              "expanded_url": "https://x.com/kuonoku95712/status/1984534739987153142/photo/1",
+              "media_key": "3_1984534734043824133",
+              "start": 29,
+              "url": "https://t.co/NHyP0k9NJy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984534739987153142",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 278,
+          "impression_count": 28954,
+          "like_count": 2876,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 401
+        },
+        "reply_settings": "everyone",
+        "text": "👽🛸🐱\n #あずまんが大王 #azumangadaioh https://t.co/NHyP0k9NJy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 496,
+          "like_count": 1539,
+          "listed_count": 2,
+          "media_count": 306,
+          "tweet_count": 5246
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T14:55:52.000Z",
+        "description": "",
+        "id": "1789670767074115584",
+        "location": "🐛",
+        "name": "kuonoku",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907450569796796416/T8Sy_l3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2626,
+          "following_count": 44,
+          "like_count": 238,
+          "listed_count": 12,
+          "media_count": 31,
+          "tweet_count": 33
+        },
+        "username": "kuonoku95712",
+        "verified": false
+      }
+    ]
+  }
+}

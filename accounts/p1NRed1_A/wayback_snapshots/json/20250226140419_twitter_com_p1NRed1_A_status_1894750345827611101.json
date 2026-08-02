@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1894750336965095424",
+        "3_1894750336965128192"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1894750345827611101",
+    "created_at": "2025-02-26T14:04:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-26T15:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894750345827611101"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rPNP63JZ6u",
+          "end": 23,
+          "expanded_url": "https://x.com/p1NRed1_A/status/1894750345827611101/photo/1",
+          "media_key": "3_1894750336965095424",
+          "start": 0,
+          "url": "https://t.co/rPNP63JZ6u"
+        },
+        {
+          "display_url": "pic.x.com/rPNP63JZ6u",
+          "end": 23,
+          "expanded_url": "https://x.com/p1NRed1_A/status/1894750345827611101/photo/1",
+          "media_key": "3_1894750336965128192",
+          "start": 0,
+          "url": "https://t.co/rPNP63JZ6u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894750345827611101",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/rPNP63JZ6u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1894750336965095424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkuBZITbMAATOZY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1894750336965128192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkuBZITbsAA5OmF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894750336965095424",
+            "3_1894750336965128192"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1894750345827611101",
+        "created_at": "2025-02-26T14:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T15:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894750345827611101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rPNP63JZ6u",
+              "end": 23,
+              "expanded_url": "https://x.com/p1NRed1_A/status/1894750345827611101/photo/1",
+              "media_key": "3_1894750336965095424",
+              "start": 0,
+              "url": "https://t.co/rPNP63JZ6u"
+            },
+            {
+              "display_url": "pic.x.com/rPNP63JZ6u",
+              "end": 23,
+              "expanded_url": "https://x.com/p1NRed1_A/status/1894750345827611101/photo/1",
+              "media_key": "3_1894750336965128192",
+              "start": 0,
+              "url": "https://t.co/rPNP63JZ6u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894750345827611101",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rPNP63JZ6u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889564810410627072/YnTsykE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 310,
+          "like_count": 1077,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 3315
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

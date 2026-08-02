@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1826835651234594816"
+      ],
+      "media_source_tweet_id": [
+        "1826835658750742966"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1827265878779687197",
+    "created_at": "2024-08-24T08:45:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-24T09:45:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827265878779687197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1810005830483501056",
+          "start": 3,
+          "username": "Xo_oXhiki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a7awchwfu4",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Xo_oXhiki/status/1826835658750742966/photo/1",
+          "media_key": "3_1826835651234594816",
+          "start": 15,
+          "url": "https://t.co/A7AwCHwFu4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827265878779687197",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826835658750742966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xo_oXhiki: https://t.co/A7AwCHwFu4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_1826835651234594816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVo5WIbbgAABZ9X.jpg",
+        "width": 1521
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826835651234594816"
+          ],
+          "media_source_tweet_id": [
+            "1826835658750742966"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1827265878779687197",
+        "created_at": "2024-08-24T08:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T09:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827265878779687197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1810005830483501056",
+              "start": 3,
+              "username": "Xo_oXhiki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a7awchwfu4",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Xo_oXhiki/status/1826835658750742966/photo/1",
+              "media_key": "3_1826835651234594816",
+              "start": 15,
+              "url": "https://t.co/A7AwCHwFu4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827265878779687197",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826835658750742966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xo_oXhiki: https://t.co/A7AwCHwFu4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826835651234594816"
+          ]
+        },
+        "author_id": "1810005830483501056",
+        "conversation_id": "1826835658750742966",
+        "created_at": "2024-08-23T04:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T05:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826835658750742966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a7awchwfu4",
+              "end": 23,
+              "expanded_url": "https://twitter.com/Xo_oXhiki/status/1826835658750742966/photo/1",
+              "media_key": "3_1826835651234594816",
+              "start": 0,
+              "url": "https://t.co/A7AwCHwFu4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826835658750742966",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 10636,
+          "like_count": 850,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/A7AwCHwFu4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 260,
+          "like_count": 791,
+          "listed_count": 0,
+          "tweet_count": 2576
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T17:40:03.000Z",
+        "description": "@nial_am 絵置き場&性癖注意",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "nial_am"
+              }
+            ]
+          }
+        },
+        "id": "1810005830483501056",
+        "location": "オタク",
+        "name": "2ある",
+        "pinned_tweet_id": "1825500641214820805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814300175034413056/eQCJV3G9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 1,
+          "like_count": 6,
+          "listed_count": 5,
+          "tweet_count": 105
+        },
+        "username": "Xo_oXhiki",
+        "verified": false
+      }
+    ]
+  }
+}

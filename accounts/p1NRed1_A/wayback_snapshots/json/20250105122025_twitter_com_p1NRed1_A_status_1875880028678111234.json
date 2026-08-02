@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1875523303756197938",
+    "created_at": "2025-01-05T12:20:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T13:20:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875880028678111234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1677369315388174336",
+          "start": 0,
+          "username": "FoxRay3567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875880028678111234",
+    "in_reply_to_user_id": "1677369315388174336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875523303756197938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FoxRay3567 我也想知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1875523303756197938",
+        "created_at": "2025-01-05T12:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T13:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875880028678111234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1677369315388174336",
+              "start": 0,
+              "username": "FoxRay3567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875880028678111234",
+        "in_reply_to_user_id": "1677369315388174336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875523303756197938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRay3567 我也想知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677369315388174336",
+        "conversation_id": "1875523303756197938",
+        "created_at": "2025-01-04T12:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T13:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875523303756197938"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1875523303756197938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有什么大富翁游戏在电脑or手机上面可以玩的～～～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873724650511110144/1z-X8l1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 299,
+          "like_count": 1035,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 3206
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T17:29:58.000Z",
+        "description": "我就是我自己。在这里我没有什么特长，但是我依然很希望跟很多人交朋友，如果你同意的话。希望你能从这里发现我的各种碎片，最后拼成一个完整的我。（我是04老头）",
+        "id": "1677369315388174336",
+        "location": "你的心里",
+        "name": "FoxRay🍋",
+        "pinned_tweet_id": "1873235398857769148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873520759416692736/fKmYNMCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 95,
+          "like_count": 1550,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 664
+        },
+        "username": "FoxRay3567",
+        "verified": false
+      }
+    ]
+  }
+}

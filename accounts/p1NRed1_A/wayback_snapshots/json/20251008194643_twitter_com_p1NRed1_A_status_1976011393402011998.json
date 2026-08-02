@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975853982489911296"
+      ],
+      "media_source_tweet_id": [
+        "1975853984780099629"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1976011393402011998",
+    "created_at": "2025-10-08T19:46:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T20:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976011393402011998"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "符香ちゃん",
+          "probability": 0.333,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1176480058292129793",
+          "start": 3,
+          "username": "5t5t5szbh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fG0ACWz6aE",
+          "end": 50,
+          "expanded_url": "https://x.com/5t5t5szbh/status/1975853984780099629/photo/1",
+          "media_key": "3_1975853982489911296",
+          "start": 27,
+          "url": "https://t.co/fG0ACWz6aE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976011393402011998",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975853984780099629",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @5t5t5szbh: 可符香ちゃんみたいな猫 https://t.co/fG0ACWz6aE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2082,
+        "media_key": "3_1975853982489911296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ukuoJaIAA-gTI.jpg",
+        "width": 1417
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975853982489911296"
+          ],
+          "media_source_tweet_id": [
+            "1975853984780099629"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1976011393402011998",
+        "created_at": "2025-10-08T19:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T20:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976011393402011998"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "符香ちゃん",
+              "probability": 0.333,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1176480058292129793",
+              "start": 3,
+              "username": "5t5t5szbh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fG0ACWz6aE",
+              "end": 50,
+              "expanded_url": "https://x.com/5t5t5szbh/status/1975853984780099629/photo/1",
+              "media_key": "3_1975853982489911296",
+              "start": 27,
+              "url": "https://t.co/fG0ACWz6aE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976011393402011998",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975853984780099629",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @5t5t5szbh: 可符香ちゃんみたいな猫 https://t.co/fG0ACWz6aE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975853982489911296"
+          ]
+        },
+        "author_id": "1176480058292129793",
+        "conversation_id": "1975853984780099629",
+        "created_at": "2025-10-08T09:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T10:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975853984780099629"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "香ちゃん",
+              "probability": 0.4313,
+              "start": 2,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fG0ACWz6aE",
+              "end": 35,
+              "expanded_url": "https://x.com/5t5t5szbh/status/1975853984780099629/photo/1",
+              "media_key": "3_1975853982489911296",
+              "start": 12,
+              "url": "https://t.co/fG0ACWz6aE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975853984780099629",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "可符香ちゃんみたいな猫 https://t.co/fG0ACWz6aE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 472,
+          "like_count": 1478,
+          "listed_count": 2,
+          "media_count": 285,
+          "tweet_count": 4976
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-24T12:55:06.000Z",
+        "description": "まどマギ垢→ @5t5t5szbh2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "5t5t5szbh2"
+              }
+            ]
+          }
+        },
+        "id": "1176480058292129793",
+        "name": "タカ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947416218304188422/yjjpSLqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 358,
+          "like_count": 7248,
+          "listed_count": 0,
+          "media_count": 230,
+          "tweet_count": 4807
+        },
+        "username": "5t5t5szbh",
+        "verified": false
+      }
+    ]
+  }
+}

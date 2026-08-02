@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1890702330590527488"
+      ],
+      "media_source_tweet_id": [
+        "1890702359518388314"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1890750537760403953",
+    "created_at": "2025-02-15T13:10:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T14:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890750537760403953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1870400679363420161",
+          "start": 3,
+          "username": "zimizimi7human"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/duTfFnUuBf",
+          "end": 46,
+          "expanded_url": "https://x.com/zimizimi7human/status/1890702359518388314/photo/1",
+          "media_key": "3_1890702330590527488",
+          "start": 23,
+          "url": "https://t.co/duTfFnUuBf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890750537760403953",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890702359518388314",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zimizimi7human: TS https://t.co/duTfFnUuBf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 807,
+        "media_key": "3_1890702330590527488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj0fwJbaAAAbwo6.png",
+        "width": 369
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890702330590527488"
+          ],
+          "media_source_tweet_id": [
+            "1890702359518388314"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1890750537760403953",
+        "created_at": "2025-02-15T13:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T14:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890750537760403953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1870400679363420161",
+              "start": 3,
+              "username": "zimizimi7human"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/duTfFnUuBf",
+              "end": 46,
+              "expanded_url": "https://x.com/zimizimi7human/status/1890702359518388314/photo/1",
+              "media_key": "3_1890702330590527488",
+              "start": 23,
+              "url": "https://t.co/duTfFnUuBf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890750537760403953",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890702359518388314",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zimizimi7human: TS https://t.co/duTfFnUuBf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890702330590527488"
+          ]
+        },
+        "author_id": "1870400679363420161",
+        "conversation_id": "1890702359518388314",
+        "created_at": "2025-02-15T09:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T10:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890702359518388314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/duTfFnUuBf",
+              "end": 26,
+              "expanded_url": "https://x.com/zimizimi7human/status/1890702359518388314/photo/1",
+              "media_key": "3_1890702330590527488",
+              "start": 3,
+              "url": "https://t.co/duTfFnUuBf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890702359518388314",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "TS https://t.co/duTfFnUuBf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889564810410627072/YnTsykE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 304,
+          "like_count": 1066,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 3263
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T09:27:36.000Z",
+        "description": "芸術についてあまり関心は無いのですが…\n二次元創作超雑多　NLBLGL/左右相手非固定/TS/捏造/加虐表現/モブあり/何でも許せる人向け　JPN/ENG\n🔗必読",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aboutme.style/Zzzen1happy",
+                "end": 23,
+                "expanded_url": "https://aboutme.style/Zzzen1happy",
+                "start": 0,
+                "url": "https://t.co/bxkYKmEoUG"
+              }
+            ]
+          }
+        },
+        "id": "1870400679363420161",
+        "name": "Mod✘子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870402049520930817/A9A7VSH3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 10,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 77
+        },
+        "url": "https://t.co/bxkYKmEoUG",
+        "username": "zimizimi7human",
+        "verified": false
+      }
+    ]
+  }
+}

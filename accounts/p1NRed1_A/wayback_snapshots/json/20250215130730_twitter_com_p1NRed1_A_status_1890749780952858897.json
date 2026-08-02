@@ -1,0 +1,679 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1890477132997926912",
+        "3_1890477133249527808"
+      ],
+      "media_source_tweet_id": [
+        "1890477135569023410",
+        "1890477135569023410"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10000284259",
+          "name": "The Fairly OddParents"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1311766165065142273",
+          "name": "Higurashi When They Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1268928368075927552",
+          "name": "The Fairly OddParents"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1283481313492652032",
+          "name": "Family & nostalgic"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311766165065142273",
+          "name": "Higurashi When They Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1268928368075927552",
+          "name": "The Fairly OddParents"
+        }
+      }
+    ],
+    "conversation_id": "1890749780952858897",
+    "created_at": "2025-02-15T13:07:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T14:07:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890749780952858897"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "Higurashi",
+          "probability": 0.5004,
+          "start": 15,
+          "type": "Other"
+        },
+        {
+          "end": 45,
+          "normalized_text": "The Fairly OddParents",
+          "probability": 0.7872,
+          "start": 25,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 60,
+          "start": 53,
+          "tag": "ひぐらしFA"
+        },
+        {
+          "end": 71,
+          "start": 61,
+          "tag": "ひぐらしのなく頃に"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1851542333759627264",
+          "start": 3,
+          "username": "kartstry7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4xisfkAXin",
+          "end": 95,
+          "expanded_url": "https://x.com/kartstry7/status/1890477135569023410/photo/1",
+          "media_key": "3_1890477132997926912",
+          "start": 72,
+          "url": "https://t.co/4xisfkAXin"
+        },
+        {
+          "display_url": "pic.x.com/4xisfkAXin",
+          "end": 95,
+          "expanded_url": "https://x.com/kartstry7/status/1890477135569023410/photo/1",
+          "media_key": "3_1890477133249527808",
+          "start": 72,
+          "url": "https://t.co/4xisfkAXin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890749780952858897",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 114
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890477135569023410",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kartstry7: Higurashi The Fairly OddParents style #ひぐらしFA #ひぐらしのなく頃に https://t.co/4xisfkAXin"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1132,
+        "media_key": "3_1890477132997926912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjxS77BXIAAFJfS.jpg",
+        "width": 1272
+      },
+      {
+        "height": 1007,
+        "media_key": "3_1890477133249527808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjxS779WQAAXeIv.jpg",
+        "width": 1007
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890477132997926912",
+            "3_1890477133249527808"
+          ],
+          "media_source_tweet_id": [
+            "1890477135569023410",
+            "1890477135569023410"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10000284259",
+              "name": "The Fairly OddParents"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1268928368075927552",
+              "name": "The Fairly OddParents"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283481313492652032",
+              "name": "Family & nostalgic"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1268928368075927552",
+              "name": "The Fairly OddParents"
+            }
+          }
+        ],
+        "conversation_id": "1890749780952858897",
+        "created_at": "2025-02-15T13:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T14:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890749780952858897"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Higurashi",
+              "probability": 0.5004,
+              "start": 15,
+              "type": "Other"
+            },
+            {
+              "end": 45,
+              "normalized_text": "The Fairly OddParents",
+              "probability": 0.7872,
+              "start": 25,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 53,
+              "tag": "ひぐらしFA"
+            },
+            {
+              "end": 71,
+              "start": 61,
+              "tag": "ひぐらしのなく頃に"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1851542333759627264",
+              "start": 3,
+              "username": "kartstry7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4xisfkAXin",
+              "end": 95,
+              "expanded_url": "https://x.com/kartstry7/status/1890477135569023410/photo/1",
+              "media_key": "3_1890477132997926912",
+              "start": 72,
+              "url": "https://t.co/4xisfkAXin"
+            },
+            {
+              "display_url": "pic.x.com/4xisfkAXin",
+              "end": 95,
+              "expanded_url": "https://x.com/kartstry7/status/1890477135569023410/photo/1",
+              "media_key": "3_1890477133249527808",
+              "start": 72,
+              "url": "https://t.co/4xisfkAXin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890749780952858897",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 114
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890477135569023410",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kartstry7: Higurashi The Fairly OddParents style #ひぐらしFA #ひぐらしのなく頃に https://t.co/4xisfkAXin"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890477132997926912",
+            "3_1890477133249527808"
+          ]
+        },
+        "author_id": "1851542333759627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10000284259",
+              "name": "The Fairly OddParents"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1268928368075927552",
+              "name": "The Fairly OddParents"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283481313492652032",
+              "name": "Family & nostalgic"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1268928368075927552",
+              "name": "The Fairly OddParents"
+            }
+          }
+        ],
+        "conversation_id": "1890477135569023410",
+        "created_at": "2025-02-14T19:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T20:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890477135569023410"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "Higurashi",
+              "probability": 0.554,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 30,
+              "normalized_text": "The Fairly OddParents",
+              "probability": 0.7867,
+              "start": 10,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 38,
+              "tag": "ひぐらしFA"
+            },
+            {
+              "end": 56,
+              "start": 46,
+              "tag": "ひぐらしのなく頃に"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4xisfkAXin",
+              "end": 80,
+              "expanded_url": "https://x.com/kartstry7/status/1890477135569023410/photo/1",
+              "media_key": "3_1890477132997926912",
+              "start": 57,
+              "url": "https://t.co/4xisfkAXin"
+            },
+            {
+              "display_url": "pic.x.com/4xisfkAXin",
+              "end": 80,
+              "expanded_url": "https://x.com/kartstry7/status/1890477135569023410/photo/1",
+              "media_key": "3_1890477133249527808",
+              "start": 57,
+              "url": "https://t.co/4xisfkAXin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890477135569023410",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 7592,
+          "like_count": 613,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 114
+        },
+        "reply_settings": "everyone",
+        "text": "Higurashi The Fairly OddParents style #ひぐらしFA #ひぐらしのなく頃に https://t.co/4xisfkAXin"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889564810410627072/YnTsykE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 304,
+          "like_count": 1064,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 3261
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-30T08:31:17.000Z",
+        "description": "Arts/ Comissions open!\n\ninstagram: https://t.co/aIqRW71nrS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kartistry7/",
+                "end": 58,
+                "expanded_url": "https://www.instagram.com/kartistry7/",
+                "start": 35,
+                "url": "https://t.co/aIqRW71nrS"
+              }
+            ]
+          }
+        },
+        "id": "1851542333759627264",
+        "location": "Brasil",
+        "name": "kartstry",
+        "pinned_tweet_id": "1863217683509940389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887378043288621056/sN02w9gI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 204,
+          "like_count": 110,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 75
+        },
+        "username": "kartstry7",
+        "verified": false
+      }
+    ]
+  }
+}

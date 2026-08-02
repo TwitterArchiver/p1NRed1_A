@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995573682840674304"
+      ],
+      "media_source_tweet_id": [
+        "1995573687064621447"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1995766021903515794",
+    "created_at": "2025-12-02T08:04:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T09:04:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995766021903515794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1224803301067067392",
+          "start": 3,
+          "username": "ALR10_10"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V2AGjg1qrT",
+          "end": 61,
+          "expanded_url": "https://x.com/ALR10_10/status/1995573687064621447/photo/1",
+          "media_key": "3_1995573682840674304",
+          "start": 38,
+          "url": "https://t.co/V2AGjg1qrT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995766021903515794",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995573687064621447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ALR10_10: i did a kafuka in paint https://t.co/V2AGjg1qrT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 767,
+        "media_key": "3_1995573682840674304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7GzsQjWIAAKCQt.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995573682840674304"
+          ],
+          "media_source_tweet_id": [
+            "1995573687064621447"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1995766021903515794",
+        "created_at": "2025-12-02T08:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T09:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995766021903515794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1224803301067067392",
+              "start": 3,
+              "username": "ALR10_10"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V2AGjg1qrT",
+              "end": 61,
+              "expanded_url": "https://x.com/ALR10_10/status/1995573687064621447/photo/1",
+              "media_key": "3_1995573682840674304",
+              "start": 38,
+              "url": "https://t.co/V2AGjg1qrT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995766021903515794",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995573687064621447",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ALR10_10: i did a kafuka in paint https://t.co/V2AGjg1qrT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995573682840674304"
+          ]
+        },
+        "author_id": "1224803301067067392",
+        "conversation_id": "1995573687064621447",
+        "created_at": "2025-12-01T19:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T20:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995573687064621447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V2AGjg1qrT",
+              "end": 47,
+              "expanded_url": "https://x.com/ALR10_10/status/1995573687064621447/photo/1",
+              "media_key": "3_1995573682840674304",
+              "start": 24,
+              "url": "https://t.co/V2AGjg1qrT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995573687064621447",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 660,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "i did a kafuka in paint https://t.co/V2AGjg1qrT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 501,
+          "like_count": 1562,
+          "listed_count": 2,
+          "media_count": 310,
+          "tweet_count": 5310
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-04T21:14:06.000Z",
+        "description": "hoshiumi kourai the man you are",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "alr1010.straw.page",
+                "end": 23,
+                "expanded_url": "https://alr1010.straw.page",
+                "start": 0,
+                "url": "https://t.co/Eh72mp2uwK"
+              }
+            ]
+          }
+        },
+        "id": "1224803301067067392",
+        "name": "almalu - LOYAL TO HOSHIUMI",
+        "pinned_tweet_id": "1766694349998629362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869049548812722176/cTMh0vNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 539,
+          "like_count": 103050,
+          "listed_count": 0,
+          "media_count": 1758,
+          "tweet_count": 5152
+        },
+        "url": "https://t.co/Eh72mp2uwK",
+        "username": "ALR10_10",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1935715577412432017",
+    "created_at": "2025-06-20T07:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T08:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935956439782367366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1916716844855275520",
+          "start": 0,
+          "username": "woaiwoohyeah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935956439782367366",
+    "in_reply_to_user_id": "1916716844855275520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935716981430448381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woaiwoohyeah 下周四考"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1935716981430448381].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1935716981430448381",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1935716981430448381"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1935715577412432017",
+        "created_at": "2025-06-20T07:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T08:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935956439782367366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1916716844855275520",
+              "start": 0,
+              "username": "woaiwoohyeah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935956439782367366",
+        "in_reply_to_user_id": "1916716844855275520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935716981430448381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woaiwoohyeah 下周四考"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 412,
+          "like_count": 1225,
+          "listed_count": 1,
+          "media_count": 226,
+          "tweet_count": 4036
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T04:51:45.000Z",
+        "description": "原Quisp， 那个号被条子（👮）盯上了 fucked cops bastars ｜the real me_ @KeaimiaoQuisp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "KeaimiaoQuisp"
+              }
+            ]
+          }
+        },
+        "id": "1916716844855275520",
+        "location": "Tcc cinema",
+        "name": "Kafkink",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934557297440948224/YtJg7Cbl_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 238,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 71
+        },
+        "username": "woaiwoohyeah",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968181846560382976",
+        "3_1968181846442905603",
+        "3_1968181846484848645",
+        "3_1968181846497501184"
+      ],
+      "media_source_tweet_id": [
+        "1968181859822743786",
+        "1968181859822743786",
+        "1968181859822743786",
+        "1968181859822743786"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1968312877435245022",
+    "created_at": "2025-09-17T13:55:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T14:55:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968312877435245022"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 16,
+          "tag": "さよなら絶望先生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1441372112627793933",
+          "start": 3,
+          "username": "0427yu_ka2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lsGpySGtmX",
+          "end": 58,
+          "expanded_url": "https://x.com/0427yu_ka2/status/1968181859822743786/photo/1",
+          "media_key": "3_1968181846560382976",
+          "start": 35,
+          "url": "https://t.co/lsGpySGtmX"
+        },
+        {
+          "display_url": "pic.x.com/lsGpySGtmX",
+          "end": 58,
+          "expanded_url": "https://x.com/0427yu_ka2/status/1968181859822743786/photo/1",
+          "media_key": "3_1968181846442905603",
+          "start": 35,
+          "url": "https://t.co/lsGpySGtmX"
+        },
+        {
+          "display_url": "pic.x.com/lsGpySGtmX",
+          "end": 58,
+          "expanded_url": "https://x.com/0427yu_ka2/status/1968181859822743786/photo/1",
+          "media_key": "3_1968181846484848645",
+          "start": 35,
+          "url": "https://t.co/lsGpySGtmX"
+        },
+        {
+          "display_url": "pic.x.com/lsGpySGtmX",
+          "end": 58,
+          "expanded_url": "https://x.com/0427yu_ka2/status/1968181859822743786/photo/1",
+          "media_key": "3_1968181846497501184",
+          "start": 35,
+          "url": "https://t.co/lsGpySGtmX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968312877435245022",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968181859822743786",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0427yu_ka2: #さよなら絶望先生 \n初描きの時の絵 https://t.co/lsGpySGtmX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 832,
+        "media_key": "3_1968181846560382976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Bi9imaoAAt5Dm.jpg",
+        "width": 749
+      },
+      {
+        "height": 483,
+        "media_key": "3_1968181846442905603",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Bi9iKaEAMONEc.jpg",
+        "width": 667
+      },
+      {
+        "height": 438,
+        "media_key": "3_1968181846484848645",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Bi9iUaEAU-0it.jpg",
+        "width": 697
+      },
+      {
+        "height": 366,
+        "media_key": "3_1968181846497501184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Bi9iXbIAAbVxT.jpg",
+        "width": 749
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968181846560382976",
+            "3_1968181846442905603",
+            "3_1968181846484848645",
+            "3_1968181846497501184"
+          ],
+          "media_source_tweet_id": [
+            "1968181859822743786",
+            "1968181859822743786",
+            "1968181859822743786",
+            "1968181859822743786"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1968312877435245022",
+        "created_at": "2025-09-17T13:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T14:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968312877435245022"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 16,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1441372112627793933",
+              "start": 3,
+              "username": "0427yu_ka2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lsGpySGtmX",
+              "end": 58,
+              "expanded_url": "https://x.com/0427yu_ka2/status/1968181859822743786/photo/1",
+              "media_key": "3_1968181846560382976",
+              "start": 35,
+              "url": "https://t.co/lsGpySGtmX"
+            },
+            {
+              "display_url": "pic.x.com/lsGpySGtmX",
+              "end": 58,
+              "expanded_url": "https://x.com/0427yu_ka2/status/1968181859822743786/photo/1",
+              "media_key": "3_1968181846442905603",
+              "start": 35,
+              "url": "https://t.co/lsGpySGtmX"
+            },
+            {
+              "display_url": "pic.x.com/lsGpySGtmX",
+              "end": 58,
+              "expanded_url": "https://x.com/0427yu_ka2/status/1968181859822743786/photo/1",
+              "media_key": "3_1968181846484848645",
+              "start": 35,
+              "url": "https://t.co/lsGpySGtmX"
+            },
+            {
+              "display_url": "pic.x.com/lsGpySGtmX",
+              "end": 58,
+              "expanded_url": "https://x.com/0427yu_ka2/status/1968181859822743786/photo/1",
+              "media_key": "3_1968181846497501184",
+              "start": 35,
+              "url": "https://t.co/lsGpySGtmX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968312877435245022",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968181859822743786",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0427yu_ka2: #さよなら絶望先生 \n初描きの時の絵 https://t.co/lsGpySGtmX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968181846560382976",
+            "3_1968181846442905603",
+            "3_1968181846484848645",
+            "3_1968181846497501184"
+          ]
+        },
+        "author_id": "1441372112627793933",
+        "conversation_id": "1968181859822743786",
+        "created_at": "2025-09-17T05:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T06:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968181859822743786"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lsGpySGtmX",
+              "end": 42,
+              "expanded_url": "https://x.com/0427yu_ka2/status/1968181859822743786/photo/1",
+              "media_key": "3_1968181846560382976",
+              "start": 19,
+              "url": "https://t.co/lsGpySGtmX"
+            },
+            {
+              "display_url": "pic.x.com/lsGpySGtmX",
+              "end": 42,
+              "expanded_url": "https://x.com/0427yu_ka2/status/1968181859822743786/photo/1",
+              "media_key": "3_1968181846442905603",
+              "start": 19,
+              "url": "https://t.co/lsGpySGtmX"
+            },
+            {
+              "display_url": "pic.x.com/lsGpySGtmX",
+              "end": 42,
+              "expanded_url": "https://x.com/0427yu_ka2/status/1968181859822743786/photo/1",
+              "media_key": "3_1968181846484848645",
+              "start": 19,
+              "url": "https://t.co/lsGpySGtmX"
+            },
+            {
+              "display_url": "pic.x.com/lsGpySGtmX",
+              "end": 42,
+              "expanded_url": "https://x.com/0427yu_ka2/status/1968181859822743786/photo/1",
+              "media_key": "3_1968181846497501184",
+              "start": 19,
+              "url": "https://t.co/lsGpySGtmX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968181859822743786",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 422,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "#さよなら絶望先生 \n初描きの時の絵 https://t.co/lsGpySGtmX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 451,
+          "like_count": 1397,
+          "listed_count": 2,
+          "media_count": 265,
+          "tweet_count": 4731
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-24T12:02:19.000Z",
+        "description": "20↓♀ | 雑多垢| 地雷無 | NL,腐,百合,夢なんでもOK‼︎ | 無言フォロー",
+        "id": "1441372112627793933",
+        "location": "地球🌏",
+        "name": "ゆうか。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956603950410637312/GL6XUBaW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 209,
+          "like_count": 10756,
+          "listed_count": 6,
+          "media_count": 110,
+          "tweet_count": 1414
+        },
+        "username": "0427yu_ka2",
+        "verified": false
+      }
+    ]
+  }
+}

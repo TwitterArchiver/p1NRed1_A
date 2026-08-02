@@ -1,0 +1,285 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1801806747352580096"
+      ],
+      "media_source_tweet_id": [
+        "1801806770098344237"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1801820195855745212",
+    "created_at": "2024-06-15T03:33:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T04:33:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801820195855745212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1679841149526380548",
+          "start": 3,
+          "username": "OsakaDailyAzu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/lKoHKiasM8",
+          "end": 42,
+          "expanded_url": "https://twitter.com/OsakaDailyAzu/status/1801806770098344237/video/1",
+          "media_key": "7_1801806747352580096",
+          "start": 19,
+          "url": "https://t.co/lKoHKiasM8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801820195855745212",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801806770098344237",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OsakaDailyAzu: https://t.co/lKoHKiasM8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18785,
+        "height": 720,
+        "media_key": "7_1801806747352580096",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1801806747352580096/pu/img/S8QGi9fmuPbhqvZQ.jpg",
+        "public_metrics": {
+          "view_count": 468
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1801806747352580096/pu/vid/avc1/320x320/m_BcXUwKIIWQtwax.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1801806747352580096/pu/vid/avc1/540x540/LLGni16GVRDuek9L.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1801806747352580096/pu/vid/avc1/720x720/vMfwToMCE1eu-2yT.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1801806747352580096/pu/pl/Alg-duN67ROphSvy.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1801806747352580096"
+          ],
+          "media_source_tweet_id": [
+            "1801806770098344237"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1801820195855745212",
+        "created_at": "2024-06-15T03:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T04:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801820195855745212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1679841149526380548",
+              "start": 3,
+              "username": "OsakaDailyAzu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/lKoHKiasM8",
+              "end": 42,
+              "expanded_url": "https://twitter.com/OsakaDailyAzu/status/1801806770098344237/video/1",
+              "media_key": "7_1801806747352580096",
+              "start": 19,
+              "url": "https://t.co/lKoHKiasM8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801820195855745212",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801806770098344237",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OsakaDailyAzu: https://t.co/lKoHKiasM8"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1801806747352580096"
+          ]
+        },
+        "author_id": "1679841149526380548",
+        "conversation_id": "1801806770098344237",
+        "created_at": "2024-06-15T02:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T03:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801806770098344237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/lKoHKiasM8",
+              "end": 23,
+              "expanded_url": "https://twitter.com/OsakaDailyAzu/status/1801806770098344237/video/1",
+              "media_key": "7_1801806747352580096",
+              "start": 0,
+              "url": "https://t.co/lKoHKiasM8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801806770098344237",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 1311,
+          "like_count": 144,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lKoHKiasM8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801541330096820224/OMU5aWp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 179,
+          "like_count": 352,
+          "listed_count": 0,
+          "tweet_count": 1373
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T13:12:10.000Z",
+        "description": "ah post Video or Picture of Ayumu Kasuga (Osaka) from Azumanga Daioh Daily around 10 AM GMT+!\n\nFollow @DailyOsakaPics for more Osaka!!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 102,
+                "username": "DailyOsakaPics"
+              }
+            ]
+          }
+        },
+        "id": "1679841149526380548",
+        "location": "Osaka",
+        "name": "Daily Osaka",
+        "pinned_tweet_id": "1729323277334847973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787115883074347008/kVS3LyMo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18201,
+          "following_count": 110,
+          "like_count": 2820,
+          "listed_count": 9,
+          "tweet_count": 1490
+        },
+        "username": "OsakaDailyAzu",
+        "verified": false
+      }
+    ]
+  }
+}

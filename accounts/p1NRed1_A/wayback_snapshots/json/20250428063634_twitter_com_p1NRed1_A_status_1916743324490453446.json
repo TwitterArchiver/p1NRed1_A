@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1916734139140915370",
+    "created_at": "2025-04-28T06:36:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T07:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916743324490453446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1733524426262564864",
+          "start": 0,
+          "username": "_defoko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916743324490453446",
+    "in_reply_to_user_id": "1733524426262564864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916738796562927885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_defoko 确实是上辈子了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1916734139140915370",
+        "created_at": "2025-04-28T06:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T07:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916743324490453446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1733524426262564864",
+              "start": 0,
+              "username": "_defoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916743324490453446",
+        "in_reply_to_user_id": "1733524426262564864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916738796562927885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_defoko 确实是上辈子了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733524426262564864",
+        "conversation_id": "1916734139140915370",
+        "created_at": "2025-04-28T06:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T07:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916738796562927885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916738796562927885",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916734139140915370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 上辈子见过这张照片"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 388,
+          "like_count": 1177,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 3697
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T16:30:18.000Z",
+        "description": "繭=茧 ，第二人格 @I7663299671516｜ @DuvetsDetour",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "I7663299671516"
+              },
+              {
+                "end": 40,
+                "start": 27,
+                "username": "DuvetsDetour"
+              }
+            ]
+          }
+        },
+        "id": "1733524426262564864",
+        "name": "繭",
+        "pinned_tweet_id": "1811778916555845766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913239527881162752/mkAxO3XF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 116,
+          "like_count": 1084,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 662
+        },
+        "username": "_defoko",
+        "verified": false
+      }
+    ]
+  }
+}

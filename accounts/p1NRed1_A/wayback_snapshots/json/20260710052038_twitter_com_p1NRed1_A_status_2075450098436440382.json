@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2075441210114896058",
+    "created_at": "2026-07-10T05:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T06:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075450098436440382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1158584849893978113",
+          "start": 0,
+          "username": "haeley_tr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075450098436440382",
+    "in_reply_to_user_id": "1158584849893978113",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075449045842276834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haeley_tr 并非"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2075441210114896058",
+        "created_at": "2026-07-10T05:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T06:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075450098436440382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1158584849893978113",
+              "start": 0,
+              "username": "haeley_tr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075450098436440382",
+        "in_reply_to_user_id": "1158584849893978113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075449045842276834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haeley_tr 并非"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1158584849893978113",
+        "conversation_id": "2075441210114896058",
+        "created_at": "2026-07-10T05:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T06:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075449045842276834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075449045842276834",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075441210114896058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 不会被送集中营了吧😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "无人在意星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 10,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/W46MozUxms"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "无人在意星",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 565,
+          "like_count": 1772,
+          "listed_count": 3,
+          "media_count": 411,
+          "tweet_count": 6859
+        },
+        "url": "https://t.co/W46MozUxms",
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-06T03:45:28.000Z",
+        "description": "",
+        "id": "1158584849893978113",
+        "location": "理想国",
+        "name": "H੭୧l𝜚Y",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1224725570212134912/tQgi2fsz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 4223,
+          "like_count": 54306,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 3370
+        },
+        "url": "",
+        "username": "haeley_tr",
+        "verified": false
+      }
+    ]
+  }
+}

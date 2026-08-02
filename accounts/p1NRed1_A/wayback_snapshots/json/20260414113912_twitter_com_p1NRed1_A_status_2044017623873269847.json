@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1915276551454876049",
+    "created_at": "2026-04-14T11:39:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T12:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044017623873269847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1371325665501323264",
+          "start": 0,
+          "username": "Mu_Nomal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044017623873269847",
+    "in_reply_to_user_id": "1371325665501323264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044014311518179419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mu_Nomal 谢谢(;´༎ຶД༎ຶ`)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1915276551454876049",
+        "created_at": "2026-04-14T11:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044017623873269847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1371325665501323264",
+              "start": 0,
+              "username": "Mu_Nomal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044017623873269847",
+        "in_reply_to_user_id": "1371325665501323264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044014311518179419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mu_Nomal 谢谢(;´༎ຶД༎ຶ`)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1371325665501323264",
+        "conversation_id": "1915276551454876049",
+        "created_at": "2026-04-14T11:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044014311518179419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044014311518179419",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915276551454876049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 最高です……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "全世界第一喜欢的人@memom1229345",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "memom1229345"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 538,
+          "like_count": 1647,
+          "listed_count": 2,
+          "media_count": 348,
+          "tweet_count": 5939
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-15T05:01:54.000Z",
+        "description": "基本落書き、たまに頑張って描く のじゃっ娘が好きです、人外も好きです。もし俺がクソ有名になったら万年筆の会社さん、なんでも試すのでください@NomalMu220",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 69,
+                "username": "NomalMu220"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@won_riruwalo",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@won_riruwalo",
+                "start": 0,
+                "url": "https://t.co/QvRZnnucCg"
+              }
+            ]
+          }
+        },
+        "id": "1371325665501323264",
+        "location": "三重県 末先市 色多見町 1丁目2－3",
+        "name": "脳丸",
+        "pinned_tweet_id": "1916849570677748160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982807908950650881/042-fMOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 559,
+          "like_count": 8836,
+          "listed_count": 0,
+          "media_count": 289,
+          "tweet_count": 2315
+        },
+        "url": "https://t.co/QvRZnnucCg",
+        "username": "Mu_Nomal",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2053452737137054153",
+    "created_at": "2026-05-10T12:52:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T13:52:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053458137148281292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1426513039419867139",
+          "start": 0,
+          "username": "loveliescrushi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053458137148281292",
+    "in_reply_to_user_id": "1426513039419867139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053453627977838900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loveliescrushi 确实是好事但是好难受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2053452737137054153",
+        "created_at": "2026-05-10T12:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T13:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053458137148281292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1426513039419867139",
+              "start": 0,
+              "username": "loveliescrushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053458137148281292",
+        "in_reply_to_user_id": "1426513039419867139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053453627977838900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveliescrushi 确实是好事但是好难受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426513039419867139",
+        "conversation_id": "2053452737137054153",
+        "created_at": "2026-05-10T12:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T13:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053453627977838900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053453627977838900",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053452737137054153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 这是个好事啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 560,
+          "like_count": 1652,
+          "listed_count": 3,
+          "media_count": 351,
+          "tweet_count": 6127
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-14T11:56:38.000Z",
+        "description": "歌词本",
+        "id": "1426513039419867139",
+        "location": "LakeCityQuietPills",
+        "name": "萨拉热窝的Haerin和Hanni",
+        "pinned_tweet_id": "1924808064638844970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977809874609487872/9rPezylN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 566,
+          "like_count": 13815,
+          "listed_count": 5,
+          "media_count": 264,
+          "tweet_count": 3888
+        },
+        "username": "loveliescrushi",
+        "verified": false
+      }
+    ]
+  }
+}

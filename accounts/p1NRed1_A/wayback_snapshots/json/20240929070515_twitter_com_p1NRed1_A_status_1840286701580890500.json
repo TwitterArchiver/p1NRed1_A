@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1839753931976552448"
+      ],
+      "media_source_tweet_id": [
+        "1839754841276715230"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1840286701580890500",
+    "created_at": "2024-09-29T07:05:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-29T08:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840286701580890500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1137675898432479233",
+          "start": 3,
+          "username": "G0LDENM88N"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8gbqik3cqx",
+          "end": 39,
+          "expanded_url": "https://twitter.com/G0LDENM88N/status/1839754841276715230/photo/1",
+          "media_key": "16_1839753931976552448",
+          "start": 16,
+          "url": "https://t.co/8gbqiK3CqX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840286701580890500",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 917
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839754841276715230",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @G0LDENM88N: https://t.co/8gbqiK3CqX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 450,
+        "media_key": "16_1839753931976552448",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GYgedCWXMAAREHX.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GYgedCWXMAAREHX.mp4"
+          }
+        ],
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1839753931976552448"
+          ],
+          "media_source_tweet_id": [
+            "1839754841276715230"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1840286701580890500",
+        "created_at": "2024-09-29T07:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T08:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840286701580890500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1137675898432479233",
+              "start": 3,
+              "username": "G0LDENM88N"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8gbqik3cqx",
+              "end": 39,
+              "expanded_url": "https://twitter.com/G0LDENM88N/status/1839754841276715230/photo/1",
+              "media_key": "16_1839753931976552448",
+              "start": 16,
+              "url": "https://t.co/8gbqiK3CqX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840286701580890500",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 917
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839754841276715230",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @G0LDENM88N: https://t.co/8gbqiK3CqX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1839753931976552448"
+          ]
+        },
+        "author_id": "1137675898432479233",
+        "conversation_id": "1839754841276715230",
+        "created_at": "2024-09-27T19:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T20:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839754841276715230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8gbqik3cqx",
+              "end": 23,
+              "expanded_url": "https://twitter.com/G0LDENM88N/status/1839754841276715230/photo/1",
+              "media_key": "16_1839753931976552448",
+              "start": 0,
+              "url": "https://t.co/8gbqiK3CqX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839754841276715230",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 647,
+          "impression_count": 47433,
+          "like_count": 3379,
+          "quote_count": 34,
+          "reply_count": 7,
+          "retweet_count": 917
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8gbqiK3CqX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1834534967725998516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 274,
+          "like_count": 898,
+          "listed_count": 0,
+          "tweet_count": 2788
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-09T11:00:45.000Z",
+        "description": "⢀⡇⠀⠀⠀⠀⡀⠀⢀⣾⣣⣿⣿⣿⣿⡽⣦⡀⠀⣆⠀⠀⠈⣆⠀\n⢸⠀⠀⠀⠀⢰⡇⠰⠿⢿⣿⣿⣿⣿⣿⣿⠻⠳⠄⢹⡀⠀⠀⠸⡀\n⢸⠀⠀⠀⠀⠊⠀⠀⠻⢺⣿⣿⣿⣿⣿⣿⠀⠐⠶⠈⠅⠀⠀⠀⡇\n⢸⢠⠀⠀⠀⣤⣄⢤⡤⢸⣿⣿⣿⣿⣿⣿⣠⢤⠄⣤⡆⠀⠀⠀⡇\n⠸⣿⠀⠀⠀⠹⣿⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣶⣾⡿⠃⢀⠀⠀⡇\n⠀⠸⡄⣴⡀⠀⡽⠿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢟⡋⣽⡄⡞⡇⢠⠇",
+        "id": "1137675898432479233",
+        "location": "сосать америка",
+        "name": "🥀🌙🗡",
+        "pinned_tweet_id": "1796513806857941040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839557792237264896/zc2iAdIi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1375,
+          "following_count": 370,
+          "like_count": 36476,
+          "listed_count": 14,
+          "tweet_count": 27053
+        },
+        "username": "G0LDENM88N",
+        "verified": false
+      }
+    ]
+  }
+}

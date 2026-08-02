@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908559344536621056"
+      ],
+      "media_source_tweet_id": [
+        "1908559349922095554"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1908760919313965132",
+    "created_at": "2025-04-06T05:57:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T06:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908760919313965132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1282973227271065600",
+          "start": 3,
+          "username": "shirozaku17"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sc21ifGu4J",
+          "end": 40,
+          "expanded_url": "https://x.com/shirozaku17/status/1908559349922095554/photo/1",
+          "media_key": "3_1908559344536621056",
+          "start": 17,
+          "url": "https://t.co/sc21ifGu4J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908760919313965132",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 445
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908559349922095554",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shirozaku17: https://t.co/sc21ifGu4J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1438,
+        "media_key": "3_1908559344536621056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnyQnKPbkAAO1Bf.jpg",
+        "width": 1072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908559344536621056"
+          ],
+          "media_source_tweet_id": [
+            "1908559349922095554"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1908760919313965132",
+        "created_at": "2025-04-06T05:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T06:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908760919313965132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1282973227271065600",
+              "start": 3,
+              "username": "shirozaku17"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sc21ifGu4J",
+              "end": 40,
+              "expanded_url": "https://x.com/shirozaku17/status/1908559349922095554/photo/1",
+              "media_key": "3_1908559344536621056",
+              "start": 17,
+              "url": "https://t.co/sc21ifGu4J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908760919313965132",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 445
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908559349922095554",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shirozaku17: https://t.co/sc21ifGu4J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908559344536621056"
+          ]
+        },
+        "author_id": "1282973227271065600",
+        "conversation_id": "1908559349922095554",
+        "created_at": "2025-04-05T16:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T17:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908559349922095554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sc21ifGu4J",
+              "end": 23,
+              "expanded_url": "https://x.com/shirozaku17/status/1908559349922095554/photo/1",
+              "media_key": "3_1908559344536621056",
+              "start": 0,
+              "url": "https://t.co/sc21ifGu4J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908559349922095554",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 23730,
+          "like_count": 1950,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 445
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sc21ifGu4J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908472142045601793/4rErpv2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 339,
+          "like_count": 1120,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 3423
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-14T09:41:42.000Z",
+        "description": "学生です ◆ 転載/AI学習/加工/アイコン使用等禁止 ◆ Don’t use my images without my permission. Don’t copy.",
+        "id": "1282973227271065600",
+        "name": "白桜",
+        "pinned_tweet_id": "1907111736957931669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738835573048258560/OJ4aSEW8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 36,
+          "like_count": 579,
+          "listed_count": 9,
+          "media_count": 35,
+          "tweet_count": 105
+        },
+        "username": "shirozaku17",
+        "verified": false
+      }
+    ]
+  }
+}

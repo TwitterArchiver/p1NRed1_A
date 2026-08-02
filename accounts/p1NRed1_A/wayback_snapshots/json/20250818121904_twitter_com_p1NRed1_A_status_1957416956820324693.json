@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1957416956820324693",
+    "created_at": "2025-08-18T12:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T13:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957416956820324693"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/loolzaozimin/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/loolzaozimin/status/1957314743791686078",
+          "start": 13,
+          "url": "https://t.co/do5SIUivnM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957416956820324693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957314743791686078",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "救命我笑的要死掉了怎么办 https://t.co/do5SIUivnM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30100,
+        "height": 1280,
+        "media_key": "13_1957314661243891712",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1957314661243891712/img/yOLooqfU1I3ByPyN.jpg",
+        "public_metrics": {
+          "view_count": 2176
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957314661243891712/vid/avc1/320x690/HoTNtK1RHqfPqzhF.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957314661243891712/vid/avc1/480x1036/bAKJAw8RWUmCpylq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957314661243891712/vid/avc1/592x1280/EuMPKf5swYSNYy6W.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1957314661243891712/pl/orVElkwF7TXTNMeD.m3u8?v=cfc"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1957416956820324693",
+        "created_at": "2025-08-18T12:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T13:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957416956820324693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/loolzaozimin/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/loolzaozimin/status/1957314743791686078",
+              "start": 13,
+              "url": "https://t.co/do5SIUivnM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957416956820324693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957314743791686078",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "救命我笑的要死掉了怎么办 https://t.co/do5SIUivnM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1957314661243891712"
+          ]
+        },
+        "author_id": "1467368317258248192",
+        "conversation_id": "1957314743791686078",
+        "created_at": "2025-08-18T05:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T06:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957314743791686078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mBpBgTi082",
+              "end": 57,
+              "expanded_url": "https://x.com/loolzaozimin/status/1957314743791686078/video/1",
+              "media_key": "13_1957314661243891712",
+              "start": 34,
+              "url": "https://t.co/mBpBgTi082"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957314743791686078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 5247,
+          "like_count": 110,
+          "quote_count": 5,
+          "reply_count": 19,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "小藻在辛辛苦苦收拾垃圾 树皮和神性在楼梯间操逼 边操逼边踹邻居的门 https://t.co/mBpBgTi082"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 422,
+          "like_count": 1295,
+          "listed_count": 1,
+          "media_count": 241,
+          "tweet_count": 4459
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T05:40:54.000Z",
+        "description": "生活は踏みつけ、蹴り、切斷、飲酒です",
+        "id": "1467368317258248192",
+        "location": "門188 接妈妈活纯绿",
+        "name": "小藻",
+        "pinned_tweet_id": "1768900241447927965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933018250729709568/DY57ql5-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16705,
+          "following_count": 56,
+          "like_count": 844,
+          "listed_count": 22,
+          "media_count": 192,
+          "tweet_count": 481
+        },
+        "username": "loolzaozimin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1910361385932132352"
+      ],
+      "media_source_tweet_id": [
+        "1910361390189256949"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1910554679940948001",
+    "created_at": "2025-04-11T04:45:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T05:45:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910554679940948001"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 15,
+          "tag": "NHKにようこそ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1370374042008449033",
+          "start": 3,
+          "username": "cw1000110"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dp0KDLhBUs",
+          "end": 56,
+          "expanded_url": "https://x.com/cw1000110/status/1910361390189256949/photo/1",
+          "media_key": "3_1910361385932132352",
+          "start": 33,
+          "url": "https://t.co/dp0KDLhBUs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910554679940948001",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910361390189256949",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cw1000110: #NHKにようこそ 修改了一下，， https://t.co/dp0KDLhBUs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1910361385932132352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoL3jxkbkAA86r2.jpg",
+        "width": 1388
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910361385932132352"
+          ],
+          "media_source_tweet_id": [
+            "1910361390189256949"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1910554679940948001",
+        "created_at": "2025-04-11T04:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T05:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910554679940948001"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 15,
+              "tag": "NHKにようこそ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1370374042008449033",
+              "start": 3,
+              "username": "cw1000110"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dp0KDLhBUs",
+              "end": 56,
+              "expanded_url": "https://x.com/cw1000110/status/1910361390189256949/photo/1",
+              "media_key": "3_1910361385932132352",
+              "start": 33,
+              "url": "https://t.co/dp0KDLhBUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910554679940948001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910361390189256949",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cw1000110: #NHKにようこそ 修改了一下，， https://t.co/dp0KDLhBUs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910361385932132352"
+          ]
+        },
+        "author_id": "1370374042008449033",
+        "conversation_id": "1910361390189256949",
+        "created_at": "2025-04-10T15:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T16:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910361390189256949"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "NHKにようこそ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dp0KDLhBUs",
+              "end": 41,
+              "expanded_url": "https://x.com/cw1000110/status/1910361390189256949/photo/1",
+              "media_key": "3_1910361385932132352",
+              "start": 18,
+              "url": "https://t.co/dp0KDLhBUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910361390189256949",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 3343,
+          "like_count": 252,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "#NHKにようこそ 修改了一下，， https://t.co/dp0KDLhBUs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910291251003547648/-uuCvZrl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 354,
+          "like_count": 1132,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 3485
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-12T14:01:05.000Z",
+        "description": "绘图用，AI🚫。",
+        "id": "1370374042008449033",
+        "name": "1984",
+        "pinned_tweet_id": "1555548718559940608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898933027641995264/-YqlBsX-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5815,
+          "following_count": 1172,
+          "like_count": 5995,
+          "listed_count": 47,
+          "media_count": 212,
+          "tweet_count": 746
+        },
+        "username": "cw1000110",
+        "verified": false
+      }
+    ]
+  }
+}

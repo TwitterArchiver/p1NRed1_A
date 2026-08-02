@@ -1,0 +1,259 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1798357070560870400"
+      ],
+      "media_source_tweet_id": [
+        "1798357075157983669"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1798514935020057011",
+    "created_at": "2024-06-06T00:39:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-06T01:39:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798514935020057011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1725853764697935872",
+          "start": 3,
+          "username": "brideena"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/4PHKULhS0T",
+          "end": 72,
+          "expanded_url": "https://twitter.com/brideena/status/1798357075157983669/photo/1",
+          "media_key": "3_1798357070560870400",
+          "start": 49,
+          "url": "https://t.co/4PHKULhS0T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798514935020057011",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798357075157983669",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @brideena: \"School starts at 7:00\" Me at 6:66 https://t.co/4PHKULhS0T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 933,
+        "media_key": "3_1798357070560870400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPUMOkIXwAA1JMr.jpg",
+        "width": 901
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1798357070560870400"
+          ],
+          "media_source_tweet_id": [
+            "1798357075157983669"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1798514935020057011",
+        "created_at": "2024-06-06T00:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T01:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798514935020057011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1725853764697935872",
+              "start": 3,
+              "username": "brideena"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/4PHKULhS0T",
+              "end": 72,
+              "expanded_url": "https://twitter.com/brideena/status/1798357075157983669/photo/1",
+              "media_key": "3_1798357070560870400",
+              "start": 49,
+              "url": "https://t.co/4PHKULhS0T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798514935020057011",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798357075157983669",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @brideena: \"School starts at 7:00\" Me at 6:66 https://t.co/4PHKULhS0T"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1798357070560870400"
+          ]
+        },
+        "author_id": "1725853764697935872",
+        "conversation_id": "1798357075157983669",
+        "created_at": "2024-06-05T14:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T15:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798357075157983669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/4PHKULhS0T",
+              "end": 58,
+              "expanded_url": "https://twitter.com/brideena/status/1798357075157983669/photo/1",
+              "media_key": "3_1798357070560870400",
+              "start": 35,
+              "url": "https://t.co/4PHKULhS0T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798357075157983669",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 449,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "\"School starts at 7:00\" Me at 6:66 https://t.co/4PHKULhS0T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797607843975385088/wUYNFJ2h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 167,
+          "like_count": 315,
+          "listed_count": 0,
+          "tweet_count": 1092
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T12:29:50.000Z",
+        "description": "➔ 🌹🪄🌱 oshi | backup: @kittyctaa | priv:@skibidimeru | form: https://t.co/INpuv02NP9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "kittyctaa"
+              },
+              {
+                "end": 51,
+                "start": 39,
+                "username": "skibidimeru"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "forms.gle/7KysDeBmno4yMZ…",
+                "end": 83,
+                "expanded_url": "https://forms.gle/7KysDeBmno4yMZgg6",
+                "start": 60,
+                "url": "https://t.co/INpuv02NP9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rentry.co/isanessing",
+                "end": 23,
+                "expanded_url": "https://rentry.co/isanessing",
+                "start": 0,
+                "url": "https://t.co/KwmNeDRaXj"
+              }
+            ]
+          }
+        },
+        "id": "1725853764697935872",
+        "location": "Multifandom |  ENG/TR  | ↓18",
+        "name": "cta 🎀",
+        "pinned_tweet_id": "1789021047909392537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796827858800721920/RulDT_Es_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 432,
+          "like_count": 9873,
+          "listed_count": 0,
+          "tweet_count": 2456
+        },
+        "url": "https://t.co/KwmNeDRaXj",
+        "username": "brideena",
+        "verified": false
+      }
+    ]
+  }
+}

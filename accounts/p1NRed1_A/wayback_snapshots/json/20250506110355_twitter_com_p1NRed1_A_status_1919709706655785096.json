@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1919676326140649724",
+    "created_at": "2025-05-06T11:03:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T12:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919709706655785096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1910265162856366080",
+          "start": 0,
+          "username": "yiwa76862"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919709706655785096",
+    "in_reply_to_user_id": "1910265162856366080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919708577998242061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yiwa76862 谢谢你小水水"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "16_1919708565813788672",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GqQsxQGbAAA5APD.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GqQsxQGbAAA5APD.mp4"
+          }
+        ],
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1919676326140649724",
+        "created_at": "2025-05-06T11:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T12:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919709706655785096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1910265162856366080",
+              "start": 0,
+              "username": "yiwa76862"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919709706655785096",
+        "in_reply_to_user_id": "1910265162856366080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919708577998242061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yiwa76862 谢谢你小水水"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1919708565813788672"
+          ]
+        },
+        "author_id": "1910265162856366080",
+        "conversation_id": "1919676326140649724",
+        "created_at": "2025-05-06T10:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T11:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919708577998242061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BFsS6gpW2j",
+              "end": 72,
+              "expanded_url": "https://x.com/yiwa76862/status/1919708577998242061/photo/1",
+              "media_key": "16_1919708565813788672",
+              "start": 49,
+              "url": "https://t.co/BFsS6gpW2j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919708577998242061",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919676326140649724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 咕咚！咕咚！我在的哦！随时随地都可以和我聊天！希望你好好！永远永远大开心！ https://t.co/BFsS6gpW2j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 401,
+          "like_count": 1203,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 3829
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T09:35:02.000Z",
+        "description": "互助群组群主，fgo望月千代女单推人，来源图片皆为约稿",
+        "id": "1910265162856366080",
+        "name": "每一天都喜欢千代女(⌒▽⌒)☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910265696552132608/S5JX-2FL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 75,
+          "like_count": 777,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 186
+        },
+        "username": "yiwa76862",
+        "verified": false
+      }
+    ]
+  }
+}

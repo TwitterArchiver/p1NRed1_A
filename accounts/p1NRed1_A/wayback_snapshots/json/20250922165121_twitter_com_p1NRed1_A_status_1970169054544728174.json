@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970169047498346496"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1970169054544728174",
+    "created_at": "2025-09-22T16:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T17:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970169054544728174"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/niCaHeGPcC",
+          "end": 44,
+          "expanded_url": "https://x.com/p1NRed1_A/status/1970169054544728174/photo/1",
+          "media_key": "3_1970169047498346496",
+          "start": 21,
+          "url": "https://t.co/niCaHeGPcC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970169054544728174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是稿件不要使用嗯然后就是我第二次画男的 https://t.co/niCaHeGPcC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 911,
+        "media_key": "3_1970169047498346496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1dyT2-b0AArZEo.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970169047498346496"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1970169054544728174",
+        "created_at": "2025-09-22T16:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T17:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970169054544728174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/niCaHeGPcC",
+              "end": 44,
+              "expanded_url": "https://x.com/p1NRed1_A/status/1970169054544728174/photo/1",
+              "media_key": "3_1970169047498346496",
+              "start": 21,
+              "url": "https://t.co/niCaHeGPcC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970169054544728174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是稿件不要使用嗯然后就是我第二次画男的 https://t.co/niCaHeGPcC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 456,
+          "like_count": 1418,
+          "listed_count": 2,
+          "media_count": 266,
+          "tweet_count": 4780
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

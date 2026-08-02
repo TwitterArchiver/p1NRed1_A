@@ -1,0 +1,215 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1813450402630897689",
+    "created_at": "2024-07-17T05:47:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-17T06:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1813450402630897689"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/riruruirl/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/riruruirl/status/1813024105018630324",
+          "start": 5,
+          "url": "https://t.co/KRVFXuYvzv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813450402630897689",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813024105018630324",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要这个 https://t.co/KRVFXuYvzv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1813450402630897689",
+        "created_at": "2024-07-17T05:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T06:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813450402630897689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/riruruirl/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/riruruirl/status/1813024105018630324",
+              "start": 5,
+              "url": "https://t.co/KRVFXuYvzv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813450402630897689",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813024105018630324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要这个 https://t.co/KRVFXuYvzv"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1813024098580115456",
+            "3_1813024098571763712"
+          ]
+        },
+        "author_id": "1738206334451933184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1813024105018630324",
+        "created_at": "2024-07-16T01:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T02:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813024105018630324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ooK7euLQ0V",
+              "end": 37,
+              "expanded_url": "https://twitter.com/riruruirl/status/1813024105018630324/photo/1",
+              "media_key": "3_1813024098580115456",
+              "start": 14,
+              "url": "https://t.co/ooK7euLQ0V"
+            },
+            {
+              "display_url": "pic.twitter.com/ooK7euLQ0V",
+              "end": 37,
+              "expanded_url": "https://twitter.com/riruruirl/status/1813024105018630324/photo/1",
+              "media_key": "3_1813024098571763712",
+              "start": 14,
+              "url": "https://t.co/ooK7euLQ0V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813024105018630324",
+        "lang": "in",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 28954,
+          "like_count": 1335,
+          "quote_count": 14,
+          "reply_count": 14,
+          "retweet_count": 180
+        },
+        "reply_settings": "everyone",
+        "text": "yuki fumo…….. https://t.co/ooK7euLQ0V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563382332014593/-06gBRx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 230,
+          "like_count": 528,
+          "listed_count": 0,
+          "tweet_count": 2118
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-22T14:34:29.000Z",
+        "description": "幸せな日々 ♪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/sayooshi",
+                "end": 23,
+                "expanded_url": "https://lit.link/sayooshi",
+                "start": 0,
+                "url": "https://t.co/w3JES5MvYQ"
+              }
+            ]
+          }
+        },
+        "id": "1738206334451933184",
+        "name": "rose",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813340436125073408/rI0nCZeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 973,
+          "following_count": 90,
+          "like_count": 3990,
+          "listed_count": 4,
+          "tweet_count": 354
+        },
+        "url": "https://t.co/w3JES5MvYQ",
+        "username": "riruruirl",
+        "verified": false
+      }
+    ]
+  }
+}

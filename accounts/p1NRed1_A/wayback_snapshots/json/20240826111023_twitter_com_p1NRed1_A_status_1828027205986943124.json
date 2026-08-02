@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1827653720374652928"
+      ],
+      "media_source_tweet_id": [
+        "1827653728394219762"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1828027205986943124",
+    "created_at": "2024-08-26T11:10:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T12:10:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828027205986943124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1599063788094750720",
+          "start": 3,
+          "username": "nnc__r_t"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ljdv2f3dfr",
+          "end": 40,
+          "expanded_url": "https://twitter.com/nnc__r_t/status/1827653728394219762/photo/1",
+          "media_key": "3_1827653720374652928",
+          "start": 17,
+          "url": "https://t.co/ljdv2f3dFR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828027205986943124",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1984
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827653728394219762",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nnc__r_t: 秘密 https://t.co/ljdv2f3dFR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 972,
+        "media_key": "3_1827653720374652928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GV0hYBdaMAA43mm.jpg",
+        "width": 1497
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827653720374652928"
+          ],
+          "media_source_tweet_id": [
+            "1827653728394219762"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1828027205986943124",
+        "created_at": "2024-08-26T11:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T12:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828027205986943124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1599063788094750720",
+              "start": 3,
+              "username": "nnc__r_t"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ljdv2f3dfr",
+              "end": 40,
+              "expanded_url": "https://twitter.com/nnc__r_t/status/1827653728394219762/photo/1",
+              "media_key": "3_1827653720374652928",
+              "start": 17,
+              "url": "https://t.co/ljdv2f3dFR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828027205986943124",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1984
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827653728394219762",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nnc__r_t: 秘密 https://t.co/ljdv2f3dFR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827653720374652928"
+          ]
+        },
+        "author_id": "1599063788094750720",
+        "conversation_id": "1827653728394219762",
+        "created_at": "2024-08-25T10:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T11:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827653728394219762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ljdv2f3dfr",
+              "end": 26,
+              "expanded_url": "https://twitter.com/nnc__r_t/status/1827653728394219762/photo/1",
+              "media_key": "3_1827653720374652928",
+              "start": 3,
+              "url": "https://t.co/ljdv2f3dFR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827653728394219762",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2269,
+          "impression_count": 364470,
+          "like_count": 20594,
+          "quote_count": 9,
+          "reply_count": 6,
+          "retweet_count": 1984
+        },
+        "reply_settings": "everyone",
+        "text": "秘密 https://t.co/ljdv2f3dFR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 262,
+          "like_count": 798,
+          "listed_count": 0,
+          "tweet_count": 2589
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T15:31:56.000Z",
+        "description": "記録",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/dfoxx68at210s0…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/dfoxx68at210s05?t=cFVx3e&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/bFgGqvJbEr"
+              }
+            ]
+          }
+        },
+        "id": "1599063788094750720",
+        "location": "ご依頼はDMまで✉ ͗ ͗",
+        "name": "𝙍𝙀𝙈𝙐",
+        "pinned_tweet_id": "1795806098659934687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786654790614908928/hCn_Ciq1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6726,
+          "following_count": 151,
+          "like_count": 3959,
+          "listed_count": 49,
+          "tweet_count": 362
+        },
+        "url": "https://t.co/bFgGqvJbEr",
+        "username": "nnc__r_t",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1758449540666163200"
+      ],
+      "media_source_tweet_id": [
+        "1758449572177936506"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1816014837333602679",
+    "created_at": "2024-07-24T07:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-24T08:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816014837333602679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1733558420270125056",
+          "start": 3,
+          "username": "HourlyChiyoChan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/RXAnUBj4vA",
+          "end": 44,
+          "expanded_url": "https://twitter.com/nuelkhalis/status/1758449572177936506/video/1",
+          "media_key": "7_1758449540666163200",
+          "start": 21,
+          "url": "https://t.co/RXAnUBj4vA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816014837333602679",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 328
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815789919500960196",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HourlyChiyoChan: https://t.co/RXAnUBj4vA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8823,
+        "height": 1138,
+        "media_key": "7_1758449540666163200",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1758449540666163200/pu/img/sKyKQUG1xkntTXWf.jpg",
+        "public_metrics": {
+          "view_count": 83591
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1758449540666163200/pu/vid/avc1/320x568/h9LGJHxPyNyMkpVz.mp4?tag=15"
+          },
+          {
+            "bit_rate": 772800,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1758449540666163200/pu/vid/hevc/480x852/Q9DxQ6vTPmcsA-kV.mp4?tag=15"
+          },
+          {
+            "bit_rate": 1664000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1758449540666163200/pu/vid/hevc/640x1138/37q0S0xhb7UlaRHG.mp4?tag=15"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1758449540666163200/pu/pl/KnY1Pp4xL4hEHuAP.m3u8?tag=15"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1758449540666163200"
+          ],
+          "media_source_tweet_id": [
+            "1758449572177936506"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1816014837333602679",
+        "created_at": "2024-07-24T07:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T08:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816014837333602679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1733558420270125056",
+              "start": 3,
+              "username": "HourlyChiyoChan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/RXAnUBj4vA",
+              "end": 44,
+              "expanded_url": "https://twitter.com/nuelkhalis/status/1758449572177936506/video/1",
+              "media_key": "7_1758449540666163200",
+              "start": 21,
+              "url": "https://t.co/RXAnUBj4vA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816014837333602679",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 328
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815789919500960196",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HourlyChiyoChan: https://t.co/RXAnUBj4vA"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1758449540666163200"
+          ],
+          "media_source_tweet_id": [
+            "1758449572177936506"
+          ]
+        },
+        "author_id": "1733558420270125056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1815789919500960196",
+        "created_at": "2024-07-23T16:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T17:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815789919500960196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/RXAnUBj4vA",
+              "end": 23,
+              "expanded_url": "https://twitter.com/nuelkhalis/status/1758449572177936506/video/1",
+              "media_key": "7_1758449540666163200",
+              "start": 0,
+              "url": "https://t.co/RXAnUBj4vA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815789919500960196",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 285,
+          "impression_count": 19249,
+          "like_count": 2198,
+          "quote_count": 6,
+          "reply_count": 7,
+          "retweet_count": 328
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RXAnUBj4vA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563382332014593/-06gBRx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 233,
+          "like_count": 547,
+          "listed_count": 0,
+          "tweet_count": 2152
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T18:45:28.000Z",
+        "description": "(almost) every hour a picture from chiyo mihama best friends of all universes",
+        "id": "1733558420270125056",
+        "name": "Chiyo And Friends",
+        "pinned_tweet_id": "1785822393371439588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815795352252932096/UeIiPSFV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10053,
+          "following_count": 164,
+          "like_count": 2247,
+          "listed_count": 6,
+          "tweet_count": 2563
+        },
+        "username": "HourlyChiyoChan",
+        "verified": false
+      }
+    ]
+  }
+}

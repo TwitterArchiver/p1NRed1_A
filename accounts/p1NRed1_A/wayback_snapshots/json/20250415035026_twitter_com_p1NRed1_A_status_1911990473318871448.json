@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1874747861465989120"
+      ],
+      "media_source_tweet_id": [
+        "1911696174760841610"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1911990473318871448",
+    "created_at": "2025-04-15T03:50:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T04:50:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911990473318871448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1390141018381508610",
+          "start": 3,
+          "username": "SHAFT_BOX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/964RjP8clG",
+          "end": 49,
+          "expanded_url": "https://x.com/SHAFT_BOX/status/1911696174760841610/photo/1",
+          "media_key": "3_1874747861465989120",
+          "start": 26,
+          "url": "https://t.co/964RjP8clG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911990473318871448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911696174760841610",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SHAFT_BOX: ❒ さよなら絶望先生 https://t.co/964RjP8clG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 707,
+        "media_key": "3_1874747861465989120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgRxP0YagAArlgi.jpg",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874747861465989120"
+          ],
+          "media_source_tweet_id": [
+            "1911696174760841610"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1911990473318871448",
+        "created_at": "2025-04-15T03:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T04:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911990473318871448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1390141018381508610",
+              "start": 3,
+              "username": "SHAFT_BOX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/964RjP8clG",
+              "end": 49,
+              "expanded_url": "https://x.com/SHAFT_BOX/status/1911696174760841610/photo/1",
+              "media_key": "3_1874747861465989120",
+              "start": 26,
+              "url": "https://t.co/964RjP8clG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911990473318871448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911696174760841610",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SHAFT_BOX: ❒ さよなら絶望先生 https://t.co/964RjP8clG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874747861465989120"
+          ]
+        },
+        "author_id": "1390141018381508610",
+        "conversation_id": "1911696174760841610",
+        "created_at": "2025-04-14T08:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T09:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911696174760841610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/964RjP8clG",
+              "end": 34,
+              "expanded_url": "https://x.com/SHAFT_BOX/status/1911696174760841610/photo/1",
+              "media_key": "3_1874747861465989120",
+              "start": 11,
+              "url": "https://t.co/964RjP8clG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911696174760841610",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 5903,
+          "like_count": 350,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "❒ さよなら絶望先生 https://t.co/964RjP8clG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910291251003547648/-uuCvZrl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 365,
+          "like_count": 1146,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 3533
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-06T03:07:07.000Z",
+        "description": "「見えなくてもいいことがあると思うんですけど、見えた方がいいことっていうのもあると思うんです」BY @RIDERLIMITED\n\n・・・ －－－ ・・・\n▶ ART GALLERY feat. SHAFT™ ANIMATION STUDIO\n▶ INDIE ANIME: @ETERNAL_PRO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "RIDERLIMITED"
+              },
+              {
+                "end": 148,
+                "start": 136,
+                "username": "ETERNAL_PRO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shaftbox.tumblr.com",
+                "end": 23,
+                "expanded_url": "https://shaftbox.tumblr.com/",
+                "start": 0,
+                "url": "https://t.co/Z7MklSBXtX"
+              }
+            ]
+          }
+        },
+        "id": "1390141018381508610",
+        "location": "東京都杉並区上井草一丁目29番15号",
+        "name": "SHAFT BOX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1390164379312672768/_qcQux89_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22820,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 104,
+          "media_count": 1510,
+          "tweet_count": 1545
+        },
+        "url": "https://t.co/Z7MklSBXtX",
+        "username": "SHAFT_BOX",
+        "verified": false
+      }
+    ]
+  }
+}

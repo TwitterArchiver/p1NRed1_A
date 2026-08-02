@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1975818467246022838",
+    "created_at": "2025-10-08T14:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T15:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975924849009688956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1643339405908664325",
+          "start": 0,
+          "username": "loryanfu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975924849009688956",
+    "in_reply_to_user_id": "1643339405908664325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975901995006599644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loryanfu 妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1975818467246022838",
+        "created_at": "2025-10-08T14:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T15:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975924849009688956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643339405908664325",
+              "start": 0,
+              "username": "loryanfu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975924849009688956",
+        "in_reply_to_user_id": "1643339405908664325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975901995006599644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loryanfu 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643339405908664325",
+        "conversation_id": "1975818467246022838",
+        "created_at": "2025-10-08T12:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T13:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975901995006599644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975901995006599644",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975818467246022838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 好好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 472,
+          "like_count": 1475,
+          "listed_count": 2,
+          "media_count": 283,
+          "tweet_count": 4968
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-04T19:47:10.000Z",
+        "description": "👽🐭重加工每一张图都是不同的脸/社交低能 /中文&ENG",
+        "id": "1643339405908664325",
+        "location": "0.5km",
+        "name": "コイ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856948486794604545/hu9Mr76U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 153,
+          "like_count": 16325,
+          "listed_count": 4,
+          "media_count": 84,
+          "tweet_count": 1027
+        },
+        "username": "loryanfu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995186240367542272"
+      ],
+      "media_source_tweet_id": [
+        "1995186244016590992"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1999305505874002342",
+    "created_at": "2025-12-12T02:29:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T03:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999305505874002342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "162574969",
+          "start": 3,
+          "username": "doberes"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mH3OLuIMW7",
+          "end": 36,
+          "expanded_url": "https://x.com/doberes/status/1995186244016590992/photo/1",
+          "media_key": "3_1995186240367542272",
+          "start": 13,
+          "url": "https://t.co/mH3OLuIMW7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999305505874002342",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1743
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995186244016590992",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doberes: https://t.co/mH3OLuIMW7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1995186240367542272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7BTUI3awAAFGlH.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995186240367542272"
+          ],
+          "media_source_tweet_id": [
+            "1995186244016590992"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1999305505874002342",
+        "created_at": "2025-12-12T02:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T03:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999305505874002342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "162574969",
+              "start": 3,
+              "username": "doberes"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mH3OLuIMW7",
+              "end": 36,
+              "expanded_url": "https://x.com/doberes/status/1995186244016590992/photo/1",
+              "media_key": "3_1995186240367542272",
+              "start": 13,
+              "url": "https://t.co/mH3OLuIMW7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999305505874002342",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1743
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995186244016590992",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doberes: https://t.co/mH3OLuIMW7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995186240367542272"
+          ]
+        },
+        "author_id": "162574969",
+        "conversation_id": "1995186244016590992",
+        "created_at": "2025-11-30T17:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T18:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995186244016590992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mH3OLuIMW7",
+              "end": 23,
+              "expanded_url": "https://x.com/doberes/status/1995186244016590992/photo/1",
+              "media_key": "3_1995186240367542272",
+              "start": 0,
+              "url": "https://t.co/mH3OLuIMW7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995186244016590992",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5089,
+          "impression_count": 391183,
+          "like_count": 25184,
+          "quote_count": 44,
+          "reply_count": 12,
+          "retweet_count": 1743
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mH3OLuIMW7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "我擅长产出大粪",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 496,
+          "like_count": 1585,
+          "listed_count": 2,
+          "media_count": 317,
+          "tweet_count": 5408
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-04T02:35:54.000Z",
+        "description": "eclectic, inverted y-axis, collector, internet barbarian, collage artist",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "objkt.com/profile/tz1dvf…",
+                "end": 23,
+                "expanded_url": "https://objkt.com/profile/tz1dvfKrXNmubsQdbkjpCShtH1rJLThithmg/created",
+                "start": 0,
+                "url": "https://t.co/gec0nG9zQw"
+              }
+            ]
+          }
+        },
+        "id": "162574969",
+        "location": "San Francisco",
+        "name": "d",
+        "pinned_tweet_id": "1622094482236915712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1539983805330493440/Y84fALff_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30817,
+          "following_count": 2567,
+          "like_count": 100026,
+          "listed_count": 295,
+          "media_count": 11801,
+          "tweet_count": 18736
+        },
+        "url": "https://t.co/gec0nG9zQw",
+        "username": "doberes",
+        "verified": false
+      }
+    ]
+  }
+}

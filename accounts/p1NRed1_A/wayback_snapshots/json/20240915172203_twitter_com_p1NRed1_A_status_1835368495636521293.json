@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1835343711280185344"
+      ],
+      "media_source_tweet_id": [
+        "1835343723707929077"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1324127674575450113",
+          "name": "School festivals"
+        }
+      }
+    ],
+    "conversation_id": "1835368495636521293",
+    "created_at": "2024-09-15T17:22:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T18:22:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835368495636521293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1793638550799568896",
+          "start": 3,
+          "username": "asebi_____0421"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cjuuxpky0k",
+          "end": 51,
+          "expanded_url": "https://twitter.com/asebi_____0421/status/1835343723707929077/photo/1",
+          "media_key": "3_1835343711280185344",
+          "start": 28,
+          "url": "https://t.co/CjUuxpKy0K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835368495636521293",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835343723707929077",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @asebi_____0421: 文化祭楽しんだ https://t.co/CjUuxpKy0K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1835343711280185344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXhzYZ-aQAAVVh4.jpg",
+        "width": 1766
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835343711280185344"
+          ],
+          "media_source_tweet_id": [
+            "1835343723707929077"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324127674575450113",
+              "name": "School festivals"
+            }
+          }
+        ],
+        "conversation_id": "1835368495636521293",
+        "created_at": "2024-09-15T17:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T18:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835368495636521293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1793638550799568896",
+              "start": 3,
+              "username": "asebi_____0421"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cjuuxpky0k",
+              "end": 51,
+              "expanded_url": "https://twitter.com/asebi_____0421/status/1835343723707929077/photo/1",
+              "media_key": "3_1835343711280185344",
+              "start": 28,
+              "url": "https://t.co/CjUuxpKy0K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835368495636521293",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835343723707929077",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @asebi_____0421: 文化祭楽しんだ https://t.co/CjUuxpKy0K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835343711280185344"
+          ]
+        },
+        "author_id": "1793638550799568896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324127674575450113",
+              "name": "School festivals"
+            }
+          }
+        ],
+        "conversation_id": "1835343723707929077",
+        "created_at": "2024-09-15T15:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T16:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835343723707929077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cjuuxpky0k",
+              "end": 31,
+              "expanded_url": "https://twitter.com/asebi_____0421/status/1835343723707929077/photo/1",
+              "media_key": "3_1835343711280185344",
+              "start": 8,
+              "url": "https://t.co/CjUuxpKy0K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835343723707929077",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "文化祭楽しんだ https://t.co/CjUuxpKy0K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1834534967725998516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 271,
+          "like_count": 881,
+          "listed_count": 0,
+          "tweet_count": 2757
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-23T13:43:42.000Z",
+        "description": "アニメーター志望 / 原作9巻まで！マシュマロ▶︎ https://t.co/4UVaGERw33",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/syanpu___2222?…",
+                "end": 49,
+                "expanded_url": "https://marshmallow-qa.com/syanpu___2222?t=AVKjCb&utm_medium=url_text&utm_source=promotion",
+                "start": 26,
+                "url": "https://t.co/4UVaGERw33"
+              }
+            ]
+          }
+        },
+        "id": "1793638550799568896",
+        "name": "らまお",
+        "pinned_tweet_id": "1822683474412941638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823014914186981376/y-Pb8EJq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 32,
+          "like_count": 5521,
+          "listed_count": 0,
+          "tweet_count": 193
+        },
+        "username": "asebi_____0421",
+        "verified": false
+      }
+    ]
+  }
+}

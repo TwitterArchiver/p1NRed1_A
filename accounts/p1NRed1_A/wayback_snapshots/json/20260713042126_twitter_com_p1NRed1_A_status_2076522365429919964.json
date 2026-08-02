@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2076522365429919964",
+    "created_at": "2026-07-13T04:21:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T05:21:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076522365429919964"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/joyci_schecter…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/joyci_schecter/status/2076419367684772041",
+          "start": 7,
+          "url": "https://t.co/16W57vlPvG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076522365429919964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076419367684772041",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我被这样对待 https://t.co/16W57vlPvG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2076522365429919964",
+        "created_at": "2026-07-13T04:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076522365429919964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/joyci_schecter…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/joyci_schecter/status/2076419367684772041",
+              "start": 7,
+              "url": "https://t.co/16W57vlPvG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076522365429919964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076419367684772041",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我被这样对待 https://t.co/16W57vlPvG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669066427699961875",
+        "conversation_id": "2076419367684772041",
+        "created_at": "2026-07-12T21:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T22:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076419367684772041"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076419367684772041",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1469,
+          "impression_count": 562416,
+          "like_count": 25931,
+          "quote_count": 428,
+          "reply_count": 12,
+          "retweet_count": 427
+        },
+        "reply_settings": "following",
+        "text": "Thinking about my ex gf who was a creative writing major and I’d always be like babe. Let me read your writing and she was like no I’m so embarrassed about it and then I read it and it was so bad that I had to break up with her."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/9GooAZ0z7o"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "死全家星",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 571,
+          "like_count": 1786,
+          "listed_count": 3,
+          "media_count": 418,
+          "tweet_count": 6942
+        },
+        "url": "https://t.co/9GooAZ0z7o",
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-14T19:37:09.000Z",
+        "description": "no comment",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wikipedia.com",
+                "end": 23,
+                "expanded_url": "http://www.wikipedia.com",
+                "start": 0,
+                "url": "https://t.co/QbQ6JSDAsU"
+              }
+            ]
+          }
+        },
+        "id": "1669066427699961875",
+        "name": "j",
+        "pinned_tweet_id": "1822122556121317500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018062317053771776/JuTvelBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5728,
+          "following_count": 1439,
+          "like_count": 52099,
+          "listed_count": 9,
+          "media_count": 4231,
+          "tweet_count": 21313
+        },
+        "url": "https://t.co/QbQ6JSDAsU",
+        "username": "joyci_schecter",
+        "verified": false
+      }
+    ]
+  }
+}

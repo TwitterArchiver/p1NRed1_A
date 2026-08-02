@@ -1,0 +1,249 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1808081807289831875",
+    "created_at": "2024-07-02T10:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-02T11:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808081889019748385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1733524426262564864",
+          "start": 0,
+          "username": "Magura547455"
+        },
+        {
+          "end": 30,
+          "id": "1753324501167960064",
+          "start": 14,
+          "username": "tachibanalove01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808081889019748385",
+    "in_reply_to_user_id": "1733524426262564864",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808081807289831875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Magura547455 @tachibanalove01 谁要求你了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1808081807289831875",
+        "created_at": "2024-07-02T10:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T11:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808081889019748385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1733524426262564864",
+              "start": 0,
+              "username": "Magura547455"
+            },
+            {
+              "end": 30,
+              "id": "1753324501167960064",
+              "start": 14,
+              "username": "tachibanalove01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808081889019748385",
+        "in_reply_to_user_id": "1733524426262564864",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808081807289831875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Magura547455 @tachibanalove01 谁要求你了？"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1808081795449323520"
+          ]
+        },
+        "author_id": "1733524426262564864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1808081807289831875",
+        "created_at": "2024-07-02T10:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T11:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808081807289831875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1753324501167960064",
+              "start": 7,
+              "username": "tachibanalove01"
+            },
+            {
+              "end": 34,
+              "id": "1729436345913995265",
+              "start": 24,
+              "username": "p1NRed1_A"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/gdkjmTgJq9",
+              "end": 58,
+              "expanded_url": "https://twitter.com/Magura547455/status/1808081807289831875/photo/1",
+              "media_key": "3_1808081795449323520",
+              "start": 35,
+              "url": "https://t.co/gdkjmTgJq9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808081807289831875",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "应要求发一条和@tachibanalove01 @p1NRed1_A https://t.co/gdkjmTgJq9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563382332014593/-06gBRx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 210,
+          "like_count": 471,
+          "listed_count": 0,
+          "tweet_count": 1898
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T16:30:18.000Z",
+        "description": "",
+        "id": "1733524426262564864",
+        "location": "ボルテクス界",
+        "name": "繭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807805119989501952/l2rsi4zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 19,
+          "like_count": 197,
+          "listed_count": 0,
+          "tweet_count": 304
+        },
+        "username": "Magura547455",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T07:48:51.000Z",
+        "description": "骂我先骂@p1NRed1_A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "p1NRed1_A"
+              }
+            ]
+          }
+        },
+        "id": "1753324501167960064",
+        "location": "你心里",
+        "name": "穗西德",
+        "pinned_tweet_id": "1805982958525747496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563451064172551/1AouX01P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 373,
+          "like_count": 1765,
+          "listed_count": 0,
+          "tweet_count": 1301
+        },
+        "username": "tachibanalove01",
+        "verified": false
+      }
+    ]
+  }
+}

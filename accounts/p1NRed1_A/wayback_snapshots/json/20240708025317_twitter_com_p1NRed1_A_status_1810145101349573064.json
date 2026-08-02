@@ -1,0 +1,257 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1810130781081329664"
+      ],
+      "media_source_tweet_id": [
+        "1810130783912558640"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1810145101349573064",
+    "created_at": "2024-07-08T02:53:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-08T03:53:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810145101349573064"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 24,
+          "tag": "azumangadaioh"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1547446460781772800",
+          "start": 3,
+          "username": "hakosaker"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/jRA6DiNPPk",
+          "end": 62,
+          "expanded_url": "https://twitter.com/hakosaker/status/1810130783912558640/photo/1",
+          "media_key": "3_1810130781081329664",
+          "start": 39,
+          "url": "https://t.co/jRA6DiNPPk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810145101349573064",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810130783912558640",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hakosaker: day 167\n\n#azumangadaioh https://t.co/jRA6DiNPPk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_1810130781081329664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GR7gWttaYAAzkNH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1810130781081329664"
+          ],
+          "media_source_tweet_id": [
+            "1810130783912558640"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1810145101349573064",
+        "created_at": "2024-07-08T02:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T03:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810145101349573064"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 24,
+              "tag": "azumangadaioh"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1547446460781772800",
+              "start": 3,
+              "username": "hakosaker"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/jRA6DiNPPk",
+              "end": 62,
+              "expanded_url": "https://twitter.com/hakosaker/status/1810130783912558640/photo/1",
+              "media_key": "3_1810130781081329664",
+              "start": 39,
+              "url": "https://t.co/jRA6DiNPPk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810145101349573064",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810130783912558640",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hakosaker: day 167\n\n#azumangadaioh https://t.co/jRA6DiNPPk"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1810130781081329664"
+          ]
+        },
+        "author_id": "1547446460781772800",
+        "conversation_id": "1810130783912558640",
+        "created_at": "2024-07-08T01:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T02:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1810130783912558640"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 9,
+              "tag": "azumangadaioh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/jRA6DiNPPk",
+              "end": 47,
+              "expanded_url": "https://twitter.com/hakosaker/status/1810130783912558640/photo/1",
+              "media_key": "3_1810130781081329664",
+              "start": 24,
+              "url": "https://t.co/jRA6DiNPPk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810130783912558640",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 310,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "day 167\n\n#azumangadaioh https://t.co/jRA6DiNPPk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563382332014593/-06gBRx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 213,
+          "like_count": 472,
+          "listed_count": 0,
+          "tweet_count": 1936
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-14T05:02:47.000Z",
+        "description": "osaka my beloved",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/en/users/65580…",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/en/users/65580764",
+                "start": 0,
+                "url": "https://t.co/aSMIqUq7uv"
+              }
+            ]
+          }
+        },
+        "id": "1547446460781772800",
+        "location": "Condet",
+        "name": "hako",
+        "pinned_tweet_id": "1779204114775503143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788414878371450880/JtT11BBZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 95,
+          "like_count": 7567,
+          "listed_count": 3,
+          "tweet_count": 1909
+        },
+        "url": "https://t.co/aSMIqUq7uv",
+        "username": "hakosaker",
+        "verified": false
+      }
+    ]
+  }
+}

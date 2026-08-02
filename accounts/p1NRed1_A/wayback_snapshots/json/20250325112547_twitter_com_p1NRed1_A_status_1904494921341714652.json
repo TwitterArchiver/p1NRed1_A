@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1904494921341714652",
+    "created_at": "2025-03-25T11:25:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T12:25:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1904494921341714652"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/deus722/status…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/deus722/status/1904447896529104987",
+          "start": 7,
+          "url": "https://t.co/XIjf8IPM7i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904494921341714652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904447896529104987",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "河南人死全家 https://t.co/XIjf8IPM7i"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1904494921341714652",
+        "created_at": "2025-03-25T11:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T12:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904494921341714652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/deus722/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/deus722/status/1904447896529104987",
+              "start": 7,
+              "url": "https://t.co/XIjf8IPM7i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904494921341714652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904447896529104987",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "河南人死全家 https://t.co/XIjf8IPM7i"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558684370386399232",
+        "conversation_id": "1904447896529104987",
+        "created_at": "2025-03-25T08:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T09:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904447896529104987"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904447896529104987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 656,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝们，东北狗和河南人哪个更死全家？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889564810410627072/YnTsykE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 333,
+          "like_count": 1106,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 3368
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T05:18:15.000Z",
+        "description": "媚黑恋父恋母恋童鸡奸群交的负债婊子一枚｜深爱每个操过我的人｜匿名留言链接➡️https://t.co/8SJCa3q9jk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/deus722",
+                "end": 61,
+                "expanded_url": "https://ngl.link/deus722",
+                "start": 38,
+                "url": "https://t.co/8SJCa3q9jk"
+              }
+            ]
+          }
+        },
+        "id": "1558684370386399232",
+        "location": "呵呵",
+        "name": "屠美丽8964",
+        "pinned_tweet_id": "1895525529337676119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891212005388042240/JemgIlio_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 355,
+          "like_count": 932,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 2058
+        },
+        "username": "Deus722",
+        "verified": false
+      }
+    ]
+  }
+}

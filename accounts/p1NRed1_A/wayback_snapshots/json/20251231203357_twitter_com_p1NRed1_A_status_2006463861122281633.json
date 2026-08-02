@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006373641664315392"
+      ],
+      "media_source_tweet_id": [
+        "2006373647070740906"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "2006463861122281633",
+    "created_at": "2025-12-31T20:33:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T21:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006463861122281633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1759812244932902912",
+          "start": 3,
+          "username": "kawaoka_nano_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0bGpIY95wJ",
+          "end": 71,
+          "expanded_url": "https://x.com/kawaoka_nano_/status/2006373647070740906/photo/1",
+          "media_key": "3_2006373641664315392",
+          "start": 48,
+          "url": "https://t.co/0bGpIY95wJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006463861122281633",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006373647070740906",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kawaoka_nano_: 今年はありがとうございました❣️良い年をお迎えください♫ https://t.co/0bGpIY95wJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2006373641664315392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9gSMmYbwAAGIs6.jpg",
+        "width": 1431
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006373641664315392"
+          ],
+          "media_source_tweet_id": [
+            "2006373647070740906"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "2006463861122281633",
+        "created_at": "2025-12-31T20:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T21:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006463861122281633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1759812244932902912",
+              "start": 3,
+              "username": "kawaoka_nano_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0bGpIY95wJ",
+              "end": 71,
+              "expanded_url": "https://x.com/kawaoka_nano_/status/2006373647070740906/photo/1",
+              "media_key": "3_2006373641664315392",
+              "start": 48,
+              "url": "https://t.co/0bGpIY95wJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006463861122281633",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006373647070740906",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kawaoka_nano_: 今年はありがとうございました❣️良い年をお迎えください♫ https://t.co/0bGpIY95wJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006373641664315392"
+          ]
+        },
+        "author_id": "1759812244932902912",
+        "conversation_id": "2006373647070740906",
+        "created_at": "2025-12-31T14:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T15:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006373647070740906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0bGpIY95wJ",
+              "end": 52,
+              "expanded_url": "https://x.com/kawaoka_nano_/status/2006373647070740906/photo/1",
+              "media_key": "3_2006373641664315392",
+              "start": 29,
+              "url": "https://t.co/0bGpIY95wJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006373647070740906",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 966,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "今年はありがとうございました❣️良い年をお迎えください♫ https://t.co/0bGpIY95wJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "我擅长产出大粪",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 500,
+          "like_count": 1602,
+          "listed_count": 2,
+          "media_count": 324,
+          "tweet_count": 5504
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T05:28:46.000Z",
+        "description": "かわおでいいよ！",
+        "id": "1759812244932902912",
+        "location": "ハウス",
+        "name": "どうすりゃええねん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907086985631875072/X-gTfiiL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1453,
+          "following_count": 94,
+          "like_count": 9838,
+          "listed_count": 4,
+          "media_count": 160,
+          "tweet_count": 2327
+        },
+        "username": "kawaoka_nano_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1807810085898588194",
+    "created_at": "2024-07-01T16:15:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-01T17:15:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807810358041874642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1733524426262564864",
+          "start": 0,
+          "username": "Magura547455"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807810358041874642",
+    "in_reply_to_user_id": "1733524426262564864",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807810085898588194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Magura547455 傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1807810085898588194",
+        "created_at": "2024-07-01T16:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T17:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807810358041874642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1733524426262564864",
+              "start": 0,
+              "username": "Magura547455"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807810358041874642",
+        "in_reply_to_user_id": "1733524426262564864",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807810085898588194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Magura547455 傻逼"
+      },
+      {
+        "attachments": {},
+        "author_id": "1733524426262564864",
+        "conversation_id": "1807810085898588194",
+        "created_at": "2024-07-01T16:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T17:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807810085898588194"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1807810085898588194",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "我涨了两个粉丝😺善哉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563382332014593/-06gBRx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 208,
+          "like_count": 466,
+          "listed_count": 0,
+          "tweet_count": 1856
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T16:30:18.000Z",
+        "description": "",
+        "id": "1733524426262564864",
+        "location": "ボルテクス界",
+        "name": "繭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807805119989501952/l2rsi4zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 16,
+          "like_count": 194,
+          "listed_count": 0,
+          "tweet_count": 298
+        },
+        "username": "Magura547455",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1937820036057690259",
+    "created_at": "2025-06-25T10:27:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T11:27:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937820036057690259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3191059784",
+          "start": 3,
+          "username": "USAO926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937820036057690259",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937819000152719714",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @USAO926: 💪💪💪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1937820036057690259",
+        "created_at": "2025-06-25T10:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T11:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937820036057690259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3191059784",
+              "start": 3,
+              "username": "USAO926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937820036057690259",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937819000152719714",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @USAO926: 💪💪💪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3191059784",
+        "conversation_id": "1937819000152719714",
+        "created_at": "2025-06-25T10:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T11:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937819000152719714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937819000152719714",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 667,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "💪💪💪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 413,
+          "like_count": 1231,
+          "listed_count": 1,
+          "media_count": 229,
+          "tweet_count": 4127
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-10T18:52:05.000Z",
+        "description": "音楽を作ります。\n依頼はusao926@gmail.comまで\nhttps://t.co/bFLZd613fo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/USAO926",
+                "end": 55,
+                "expanded_url": "http://youtube.com/USAO926",
+                "start": 32,
+                "url": "https://t.co/bFLZd613fo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/usao926",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/usao926",
+                "start": 0,
+                "url": "https://t.co/FPOdxL5zBS"
+              }
+            ]
+          }
+        },
+        "id": "3191059784",
+        "location": "横浜の辺り",
+        "name": "USAO@山奥",
+        "pinned_tweet_id": "1926534922686099630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1329004510161694722/DkD9DvBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139299,
+          "following_count": 651,
+          "like_count": 31384,
+          "listed_count": 652,
+          "media_count": 5774,
+          "tweet_count": 41423
+        },
+        "url": "https://t.co/FPOdxL5zBS",
+        "username": "USAO926",
+        "verified": true
+      }
+    ]
+  }
+}

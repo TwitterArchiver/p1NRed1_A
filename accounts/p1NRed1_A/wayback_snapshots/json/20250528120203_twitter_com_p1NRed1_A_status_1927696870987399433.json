@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1927634976331161711",
+    "created_at": "2025-05-28T12:02:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T13:02:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927696870987399433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1682010587839229952",
+          "start": 0,
+          "username": "sui_li22257"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927696870987399433",
+    "in_reply_to_user_id": "1682010587839229952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 8,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927691076552282140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sui_li22257 给我发点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1927634976331161711",
+        "created_at": "2025-05-28T12:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T13:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927696870987399433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1682010587839229952",
+              "start": 0,
+              "username": "sui_li22257"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927696870987399433",
+        "in_reply_to_user_id": "1682010587839229952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927691076552282140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sui_li22257 给我发点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682010587839229952",
+        "conversation_id": "1927634976331161711",
+        "created_at": "2025-05-28T11:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T12:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927691076552282140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927691076552282140",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927634976331161711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 找点有意思的梗图发朋友圈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 408,
+          "like_count": 1219,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 3970
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T12:53:10.000Z",
+        "description": "相关词汇：［infj］［颠公］［文青］［音乐］［拿不起但放得下］\n及：大脑年久失修 常常短路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "y.music.163.com/m/user?id=3036…",
+                "end": 23,
+                "expanded_url": "https://y.music.163.com/m/user?id=303680938",
+                "start": 0,
+                "url": "https://t.co/89B0MjGh1k"
+              }
+            ]
+          }
+        },
+        "id": "1682010587839229952",
+        "location": "［觉来知是梦 不胜悲］",
+        "name": "Symphony No. 2 in C minor.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903351906543579136/cfJheSMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 78,
+          "like_count": 6690,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 538
+        },
+        "url": "https://t.co/89B0MjGh1k",
+        "username": "sui_li22257",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1851041771431837696"
+      ],
+      "media_source_tweet_id": [
+        "1851041820538781819"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1851601418828038523",
+    "created_at": "2024-10-30T12:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-30T13:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851601418828038523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1720784641119211520",
+          "start": 3,
+          "username": "MmlzYn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ghQBPb2cai",
+          "end": 45,
+          "expanded_url": "https://x.com/MmlzYn/status/1851041820538781819/video/1",
+          "media_key": "7_1851041771431837696",
+          "start": 22,
+          "url": "https://t.co/ghQBPb2cai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851601418828038523",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2967
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851041820538781819",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MmlzYn: 音ゲーマー死ぬだろ https://t.co/ghQBPb2cai"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13718,
+        "height": 1272,
+        "media_key": "7_1851041771431837696",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1851041771431837696/pu/img/Zdt8EtfRHJqWPaaH.jpg",
+        "public_metrics": {
+          "view_count": 2002572
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1851041771431837696/pu/vid/avc1/320x564/OYxuomXfbegoFi0n.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1851041771431837696/pu/vid/avc1/480x848/hUdVjWpNKtFMTkt2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1851041771431837696/pu/vid/avc1/720x1272/6Oc1ZvINQEK6PMS-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1851041771431837696/pu/pl/T60QoLvggqBCYPnN.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1851041771431837696"
+          ],
+          "media_source_tweet_id": [
+            "1851041820538781819"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1851601418828038523",
+        "created_at": "2024-10-30T12:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T13:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851601418828038523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1720784641119211520",
+              "start": 3,
+              "username": "MmlzYn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ghQBPb2cai",
+              "end": 45,
+              "expanded_url": "https://x.com/MmlzYn/status/1851041820538781819/video/1",
+              "media_key": "7_1851041771431837696",
+              "start": 22,
+              "url": "https://t.co/ghQBPb2cai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851601418828038523",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2967
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851041820538781819",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MmlzYn: 音ゲーマー死ぬだろ https://t.co/ghQBPb2cai"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1851041771431837696"
+          ]
+        },
+        "author_id": "1720784641119211520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1851041820538781819",
+        "created_at": "2024-10-28T23:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-29T00:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851041820538781819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ghQBPb2cai",
+              "end": 33,
+              "expanded_url": "https://x.com/MmlzYn/status/1851041820538781819/video/1",
+              "media_key": "7_1851041771431837696",
+              "start": 10,
+              "url": "https://t.co/ghQBPb2cai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851041820538781819",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3684,
+          "impression_count": 5048684,
+          "like_count": 38611,
+          "quote_count": 1944,
+          "reply_count": 396,
+          "retweet_count": 2967
+        },
+        "reply_settings": "everyone",
+        "text": "音ゲーマー死ぬだろ https://t.co/ghQBPb2cai"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 285,
+          "like_count": 982,
+          "listed_count": 0,
+          "tweet_count": 3032
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T12:46:58.000Z",
+        "description": "もう頭痛でいいよ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/z7apahewz2bkx6…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/z7apahewz2bkx6g?t=2eNuYf&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/wYXGGyKAUW"
+              }
+            ]
+          }
+        },
+        "id": "1720784641119211520",
+        "location": "夢ノ咲学院労働部",
+        "name": "全部辞めたい",
+        "pinned_tweet_id": "1790012346007490730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720785786893979648/vW0J3f24_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 403,
+          "like_count": 35898,
+          "listed_count": 12,
+          "tweet_count": 1062
+        },
+        "url": "https://t.co/wYXGGyKAUW",
+        "username": "MmlzYn",
+        "verified": false
+      }
+    ]
+  }
+}

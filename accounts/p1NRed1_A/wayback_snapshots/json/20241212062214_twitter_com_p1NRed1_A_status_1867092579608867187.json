@@ -1,0 +1,482 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1867074517266477056"
+      ],
+      "media_source_tweet_id": [
+        "1867074635453567241"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202045",
+          "name": "Facebook"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202045",
+          "name": "Facebook"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "1867092579608867187",
+    "created_at": "2024-12-12T06:22:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T07:22:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867092579608867187"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 45,
+          "normalized_text": "sayonara zetsubou",
+          "probability": 0.5131,
+          "start": 29,
+          "type": "Other"
+        },
+        {
+          "end": 61,
+          "normalized_text": "facebook",
+          "probability": 0.8917,
+          "start": 54,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1465926855651962887",
+          "start": 3,
+          "username": "asadacel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xMjzdz5F9I",
+          "end": 100,
+          "expanded_url": "https://x.com/asadacel/status/1867074635453567241/photo/1",
+          "media_key": "3_1867074517266477056",
+          "start": 77,
+          "url": "https://t.co/xMjzdz5F9I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867092579608867187",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867074635453567241",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @asadacel: they got me on sayonara zetsubou sensei facebook cause of this https://t.co/xMjzdz5F9I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 593,
+        "media_key": "3_1867074517266477056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GekuYZraMAAXP0A.png",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867074517266477056"
+          ],
+          "media_source_tweet_id": [
+            "1867074635453567241"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1867092579608867187",
+        "created_at": "2024-12-12T06:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T07:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867092579608867187"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "sayonara zetsubou",
+              "probability": 0.5131,
+              "start": 29,
+              "type": "Other"
+            },
+            {
+              "end": 61,
+              "normalized_text": "facebook",
+              "probability": 0.8917,
+              "start": 54,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1465926855651962887",
+              "start": 3,
+              "username": "asadacel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xMjzdz5F9I",
+              "end": 100,
+              "expanded_url": "https://x.com/asadacel/status/1867074635453567241/photo/1",
+              "media_key": "3_1867074517266477056",
+              "start": 77,
+              "url": "https://t.co/xMjzdz5F9I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867092579608867187",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867074635453567241",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @asadacel: they got me on sayonara zetsubou sensei facebook cause of this https://t.co/xMjzdz5F9I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867074517266477056"
+          ]
+        },
+        "author_id": "1465926855651962887",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1867074635453567241",
+        "created_at": "2024-12-12T05:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T06:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867074635453567241"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "sayonara zetsubou",
+              "probability": 0.5392,
+              "start": 15,
+              "type": "Other"
+            },
+            {
+              "end": 47,
+              "normalized_text": "facebook",
+              "probability": 0.8849,
+              "start": 40,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xMjzdz5F9I",
+              "end": 86,
+              "expanded_url": "https://x.com/asadacel/status/1867074635453567241/photo/1",
+              "media_key": "3_1867074517266477056",
+              "start": 63,
+              "url": "https://t.co/xMjzdz5F9I"
+            },
+            {
+              "display_url": "x.com/vonixskulls/st…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/vonixskulls/status/1737686737600516459",
+              "start": 87,
+              "url": "https://t.co/KdK6xXFvyH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867074635453567241",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 347,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1737686737600516459",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "they got me on sayonara zetsubou sensei facebook cause of this https://t.co/xMjzdz5F9I https://t.co/KdK6xXFvyH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 295,
+          "like_count": 1022,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 3165
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-01T06:16:56.000Z",
+        "description": "assume spherical cows in a vacuum\n\nnsfw+lolisho DNI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "meatjungle.neocities.org",
+                "end": 23,
+                "expanded_url": "http://meatjungle.neocities.org",
+                "start": 0,
+                "url": "https://t.co/GDYzKea3Pw"
+              }
+            ]
+          }
+        },
+        "id": "1465926855651962887",
+        "location": "he, en/es 🆗 ",
+        "name": "has jimmy carter died yet ?",
+        "pinned_tweet_id": "1845312697467818234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814180742915936257/9QAqa8PF_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 308,
+          "like_count": 45557,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 1921
+        },
+        "url": "https://t.co/GDYzKea3Pw",
+        "username": "asadacel",
+        "verified": false
+      }
+    ]
+  }
+}

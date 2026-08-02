@@ -1,0 +1,378 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Government",
+          "id": "857878257630195712",
+          "name": "Government"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      }
+    ],
+    "conversation_id": "1798631383184937258",
+    "created_at": "2024-06-06T08:21:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-06T09:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798631383184937258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "8149482",
+          "start": 3,
+          "username": "VOAChinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798631383184937258",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798397861727473776",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VOAChinese: 六四天安门事件35周年，英国多地有举行的纪念活动，不少是由移民当地的香港人主办，抗议中国政府，显示他们不会忘记六四。在伦敦，亲历1989年民运的学生代表邵江举办集会，表示是让年青一代知道当年发生的事。 报道：https://t.co/yCwLvp…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          }
+        ],
+        "conversation_id": "1798631383184937258",
+        "created_at": "2024-06-06T08:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T09:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798631383184937258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "8149482",
+              "start": 3,
+              "username": "VOAChinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798631383184937258",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798397861727473776",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VOAChinese: 六四天安门事件35周年，英国多地有举行的纪念活动，不少是由移民当地的香港人主办，抗议中国政府，显示他们不会忘记六四。在伦敦，亲历1989年民运的学生代表邵江举办集会，表示是让年青一代知道当年发生的事。 报道：https://t.co/yCwLvp…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1798397084183236609"
+          ]
+        },
+        "author_id": "8149482",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          }
+        ],
+        "conversation_id": "1798397861727473776",
+        "created_at": "2024-06-05T16:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T17:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798397861727473776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "六四天安门事件35周年，英国多地举行纪念活动，不少是由移民当地的香港人主办，抗议中国政府，显示他们不会忘记六四。亲历1989年民运的学生代表邵江表示，组织相关活动是要让年轻一代知道当年发生的事。",
+              "display_url": "shorturl.at/LQk0E",
+              "end": 127,
+              "expanded_url": "https://shorturl.at/LQk0E",
+              "start": 104,
+              "status": 200,
+              "title": "数百人于伦敦中国大使馆外悼念六四 英国多处有纪念活动",
+              "unwound_url": "https://www.voachinese.com/a/hundreds-mourned-june-4-outside-the-chinese-embassy-in-london-20240605/7643350.html",
+              "url": "https://t.co/yCwLvpXfTO"
+            },
+            {
+              "display_url": "pic.twitter.com/XYuyqaMG8h",
+              "end": 151,
+              "expanded_url": "https://twitter.com/VOAChinese/status/1798397861727473776/video/1",
+              "media_key": "13_1798397084183236609",
+              "start": 128,
+              "url": "https://t.co/XYuyqaMG8h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798397861727473776",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 110336,
+          "like_count": 357,
+          "quote_count": 4,
+          "reply_count": 53,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "六四天安门事件35周年，英国多地有举行的纪念活动，不少是由移民当地的香港人主办，抗议中国政府，显示他们不会忘记六四。在伦敦，亲历1989年民运的学生代表邵江举办集会，表示是让年青一代知道当年发生的事。 报道：https://t.co/yCwLvpXfTO https://t.co/XYuyqaMG8h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797607843975385088/wUYNFJ2h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 169,
+          "like_count": 318,
+          "listed_count": 0,
+          "tweet_count": 1102
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2007-08-13T01:36:54.000Z",
+        "description": "美国之音中文官方推特@voachinese \n美国之音中文网 您可靠的信息来源 - 通晓美中大事 锁定美国之音\nhttps://t.co/XzB6iSdHWx | https://t.co/ua0xOdvfB2 | https://t.co/jWIKv7Q5vR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "voachinese"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "YouTube.com/voachinese",
+                "end": 79,
+                "expanded_url": "http://YouTube.com/voachinese",
+                "start": 56,
+                "url": "https://t.co/XzB6iSdHWx"
+              },
+              {
+                "display_url": "Facebook.com/voachinese",
+                "end": 105,
+                "expanded_url": "http://Facebook.com/voachinese",
+                "start": 82,
+                "url": "https://t.co/ua0xOdvfB2"
+              },
+              {
+                "display_url": "Instagram.com/voachinese",
+                "end": 131,
+                "expanded_url": "http://Instagram.com/voachinese",
+                "start": 108,
+                "url": "https://t.co/jWIKv7Q5vR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "voachinese.com",
+                "end": 23,
+                "expanded_url": "http://www.voachinese.com",
+                "start": 0,
+                "url": "https://t.co/Yn8buu0yRm"
+              }
+            ]
+          }
+        },
+        "id": "8149482",
+        "location": "Washington, DC",
+        "name": "美国之音中文网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643258528218349572/KyNj6ump_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2351973,
+          "following_count": 168,
+          "like_count": 1008,
+          "listed_count": 8210,
+          "tweet_count": 256680
+        },
+        "url": "https://t.co/Yn8buu0yRm",
+        "username": "VOAChinese",
+        "verified": true
+      }
+    ]
+  }
+}

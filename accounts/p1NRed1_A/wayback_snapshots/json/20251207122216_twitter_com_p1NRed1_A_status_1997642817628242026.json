@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1997642817628242026",
+    "created_at": "2025-12-07T12:22:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T13:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997642817628242026"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "符香",
+          "probability": 0.3593,
+          "start": 21,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1779807548956434432",
+          "start": 3,
+          "username": "kafuka_diary"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997642817628242026",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997638504243683610",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kafuka_diary: 風浦可符香可愛すぎる〜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1997642817628242026",
+        "created_at": "2025-12-07T12:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T13:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997642817628242026"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "符香",
+              "probability": 0.3593,
+              "start": 21,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1779807548956434432",
+              "start": 3,
+              "username": "kafuka_diary"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997642817628242026",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997638504243683610",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kafuka_diary: 風浦可符香可愛すぎる〜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779807548956434432",
+        "conversation_id": "1997638504243683610",
+        "created_at": "2025-12-07T12:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T13:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997638504243683610"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997638504243683610",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "風浦可符香可愛すぎる〜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 498,
+          "like_count": 1580,
+          "listed_count": 2,
+          "media_count": 314,
+          "tweet_count": 5377
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T09:43:00.000Z",
+        "description": "可符香ちゃん大好き",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Kafukadiary",
+                "end": 23,
+                "expanded_url": "http://lit.link/Kafukadiary",
+                "start": 0,
+                "url": "https://t.co/gmOAqkRRqF"
+              }
+            ]
+          }
+        },
+        "id": "1779807548956434432",
+        "name": "らな",
+        "pinned_tweet_id": "1943290276178502141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943288769429241856/imc9mYyz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 40,
+          "like_count": 720,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 660
+        },
+        "url": "https://t.co/gmOAqkRRqF",
+        "username": "kafuka_diary",
+        "verified": false
+      }
+    ]
+  }
+}

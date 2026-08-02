@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2026574088735781280",
+    "created_at": "2026-02-25T08:24:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T09:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026574088735781280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1898948516032217088",
+          "start": 3,
+          "username": "y8369534760940"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026574088735781280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026214177715761622",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y8369534760940: 一个阴郁的美少女什么都不会也没有经历过社会的毒打涉世未深没有打过工上过班只会玩手机的话能干点什么工作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2026574088735781280",
+        "created_at": "2026-02-25T08:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T09:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026574088735781280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1898948516032217088",
+              "start": 3,
+              "username": "y8369534760940"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026574088735781280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026214177715761622",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y8369534760940: 一个阴郁的美少女什么都不会也没有经历过社会的毒打涉世未深没有打过工上过班只会玩手机的话能干点什么工作"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898948516032217088",
+        "conversation_id": "2026214177715761622",
+        "created_at": "2026-02-24T08:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T09:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026214177715761622"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026214177715761622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 17567,
+          "like_count": 104,
+          "quote_count": 3,
+          "reply_count": 29,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "一个阴郁的美少女什么都不会也没有经历过社会的毒打涉世未深没有打过工上过班只会玩手机的话能干点什么工作"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "尴尬！",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009473729248858112/wt7l_L9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 508,
+          "like_count": 1623,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 5706
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-10T04:06:31.000Z",
+        "description": "@XIAOYU00QAQ ⬇️自用VPN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "XIAOYU00QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nc.norton-cloud.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://nc.norton-cloud.com/#/register?code=ekDm7G5r",
+                "start": 0,
+                "url": "https://t.co/cKd1pirNcS"
+              }
+            ]
+          }
+        },
+        "id": "1898948516032217088",
+        "location": "🚪100",
+        "name": "止",
+        "pinned_tweet_id": "2015347585230266501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021325527571890176/fbrZaZDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9264,
+          "following_count": 62,
+          "like_count": 1263,
+          "listed_count": 13,
+          "media_count": 43,
+          "tweet_count": 792
+        },
+        "url": "https://t.co/cKd1pirNcS",
+        "username": "y8369534760940",
+        "verified": false
+      }
+    ]
+  }
+}

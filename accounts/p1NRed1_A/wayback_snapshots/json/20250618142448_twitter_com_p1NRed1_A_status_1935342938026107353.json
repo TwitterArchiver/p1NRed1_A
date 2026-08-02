@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934865497029529601"
+      ],
+      "media_source_tweet_id": [
+        "1934865505824985485"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1935342938026107353",
+    "created_at": "2025-06-18T14:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T15:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935342938026107353"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "符香ちゃん",
+          "probability": 0.342,
+          "start": 23,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1858345581690941441",
+          "start": 3,
+          "username": "hamachico_sub"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sePyGN7XRA",
+          "end": 61,
+          "expanded_url": "https://x.com/hamachico_sub/status/1934865505824985485/photo/1",
+          "media_key": "3_1934865497029529601",
+          "start": 38,
+          "url": "https://t.co/sePyGN7XRA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935342938026107353",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934865505824985485",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hamachico_sub: 今日の可符香ちゃん。足が課題っすね。 https://t.co/sePyGN7XRA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1934865497029529601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtoF6w6a0AEk9Ur.jpg",
+        "width": 1529
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934865497029529601"
+          ],
+          "media_source_tweet_id": [
+            "1934865505824985485"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1935342938026107353",
+        "created_at": "2025-06-18T14:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T15:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935342938026107353"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "符香ちゃん",
+              "probability": 0.342,
+              "start": 23,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1858345581690941441",
+              "start": 3,
+              "username": "hamachico_sub"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sePyGN7XRA",
+              "end": 61,
+              "expanded_url": "https://x.com/hamachico_sub/status/1934865505824985485/photo/1",
+              "media_key": "3_1934865497029529601",
+              "start": 38,
+              "url": "https://t.co/sePyGN7XRA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935342938026107353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934865505824985485",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hamachico_sub: 今日の可符香ちゃん。足が課題っすね。 https://t.co/sePyGN7XRA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934865497029529601"
+          ]
+        },
+        "author_id": "1858345581690941441",
+        "conversation_id": "1934865505824985485",
+        "created_at": "2025-06-17T06:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T07:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934865505824985485"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "香ちゃん",
+              "probability": 0.5261,
+              "start": 5,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sePyGN7XRA",
+              "end": 42,
+              "expanded_url": "https://x.com/hamachico_sub/status/1934865505824985485/photo/1",
+              "media_key": "3_1934865497029529601",
+              "start": 19,
+              "url": "https://t.co/sePyGN7XRA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934865505824985485",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 546,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "今日の可符香ちゃん。足が課題っすね。 https://t.co/sePyGN7XRA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 413,
+          "like_count": 1224,
+          "listed_count": 1,
+          "media_count": 226,
+          "tweet_count": 4033
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T03:05:12.000Z",
+        "description": "はまちこ( @hamachiconbu )の複垢。フォロワーさん達を応援したい。人を太らせる程度の能力。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "hamachiconbu"
+              }
+            ]
+          }
+        },
+        "id": "1858345581690941441",
+        "name": "はまちこ@スペ垢日常垢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907061907405885440/u917TBHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 198,
+          "like_count": 11344,
+          "listed_count": 1,
+          "media_count": 540,
+          "tweet_count": 10670
+        },
+        "username": "hamachico_sub",
+        "verified": false
+      }
+    ]
+  }
+}

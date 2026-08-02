@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994334550571544576",
+        "3_1994334550567292928"
+      ],
+      "media_source_tweet_id": [
+        "1994334557730934924",
+        "1994334557730934924"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1994658930023436735",
+    "created_at": "2025-11-29T06:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T07:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994658930023436735"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "篠澤広",
+          "probability": 0.5599,
+          "start": 18,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1705961363343048704",
+          "start": 3,
+          "username": "nzawasaji777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MKEWN5NpXC",
+          "end": 45,
+          "expanded_url": "https://x.com/nzawasaji777/status/1994334557730934924/photo/1",
+          "media_key": "3_1994334550571544576",
+          "start": 22,
+          "url": "https://t.co/MKEWN5NpXC"
+        },
+        {
+          "display_url": "pic.x.com/MKEWN5NpXC",
+          "end": 45,
+          "expanded_url": "https://x.com/nzawasaji777/status/1994334557730934924/photo/1",
+          "media_key": "3_1994334550567292928",
+          "start": 22,
+          "url": "https://t.co/MKEWN5NpXC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994658930023436735",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1184
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994334557730934924",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nzawasaji777: 篠澤広 https://t.co/MKEWN5NpXC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 959,
+        "media_key": "3_1994334550571544576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61MtRIa8AAO_NS.jpg",
+        "width": 959
+      },
+      {
+        "height": 959,
+        "media_key": "3_1994334550567292928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61MtRHaEAAt_bh.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994334550571544576",
+            "3_1994334550567292928"
+          ],
+          "media_source_tweet_id": [
+            "1994334557730934924",
+            "1994334557730934924"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1994658930023436735",
+        "created_at": "2025-11-29T06:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T07:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994658930023436735"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "篠澤広",
+              "probability": 0.5599,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1705961363343048704",
+              "start": 3,
+              "username": "nzawasaji777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MKEWN5NpXC",
+              "end": 45,
+              "expanded_url": "https://x.com/nzawasaji777/status/1994334557730934924/photo/1",
+              "media_key": "3_1994334550571544576",
+              "start": 22,
+              "url": "https://t.co/MKEWN5NpXC"
+            },
+            {
+              "display_url": "pic.x.com/MKEWN5NpXC",
+              "end": 45,
+              "expanded_url": "https://x.com/nzawasaji777/status/1994334557730934924/photo/1",
+              "media_key": "3_1994334550567292928",
+              "start": 22,
+              "url": "https://t.co/MKEWN5NpXC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994658930023436735",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1184
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994334557730934924",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nzawasaji777: 篠澤広 https://t.co/MKEWN5NpXC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994334550571544576",
+            "3_1994334550567292928"
+          ]
+        },
+        "author_id": "1705961363343048704",
+        "conversation_id": "1994334557730934924",
+        "created_at": "2025-11-28T09:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T10:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994334557730934924"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "篠澤広",
+              "probability": 0.5861,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MKEWN5NpXC",
+              "end": 27,
+              "expanded_url": "https://x.com/nzawasaji777/status/1994334557730934924/photo/1",
+              "media_key": "3_1994334550571544576",
+              "start": 4,
+              "url": "https://t.co/MKEWN5NpXC"
+            },
+            {
+              "display_url": "pic.x.com/MKEWN5NpXC",
+              "end": 27,
+              "expanded_url": "https://x.com/nzawasaji777/status/1994334557730934924/photo/1",
+              "media_key": "3_1994334550567292928",
+              "start": 4,
+              "url": "https://t.co/MKEWN5NpXC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994334557730934924",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 946,
+          "impression_count": 125542,
+          "like_count": 8674,
+          "quote_count": 14,
+          "reply_count": 2,
+          "retweet_count": 1184
+        },
+        "reply_settings": "everyone",
+        "text": "篠澤広 https://t.co/MKEWN5NpXC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 500,
+          "like_count": 1559,
+          "listed_count": 2,
+          "media_count": 310,
+          "tweet_count": 5300
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T15:04:27.000Z",
+        "description": "んざわさじ 絵 動画 漫画 隣人を愛そうね",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nzawasaji777",
+                "end": 23,
+                "expanded_url": "https://lit.link/nzawasaji777",
+                "start": 0,
+                "url": "https://t.co/0RQYPNrPQP"
+              }
+            ]
+          }
+        },
+        "id": "1705961363343048704",
+        "location": "AI、無断使用禁止　依頼はlit link 或いはDMまで",
+        "name": "ん沢　匙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971735989354897408/7xq8Wocr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5373,
+          "following_count": 661,
+          "like_count": 6803,
+          "listed_count": 29,
+          "media_count": 272,
+          "tweet_count": 2480
+        },
+        "url": "https://t.co/0RQYPNrPQP",
+        "username": "nzawasaji777",
+        "verified": false
+      }
+    ]
+  }
+}

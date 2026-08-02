@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1937833516706021795",
+    "created_at": "2025-06-25T11:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T12:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937833516706021795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921121725712080896",
+          "start": 3,
+          "username": "atom_ry1058"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937833516706021795",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937677126154817810",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @atom_ry1058: 飲まないED治療がすごかった。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1937833516706021795",
+        "created_at": "2025-06-25T11:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T12:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937833516706021795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1921121725712080896",
+              "start": 3,
+              "username": "atom_ry1058"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937833516706021795",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937677126154817810",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @atom_ry1058: 飲まないED治療がすごかった。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921121725712080896",
+        "conversation_id": "1937677126154817810",
+        "created_at": "2025-06-25T01:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T02:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937677126154817810"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937677126154817810",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 28192,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "飲まないED治療がすごかった。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 414,
+          "like_count": 1232,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 4138
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-10T08:34:56.000Z",
+        "description": "男性のあらゆる悩みに寄り添い、「なりたい自分」へ導きます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "atom-mens-beauty.com/clinic/ydaed1",
+                "end": 23,
+                "expanded_url": "https://atom-mens-beauty.com/clinic/ydaed1",
+                "start": 0,
+                "url": "https://t.co/lwJrofmucA"
+              }
+            ]
+          }
+        },
+        "id": "1921121725712080896",
+        "location": "東京都新宿区西新宿7-10-7 加賀谷ビル7階",
+        "name": "ATOM CLINIC@ED治療",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921556153512996864/7VZtH-QB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "url": "https://t.co/lwJrofmucA",
+        "username": "atom_ry1058",
+        "verified": true
+      }
+    ]
+  }
+}

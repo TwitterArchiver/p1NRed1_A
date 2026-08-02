@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892354727502852096"
+      ],
+      "media_source_tweet_id": [
+        "1892354875041669618"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1892792089479696774",
+    "created_at": "2025-02-21T04:22:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T05:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892792089479696774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1877706992",
+          "start": 3,
+          "username": "GENCZILLA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yU8GwhHzwG",
+          "end": 67,
+          "expanded_url": "https://x.com/GENCZILLA/status/1892354875041669618/photo/1",
+          "media_key": "3_1892354727502852096",
+          "start": 44,
+          "url": "https://t.co/yU8GwhHzwG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892792089479696774",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 166
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892354875041669618",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GENCZILLA: Mamimi Stream Sketch Request https://t.co/yU8GwhHzwG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 882,
+        "media_key": "3_1892354727502852096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkL-mTnWsAAn6VY.png",
+        "width": 876
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892354727502852096"
+          ],
+          "media_source_tweet_id": [
+            "1892354875041669618"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1892792089479696774",
+        "created_at": "2025-02-21T04:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T05:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892792089479696774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1877706992",
+              "start": 3,
+              "username": "GENCZILLA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yU8GwhHzwG",
+              "end": 67,
+              "expanded_url": "https://x.com/GENCZILLA/status/1892354875041669618/photo/1",
+              "media_key": "3_1892354727502852096",
+              "start": 44,
+              "url": "https://t.co/yU8GwhHzwG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892792089479696774",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 166
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892354875041669618",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GENCZILLA: Mamimi Stream Sketch Request https://t.co/yU8GwhHzwG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892354727502852096"
+          ]
+        },
+        "author_id": "1877706992",
+        "conversation_id": "1892354875041669618",
+        "created_at": "2025-02-19T23:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T00:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892354875041669618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yU8GwhHzwG",
+              "end": 52,
+              "expanded_url": "https://x.com/GENCZILLA/status/1892354875041669618/photo/1",
+              "media_key": "3_1892354727502852096",
+              "start": 29,
+              "url": "https://t.co/yU8GwhHzwG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892354875041669618",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 11833,
+          "like_count": 1434,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 166
+        },
+        "reply_settings": "everyone",
+        "text": "Mamimi Stream Sketch Request https://t.co/yU8GwhHzwG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889564810410627072/YnTsykE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 304,
+          "like_count": 1073,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 3290
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-18T02:19:56.000Z",
+        "description": "https://t.co/UiqAaD4xLo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "boxcarcityrush.com",
+                "end": 23,
+                "expanded_url": "http://boxcarcityrush.com",
+                "start": 0,
+                "url": "https://t.co/UiqAaD4xLo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxcarcityrush.com",
+                "end": 23,
+                "expanded_url": "http://boxcarcityrush.com",
+                "start": 0,
+                "url": "https://t.co/UiqAaD4xLo"
+              }
+            ]
+          }
+        },
+        "id": "1877706992",
+        "location": "business: gencciv@gmail.com",
+        "name": "𝙶 𝙴 𝙽 𝙲",
+        "pinned_tweet_id": "1888341361482670523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853470014495506432/YBfetdE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75288,
+          "following_count": 682,
+          "like_count": 56000,
+          "listed_count": 350,
+          "media_count": 31,
+          "tweet_count": 417
+        },
+        "url": "https://t.co/UiqAaD4xLo",
+        "username": "GENCZILLA",
+        "verified": false
+      }
+    ]
+  }
+}

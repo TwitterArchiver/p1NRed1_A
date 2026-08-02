@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961267448927457280"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1961267457785827538",
+    "created_at": "2025-08-29T03:19:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T04:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961267457785827538"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "vqldar.qntwx.cn/#/?u=/VQLDAR",
+          "end": 23,
+          "expanded_url": "https://vqldar.qntwx.cn/#/?u=/VQLDAR",
+          "start": 0,
+          "status": 200,
+          "unwound_url": "https://vqldar.qntwx.cn/#/?u=/VQLDAR",
+          "url": "https://t.co/n71OlrYcGt"
+        },
+        {
+          "display_url": "pic.x.com/Kuiy4vo8V4",
+          "end": 55,
+          "expanded_url": "https://x.com/p1NRed1_A/status/1961267457785827538/photo/1",
+          "media_key": "3_1961267448927457280",
+          "start": 32,
+          "url": "https://t.co/Kuiy4vo8V4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961267457785827538",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/n71OlrYcGt来我提问箱（盯） https://t.co/Kuiy4vo8V4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1019,
+        "media_key": "3_1961267448927457280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzfSWoLbkAAO814.jpg",
+        "width": 858
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961267448927457280"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1961267457785827538",
+        "created_at": "2025-08-29T03:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T04:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961267457785827538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "vqldar.qntwx.cn/#/?u=/VQLDAR",
+              "end": 23,
+              "expanded_url": "https://vqldar.qntwx.cn/#/?u=/VQLDAR",
+              "start": 0,
+              "status": 200,
+              "unwound_url": "https://vqldar.qntwx.cn/#/?u=/VQLDAR",
+              "url": "https://t.co/n71OlrYcGt"
+            },
+            {
+              "display_url": "pic.x.com/Kuiy4vo8V4",
+              "end": 55,
+              "expanded_url": "https://x.com/p1NRed1_A/status/1961267457785827538/photo/1",
+              "media_key": "3_1961267448927457280",
+              "start": 32,
+              "url": "https://t.co/Kuiy4vo8V4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961267457785827538",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/n71OlrYcGt来我提问箱（盯） https://t.co/Kuiy4vo8V4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 439,
+          "like_count": 1337,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 4570
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

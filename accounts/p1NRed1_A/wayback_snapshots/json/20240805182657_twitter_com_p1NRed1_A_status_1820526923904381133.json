@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1820442545849282725",
+    "created_at": "2024-08-05T18:26:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-05T19:26:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820526923904381133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1795062474443464704",
+          "start": 0,
+          "username": "woxiangweini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820526923904381133",
+    "in_reply_to_user_id": "1795062474443464704",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820525934824595632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woxiangweini 我讲我讲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1820442545849282725",
+        "created_at": "2024-08-05T18:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T19:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820526923904381133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1795062474443464704",
+              "start": 0,
+              "username": "woxiangweini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820526923904381133",
+        "in_reply_to_user_id": "1795062474443464704",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820525934824595632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woxiangweini 我讲我讲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795062474443464704",
+        "conversation_id": "1820442545849282725",
+        "created_at": "2024-08-05T18:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T19:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820525934824595632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820525934824595632",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820442545849282725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 好呀好呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563382332014593/-06gBRx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 235,
+          "like_count": 567,
+          "listed_count": 0,
+          "tweet_count": 2201
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:00:36.000Z",
+        "description": "INFJ/switch偏S/手黑/asmr/🚪52/88/188/不入门不闲聊",
+        "id": "1795062474443464704",
+        "location": "请多陪陪我",
+        "name": "对此如何不泪垂",
+        "pinned_tweet_id": "1799514680660312436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795078099031191552/E9mXdVdG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 109,
+          "like_count": 216,
+          "listed_count": 0,
+          "tweet_count": 810
+        },
+        "username": "woxiangweini",
+        "verified": false
+      }
+    ]
+  }
+}

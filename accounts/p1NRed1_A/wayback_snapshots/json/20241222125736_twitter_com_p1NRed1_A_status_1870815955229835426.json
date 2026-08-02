@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1870591949289172992"
+      ],
+      "media_source_tweet_id": [
+        "1870591992524403181"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1870815955229835426",
+    "created_at": "2024-12-22T12:57:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-22T13:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870815955229835426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1511173114704527370",
+          "start": 3,
+          "username": "azumangaclips"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4SiAtY7QOI",
+          "end": 47,
+          "expanded_url": "https://x.com/azumangaclips/status/1870591992524403181/video/1",
+          "media_key": "7_1870591949289172992",
+          "start": 24,
+          "url": "https://t.co/4SiAtY7QOI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870815955229835426",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1090
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870591992524403181",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @azumangaclips: DUDE https://t.co/4SiAtY7QOI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12260,
+        "height": 854,
+        "media_key": "7_1870591949289172992",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1870591949289172992/pu/img/-hdQ1HPGqgJkmDuK.jpg",
+        "public_metrics": {
+          "view_count": 35170
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1870591949289172992/pu/vid/avc1/320x568/l3BBXmQL6CJmaAUv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1870591949289172992/pu/vid/avc1/480x854/KUN9mI5yB1YNRM1l.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1870591949289172992/pu/pl/elBKLhyLjn8txQh_.m3u8?tag=12&v=8f8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1870591949289172992"
+          ],
+          "media_source_tweet_id": [
+            "1870591992524403181"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1870815955229835426",
+        "created_at": "2024-12-22T12:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T13:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870815955229835426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1511173114704527370",
+              "start": 3,
+              "username": "azumangaclips"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4SiAtY7QOI",
+              "end": 47,
+              "expanded_url": "https://x.com/azumangaclips/status/1870591992524403181/video/1",
+              "media_key": "7_1870591949289172992",
+              "start": 24,
+              "url": "https://t.co/4SiAtY7QOI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870815955229835426",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1090
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870591992524403181",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @azumangaclips: DUDE https://t.co/4SiAtY7QOI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1870591949289172992"
+          ]
+        },
+        "author_id": "1511173114704527370",
+        "conversation_id": "1870591992524403181",
+        "created_at": "2024-12-21T22:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T23:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870591992524403181"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "DUDE",
+              "probability": 0.6409,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4SiAtY7QOI",
+              "end": 28,
+              "expanded_url": "https://x.com/azumangaclips/status/1870591992524403181/video/1",
+              "media_key": "7_1870591949289172992",
+              "start": 5,
+              "url": "https://t.co/4SiAtY7QOI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870591992524403181",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1369,
+          "impression_count": 73331,
+          "like_count": 7454,
+          "quote_count": 16,
+          "reply_count": 23,
+          "retweet_count": 1090
+        },
+        "reply_settings": "everyone",
+        "text": "DUDE https://t.co/4SiAtY7QOI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869350138424266753/LAsvqNJx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 295,
+          "like_count": 1028,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 3181
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-05T02:45:33.000Z",
+        "description": "i love azumanga || GLASS IS A MINOR NOT RUBY!!! || ran by @rucoops 🇲🇽 and @darrow_glass 🇸🇻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "rucoops"
+              },
+              {
+                "end": 87,
+                "start": 74,
+                "username": "darrow_glass"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/rucoozzy",
+                "end": 23,
+                "expanded_url": "https://twitch.tv/rucoozzy",
+                "start": 0,
+                "url": "https://t.co/tckUaycQF2"
+              }
+            ]
+          }
+        },
+        "id": "1511173114704527370",
+        "location": "she/her(ruby) and he/him(glass",
+        "name": "azumanga clips",
+        "pinned_tweet_id": "1741685685709320206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642713943276945410/G2QLRi6d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19984,
+          "following_count": 106,
+          "like_count": 2738,
+          "listed_count": 16,
+          "media_count": 514,
+          "tweet_count": 1457
+        },
+        "url": "https://t.co/tckUaycQF2",
+        "username": "azumangaclips",
+        "verified": false
+      }
+    ]
+  }
+}

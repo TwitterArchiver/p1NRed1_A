@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977769254243254272"
+      ],
+      "media_source_tweet_id": [
+        "1977769259486031970"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1977934021738025023",
+    "created_at": "2025-10-14T03:06:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T04:06:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977934021738025023"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 39,
+          "normalized_text": "カフカちゃん",
+          "probability": 0.8216,
+          "start": 34,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1414831844",
+          "start": 3,
+          "username": "mitsuya_fn57"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dKL1DOPHj2",
+          "end": 102,
+          "expanded_url": "https://x.com/mitsuya_fn57/status/1977769259486031970/photo/1",
+          "media_key": "3_1977769254243254272",
+          "start": 79,
+          "url": "https://t.co/dKL1DOPHj2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977934021738025023",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977769259486031970",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mitsuya_fn57: まだ原作読んでなかった頃に描いたカフカちゃん\n当初はこの子不気味だなあと思ってましたがとんでもない、この子は天使でした。 https://t.co/dKL1DOPHj2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1977769254243254272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3JyqHbbwAAVk-8.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977769254243254272"
+          ],
+          "media_source_tweet_id": [
+            "1977769259486031970"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1977934021738025023",
+        "created_at": "2025-10-14T03:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T04:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977934021738025023"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "カフカちゃん",
+              "probability": 0.8216,
+              "start": 34,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1414831844",
+              "start": 3,
+              "username": "mitsuya_fn57"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dKL1DOPHj2",
+              "end": 102,
+              "expanded_url": "https://x.com/mitsuya_fn57/status/1977769259486031970/photo/1",
+              "media_key": "3_1977769254243254272",
+              "start": 79,
+              "url": "https://t.co/dKL1DOPHj2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977934021738025023",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977769259486031970",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mitsuya_fn57: まだ原作読んでなかった頃に描いたカフカちゃん\n当初はこの子不気味だなあと思ってましたがとんでもない、この子は天使でした。 https://t.co/dKL1DOPHj2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977769254243254272"
+          ]
+        },
+        "author_id": "1414831844",
+        "conversation_id": "1977769259486031970",
+        "created_at": "2025-10-13T16:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T17:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977769259486031970"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "カフカちゃん",
+              "probability": 0.8176,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dKL1DOPHj2",
+              "end": 84,
+              "expanded_url": "https://x.com/mitsuya_fn57/status/1977769259486031970/photo/1",
+              "media_key": "3_1977769254243254272",
+              "start": 61,
+              "url": "https://t.co/dKL1DOPHj2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977769259486031970",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 204,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "まだ原作読んでなかった頃に描いたカフカちゃん\n当初はこの子不気味だなあと思ってましたがとんでもない、この子は天使でした。 https://t.co/dKL1DOPHj2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 471,
+          "like_count": 1490,
+          "listed_count": 2,
+          "media_count": 287,
+          "tweet_count": 5013
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-09T07:01:51.000Z",
+        "description": "絵 筋トレ ギター 小説 アニメ pixiv https://t.co/7lfJvtC2rH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/18366545",
+                "end": 46,
+                "expanded_url": "https://www.pixiv.net/users/18366545",
+                "start": 23,
+                "url": "https://t.co/7lfJvtC2rH"
+              }
+            ]
+          }
+        },
+        "id": "1414831844",
+        "location": "四国の毒吹き",
+        "name": "mitsuya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961773678447980544/WBeuqgtZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5241,
+          "following_count": 924,
+          "like_count": 192090,
+          "listed_count": 0,
+          "media_count": 12740,
+          "tweet_count": 102356
+        },
+        "username": "mitsuya_fn57",
+        "verified": false
+      }
+    ]
+  }
+}

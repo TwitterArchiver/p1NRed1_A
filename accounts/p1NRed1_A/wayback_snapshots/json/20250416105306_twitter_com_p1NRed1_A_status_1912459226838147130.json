@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1912059052558831617"
+      ],
+      "media_source_tweet_id": [
+        "1912059200865534242"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1912459226838147130",
+    "created_at": "2025-04-16T10:53:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T11:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912459226838147130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1790370144755351552",
+          "start": 3,
+          "username": "FurinaDF"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g1eNVNqvn0",
+          "end": 55,
+          "expanded_url": "https://x.com/FurinaDF/status/1912059200865534242/video/1",
+          "media_key": "13_1912059052558831617",
+          "start": 32,
+          "url": "https://t.co/g1eNVNqvn0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912459226838147130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912059200865534242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FurinaDF: 《曹道德严厉批判跨性别🏳️‍⚧️》 https://t.co/g1eNVNqvn0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13909,
+        "height": 640,
+        "media_key": "13_1912059052558831617",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1912059052558831617/img/-wrcL1WMcnf_CzAJ.jpg",
+        "public_metrics": {
+          "view_count": 9818
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912059052558831617/vid/avc1/320x426/Dr4hocOwSMmQ5mTu.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912059052558831617/vid/avc1/480x640/TQa0m58H6fQD_bh2.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1912059052558831617/pl/FQaXKf4pD2fZ9AU9.m3u8?tag=14&v=622"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1912059052558831617"
+          ],
+          "media_source_tweet_id": [
+            "1912059200865534242"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1912459226838147130",
+        "created_at": "2025-04-16T10:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T11:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912459226838147130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1790370144755351552",
+              "start": 3,
+              "username": "FurinaDF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g1eNVNqvn0",
+              "end": 55,
+              "expanded_url": "https://x.com/FurinaDF/status/1912059200865534242/video/1",
+              "media_key": "13_1912059052558831617",
+              "start": 32,
+              "url": "https://t.co/g1eNVNqvn0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912459226838147130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912059200865534242",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FurinaDF: 《曹道德严厉批判跨性别🏳️‍⚧️》 https://t.co/g1eNVNqvn0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1912059052558831617"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1912059200865534242",
+        "created_at": "2025-04-15T08:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T09:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912059200865534242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g1eNVNqvn0",
+              "end": 41,
+              "expanded_url": "https://x.com/FurinaDF/status/1912059200865534242/video/1",
+              "media_key": "13_1912059052558831617",
+              "start": 18,
+              "url": "https://t.co/g1eNVNqvn0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912059200865534242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 31161,
+          "like_count": 286,
+          "quote_count": 10,
+          "reply_count": 65,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "《曹道德严厉批判跨性别🏳️‍⚧️》 https://t.co/g1eNVNqvn0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910291251003547648/-uuCvZrl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 365,
+          "like_count": 1151,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 3548
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "太好啦！太好啦！听妈妈说，我手机里的推特自动关注了芙宁娜娜，我不知所云地欢呼起来。芙宁娜娜这个恶俗玩意儿到底是什么呢？爸爸告诉我，她就像一个遍布网络的巨大屎壳郎，把抽象乐子和魔怔烂梗搬运得到处都是。有了芙宁娜娜，咱们的推特就变成了一个小垃圾堆，五洲四海的浪蛆们可以随时进行别样的炒作大战。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zgysd1",
+                "end": 23,
+                "expanded_url": "https://t.me/zgysd1",
+                "start": 0,
+                "url": "https://t.co/UXOSrcIdSv"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "原教旨主义自由精神党",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "pinned_tweet_id": "1912207020780028155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20267,
+          "following_count": 1972,
+          "like_count": 23260,
+          "listed_count": 55,
+          "media_count": 4068,
+          "tweet_count": 7830
+        },
+        "url": "https://t.co/UXOSrcIdSv",
+        "username": "FurinaDF",
+        "verified": true
+      }
+    ]
+  }
+}

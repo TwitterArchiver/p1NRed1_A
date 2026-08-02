@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1837509794451935237",
+        "3_1837509794263191554"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1837509801527656516",
+    "created_at": "2024-09-21T15:10:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T16:10:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1837509801527656516"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rgnuevuebn",
+          "end": 49,
+          "expanded_url": "https://twitter.com/p1NRed1_A/status/1837509801527656516/photo/1",
+          "media_key": "3_1837509794451935237",
+          "start": 26,
+          "url": "https://t.co/rGNUEvueBN"
+        },
+        {
+          "display_url": "pic.x.com/rgnuevuebn",
+          "end": 49,
+          "expanded_url": "https://twitter.com/p1NRed1_A/status/1837509801527656516/photo/1",
+          "media_key": "3_1837509794263191554",
+          "start": 26,
+          "url": "https://t.co/rGNUEvueBN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837509801527656516",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "他说他想磕药对话是这样的老子只能说求推特某男子放过 https://t.co/rGNUEvueBN"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1837509801527656516].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1837509801527656516",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1837509801527656516"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1971,
+        "media_key": "3_1837509794451935237",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYAlbCmb0AUPgJE.jpg",
+        "width": 1033
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1837509794263191554",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYAlbB5b0AI_GMx.jpg",
+        "width": 548
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1834534967725998516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 275,
+          "like_count": 898,
+          "listed_count": 0,
+          "tweet_count": 2782
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

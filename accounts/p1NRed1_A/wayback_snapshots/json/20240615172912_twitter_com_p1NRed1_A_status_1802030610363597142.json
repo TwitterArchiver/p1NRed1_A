@@ -1,0 +1,284 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1802029276100767745"
+      ],
+      "media_source_tweet_id": [
+        "1802029282710913216"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1802030610363597142",
+    "created_at": "2024-06-15T17:29:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T18:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802030610363597142"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 43,
+          "normalized_text": "kitsu chiri",
+          "probability": 0.6929,
+          "start": 33,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 65,
+          "start": 56,
+          "tag": "さよなら絶望先生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1588329160967335936",
+          "start": 3,
+          "username": "juusannofuyu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/5ZgRZQsYjt",
+          "end": 96,
+          "expanded_url": "https://twitter.com/juusannofuyu/status/1802029282710913216/photo/1",
+          "media_key": "3_1802029276100767745",
+          "start": 73,
+          "url": "https://t.co/5ZgRZQsYjt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802030610363597142",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802029282710913216",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @juusannofuyu: happy birthday kitsu chiri/my wife!!!\n#さよなら絶望先生\nrepost https://t.co/5ZgRZQsYjt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1802029276100767745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQIYFDzXMAEVsDt.jpg",
+        "width": 1632
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1802029276100767745"
+          ],
+          "media_source_tweet_id": [
+            "1802029282710913216"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1802030610363597142",
+        "created_at": "2024-06-15T17:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T18:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802030610363597142"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 43,
+              "normalized_text": "kitsu chiri",
+              "probability": 0.6929,
+              "start": 33,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 56,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1588329160967335936",
+              "start": 3,
+              "username": "juusannofuyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/5ZgRZQsYjt",
+              "end": 96,
+              "expanded_url": "https://twitter.com/juusannofuyu/status/1802029282710913216/photo/1",
+              "media_key": "3_1802029276100767745",
+              "start": 73,
+              "url": "https://t.co/5ZgRZQsYjt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802030610363597142",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802029282710913216",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @juusannofuyu: happy birthday kitsu chiri/my wife!!!\n#さよなら絶望先生\nrepost https://t.co/5ZgRZQsYjt"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1802029276100767745"
+          ]
+        },
+        "author_id": "1588329160967335936",
+        "conversation_id": "1802029282710913216",
+        "created_at": "2024-06-15T17:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T18:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802029282710913216"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "kitsu chiri",
+              "probability": 0.615,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 38,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/5ZgRZQsYjt",
+              "end": 78,
+              "expanded_url": "https://twitter.com/juusannofuyu/status/1802029282710913216/photo/1",
+              "media_key": "3_1802029276100767745",
+              "start": 55,
+              "url": "https://t.co/5ZgRZQsYjt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802029282710913216",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 15,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "happy birthday kitsu chiri/my wife!!!\n#さよなら絶望先生\nrepost https://t.co/5ZgRZQsYjt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801541330096820224/OMU5aWp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 181,
+          "like_count": 358,
+          "listed_count": 0,
+          "tweet_count": 1420
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-04T00:36:24.000Z",
+        "description": "slowly, like snow led by gravity. fading away in the warm glow",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "anilist.co/user/ccsakuraf…",
+                "end": 23,
+                "expanded_url": "https://anilist.co/user/ccsakurafan123/",
+                "start": 0,
+                "url": "https://t.co/vbKsKf8Fta"
+              }
+            ]
+          }
+        },
+        "id": "1588329160967335936",
+        "location": "helvetica standard",
+        "name": "pon",
+        "pinned_tweet_id": "1797756539534803177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801487013050306560/Tc7jjVoN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 364,
+          "like_count": 31682,
+          "listed_count": 2,
+          "tweet_count": 4397
+        },
+        "url": "https://t.co/vbKsKf8Fta",
+        "username": "juusannofuyu",
+        "verified": false
+      }
+    ]
+  }
+}

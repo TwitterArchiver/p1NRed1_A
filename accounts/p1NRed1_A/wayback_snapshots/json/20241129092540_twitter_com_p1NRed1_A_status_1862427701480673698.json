@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862386376987009024"
+      ],
+      "media_source_tweet_id": [
+        "1862386384298025070"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1862427701480673698",
+    "created_at": "2024-11-29T09:25:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T10:25:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862427701480673698"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "望カフ",
+          "probability": 0.4294,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1860597676649410560",
+          "start": 3,
+          "username": "nzkfsuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OisdtDrS5z",
+          "end": 41,
+          "expanded_url": "https://x.com/nzkfsuki/status/1862386384298025070/photo/1",
+          "media_key": "3_1862386376987009024",
+          "start": 18,
+          "url": "https://t.co/OisdtDrS5z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862427701480673698",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862386384298025070",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nzkfsuki: 望カフ https://t.co/OisdtDrS5z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 693,
+        "media_key": "3_1862386376987009024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdiGiuLWYAAUBWU.jpg",
+        "width": 925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862386376987009024"
+          ],
+          "media_source_tweet_id": [
+            "1862386384298025070"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1862427701480673698",
+        "created_at": "2024-11-29T09:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T10:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862427701480673698"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "望カフ",
+              "probability": 0.4294,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1860597676649410560",
+              "start": 3,
+              "username": "nzkfsuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OisdtDrS5z",
+              "end": 41,
+              "expanded_url": "https://x.com/nzkfsuki/status/1862386384298025070/photo/1",
+              "media_key": "3_1862386376987009024",
+              "start": 18,
+              "url": "https://t.co/OisdtDrS5z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862427701480673698",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862386384298025070",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nzkfsuki: 望カフ https://t.co/OisdtDrS5z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862386376987009024"
+          ]
+        },
+        "author_id": "1860597676649410560",
+        "conversation_id": "1862386384298025070",
+        "created_at": "2024-11-29T06:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T07:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862386384298025070"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "望カフ",
+              "probability": 0.4461,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OisdtDrS5z",
+              "end": 27,
+              "expanded_url": "https://x.com/nzkfsuki/status/1862386384298025070/photo/1",
+              "media_key": "3_1862386376987009024",
+              "start": 4,
+              "url": "https://t.co/OisdtDrS5z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862386384298025070",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 85,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "望カフ https://t.co/OisdtDrS5z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 294,
+          "like_count": 992,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 3106
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T08:14:29.000Z",
+        "description": "望カフさんが好きです",
+        "id": "1860597676649410560",
+        "location": "一人でわちゃわちゃしてる",
+        "name": "すずめ",
+        "pinned_tweet_id": "1861283279191843084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860601776141168640/xLYxRZwY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 0,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 7
+        },
+        "username": "nzkfsuki",
+        "verified": false
+      }
+    ]
+  }
+}

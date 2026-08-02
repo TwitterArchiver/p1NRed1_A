@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977386615757746176"
+      ],
+      "media_source_tweet_id": [
+        "1977386624930468275"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1977707415974859084",
+    "created_at": "2025-10-13T12:06:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T13:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977707415974859084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1414831844",
+          "start": 3,
+          "username": "mitsuya_fn57"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2BQrPxZK2q",
+          "end": 56,
+          "expanded_url": "https://x.com/mitsuya_fn57/status/1977386624930468275/photo/1",
+          "media_key": "3_1977386615757746176",
+          "start": 33,
+          "url": "https://t.co/2BQrPxZK2q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977707415974859084",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977386624930468275",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mitsuya_fn57: 引き篭もりの霧と電波のエリオ https://t.co/2BQrPxZK2q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1977386615757746176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3EWpn_aMAAs__Y.jpg",
+        "width": 1350
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977386615757746176"
+          ],
+          "media_source_tweet_id": [
+            "1977386624930468275"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1977707415974859084",
+        "created_at": "2025-10-13T12:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T13:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977707415974859084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1414831844",
+              "start": 3,
+              "username": "mitsuya_fn57"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2BQrPxZK2q",
+              "end": 56,
+              "expanded_url": "https://x.com/mitsuya_fn57/status/1977386624930468275/photo/1",
+              "media_key": "3_1977386615757746176",
+              "start": 33,
+              "url": "https://t.co/2BQrPxZK2q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977707415974859084",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977386624930468275",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mitsuya_fn57: 引き篭もりの霧と電波のエリオ https://t.co/2BQrPxZK2q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977386615757746176"
+          ]
+        },
+        "author_id": "1414831844",
+        "conversation_id": "1977386624930468275",
+        "created_at": "2025-10-12T14:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T15:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977386624930468275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2BQrPxZK2q",
+              "end": 38,
+              "expanded_url": "https://x.com/mitsuya_fn57/status/1977386624930468275/photo/1",
+              "media_key": "3_1977386615757746176",
+              "start": 15,
+              "url": "https://t.co/2BQrPxZK2q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977386624930468275",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1149,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "引き篭もりの霧と電波のエリオ https://t.co/2BQrPxZK2q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 472,
+          "like_count": 1484,
+          "listed_count": 2,
+          "media_count": 286,
+          "tweet_count": 5004
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-09T07:01:51.000Z",
+        "description": "絵 筋トレ ギター 小説 アニメ pixiv https://t.co/7lfJvtC2rH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/18366545",
+                "end": 46,
+                "expanded_url": "https://www.pixiv.net/users/18366545",
+                "start": 23,
+                "url": "https://t.co/7lfJvtC2rH"
+              }
+            ]
+          }
+        },
+        "id": "1414831844",
+        "location": "四国の毒吹き",
+        "name": "mitsuya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961773678447980544/WBeuqgtZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5233,
+          "following_count": 922,
+          "like_count": 192059,
+          "listed_count": 36,
+          "media_count": 12738,
+          "tweet_count": 102336
+        },
+        "username": "mitsuya_fn57",
+        "verified": false
+      }
+    ]
+  }
+}

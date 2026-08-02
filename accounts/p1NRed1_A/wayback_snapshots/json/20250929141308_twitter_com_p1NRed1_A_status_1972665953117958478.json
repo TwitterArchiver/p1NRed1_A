@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1895870625157136384"
+      ],
+      "media_source_tweet_id": [
+        "1895870700172587431"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1972665953117958478",
+    "created_at": "2025-09-29T14:13:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T15:13:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972665953117958478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1733558420270125056",
+          "start": 3,
+          "username": "HourlyChiyoChan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jIkIC7XmiY",
+          "end": 44,
+          "expanded_url": "https://x.com/bingusball98/status/1895870700172587431/video/1",
+          "media_key": "7_1895870625157136384",
+          "start": 21,
+          "url": "https://t.co/jIkIC7XmiY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972665953117958478",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 194
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972434427809787996",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HourlyChiyoChan: https://t.co/jIkIC7XmiY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7778,
+        "height": 720,
+        "media_key": "7_1895870625157136384",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1895870625157136384/pu/img/IpoPsagcEgrujgdG.jpg",
+        "public_metrics": {
+          "view_count": 20554
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1895870625157136384/pu/vid/avc1/320x320/d0QWOZfzM8Hz44SG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1895870625157136384/pu/vid/avc1/540x540/OOgQ0lhYM0C_XypW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1895870625157136384/pu/vid/avc1/720x720/L8IE5PJBVATDcZ-y.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1895870625157136384/pu/pl/TXOcurZu3-n5hLSd.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1895870625157136384"
+          ],
+          "media_source_tweet_id": [
+            "1895870700172587431"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1972665953117958478",
+        "created_at": "2025-09-29T14:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T15:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972665953117958478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1733558420270125056",
+              "start": 3,
+              "username": "HourlyChiyoChan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jIkIC7XmiY",
+              "end": 44,
+              "expanded_url": "https://x.com/bingusball98/status/1895870700172587431/video/1",
+              "media_key": "7_1895870625157136384",
+              "start": 21,
+              "url": "https://t.co/jIkIC7XmiY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972665953117958478",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 194
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972434427809787996",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HourlyChiyoChan: https://t.co/jIkIC7XmiY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1895870625157136384"
+          ],
+          "media_source_tweet_id": [
+            "1895870700172587431"
+          ]
+        },
+        "author_id": "1733558420270125056",
+        "conversation_id": "1972434427809787996",
+        "created_at": "2025-09-28T22:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T23:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972434427809787996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jIkIC7XmiY",
+              "end": 23,
+              "expanded_url": "https://x.com/bingusball98/status/1895870700172587431/video/1",
+              "media_key": "7_1895870625157136384",
+              "start": 0,
+              "url": "https://t.co/jIkIC7XmiY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972434427809787996",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 263,
+          "impression_count": 12723,
+          "like_count": 1509,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 194
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jIkIC7XmiY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 461,
+          "like_count": 1445,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 4845
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T18:45:28.000Z",
+        "description": "Daily Medias of Chiyo Mihama and Her Friends Across all the Universes🐶\n͏\nPFP and Banner By @SauberDojoRama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "SauberDojoRama"
+              }
+            ]
+          }
+        },
+        "id": "1733558420270125056",
+        "name": "Chiyo & Friends",
+        "pinned_tweet_id": "1874642058184650796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876759939407888384/6JzdMtMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14916,
+          "following_count": 256,
+          "like_count": 3562,
+          "listed_count": 8,
+          "media_count": 1354,
+          "tweet_count": 3959
+        },
+        "username": "HourlyChiyoChan",
+        "verified": false
+      }
+    ]
+  }
+}

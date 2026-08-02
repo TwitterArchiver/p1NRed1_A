@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935223865602617344"
+      ],
+      "media_source_tweet_id": [
+        "1935223868794487250"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1935341029332590663",
+    "created_at": "2025-06-18T14:17:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T15:17:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935341029332590663"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "奈美",
+          "probability": 0.5547,
+          "start": 19,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 22,
+          "tag": "さよなら絶望先生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1176480058292129793",
+          "start": 3,
+          "username": "5t5t5szbh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/StLKDq3ndL",
+          "end": 55,
+          "expanded_url": "https://x.com/5t5t5szbh/status/1935223868794487250/photo/1",
+          "media_key": "3_1935223865602617344",
+          "start": 32,
+          "url": "https://t.co/StLKDq3ndL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935341029332590663",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935223868794487250",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @5t5t5szbh: ゆっくり奈美\n#さよなら絶望先生 https://t.co/StLKDq3ndL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1844,
+        "media_key": "3_1935223865602617344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GttL2j4aMAAZLZs.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935223865602617344"
+          ],
+          "media_source_tweet_id": [
+            "1935223868794487250"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1935341029332590663",
+        "created_at": "2025-06-18T14:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T15:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935341029332590663"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "奈美",
+              "probability": 0.5547,
+              "start": 19,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 22,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1176480058292129793",
+              "start": 3,
+              "username": "5t5t5szbh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/StLKDq3ndL",
+              "end": 55,
+              "expanded_url": "https://x.com/5t5t5szbh/status/1935223868794487250/photo/1",
+              "media_key": "3_1935223865602617344",
+              "start": 32,
+              "url": "https://t.co/StLKDq3ndL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935341029332590663",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935223868794487250",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @5t5t5szbh: ゆっくり奈美\n#さよなら絶望先生 https://t.co/StLKDq3ndL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935223865602617344"
+          ]
+        },
+        "author_id": "1176480058292129793",
+        "conversation_id": "1935223868794487250",
+        "created_at": "2025-06-18T06:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T07:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935223868794487250"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "奈美",
+              "probability": 0.5235,
+              "start": 4,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 7,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/StLKDq3ndL",
+              "end": 40,
+              "expanded_url": "https://x.com/5t5t5szbh/status/1935223868794487250/photo/1",
+              "media_key": "3_1935223865602617344",
+              "start": 17,
+              "url": "https://t.co/StLKDq3ndL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935223868794487250",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 267,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "ゆっくり奈美\n#さよなら絶望先生 https://t.co/StLKDq3ndL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 412,
+          "like_count": 1222,
+          "listed_count": 1,
+          "media_count": 226,
+          "tweet_count": 4031
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-24T12:55:06.000Z",
+        "description": "",
+        "id": "1176480058292129793",
+        "name": "タカ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934971137915809792/AfQPVoDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 320,
+          "like_count": 5342,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 3794
+        },
+        "username": "5t5t5szbh",
+        "verified": false
+      }
+    ]
+  }
+}

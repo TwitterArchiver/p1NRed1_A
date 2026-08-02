@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1915011821419024617",
+    "created_at": "2025-04-24T11:35:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T12:35:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915368912465899842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1518525169945518080",
+          "start": 0,
+          "username": "LeiZhenYuuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915368912465899842",
+    "in_reply_to_user_id": "1518525169945518080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915368475289411923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeiZhenYuuu 妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1915011821419024617",
+        "created_at": "2025-04-24T11:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T12:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915368912465899842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1518525169945518080",
+              "start": 0,
+              "username": "LeiZhenYuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915368912465899842",
+        "in_reply_to_user_id": "1518525169945518080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915368475289411923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeiZhenYuuu 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518525169945518080",
+        "conversation_id": "1915011821419024617",
+        "created_at": "2025-04-24T11:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T12:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915368475289411923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915368475289411923",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915011821419024617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 好萌萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 384,
+          "like_count": 1158,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 3631
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-25T09:39:59.000Z",
+        "description": "雨丝划过你濡湿的眼角，那是泪吗？低浮上 @yrmsldwbsss @hitomi012000_ @Ran____0v0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "yrmsldwbsss"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "hitomi012000_"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "Ran____0v0"
+              }
+            ]
+          }
+        },
+        "id": "1518525169945518080",
+        "location": "Je me rebelle, donc j'existe",
+        "name": "₊⁺ ꒰১ 小雨 ໒꒱ ⁺₊",
+        "pinned_tweet_id": "1776136584230043709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758445869727412224/ZGw-HUPG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 946,
+          "like_count": 5779,
+          "listed_count": 2,
+          "media_count": 637,
+          "tweet_count": 5353
+        },
+        "username": "LeiZhenYuuu",
+        "verified": false
+      }
+    ]
+  }
+}

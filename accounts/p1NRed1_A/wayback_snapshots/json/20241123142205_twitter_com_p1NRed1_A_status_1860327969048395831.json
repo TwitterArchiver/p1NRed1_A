@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1860327969048395831",
+    "created_at": "2024-11-23T14:22:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T15:22:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860327969048395831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1841050394375380998",
+          "start": 3,
+          "username": "wmyzzzzt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860327969048395831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860319060690633171",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wmyzzzzt: 沒有任何事情想做，於是無聊的要命"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1860327969048395831",
+        "created_at": "2024-11-23T14:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T15:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860327969048395831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1841050394375380998",
+              "start": 3,
+              "username": "wmyzzzzt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860327969048395831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860319060690633171",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wmyzzzzt: 沒有任何事情想做，於是無聊的要命"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841050394375380998",
+        "conversation_id": "1860319060690633171",
+        "created_at": "2024-11-23T13:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T14:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860319060690633171"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1860319060690633171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "沒有任何事情想做，於是無聊的要命"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 293,
+          "like_count": 992,
+          "listed_count": 0,
+          "tweet_count": 3103
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T09:40:03.000Z",
+        "description": "第二次生命",
+        "id": "1841050394375380998",
+        "location": "以42马赫飞行的人类第三节脊椎骨",
+        "name": "禁煙",
+        "pinned_tweet_id": "1847161456149909679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844046955942469632/pgz3_TMZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 185,
+          "like_count": 4341,
+          "listed_count": 1,
+          "tweet_count": 778
+        },
+        "username": "wmyzzzzt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1825975509878190203",
+    "created_at": "2024-08-21T17:51:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T18:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826316258150941048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1689608180568076289",
+          "start": 0,
+          "username": "chenyejoker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826316258150941048",
+    "in_reply_to_user_id": "1689608180568076289",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826279918738800710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenyejoker 🤝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1825975509878190203",
+        "created_at": "2024-08-21T17:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T18:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826316258150941048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1689608180568076289",
+              "start": 0,
+              "username": "chenyejoker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826316258150941048",
+        "in_reply_to_user_id": "1689608180568076289",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826279918738800710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenyejoker 🤝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689608180568076289",
+        "conversation_id": "1825975509878190203",
+        "created_at": "2024-08-21T15:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T16:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826279918738800710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826279918738800710",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825975509878190203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 略有一点喜欢."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 259,
+          "like_count": 781,
+          "listed_count": 0,
+          "tweet_count": 2552
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-10T12:02:42.000Z",
+        "description": "人皆悖论，难辨虚实",
+        "id": "1689608180568076289",
+        "name": "沉夜（萌萌版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819366018671947776/QXD4ZKAW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 66,
+          "like_count": 178,
+          "listed_count": 0,
+          "tweet_count": 249
+        },
+        "username": "chenyejoker",
+        "verified": false
+      }
+    ]
+  }
+}

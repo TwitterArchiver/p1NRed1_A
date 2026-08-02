@@ -1,0 +1,684 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1823280472371396608"
+      ],
+      "media_source_tweet_id": [
+        "1823280480394838460"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1823338164406423959",
+    "created_at": "2024-08-13T12:37:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-13T13:37:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823338164406423959"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 27,
+          "tag": "さよなら絶望先生"
+        },
+        {
+          "end": 44,
+          "start": 37,
+          "tag": "ファンアート"
+        },
+        {
+          "end": 51,
+          "start": 46,
+          "tag": "イラスト"
+        },
+        {
+          "end": 65,
+          "start": 52,
+          "tag": "illustration"
+        },
+        {
+          "end": 70,
+          "start": 66,
+          "tag": "art"
+        },
+        {
+          "end": 73,
+          "start": 71,
+          "tag": "画"
+        },
+        {
+          "end": 77,
+          "start": 74,
+          "tag": "插画"
+        },
+        {
+          "end": 85,
+          "start": 78,
+          "tag": "fanart"
+        },
+        {
+          "end": 93,
+          "start": 86,
+          "tag": "鉛筆イラスト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1360792705362616320",
+          "start": 3,
+          "username": "aiDamaakechipu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/woau1kxkzm",
+          "end": 117,
+          "expanded_url": "https://twitter.com/aiDamaakechipu/status/1823280480394838460/photo/1",
+          "media_key": "3_1823280472371396608",
+          "start": 94,
+          "url": "https://t.co/WOau1KxkzM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823338164406423959",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823280480394838460",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aiDamaakechipu: マ太郎好き！\n#さよなら絶望先生　#ファンアート \n#イラスト　#illustration #art\n#画　#插画　#fanart #鉛筆イラスト https://t.co/WOau1KxkzM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1823280472371396608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GU2X7fGagAA2jWa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823280472371396608"
+          ],
+          "media_source_tweet_id": [
+            "1823280480394838460"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1823338164406423959",
+        "created_at": "2024-08-13T12:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T13:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823338164406423959"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 27,
+              "tag": "さよなら絶望先生"
+            },
+            {
+              "end": 44,
+              "start": 37,
+              "tag": "ファンアート"
+            },
+            {
+              "end": 51,
+              "start": 46,
+              "tag": "イラスト"
+            },
+            {
+              "end": 65,
+              "start": 52,
+              "tag": "illustration"
+            },
+            {
+              "end": 70,
+              "start": 66,
+              "tag": "art"
+            },
+            {
+              "end": 73,
+              "start": 71,
+              "tag": "画"
+            },
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "插画"
+            },
+            {
+              "end": 85,
+              "start": 78,
+              "tag": "fanart"
+            },
+            {
+              "end": 93,
+              "start": 86,
+              "tag": "鉛筆イラスト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1360792705362616320",
+              "start": 3,
+              "username": "aiDamaakechipu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/woau1kxkzm",
+              "end": 117,
+              "expanded_url": "https://twitter.com/aiDamaakechipu/status/1823280480394838460/photo/1",
+              "media_key": "3_1823280472371396608",
+              "start": 94,
+              "url": "https://t.co/WOau1KxkzM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823338164406423959",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823280480394838460",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aiDamaakechipu: マ太郎好き！\n#さよなら絶望先生　#ファンアート \n#イラスト　#illustration #art\n#画　#插画　#fanart #鉛筆イラスト https://t.co/WOau1KxkzM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823280472371396608"
+          ]
+        },
+        "author_id": "1360792705362616320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1823280480394838460",
+        "created_at": "2024-08-13T08:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T09:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823280480394838460"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 7,
+              "tag": "さよなら絶望先生"
+            },
+            {
+              "end": 24,
+              "start": 17,
+              "tag": "ファンアート"
+            },
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "イラスト"
+            },
+            {
+              "end": 45,
+              "start": 32,
+              "tag": "illustration"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "art"
+            },
+            {
+              "end": 53,
+              "start": 51,
+              "tag": "画"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "插画"
+            },
+            {
+              "end": 65,
+              "start": 58,
+              "tag": "fanart"
+            },
+            {
+              "end": 73,
+              "start": 66,
+              "tag": "鉛筆イラスト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/woau1kxkzm",
+              "end": 97,
+              "expanded_url": "https://twitter.com/aiDamaakechipu/status/1823280480394838460/photo/1",
+              "media_key": "3_1823280472371396608",
+              "start": 74,
+              "url": "https://t.co/WOau1KxkzM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823280480394838460",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "マ太郎好き！\n#さよなら絶望先生　#ファンアート \n#イラスト　#illustration #art\n#画　#插画　#fanart #鉛筆イラスト https://t.co/WOau1KxkzM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 255,
+          "like_count": 687,
+          "listed_count": 0,
+          "tweet_count": 2365
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-14T03:27:34.000Z",
+        "description": "イラストを描いています 無断転載、自作発言などはやめてください たまに料理もします　次世代アーティスト賞100選に入選しました。",
+        "id": "1360792705362616320",
+        "location": "M県　S市",
+        "name": "藍玉ケチプ",
+        "pinned_tweet_id": "1819541783745097749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819599982988517376/2uRUW9xf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 104,
+          "like_count": 20464,
+          "listed_count": 1,
+          "tweet_count": 1202
+        },
+        "username": "aiDamaakechipu",
+        "verified": false
+      }
+    ]
+  }
+}

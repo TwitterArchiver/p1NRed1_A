@@ -1,0 +1,484 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2003125862984753390",
+    "created_at": "2025-12-22T15:29:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T16:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003125862984753390"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "Fumo Aya Shameimaru",
+          "probability": 0.77,
+          "start": 19,
+          "type": "Person"
+        },
+        {
+          "end": 50,
+          "normalized_text": "the",
+          "probability": 0.5086,
+          "start": 48,
+          "type": "Other"
+        },
+        {
+          "end": 76,
+          "normalized_text": "A Lot Like Birds",
+          "probability": 0.8986,
+          "start": 61,
+          "type": "Other"
+        },
+        {
+          "end": 92,
+          "normalized_text": "Vanity's Fair",
+          "probability": 0.8456,
+          "start": 80,
+          "type": "Other"
+        },
+        {
+          "end": 118,
+          "normalized_text": "Conversation Piece",
+          "probability": 0.8504,
+          "start": 101,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1507107662265139217",
+          "start": 3,
+          "username": "AsthmaticMage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003125862984753390",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001774477869559854",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AsthmaticMage: Fumo Aya Shameimaru Music of the Day 541:\nA Lot Like Birds - Vanity's Fair\nAlbum: Conversation Piece (2011)\nGenre: Post-…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44928,
+        "height": 720,
+        "media_key": "13_2001754368065024001",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2001754368065024001/img/iYWpWUbJUVgSAH4z.jpg",
+        "public_metrics": {
+          "view_count": 375
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001754368065024001/vid/avc1/408x270/thfdpYIbMxDmhsuE.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001754368065024001/vid/avc1/544x360/30VGeJOGvXY_OSh6.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001754368065024001/vid/avc1/1090x720/5jzLnOPEY1TRY6cF.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2001754368065024001/pl/8uNOTljmtOD32V6i.m3u8?tag=14"
+          }
+        ],
+        "width": 1090
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2003125862984753390",
+        "created_at": "2025-12-22T15:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T16:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003125862984753390"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "Fumo Aya Shameimaru",
+              "probability": 0.77,
+              "start": 19,
+              "type": "Person"
+            },
+            {
+              "end": 50,
+              "normalized_text": "the",
+              "probability": 0.5086,
+              "start": 48,
+              "type": "Other"
+            },
+            {
+              "end": 76,
+              "normalized_text": "A Lot Like Birds",
+              "probability": 0.8986,
+              "start": 61,
+              "type": "Other"
+            },
+            {
+              "end": 92,
+              "normalized_text": "Vanity's Fair",
+              "probability": 0.8456,
+              "start": 80,
+              "type": "Other"
+            },
+            {
+              "end": 118,
+              "normalized_text": "Conversation Piece",
+              "probability": 0.8504,
+              "start": 101,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1507107662265139217",
+              "start": 3,
+              "username": "AsthmaticMage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003125862984753390",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001774477869559854",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AsthmaticMage: Fumo Aya Shameimaru Music of the Day 541:\nA Lot Like Birds - Vanity's Fair\nAlbum: Conversation Piece (2011)\nGenre: Post-…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001754368065024001"
+          ]
+        },
+        "author_id": "1507107662265139217",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "American musician",
+              "id": "1070731924350455809",
+              "name": "Kurt Travis"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "American musician",
+              "id": "1070731924350455809",
+              "name": "Kurt Travis"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1286328728256036864",
+              "name": "Trumpet"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286328728256036864",
+              "name": "Trumpet"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1290665389047783424",
+              "name": "Vocalist"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491418731523690501",
+              "name": "Professions"
+            }
+          }
+        ],
+        "conversation_id": "2001774477869559854",
+        "created_at": "2025-12-18T22:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T23:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001774477869559854"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "Fumo Aya Shameimaru",
+              "probability": 0.6752,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 57,
+              "normalized_text": "A Lot Like Birds",
+              "probability": 0.8473,
+              "start": 42,
+              "type": "Other"
+            },
+            {
+              "end": 73,
+              "normalized_text": "Vanity's Fair",
+              "probability": 0.8497,
+              "start": 61,
+              "type": "Other"
+            },
+            {
+              "end": 99,
+              "normalized_text": "Conversation Piece",
+              "probability": 0.87,
+              "start": 82,
+              "type": "Other"
+            },
+            {
+              "end": 150,
+              "normalized_text": "Aya",
+              "probability": 0.7325,
+              "start": 148,
+              "type": "Person"
+            },
+            {
+              "end": 236,
+              "normalized_text": "Kurt Travis",
+              "probability": 0.8938,
+              "start": 226,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u7KKdymERk",
+              "end": 262,
+              "expanded_url": "https://x.com/AsthmaticMage/status/2001774477869559854/video/1",
+              "media_key": "13_2001754368065024001",
+              "start": 239,
+              "url": "https://t.co/u7KKdymERk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001774477869559854",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1375,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "Fumo Aya Shameimaru Music of the Day 541:\nA Lot Like Birds - Vanity's Fair\nAlbum: Conversation Piece (2011)\nGenre: Post-Hardcore\n\nSounds a lot like Aya.... This song also has some nice trumpets and one of my favorite vocalist Kurt Travis! https://t.co/u7KKdymERk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "我擅长产出大粪",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 495,
+          "like_count": 1597,
+          "listed_count": 2,
+          "media_count": 320,
+          "tweet_count": 5448
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-24T21:30:54.000Z",
+        "description": "Touhou and music posting. Don't be hateful. Almost all content is made by me. Check pinned message if you want to send me a vid submission! Main: @GospelBurnout",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 146,
+                "username": "GospelBurnout"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "asthmaticmage.straw.page",
+                "end": 23,
+                "expanded_url": "https://asthmaticmage.straw.page/",
+                "start": 0,
+                "url": "https://t.co/G2LQ8hSTHe"
+              }
+            ]
+          }
+        },
+        "id": "1507107662265139217",
+        "location": "Pfp made by @rnna_7",
+        "name": "Patchy’s Music Box",
+        "pinned_tweet_id": "1996849694451159470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911207592984002564/WAXBkGE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3868,
+          "following_count": 424,
+          "like_count": 28538,
+          "listed_count": 7,
+          "media_count": 2774,
+          "tweet_count": 6308
+        },
+        "url": "https://t.co/G2LQ8hSTHe",
+        "username": "AsthmaticMage",
+        "verified": false
+      }
+    ]
+  }
+}

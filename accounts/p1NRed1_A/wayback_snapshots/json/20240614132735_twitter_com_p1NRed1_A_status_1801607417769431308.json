@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1801607417769431308",
+    "created_at": "2024-06-14T13:27:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-14T14:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1801607417769431308"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tachibanalove0…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/tachibanalove01/status/1801606174053437546",
+          "start": 8,
+          "url": "https://t.co/0XQmwIKygO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801607417769431308",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801606174053437546",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不考但是我去 https://t.co/0XQmwIKygO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1801607417769431308",
+        "created_at": "2024-06-14T13:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T14:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801607417769431308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tachibanalove0…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/tachibanalove01/status/1801606174053437546",
+              "start": 8,
+              "url": "https://t.co/0XQmwIKygO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801607417769431308",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801606174053437546",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不考但是我去 https://t.co/0XQmwIKygO"
+      },
+      {
+        "attachments": {},
+        "author_id": "1753324501167960064",
+        "conversation_id": "1801606174053437546",
+        "created_at": "2024-06-14T13:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T14:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801606174053437546"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1801606174053437546",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有23天考n1还有38天去日本aaaaaa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801541330096820224/OMU5aWp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 179,
+          "like_count": 348,
+          "listed_count": 0,
+          "tweet_count": 1347
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T07:48:51.000Z",
+        "description": "自分らしく",
+        "id": "1753324501167960064",
+        "location": "精神病院",
+        "name": "穗西德",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796493551007858689/Vah5drK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 213,
+          "like_count": 1137,
+          "listed_count": 0,
+          "tweet_count": 1169
+        },
+        "username": "tachibanalove01",
+        "verified": false
+      }
+    ]
+  }
+}

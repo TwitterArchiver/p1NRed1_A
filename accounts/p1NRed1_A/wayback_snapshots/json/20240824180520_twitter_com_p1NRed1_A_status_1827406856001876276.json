@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1827017728714211355",
+    "created_at": "2024-08-24T18:05:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-24T19:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827406856001876276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1815593387606847488",
+          "start": 0,
+          "username": "CrjnWWDEML93092"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827406856001876276",
+    "in_reply_to_user_id": "1815593387606847488",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827344824510640306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CrjnWWDEML93092 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1827017728714211355",
+        "created_at": "2024-08-24T18:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T19:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827406856001876276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1815593387606847488",
+              "start": 0,
+              "username": "CrjnWWDEML93092"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827406856001876276",
+        "in_reply_to_user_id": "1815593387606847488",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827344824510640306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CrjnWWDEML93092 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815593387606847488",
+        "conversation_id": "1827017728714211355",
+        "created_at": "2024-08-24T13:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T14:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827344824510640306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827344824510640306",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827017728714211355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 好耶！生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 260,
+          "like_count": 791,
+          "listed_count": 0,
+          "tweet_count": 2577
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T03:43:03.000Z",
+        "description": "",
+        "id": "1815593387606847488",
+        "name": "小牧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817064640016531456/VUw8g1QA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 329,
+          "like_count": 2607,
+          "listed_count": 0,
+          "tweet_count": 322
+        },
+        "username": "CrjnWWDEML93092",
+        "verified": false
+      }
+    ]
+  }
+}

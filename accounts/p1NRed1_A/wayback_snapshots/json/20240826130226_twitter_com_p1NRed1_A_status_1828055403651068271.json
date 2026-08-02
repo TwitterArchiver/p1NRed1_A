@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1827693063881555968",
+        "3_1827693063873163264",
+        "3_1827693063877337090"
+      ],
+      "media_source_tweet_id": [
+        "1827693069757780304",
+        "1827693069757780304",
+        "1827693069757780304"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1828055403651068271",
+    "created_at": "2024-08-26T13:02:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T14:02:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828055403651068271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1527316706921971714",
+          "start": 3,
+          "username": "uga_tte"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vdvhokecbg",
+          "end": 36,
+          "expanded_url": "https://twitter.com/uga_tte/status/1827693069757780304/photo/1",
+          "media_key": "3_1827693063881555968",
+          "start": 13,
+          "url": "https://t.co/VdVhOkEcbg"
+        },
+        {
+          "display_url": "pic.x.com/vdvhokecbg",
+          "end": 36,
+          "expanded_url": "https://twitter.com/uga_tte/status/1827693069757780304/photo/1",
+          "media_key": "3_1827693063873163264",
+          "start": 13,
+          "url": "https://t.co/VdVhOkEcbg"
+        },
+        {
+          "display_url": "pic.x.com/vdvhokecbg",
+          "end": 36,
+          "expanded_url": "https://twitter.com/uga_tte/status/1827693069757780304/photo/1",
+          "media_key": "3_1827693063877337090",
+          "start": 13,
+          "url": "https://t.co/VdVhOkEcbg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828055403651068271",
+    "lang": "zxx",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827693069757780304",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uga_tte: https://t.co/VdVhOkEcbg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1828055403651068271].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1828055403651068271",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1828055403651068271"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1827693063881555968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GV1FKHcbAAA8aGf.jpg",
+        "width": 1536
+      },
+      {
+        "height": 604,
+        "media_key": "3_1827693063873163264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GV1FKHaa8AA6spZ.jpg",
+        "width": 883
+      },
+      {
+        "height": 1729,
+        "media_key": "3_1827693063877337090",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GV1FKHbaoAIS6Pp.jpg",
+        "width": 1241
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827693063881555968",
+            "3_1827693063873163264",
+            "3_1827693063877337090"
+          ]
+        },
+        "author_id": "1527316706921971714",
+        "conversation_id": "1827693069757780304",
+        "created_at": "2024-08-25T13:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T14:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827693069757780304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vdvhokecbg",
+              "end": 23,
+              "expanded_url": "https://twitter.com/uga_tte/status/1827693069757780304/photo/1",
+              "media_key": "3_1827693063881555968",
+              "start": 0,
+              "url": "https://t.co/VdVhOkEcbg"
+            },
+            {
+              "display_url": "pic.x.com/vdvhokecbg",
+              "end": 23,
+              "expanded_url": "https://twitter.com/uga_tte/status/1827693069757780304/photo/1",
+              "media_key": "3_1827693063873163264",
+              "start": 0,
+              "url": "https://t.co/VdVhOkEcbg"
+            },
+            {
+              "display_url": "pic.x.com/vdvhokecbg",
+              "end": 23,
+              "expanded_url": "https://twitter.com/uga_tte/status/1827693069757780304/photo/1",
+              "media_key": "3_1827693063877337090",
+              "start": 0,
+              "url": "https://t.co/VdVhOkEcbg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827693069757780304",
+        "lang": "zxx",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1417,
+          "like_count": 101,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VdVhOkEcbg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 262,
+          "like_count": 800,
+          "listed_count": 0,
+          "tweet_count": 2594
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-19T15:54:29.000Z",
+        "description": "絵 │ サブ@nx_def   ご連絡→ugatte4@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 6,
+                "username": "nx_def"
+              }
+            ]
+          }
+        },
+        "id": "1527316706921971714",
+        "location": " ",
+        "name": "4畳",
+        "pinned_tweet_id": "1811754454255043069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583644239153750016/aWguNXM1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13040,
+          "following_count": 160,
+          "like_count": 4976,
+          "listed_count": 110,
+          "tweet_count": 1392
+        },
+        "username": "uga_tte",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2080680984975212679",
+    "created_at": "2026-07-24T15:46:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T16:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080680984975212679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1537009225716576257",
+          "start": 3,
+          "username": "JINPINGslutflop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080680984975212679",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080627405144588688",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JINPINGslutflop: 我不喜欢交朋友的原因之一是我很容易讨厌人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2080680984975212679",
+        "created_at": "2026-07-24T15:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080680984975212679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1537009225716576257",
+              "start": 3,
+              "username": "JINPINGslutflop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080680984975212679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080627405144588688",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JINPINGslutflop: 我不喜欢交朋友的原因之一是我很容易讨厌人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537009225716576257",
+        "conversation_id": "2080627405144588688",
+        "created_at": "2026-07-24T12:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080627405144588688"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080627405144588688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不喜欢交朋友的原因之一是我很容易讨厌人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/9GooAZ0z7o"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "死全家星",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076577294790139904/Fz-jPCGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 587,
+          "like_count": 1798,
+          "listed_count": 3,
+          "media_count": 440,
+          "tweet_count": 7116
+        },
+        "url": "https://t.co/9GooAZ0z7o",
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T09:49:00.000Z",
+        "description": "一个路过的同人亩。。  宝宝🍊@__Ju___ju__",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "__Ju___ju__"
+              }
+            ]
+          }
+        },
+        "id": "1537009225716576257",
+        "name": "咩工刀",
+        "pinned_tweet_id": "2075922435300548964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075743654732570624/BoIz-0fY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 2388,
+          "like_count": 106895,
+          "listed_count": 3,
+          "media_count": 1530,
+          "tweet_count": 12040
+        },
+        "url": "",
+        "username": "JINPINGslutflop",
+        "verified": false
+      }
+    ]
+  }
+}

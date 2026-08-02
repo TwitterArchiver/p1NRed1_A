@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1833266808939253760"
+      ],
+      "media_source_tweet_id": [
+        "1833266948861276348"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1833330592186007619",
+    "created_at": "2024-09-10T02:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-10T03:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833330592186007619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1020310997683396609",
+          "start": 3,
+          "username": "ufoshock"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/es3x4exta5",
+          "end": 88,
+          "expanded_url": "https://twitter.com/ufoshock/status/1833266948861276348/video/1",
+          "media_key": "7_1833266808939253760",
+          "start": 65,
+          "url": "https://t.co/ES3x4ExtA5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833330592186007619",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 192
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833266948861276348",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ufoshock: Illustration process for my birthday self-portrait https://t.co/ES3x4ExtA5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 58666,
+        "height": 1500,
+        "media_key": "7_1833266808939253760",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1833266808939253760/pu/img/YIToUtTvpeRWP0zq.jpg",
+        "public_metrics": {
+          "view_count": 7244
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1833266808939253760/pu/vid/avc1/320x426/tHCiaG1GlhbEjo4h.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1833266808939253760/pu/vid/avc1/480x640/X6_hFB0qItp6t2dA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1833266808939253760/pu/vid/avc1/720x960/mzXV37wtrLVXE65F.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1833266808939253760/pu/pl/GOCwGu6H3l0KuEZw.m3u8?tag=12"
+          }
+        ],
+        "width": 1124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1833266808939253760"
+          ],
+          "media_source_tweet_id": [
+            "1833266948861276348"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1833330592186007619",
+        "created_at": "2024-09-10T02:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T03:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833330592186007619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1020310997683396609",
+              "start": 3,
+              "username": "ufoshock"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/es3x4exta5",
+              "end": 88,
+              "expanded_url": "https://twitter.com/ufoshock/status/1833266948861276348/video/1",
+              "media_key": "7_1833266808939253760",
+              "start": 65,
+              "url": "https://t.co/ES3x4ExtA5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833330592186007619",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 192
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833266948861276348",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ufoshock: Illustration process for my birthday self-portrait https://t.co/ES3x4ExtA5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1833266808939253760"
+          ]
+        },
+        "author_id": "1020310997683396609",
+        "conversation_id": "1833266948861276348",
+        "created_at": "2024-09-09T22:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T23:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833266948861276348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/es3x4exta5",
+              "end": 74,
+              "expanded_url": "https://twitter.com/ufoshock/status/1833266948861276348/video/1",
+              "media_key": "7_1833266808939253760",
+              "start": 51,
+              "url": "https://t.co/ES3x4ExtA5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833266948861276348",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 255,
+          "impression_count": 17510,
+          "like_count": 1978,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 192
+        },
+        "reply_settings": "everyone",
+        "text": "Illustration process for my birthday self-portrait https://t.co/ES3x4ExtA5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 268,
+          "like_count": 853,
+          "listed_count": 0,
+          "tweet_count": 2716
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-20T14:14:33.000Z",
+        "description": "artist、 works(⠀https://t.co/7PCudKuplT⠀) 、 store(⠀https://t.co/nXTX8FnXez⠀)、 S1M* ISSUE II OUT NOW(⠀https://t.co/w5vgALrLjW⠀)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ufoshock.moe",
+                "end": 38,
+                "expanded_url": "https://ufoshock.moe",
+                "start": 15,
+                "url": "https://t.co/7PCudKuplT"
+              },
+              {
+                "display_url": "store.ufoshock.moe",
+                "end": 73,
+                "expanded_url": "https://store.ufoshock.moe/",
+                "start": 50,
+                "url": "https://t.co/nXTX8FnXez"
+              },
+              {
+                "display_url": "s1m.ufoshock.moe",
+                "end": 123,
+                "expanded_url": "https://s1m.ufoshock.moe",
+                "start": 100,
+                "url": "https://t.co/w5vgALrLjW"
+              }
+            ]
+          }
+        },
+        "id": "1020310997683396609",
+        "name": "UFOSHOCK",
+        "pinned_tweet_id": "1833266948861276348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731372838169296896/pn77e9eC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46011,
+          "following_count": 251,
+          "like_count": 14913,
+          "listed_count": 228,
+          "tweet_count": 799
+        },
+        "username": "ufoshock",
+        "verified": false
+      }
+    ]
+  }
+}

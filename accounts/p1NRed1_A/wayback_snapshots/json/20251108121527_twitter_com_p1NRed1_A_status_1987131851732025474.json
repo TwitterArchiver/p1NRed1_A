@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987113577585778688"
+      ],
+      "media_source_tweet_id": [
+        "1987113623999946980"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1987131851732025474",
+    "created_at": "2025-11-08T12:15:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T13:15:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987131851732025474"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 16,
+          "tag": "さよなら絶望先生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "813522998313394176",
+          "start": 3,
+          "username": "kaki111222"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vq6w74fz4b",
+          "end": 52,
+          "expanded_url": "https://x.com/kaki111222/status/1987113623999946980/photo/1",
+          "media_key": "3_1987113577585778688",
+          "start": 29,
+          "url": "https://t.co/Vq6w74fz4b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987131851732025474",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987113623999946980",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kaki111222: #さよなら絶望先生　\n霧 https://t.co/Vq6w74fz4b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2360,
+        "media_key": "3_1987113577585778688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5OlRUhbIAABivV.jpg",
+        "width": 1640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987113577585778688"
+          ],
+          "media_source_tweet_id": [
+            "1987113623999946980"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1987131851732025474",
+        "created_at": "2025-11-08T12:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T13:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987131851732025474"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 16,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "813522998313394176",
+              "start": 3,
+              "username": "kaki111222"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vq6w74fz4b",
+              "end": 52,
+              "expanded_url": "https://x.com/kaki111222/status/1987113623999946980/photo/1",
+              "media_key": "3_1987113577585778688",
+              "start": 29,
+              "url": "https://t.co/Vq6w74fz4b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987131851732025474",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987113623999946980",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kaki111222: #さよなら絶望先生　\n霧 https://t.co/Vq6w74fz4b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987113577585778688"
+          ]
+        },
+        "author_id": "813522998313394176",
+        "conversation_id": "1987113623999946980",
+        "created_at": "2025-11-08T11:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T12:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987113623999946980"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vq6w74fz4b",
+              "end": 36,
+              "expanded_url": "https://x.com/kaki111222/status/1987113623999946980/photo/1",
+              "media_key": "3_1987113577585778688",
+              "start": 13,
+              "url": "https://t.co/Vq6w74fz4b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987113623999946980",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 181,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "#さよなら絶望先生　\n霧 https://t.co/Vq6w74fz4b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 497,
+          "like_count": 1552,
+          "listed_count": 2,
+          "media_count": 310,
+          "tweet_count": 5277
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-26T23:12:52.000Z",
+        "description": "なんか言ったり絵を描いたりします",
+        "id": "813522998313394176",
+        "name": "eaka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974465207146815489/abrNPk_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 358,
+          "like_count": 5014,
+          "listed_count": 2,
+          "media_count": 258,
+          "tweet_count": 539
+        },
+        "username": "kaki111222",
+        "verified": false
+      }
+    ]
+  }
+}

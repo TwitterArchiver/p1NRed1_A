@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1916858953171927420",
+    "created_at": "2025-04-29T02:28:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T03:28:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917043240722911664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1910265162856366080",
+          "start": 0,
+          "username": "yiwa76862"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917043240722911664",
+    "in_reply_to_user_id": "1910265162856366080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916995062929756613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yiwa76862 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1916858953171927420",
+        "created_at": "2025-04-29T02:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T03:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917043240722911664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1910265162856366080",
+              "start": 0,
+              "username": "yiwa76862"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917043240722911664",
+        "in_reply_to_user_id": "1910265162856366080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916995062929756613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yiwa76862 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910265162856366080",
+        "conversation_id": "1916858953171927420",
+        "created_at": "2025-04-28T23:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T00:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916995062929756613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916995062929756613",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916858953171927420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 希望下次每天醒来的咕咚每天都可以开开心心幸福幸福的🥺祝福……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 389,
+          "like_count": 1181,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 3703
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T09:35:02.000Z",
+        "description": "互助群组群主，fgo望月千代女单推人，来源图片皆为约稿",
+        "id": "1910265162856366080",
+        "name": "每一天都喜欢千代女(⌒▽⌒)☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910265696552132608/S5JX-2FL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 59,
+          "like_count": 575,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 89
+        },
+        "username": "yiwa76862",
+        "verified": false
+      }
+    ]
+  }
+}

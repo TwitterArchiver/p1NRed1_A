@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1812026692052852963",
+    "created_at": "2024-07-13T10:44:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T11:44:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812075669423325195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1271359166557286405",
+          "start": 0,
+          "username": "Jiangyineko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812075669423325195",
+    "in_reply_to_user_id": "1271359166557286405",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812045080536232418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jiangyineko 呼出气体让我感觉整个人都不对了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1812026692052852963",
+        "created_at": "2024-07-13T10:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T11:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812075669423325195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1271359166557286405",
+              "start": 0,
+              "username": "Jiangyineko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812075669423325195",
+        "in_reply_to_user_id": "1271359166557286405",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812045080536232418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiangyineko 呼出气体让我感觉整个人都不对了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1271359166557286405",
+        "conversation_id": "1812026692052852963",
+        "created_at": "2024-07-13T08:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T09:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812045080536232418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812045080536232418",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812026692052852963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 达咩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563382332014593/-06gBRx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 228,
+          "like_count": 516,
+          "listed_count": 0,
+          "tweet_count": 2083
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-12T08:30:32.000Z",
+        "description": "郁郁缺爱b",
+        "id": "1271359166557286405",
+        "location": "乌托邦",
+        "name": "逸子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766145496664727552/XfX2gCPf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 180,
+          "like_count": 2356,
+          "listed_count": 0,
+          "tweet_count": 1834
+        },
+        "username": "Jiangyineko",
+        "verified": false
+      }
+    ]
+  }
+}

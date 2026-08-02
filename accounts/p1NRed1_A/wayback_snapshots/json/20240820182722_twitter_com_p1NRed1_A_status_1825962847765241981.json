@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1825866518489681920"
+      ],
+      "media_source_tweet_id": [
+        "1825866538282528987"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1825962847765241981",
+    "created_at": "2024-08-20T18:27:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-20T19:27:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825962847765241981"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 12,
+          "tag": "EIZOイラストコンテスト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "929178871064289280",
+          "start": 3,
+          "username": "24no71"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w5kbs9wofa",
+          "end": 50,
+          "expanded_url": "https://twitter.com/24no71/status/1825866538282528987/photo/1",
+          "media_key": "3_1825866518489681920",
+          "start": 27,
+          "url": "https://t.co/W5KBs9wofa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825962847765241981",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825866538282528987",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @24no71: #EIZOイラストコンテスト https://t.co/W5KBs9wofa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_1825866518489681920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVbH7LnbUAAxj_t.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1825866518489681920"
+          ],
+          "media_source_tweet_id": [
+            "1825866538282528987"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1825962847765241981",
+        "created_at": "2024-08-20T18:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T19:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825962847765241981"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 12,
+              "tag": "EIZOイラストコンテスト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "929178871064289280",
+              "start": 3,
+              "username": "24no71"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w5kbs9wofa",
+              "end": 50,
+              "expanded_url": "https://twitter.com/24no71/status/1825866538282528987/photo/1",
+              "media_key": "3_1825866518489681920",
+              "start": 27,
+              "url": "https://t.co/W5KBs9wofa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825962847765241981",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825866538282528987",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @24no71: #EIZOイラストコンテスト https://t.co/W5KBs9wofa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1825866518489681920"
+          ]
+        },
+        "author_id": "929178871064289280",
+        "conversation_id": "1825866538282528987",
+        "created_at": "2024-08-20T12:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T13:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825866538282528987"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "EIZOイラストコンテスト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w5kbs9wofa",
+              "end": 38,
+              "expanded_url": "https://twitter.com/24no71/status/1825866538282528987/photo/1",
+              "media_key": "3_1825866518489681920",
+              "start": 15,
+              "url": "https://t.co/W5KBs9wofa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825866538282528987",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2462,
+          "like_count": 181,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "#EIZOイラストコンテスト https://t.co/W5KBs9wofa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 260,
+          "like_count": 765,
+          "listed_count": 0,
+          "tweet_count": 2508
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-11T02:48:00.000Z",
+        "description": "一次創作。OC。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nishinori",
+                "end": 23,
+                "expanded_url": "https://lit.link/nishinori",
+                "start": 0,
+                "url": "https://t.co/lbBhzRVZmM"
+              }
+            ]
+          }
+        },
+        "id": "929178871064289280",
+        "name": "にしのり",
+        "pinned_tweet_id": "1810899004999528747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534396708536598528/y3uS4_Mz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5365,
+          "following_count": 404,
+          "like_count": 46698,
+          "listed_count": 79,
+          "tweet_count": 1613
+        },
+        "url": "https://t.co/lbBhzRVZmM",
+        "username": "24no71",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007114284791431168"
+      ],
+      "media_source_tweet_id": [
+        "2007114474701070685"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tea",
+          "id": "850450940213592064",
+          "name": "Tea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1792595821940113408",
+          "name": "Matcha"
+        }
+      }
+    ],
+    "conversation_id": "2007139961456472147",
+    "created_at": "2026-01-02T17:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T18:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007139961456472147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1759812244932902912",
+          "start": 3,
+          "username": "kawaoka_nano_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ENK6zEPl72",
+          "end": 72,
+          "expanded_url": "https://x.com/kawaoka_nano_/status/2007114474701070685/photo/1",
+          "media_key": "3_2007114284791431168",
+          "start": 49,
+          "url": "https://t.co/ENK6zEPl72"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007139961456472147",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007114474701070685",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kawaoka_nano_: 茶🍵来てくれた人ありがとうございました❣️楽しかったです♪ https://t.co/ENK6zEPl72"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2007114284791431168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9qzztCbAAA-voQ.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007114284791431168"
+          ],
+          "media_source_tweet_id": [
+            "2007114474701070685"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "2007139961456472147",
+        "created_at": "2026-01-02T17:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T18:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007139961456472147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1759812244932902912",
+              "start": 3,
+              "username": "kawaoka_nano_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ENK6zEPl72",
+              "end": 72,
+              "expanded_url": "https://x.com/kawaoka_nano_/status/2007114474701070685/photo/1",
+              "media_key": "3_2007114284791431168",
+              "start": 49,
+              "url": "https://t.co/ENK6zEPl72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007139961456472147",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007114474701070685",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kawaoka_nano_: 茶🍵来てくれた人ありがとうございました❣️楽しかったです♪ https://t.co/ENK6zEPl72"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007114284791431168"
+          ]
+        },
+        "author_id": "1759812244932902912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "2007114474701070685",
+        "created_at": "2026-01-02T15:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T16:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007114474701070685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ENK6zEPl72",
+              "end": 53,
+              "expanded_url": "https://x.com/kawaoka_nano_/status/2007114474701070685/photo/1",
+              "media_key": "3_2007114284791431168",
+              "start": 30,
+              "url": "https://t.co/ENK6zEPl72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007114474701070685",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 362,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "茶🍵来てくれた人ありがとうございました❣️楽しかったです♪ https://t.co/ENK6zEPl72"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "我擅长产出大粪",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 496,
+          "like_count": 1602,
+          "listed_count": 2,
+          "media_count": 324,
+          "tweet_count": 5506
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T05:28:46.000Z",
+        "description": "かわおでいいよ！",
+        "id": "1759812244932902912",
+        "location": "ハウス",
+        "name": "どうすりゃええねん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907086985631875072/X-gTfiiL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1457,
+          "following_count": 94,
+          "like_count": 9884,
+          "listed_count": 5,
+          "media_count": 162,
+          "tweet_count": 2350
+        },
+        "username": "kawaoka_nano_",
+        "verified": false
+      }
+    ]
+  }
+}

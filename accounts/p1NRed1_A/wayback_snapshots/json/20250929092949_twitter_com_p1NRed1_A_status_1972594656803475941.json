@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1972332473813291453",
+    "created_at": "2025-09-29T09:29:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T10:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972594656803475941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1746524463875899392",
+          "start": 0,
+          "username": "2226_wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972594656803475941",
+    "in_reply_to_user_id": "1746524463875899392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972559810127376678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2226_wiki 猜对了你真棒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1972332473813291453",
+        "created_at": "2025-09-29T09:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T10:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972594656803475941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1746524463875899392",
+              "start": 0,
+              "username": "2226_wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972594656803475941",
+        "in_reply_to_user_id": "1746524463875899392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972559810127376678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2226_wiki 猜对了你真棒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746524463875899392",
+        "conversation_id": "1972332473813291453",
+        "created_at": "2025-09-29T07:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T08:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972559810127376678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972559810127376678",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972332473813291453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 曲唑酮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 458,
+          "like_count": 1440,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 4832
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T13:27:47.000Z",
+        "description": "可以叫我小酸",
+        "id": "1746524463875899392",
+        "location": "？",
+        "name": "硝酸",
+        "pinned_tweet_id": "1915375799600894363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951639284899016705/pmLTPund_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 191,
+          "like_count": 6381,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 123
+        },
+        "username": "2226_wiki",
+        "verified": false
+      }
+    ]
+  }
+}

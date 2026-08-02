@@ -1,0 +1,162 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1807829090654998533",
+    "created_at": "2024-07-01T17:30:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-01T18:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807829090654998533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620976260326506501",
+          "start": 3,
+          "username": "kisi06590380"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807829090654998533",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807558306694885473",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @kisi06590380: 我实话实说，彻底完全了解一个人，这对我来说是灾难"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1807829090654998533",
+        "created_at": "2024-07-01T17:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T18:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807829090654998533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620976260326506501",
+              "start": 3,
+              "username": "kisi06590380"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807829090654998533",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807558306694885473",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @kisi06590380: 我实话实说，彻底完全了解一个人，这对我来说是灾难"
+      },
+      {
+        "attachments": {},
+        "author_id": "1620976260326506501",
+        "conversation_id": "1807558306694885473",
+        "created_at": "2024-06-30T23:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T00:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807558306694885473"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1807558306694885473",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "我实话实说，彻底完全了解一个人，这对我来说是灾难"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563382332014593/-06gBRx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 208,
+          "like_count": 467,
+          "listed_count": 0,
+          "tweet_count": 1874
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-02T02:44:14.000Z",
+        "description": "攻击我之前请先了解我：本人重度抑郁患者，农村人，LGBT群体，丁克族，少数民族，极端女权主义者，素食主义者，动物保护人士，祖上八百代是黑人，咸豆腐脑和甜粽子党，不支持代孕合法，支持同性婚姻合法化。喜欢的明星有吴京，陈道明，韩红 ，用的是华为手机。",
+        "id": "1620976260326506501",
+        "name": "用户36096613",
+        "pinned_tweet_id": "1806103761385115988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807778319448084480/cGsTPmco_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 750,
+          "like_count": 874,
+          "listed_count": 0,
+          "tweet_count": 853
+        },
+        "username": "kisi06590380",
+        "verified": false
+      }
+    ]
+  }
+}

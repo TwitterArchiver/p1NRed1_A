@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1828268863152406528"
+      ],
+      "media_source_tweet_id": [
+        "1828268868068090187"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1828275023754248322",
+    "created_at": "2024-08-27T03:35:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-27T04:35:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828275023754248322"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 69,
+          "start": 60,
+          "tag": "odaibako"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1768652462590926848",
+          "start": 3,
+          "username": "love_18s2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d8hppzkren",
+          "end": 93,
+          "expanded_url": "https://twitter.com/love_18s2/status/1828268868068090187/photo/1",
+          "media_key": "3_1828268863152406528",
+          "start": 70,
+          "url": "https://t.co/d8HPpZKReN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828275023754248322",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828268868068090187",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @love_18s2: さよなら絶望先生/糸色                               倫\n #odaibako https://t.co/d8HPpZKReN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1023,
+        "media_key": "3_1828268863152406528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GV9Q2C4bQAAhajl.jpg",
+        "width": 961
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828268863152406528"
+          ],
+          "media_source_tweet_id": [
+            "1828268868068090187"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1828275023754248322",
+        "created_at": "2024-08-27T03:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T04:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828275023754248322"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 60,
+              "tag": "odaibako"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1768652462590926848",
+              "start": 3,
+              "username": "love_18s2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d8hppzkren",
+              "end": 93,
+              "expanded_url": "https://twitter.com/love_18s2/status/1828268868068090187/photo/1",
+              "media_key": "3_1828268863152406528",
+              "start": 70,
+              "url": "https://t.co/d8HPpZKReN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828275023754248322",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828268868068090187",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @love_18s2: さよなら絶望先生/糸色                               倫\n #odaibako https://t.co/d8HPpZKReN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828268863152406528"
+          ]
+        },
+        "author_id": "1768652462590926848",
+        "conversation_id": "1828268868068090187",
+        "created_at": "2024-08-27T03:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T04:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828268868068090187"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 45,
+              "tag": "odaibako"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d8hppzkren",
+              "end": 78,
+              "expanded_url": "https://twitter.com/love_18s2/status/1828268868068090187/photo/1",
+              "media_key": "3_1828268863152406528",
+              "start": 55,
+              "url": "https://t.co/d8HPpZKReN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828268868068090187",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 170,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "さよなら絶望先生/糸色                               倫\n #odaibako https://t.co/d8HPpZKReN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 263,
+          "like_count": 806,
+          "listed_count": 0,
+          "tweet_count": 2603
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T14:56:37.000Z",
+        "description": "強く生きてくださいね",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/love_18s2",
+                "end": 23,
+                "expanded_url": "https://odaibako.net/u/love_18s2",
+                "start": 0,
+                "url": "https://t.co/WhToPze5ly"
+              }
+            ]
+          }
+        },
+        "id": "1768652462590926848",
+        "location": "fanart",
+        "name": "⊂(ᴖ ̫ᴖ )⊃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825716997214351360/HGYLCCBV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 2,
+          "like_count": 46,
+          "listed_count": 0,
+          "tweet_count": 14
+        },
+        "url": "https://t.co/WhToPze5ly",
+        "username": "love_18s2",
+        "verified": false
+      }
+    ]
+  }
+}

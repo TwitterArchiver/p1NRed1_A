@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1979849607573377449",
+    "created_at": "2025-10-19T09:58:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T10:58:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979849607573377449"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/onyxnbca/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/onyxnbca/status/1979566235752018184",
+          "start": 6,
+          "url": "https://t.co/1EjojWX67z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979849607573377449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979566235752018184",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "u骚好萌啊 https://t.co/1EjojWX67z"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41940,
+        "height": 1280,
+        "media_key": "7_1979566125751914496",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1979566125751914496/pu/img/IH24X1vRP3SCyc0F.jpg",
+        "public_metrics": {
+          "view_count": 1866
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1979566125751914496/pu/vid/avc1/320x568/VimcnbTYEsBBYsDP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1979566125751914496/pu/vid/avc1/480x852/kIN5oFyjf1nXg-5r.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1979566125751914496/pu/vid/avc1/720x1280/13xTlxKW2Fk7ezmv.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1979566125751914496/pu/pl/gfs4nNBX0sNBj_yN.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1979849607573377449",
+        "created_at": "2025-10-19T09:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T10:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979849607573377449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/onyxnbca/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/onyxnbca/status/1979566235752018184",
+              "start": 6,
+              "url": "https://t.co/1EjojWX67z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979849607573377449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979566235752018184",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "u骚好萌啊 https://t.co/1EjojWX67z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1979566125751914496"
+          ]
+        },
+        "author_id": "1285068954654830592",
+        "conversation_id": "1979566235752018184",
+        "created_at": "2025-10-18T15:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T16:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979566235752018184"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "Big Daddy",
+              "probability": 0.2998,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 33,
+              "normalized_text": "沖縄",
+              "probability": 0.4827,
+              "start": 32,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 51,
+              "tag": "ANISonJU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ApMyqcc97x",
+              "end": 84,
+              "expanded_url": "https://x.com/onyxnbca/status/1979566235752018184/video/1",
+              "media_key": "7_1979566125751914496",
+              "start": 61,
+              "url": "https://t.co/ApMyqcc97x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979566235752018184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 5396,
+          "like_count": 187,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "Big Daddyの賢者タイムUSAOと後ろにいる吊るされた男(沖縄ハロウィン仕様)、シュールすぎた\n#ANISonJU https://t.co/ApMyqcc97x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 486,
+          "like_count": 1507,
+          "listed_count": 2,
+          "media_count": 297,
+          "tweet_count": 5106
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-20T04:28:17.000Z",
+        "description": "PerfumeとUSAO大好き👠🐰/かしゆかコス、パフュクロ/No Perfume No Life!",
+        "id": "1285068954654830592",
+        "location": "樫野記念病院関東ブロック",
+        "name": "miho10月18日🐰沖縄",
+        "pinned_tweet_id": "1809512259036774402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970863744256450560/Y-IFzoCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1610,
+          "following_count": 612,
+          "like_count": 49757,
+          "listed_count": 12,
+          "media_count": 3848,
+          "tweet_count": 25719
+        },
+        "username": "onyxnbca",
+        "verified": false
+      }
+    ]
+  }
+}

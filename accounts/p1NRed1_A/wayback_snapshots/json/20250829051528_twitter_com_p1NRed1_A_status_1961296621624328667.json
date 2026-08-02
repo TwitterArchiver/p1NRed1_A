@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1960951778666484204",
+    "created_at": "2025-08-29T05:15:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T06:15:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961296621624328667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1919452092181446660",
+          "start": 0,
+          "username": "chimera_ui"
+        },
+        {
+          "end": 25,
+          "id": "1583711070098640896",
+          "start": 12,
+          "username": "PriestleyZZZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961296621624328667",
+    "in_reply_to_user_id": "1919452092181446660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960955772059210214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chimera_ui @PriestleyZZZ 草泥马盗我梗"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1960955772059210214].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1960955772059210214",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1960955772059210214"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1960951778666484204",
+        "created_at": "2025-08-29T05:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T06:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961296621624328667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1919452092181446660",
+              "start": 0,
+              "username": "chimera_ui"
+            },
+            {
+              "end": 25,
+              "id": "1583711070098640896",
+              "start": 12,
+              "username": "PriestleyZZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961296621624328667",
+        "in_reply_to_user_id": "1919452092181446660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960955772059210214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chimera_ui @PriestleyZZZ 草泥马盗我梗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 440,
+          "like_count": 1337,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 4574
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T18:00:25.000Z",
+        "description": "@_defoko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "_defoko"
+              }
+            ]
+          }
+        },
+        "id": "1919452092181446660",
+        "name": "山地自行車",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919556152368758785/-1Z78cuS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 90,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 80
+        },
+        "username": "chimera_ui",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-22T06:45:55.000Z",
+        "description": "可以叫我Pri / 医学生",
+        "id": "1583711070098640896",
+        "location": "生活向上委員會",
+        "name": "Priestley🍃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936159168982925312/PbdYIsWK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2337,
+          "following_count": 798,
+          "like_count": 35806,
+          "listed_count": 7,
+          "media_count": 1346,
+          "tweet_count": 19958
+        },
+        "username": "PriestleyZZZ",
+        "verified": false
+      }
+    ]
+  }
+}

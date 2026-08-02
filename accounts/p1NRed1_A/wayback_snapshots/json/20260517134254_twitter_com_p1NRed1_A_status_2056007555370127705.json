@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2055975589090300225",
+    "created_at": "2026-05-17T13:42:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T14:42:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056007555370127705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1957003297761656832",
+          "start": 0,
+          "username": "Naga1kite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056007555370127705",
+    "in_reply_to_user_id": "1957003297761656832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056007290000703636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Naga1kite 下次安排我男仆给你做"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2055975589090300225",
+        "created_at": "2026-05-17T13:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056007555370127705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957003297761656832",
+              "start": 0,
+              "username": "Naga1kite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056007555370127705",
+        "in_reply_to_user_id": "1957003297761656832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056007290000703636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Naga1kite 下次安排我男仆给你做"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957003297761656832",
+        "conversation_id": "2055975589090300225",
+        "created_at": "2026-05-17T13:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056007290000703636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056007290000703636",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055975589090300225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 我也要吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 562,
+          "like_count": 1656,
+          "listed_count": 3,
+          "media_count": 361,
+          "tweet_count": 6249
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-17T08:55:45.000Z",
+        "description": "かねほし",
+        "id": "1957003297761656832",
+        "location": "日本",
+        "name": "蛙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054092707522564096/YOqv-3P7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 35,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 39
+        },
+        "username": "Naga1kite",
+        "verified": false
+      }
+    ]
+  }
+}

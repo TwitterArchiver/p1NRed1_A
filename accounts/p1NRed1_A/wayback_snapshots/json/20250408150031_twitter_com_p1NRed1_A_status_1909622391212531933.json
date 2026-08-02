@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907191746175340544"
+      ],
+      "media_source_tweet_id": [
+        "1907191918293070209"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1909622391212531933",
+    "created_at": "2025-04-08T15:00:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T16:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909622391212531933"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "leia",
+          "probability": 0.5265,
+          "start": 21,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 26,
+          "tag": "さよなら絶望先生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1699118682234839040",
+          "start": 3,
+          "username": "cistransisomere"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DDzbuLy9kW",
+          "end": 59,
+          "expanded_url": "https://x.com/cistransisomere/status/1907191918293070209/photo/1",
+          "media_key": "3_1907191746175340544",
+          "start": 36,
+          "url": "https://t.co/DDzbuLy9kW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909622391212531933",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907191918293070209",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cistransisomere: leia #さよなら絶望先生 https://t.co/DDzbuLy9kW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1286,
+        "media_key": "3_1907191746175340544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gne0ydVWkAAXyJq.jpg",
+        "width": 2119
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907191746175340544"
+          ],
+          "media_source_tweet_id": [
+            "1907191918293070209"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1909622391212531933",
+        "created_at": "2025-04-08T15:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T16:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909622391212531933"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "leia",
+              "probability": 0.5265,
+              "start": 21,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 26,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1699118682234839040",
+              "start": 3,
+              "username": "cistransisomere"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DDzbuLy9kW",
+              "end": 59,
+              "expanded_url": "https://x.com/cistransisomere/status/1907191918293070209/photo/1",
+              "media_key": "3_1907191746175340544",
+              "start": 36,
+              "url": "https://t.co/DDzbuLy9kW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909622391212531933",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907191918293070209",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cistransisomere: leia #さよなら絶望先生 https://t.co/DDzbuLy9kW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907191746175340544"
+          ]
+        },
+        "author_id": "1699118682234839040",
+        "conversation_id": "1907191918293070209",
+        "created_at": "2025-04-01T22:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T23:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907191918293070209"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "leia",
+              "probability": 0.4819,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 5,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DDzbuLy9kW",
+              "end": 38,
+              "expanded_url": "https://x.com/cistransisomere/status/1907191918293070209/photo/1",
+              "media_key": "3_1907191746175340544",
+              "start": 15,
+              "url": "https://t.co/DDzbuLy9kW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907191918293070209",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 1778,
+          "like_count": 141,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "leia #さよなら絶望先生 https://t.co/DDzbuLy9kW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908472142045601793/4rErpv2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 344,
+          "like_count": 1127,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 3446
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-05T17:54:09.000Z",
+        "description": "BORN TO DIE / WORLD IS A FUCK / 鬼神 Kill Em All 1989 / I am trash man / 410,757,864,530 DEAD COPS / 16+",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cistransisomere.straw.page",
+                "end": 23,
+                "expanded_url": "https://cistransisomere.straw.page",
+                "start": 0,
+                "url": "https://t.co/OJkKiGqPrU"
+              }
+            ]
+          }
+        },
+        "id": "1699118682234839040",
+        "location": "18 any prns pr*ship/p*do dni  ",
+        "name": "I-131 🩸💥🇵🇸",
+        "pinned_tweet_id": "1779502320717287693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878463621501460481/1mqpSnx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 258,
+          "like_count": 4056,
+          "listed_count": 3,
+          "media_count": 89,
+          "tweet_count": 3532
+        },
+        "url": "https://t.co/OJkKiGqPrU",
+        "username": "cistransisomere",
+        "verified": false
+      }
+    ]
+  }
+}

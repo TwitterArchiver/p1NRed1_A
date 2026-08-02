@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2005967341918802015",
+    "created_at": "2025-12-30T12:02:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T13:02:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005972694236602531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1698210695844970496",
+          "start": 0,
+          "username": "wusuowei22222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005972694236602531",
+    "in_reply_to_user_id": "1698210695844970496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005969624169677311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wusuowei22222 你妈死了我们聊你爹咋被黑人操死的行不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2005967341918802015",
+        "created_at": "2025-12-30T12:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T13:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005972694236602531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1698210695844970496",
+              "start": 0,
+              "username": "wusuowei22222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005972694236602531",
+        "in_reply_to_user_id": "1698210695844970496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005969624169677311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wusuowei22222 你妈死了我们聊你爹咋被黑人操死的行不行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698210695844970496",
+        "conversation_id": "2005967341918802015",
+        "created_at": "2025-12-30T11:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T12:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005969624169677311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005969624169677311",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005967341918802015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 聊个带颜色的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "我擅长产出大粪",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 499,
+          "like_count": 1600,
+          "listed_count": 2,
+          "media_count": 324,
+          "tweet_count": 5488
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-03T05:46:04.000Z",
+        "description": "",
+        "id": "1698210695844970496",
+        "name": "wusuowei2222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698210875784769536/yk4dRn6u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 59,
+          "like_count": 30,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 296
+        },
+        "username": "wusuowei22222",
+        "verified": false
+      }
+    ]
+  }
+}

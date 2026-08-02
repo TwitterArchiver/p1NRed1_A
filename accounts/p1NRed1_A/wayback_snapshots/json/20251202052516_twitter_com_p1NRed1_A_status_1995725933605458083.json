@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995579714862280707"
+      ],
+      "media_source_tweet_id": [
+        "1995579757082390941"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1995725933605458083",
+    "created_at": "2025-12-02T05:25:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T06:25:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995725933605458083"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "Azumanga",
+          "probability": 0.5659,
+          "start": 21,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1463679163211075598",
+          "start": 3,
+          "username": "hardboiledayumu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bxZfE0OJn5",
+          "end": 83,
+          "expanded_url": "https://x.com/hardboiledayumu/status/1995579757082390941/photo/1",
+          "media_key": "3_1995579714862280707",
+          "start": 60,
+          "url": "https://t.co/bxZfE0OJn5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995725933605458083",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995579757082390941",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hardboiledayumu: Azumanga doodles from like 2 weeks ago https://t.co/bxZfE0OJn5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_1995579714862280707",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7G5LXlXcAMHsJv.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995579714862280707"
+          ],
+          "media_source_tweet_id": [
+            "1995579757082390941"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1995725933605458083",
+        "created_at": "2025-12-02T05:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T06:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995725933605458083"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "Azumanga",
+              "probability": 0.5659,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1463679163211075598",
+              "start": 3,
+              "username": "hardboiledayumu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bxZfE0OJn5",
+              "end": 83,
+              "expanded_url": "https://x.com/hardboiledayumu/status/1995579757082390941/photo/1",
+              "media_key": "3_1995579714862280707",
+              "start": 60,
+              "url": "https://t.co/bxZfE0OJn5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995725933605458083",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995579757082390941",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hardboiledayumu: Azumanga doodles from like 2 weeks ago https://t.co/bxZfE0OJn5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995579714862280707"
+          ]
+        },
+        "author_id": "1463679163211075598",
+        "conversation_id": "1995579757082390941",
+        "created_at": "2025-12-01T19:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T20:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995579757082390941"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "Azumanga",
+              "probability": 0.6157,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bxZfE0OJn5",
+              "end": 62,
+              "expanded_url": "https://x.com/hardboiledayumu/status/1995579757082390941/photo/1",
+              "media_key": "3_1995579714862280707",
+              "start": 39,
+              "url": "https://t.co/bxZfE0OJn5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995579757082390941",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 4705,
+          "like_count": 696,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "Azumanga doodles from like 2 weeks ago https://t.co/bxZfE0OJn5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 501,
+          "like_count": 1561,
+          "listed_count": 2,
+          "media_count": 310,
+          "tweet_count": 5306
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-25T01:21:38.000Z",
+        "description": "Nothing but an artist on twitter dot com, taking things one step at a time 🍀 @Creamiix_x bestie hihi ( ￣∇￣)ノ (NSFW DNI pls & ty) discord is just 'marshadoo'",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Creamiix_x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@marshadoo7618…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@marshadoo7618?si=4tjDB_I1kjtBOjDW",
+                "start": 0,
+                "url": "https://t.co/XNB1A14PnY"
+              }
+            ]
+          }
+        },
+        "id": "1463679163211075598",
+        "location": "Raspberry Heaven",
+        "name": "MerryMarshadoo💥",
+        "pinned_tweet_id": "1994050173039734912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995631595793833984/V3g681nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4417,
+          "following_count": 2468,
+          "like_count": 328350,
+          "listed_count": 15,
+          "media_count": 6313,
+          "tweet_count": 29661
+        },
+        "url": "https://t.co/XNB1A14PnY",
+        "username": "hardboiledayumu",
+        "verified": false
+      }
+    ]
+  }
+}

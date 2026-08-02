@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2082369554676871356",
+    "created_at": "2026-07-29T09:15:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T10:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082394676087460283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1566598771160793088",
+          "start": 0,
+          "username": "MaruyamaKaeru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082394676087460283",
+    "in_reply_to_user_id": "1566598771160793088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082394318044844497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaruyamaKaeru 网上有卖呀可以自己换"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2082369554676871356",
+        "created_at": "2026-07-29T09:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082394676087460283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1566598771160793088",
+              "start": 0,
+              "username": "MaruyamaKaeru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082394676087460283",
+        "in_reply_to_user_id": "1566598771160793088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082394318044844497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaruyamaKaeru 网上有卖呀可以自己换"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566598771160793088",
+        "conversation_id": "2082369554676871356",
+        "created_at": "2026-07-29T09:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082394318044844497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082394318044844497",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082369554676871356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 真的有这款吗那我也打"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/9GooAZ0z7o"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "死全家星",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076577294790139904/Fz-jPCGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 592,
+          "like_count": 1806,
+          "listed_count": 3,
+          "media_count": 450,
+          "tweet_count": 7220
+        },
+        "url": "https://t.co/9GooAZ0z7o",
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T01:27:51.000Z",
+        "description": "🐸蛙/咖啡/She/They🏳️‍⚧️MtX/酷儿/激素服用中🍥04年/17年HRT🧠BPD👁️OD💛暴露狂❤️血图💀二周目@CoFfffEeeeE1 三周目@CaffFrog \n💍@shudesu00  😺闺蜜 @Tsuki_NekoY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "CoFfffEeeeE1"
+              },
+              {
+                "end": 88,
+                "start": 79,
+                "username": "CaffFrog"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "shudesu00"
+              },
+              {
+                "end": 119,
+                "start": 107,
+                "username": "Tsuki_NekoY"
+              }
+            ]
+          }
+        },
+        "id": "1566598771160793088",
+        "name": "wako",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066753837030060032/0o_5RUn4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 86,
+          "like_count": 384,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 313
+        },
+        "url": "",
+        "username": "MaruyamaKaeru",
+        "verified": false
+      }
+    ]
+  }
+}

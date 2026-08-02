@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1802161016723378580",
+    "created_at": "2024-06-16T04:32:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T05:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802197447617491207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1299419057649790977",
+          "start": 0,
+          "username": "Bionic_blood"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802197447617491207",
+    "in_reply_to_user_id": "1299419057649790977",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802196802785153247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bionic_blood 所以要吃好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1802161016723378580",
+        "created_at": "2024-06-16T04:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T05:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802197447617491207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1299419057649790977",
+              "start": 0,
+              "username": "Bionic_blood"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802197447617491207",
+        "in_reply_to_user_id": "1299419057649790977",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802196802785153247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bionic_blood 所以要吃好吗"
+      },
+      {
+        "attachments": {},
+        "author_id": "1299419057649790977",
+        "conversation_id": "1802161016723378580",
+        "created_at": "2024-06-16T04:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T05:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802196802785153247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802196802785153247",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802182796561256884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 我懂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802034669124485120/8vBZzTX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 182,
+          "like_count": 365,
+          "listed_count": 0,
+          "tweet_count": 1449
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-28T18:50:29.000Z",
+        "description": "Prose narrative,but like a diary. #📓 #🚬",
+        "id": "1299419057649790977",
+        "name": "4",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799550011828764672/cSWAA-QH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6796,
+          "following_count": 1462,
+          "like_count": 28702,
+          "listed_count": 16,
+          "tweet_count": 21000
+        },
+        "username": "Bionic_blood",
+        "verified": false
+      }
+    ]
+  }
+}

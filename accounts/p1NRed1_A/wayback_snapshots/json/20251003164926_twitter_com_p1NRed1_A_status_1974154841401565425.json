@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1973948400191377408"
+      ],
+      "media_source_tweet_id": [
+        "1974112210029850923"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1974154841401565425",
+    "created_at": "2025-10-03T16:49:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T17:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974154841401565425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1249607798221967360",
+          "start": 3,
+          "username": "57ame"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LtfnHB4mEH",
+          "end": 39,
+          "expanded_url": "https://x.com/57ame/status/1974112210029850923/photo/1",
+          "media_key": "3_1973948400191377408",
+          "start": 16,
+          "url": "https://t.co/LtfnHB4mEH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974154841401565425",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974112210029850923",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @57ame: 2024 https://t.co/LtfnHB4mEH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_1973948400191377408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2TfnI5bkAAAC2h.jpg",
+        "width": 831
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973948400191377408"
+          ],
+          "media_source_tweet_id": [
+            "1974112210029850923"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1974154841401565425",
+        "created_at": "2025-10-03T16:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T17:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974154841401565425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1249607798221967360",
+              "start": 3,
+              "username": "57ame"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LtfnHB4mEH",
+              "end": 39,
+              "expanded_url": "https://x.com/57ame/status/1974112210029850923/photo/1",
+              "media_key": "3_1973948400191377408",
+              "start": 16,
+              "url": "https://t.co/LtfnHB4mEH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974154841401565425",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974112210029850923",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @57ame: 2024 https://t.co/LtfnHB4mEH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973948400191377408"
+          ]
+        },
+        "author_id": "1249607798221967360",
+        "conversation_id": "1974112210029850923",
+        "created_at": "2025-10-03T14:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T15:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974112210029850923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LtfnHB4mEH",
+              "end": 28,
+              "expanded_url": "https://x.com/57ame/status/1974112210029850923/photo/1",
+              "media_key": "3_1973948400191377408",
+              "start": 5,
+              "url": "https://t.co/LtfnHB4mEH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974112210029850923",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 1733,
+          "like_count": 230,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "2024 https://t.co/LtfnHB4mEH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 466,
+          "like_count": 1464,
+          "listed_count": 2,
+          "media_count": 279,
+          "tweet_count": 4911
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T07:58:22.000Z",
+        "description": "つゆりです（╹◡╹）\n\nサブ　@sgw_ghost\n働　@szm8_bot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "sgw_ghost"
+              },
+              {
+                "end": 37,
+                "start": 28,
+                "username": "szm8_bot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "57ame.base.shop",
+                "end": 23,
+                "expanded_url": "http://57ame.base.shop",
+                "start": 0,
+                "url": "https://t.co/rYueIJsshO"
+              }
+            ]
+          }
+        },
+        "id": "1249607798221967360",
+        "name": "5月7日",
+        "pinned_tweet_id": "1973025586571542974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831704718684647426/2T_1dqGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4714,
+          "following_count": 85,
+          "like_count": 8726,
+          "listed_count": 37,
+          "media_count": 338,
+          "tweet_count": 581
+        },
+        "url": "https://t.co/rYueIJsshO",
+        "username": "57ame",
+        "verified": false
+      }
+    ]
+  }
+}

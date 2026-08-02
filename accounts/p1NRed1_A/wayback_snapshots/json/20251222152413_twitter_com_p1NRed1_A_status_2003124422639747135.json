@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "2003124422639747135",
+    "created_at": "2025-12-22T15:24:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T16:24:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003124422639747135"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 102,
+          "normalized_text": "芥川龍之介",
+          "probability": 0.7994,
+          "start": 98,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1507107662265139217",
+          "start": 3,
+          "username": "AsthmaticMage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003124422639747135",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002546395249607150",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AsthmaticMage: Touhou Circle Spotlight #25:\nparoleise - Drag me?\nAlbum: pavement\nArrangement: 芥川龍之介の河童　～ Candid Friend\n\n Those Touhou s…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 204833,
+        "height": 618,
+        "media_key": "13_2002545159633055745",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2002545159633055745/img/iQkL0_1--83_fv9x.jpg",
+        "public_metrics": {
+          "view_count": 198
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002545159633055745/vid/avc1/270x270/Kru9FxU9fQ06SX-d.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002545159633055745/vid/avc1/360x360/rus5X9_o6j5hFkXU.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002545159633055745/vid/avc1/620x618/bXUmwqIe9s8adQ9g.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2002545159633055745/pl/VbMtKthSUtrACeg_.m3u8?tag=14"
+          }
+        ],
+        "width": 620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2003124422639747135",
+        "created_at": "2025-12-22T15:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T16:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003124422639747135"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 102,
+              "normalized_text": "芥川龍之介",
+              "probability": 0.7994,
+              "start": 98,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1507107662265139217",
+              "start": 3,
+              "username": "AsthmaticMage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003124422639747135",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002546395249607150",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AsthmaticMage: Touhou Circle Spotlight #25:\nparoleise - Drag me?\nAlbum: pavement\nArrangement: 芥川龍之介の河童　～ Candid Friend\n\n Those Touhou s…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002545159633055745"
+          ]
+        },
+        "author_id": "1507107662265139217",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2002546395249607150",
+        "created_at": "2025-12-21T01:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T02:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002546395249607150"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 83,
+              "normalized_text": "芥川龍之介",
+              "probability": 0.7003,
+              "start": 79,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hPpxvY9TCt",
+              "end": 183,
+              "expanded_url": "https://x.com/AsthmaticMage/status/2002546395249607150/video/1",
+              "media_key": "13_2002545159633055745",
+              "start": 160,
+              "url": "https://t.co/hPpxvY9TCt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002546395249607150",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 739,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "Touhou Circle Spotlight #25:\nparoleise - Drag me?\nAlbum: pavement\nArrangement: 芥川龍之介の河童　～ Candid Friend\n\n Those Touhou songs with 1k on Youtube really hit hard https://t.co/hPpxvY9TCt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "我擅长产出大粪",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 494,
+          "like_count": 1595,
+          "listed_count": 2,
+          "media_count": 320,
+          "tweet_count": 5446
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-24T21:30:54.000Z",
+        "description": "Touhou and music posting. Don't be hateful. Almost all content is made by me. Check pinned message if you want to send me a vid submission! Main: @GospelBurnout",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 146,
+                "username": "GospelBurnout"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "asthmaticmage.straw.page",
+                "end": 23,
+                "expanded_url": "https://asthmaticmage.straw.page/",
+                "start": 0,
+                "url": "https://t.co/G2LQ8hSTHe"
+              }
+            ]
+          }
+        },
+        "id": "1507107662265139217",
+        "location": "Pfp made by @rnna_7",
+        "name": "Patchy’s Music Box",
+        "pinned_tweet_id": "1996849694451159470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911207592984002564/WAXBkGE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3867,
+          "following_count": 424,
+          "like_count": 28538,
+          "listed_count": 7,
+          "media_count": 2774,
+          "tweet_count": 6308
+        },
+        "url": "https://t.co/G2LQ8hSTHe",
+        "username": "AsthmaticMage",
+        "verified": false
+      }
+    ]
+  }
+}

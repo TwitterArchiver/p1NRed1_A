@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1805591447993008369",
+    "created_at": "2024-06-25T13:52:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T14:52:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805599966955802694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "886817207170224128",
+          "start": 0,
+          "username": "RoninBlazkowicz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805599966955802694",
+    "in_reply_to_user_id": "886817207170224128",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805591447993008369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RoninBlazkowicz 哇哈哈哈哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1805591447993008369",
+        "created_at": "2024-06-25T13:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T14:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805599966955802694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "886817207170224128",
+              "start": 0,
+              "username": "RoninBlazkowicz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805599966955802694",
+        "in_reply_to_user_id": "886817207170224128",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805591447993008369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RoninBlazkowicz 哇哈哈哈哈哈哈哈哈"
+      },
+      {
+        "attachments": {},
+        "author_id": "886817207170224128",
+        "conversation_id": "1805591447993008369",
+        "created_at": "2024-06-25T13:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T14:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805591447993008369"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1805591447993008369",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喝完酒我开始冷笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563382332014593/-06gBRx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 204,
+          "like_count": 440,
+          "listed_count": 0,
+          "tweet_count": 1771
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-17T05:17:53.000Z",
+        "description": "燃烧瞳孔",
+        "id": "886817207170224128",
+        "location": "Diamond City",
+        "name": "RoninG—★asoline",
+        "pinned_tweet_id": "1523550037241868288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1402923023032893442/YfurV1FW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 655,
+          "like_count": 7755,
+          "listed_count": 0,
+          "tweet_count": 5658
+        },
+        "username": "RoninBlazkowicz",
+        "verified": false
+      }
+    ]
+  }
+}

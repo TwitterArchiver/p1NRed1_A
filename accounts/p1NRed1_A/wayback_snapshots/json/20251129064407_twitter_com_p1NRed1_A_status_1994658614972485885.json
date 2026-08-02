@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1994658075698167930",
+    "created_at": "2025-11-29T06:44:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T07:44:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994658614972485885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1803849149248360448",
+          "start": 0,
+          "username": "itsmesakiisept"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994658614972485885",
+    "in_reply_to_user_id": "1803849149248360448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994658308863791240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itsmesakiisept 我哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1994658075698167930",
+        "created_at": "2025-11-29T06:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T07:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994658614972485885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1803849149248360448",
+              "start": 0,
+              "username": "itsmesakiisept"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994658614972485885",
+        "in_reply_to_user_id": "1803849149248360448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994658308863791240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsmesakiisept 我哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803849149248360448",
+        "conversation_id": "1994658075698167930",
+        "created_at": "2025-11-29T06:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T07:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994658308863791240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994658308863791240",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994658075698167930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 我也是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 500,
+          "like_count": 1554,
+          "listed_count": 2,
+          "media_count": 310,
+          "tweet_count": 5295
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T17:55:34.000Z",
+        "description": "只想做一个才华横溢的有钱年轻女孩 ｜小赦赦重度依赖/.｜已有龟@mmuuucc0 @BB40304",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "mmuuucc0"
+              },
+              {
+                "end": 49,
+                "start": 41,
+                "username": "BB40304"
+              }
+            ]
+          }
+        },
+        "id": "1803849149248360448",
+        "name": "煮豆燃豆7",
+        "pinned_tweet_id": "1984420889035673887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919363700756213761/d0FjzVLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2370,
+          "following_count": 191,
+          "like_count": 47998,
+          "listed_count": 10,
+          "media_count": 63,
+          "tweet_count": 9315
+        },
+        "username": "itsmesakiisept",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2055233535364252024",
+    "created_at": "2026-05-15T16:17:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T17:17:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055321581765959950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1778749383808634880",
+          "start": 0,
+          "username": "YDMY514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055321581765959950",
+    "in_reply_to_user_id": "1778749383808634880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055305320822370372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YDMY514 话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2055233535364252024",
+        "created_at": "2026-05-15T16:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055321581765959950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1778749383808634880",
+              "start": 0,
+              "username": "YDMY514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055321581765959950",
+        "in_reply_to_user_id": "1778749383808634880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055305320822370372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YDMY514 话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778749383808634880",
+        "conversation_id": "2055233535364252024",
+        "created_at": "2026-05-15T15:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055305320822370372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055305320822370372",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055233535364252024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 565,
+          "like_count": 1658,
+          "listed_count": 3,
+          "media_count": 359,
+          "tweet_count": 6231
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T11:38:02.000Z",
+        "description": "当抗争将歇，待前路已尽。\n唯有坚不可摧的本真，方能在身后永世长存。",
+        "id": "1778749383808634880",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "焚星灰",
+        "pinned_tweet_id": "2054167028622102794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946239361424506880/6ya-fyVB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 110,
+          "like_count": 405,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 173
+        },
+        "username": "YDMY514",
+        "verified": false
+      }
+    ]
+  }
+}

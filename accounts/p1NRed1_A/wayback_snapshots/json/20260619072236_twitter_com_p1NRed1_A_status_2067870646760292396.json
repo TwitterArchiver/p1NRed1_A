@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067656495731515392"
+      ],
+      "media_source_tweet_id": [
+        "2067656509417574610"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "2067870646760292396",
+    "created_at": "2026-06-19T07:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T08:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067870646760292396"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 15,
+          "tag": "小森霧生誕祭2026"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2060045943416971264",
+          "start": 3,
+          "username": "hellsee08"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UoMpuzg0O4",
+          "end": 50,
+          "expanded_url": "https://x.com/hellsee08/status/2067656509417574610/photo/1",
+          "media_key": "3_2067656495731515392",
+          "start": 27,
+          "url": "https://t.co/UoMpuzg0O4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067870646760292396",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067656509417574610",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hellsee08: #小森霧生誕祭2026 https://t.co/UoMpuzg0O4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2067656495731515392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHKoMGbIAALIS1.jpg",
+        "width": 1700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067656495731515392"
+          ],
+          "media_source_tweet_id": [
+            "2067656509417574610"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "2067870646760292396",
+        "created_at": "2026-06-19T07:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067870646760292396"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 15,
+              "tag": "小森霧生誕祭2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2060045943416971264",
+              "start": 3,
+              "username": "hellsee08"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UoMpuzg0O4",
+              "end": 50,
+              "expanded_url": "https://x.com/hellsee08/status/2067656509417574610/photo/1",
+              "media_key": "3_2067656495731515392",
+              "start": 27,
+              "url": "https://t.co/UoMpuzg0O4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067870646760292396",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067656509417574610",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hellsee08: #小森霧生誕祭2026 https://t.co/UoMpuzg0O4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067656495731515392"
+          ]
+        },
+        "author_id": "2060045943416971264",
+        "conversation_id": "2067656509417574610",
+        "created_at": "2026-06-18T17:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067656509417574610"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "小森霧生誕祭2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UoMpuzg0O4",
+              "end": 35,
+              "expanded_url": "https://x.com/hellsee08/status/2067656509417574610/photo/1",
+              "media_key": "3_2067656495731515392",
+              "start": 12,
+              "url": "https://t.co/UoMpuzg0O4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067656509417574610",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 1316,
+          "like_count": 117,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "#小森霧生誕祭2026 https://t.co/UoMpuzg0O4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 561,
+          "like_count": 1656,
+          "listed_count": 3,
+          "media_count": 370,
+          "tweet_count": 6323
+        },
+        "url": "",
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T17:17:32.000Z",
+        "description": "絶望先生FA置き場",
+        "id": "2060045943416971264",
+        "name": "遅氏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060057651581710336/WpQBJrLG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 24,
+          "like_count": 385,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 267
+        },
+        "url": "",
+        "username": "hellsee08",
+        "verified": false
+      }
+    ]
+  }
+}

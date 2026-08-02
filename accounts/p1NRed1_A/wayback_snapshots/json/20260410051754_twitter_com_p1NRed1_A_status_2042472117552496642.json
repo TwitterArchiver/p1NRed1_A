@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2042299421569007623",
+    "created_at": "2026-04-10T05:17:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T06:17:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042472117552496642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1896615147671781376",
+          "start": 0,
+          "username": "uramu147234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042472117552496642",
+    "in_reply_to_user_id": "1896615147671781376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042299421569007623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uramu147234 发生什么了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2042299421569007623",
+        "created_at": "2026-04-10T05:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T06:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042472117552496642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1896615147671781376",
+              "start": 0,
+              "username": "uramu147234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042472117552496642",
+        "in_reply_to_user_id": "1896615147671781376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042299421569007623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uramu147234 发生什么了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896615147671781376",
+        "conversation_id": "2042299421569007623",
+        "created_at": "2026-04-09T17:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T18:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042299421569007623"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042299421569007623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不在的这段时间其实发生了蛮多事的...有好也有坏吧 但有一些有点让人心情复杂的事情发生就对了ww 我感觉也是时候回来了 因为只有在这里 没有任何人认识我...很安心..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "全世界第一喜欢的人@memom1229345",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "memom1229345"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 528,
+          "like_count": 1638,
+          "listed_count": 2,
+          "media_count": 346,
+          "tweet_count": 5917
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T17:35:04.000Z",
+        "description": "请叫我小恨！是喜欢漫画和音乐的一般路过oc人 oc/漫画/visual kei/泛亚文化 不希望自己拥有性别(゜゜)喜欢的漫画是烙印战士 喜欢的盘是DIR EN GREY 👁️我不是机器 我是活的 看黄男滚出这里👁️",
+        "id": "1896615147671781376",
+        "location": "判罪塔",
+        "name": "𝔲𝔯𝔞𝔪𝔲",
+        "pinned_tweet_id": "1900426166353485935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900240755811377158/zeBxC9wF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 312,
+          "like_count": 6852,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 548
+        },
+        "username": "uramu147234",
+        "verified": false
+      }
+    ]
+  }
+}

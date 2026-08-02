@@ -1,0 +1,113 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1821570473186185668",
+    "created_at": "2024-08-08T15:33:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-08T16:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1821570473186185668"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "⚠️提问箱仅用于接受正向反馈，或者是说点悄悄话。别用它欺负人，如果您向我们的用戶发送骚扰信息，我们将禁止您使用提问箱，您的匿名提问消息也不会发送给对方。🌟🌟",
+          "display_url": "askbox.ink/box/uu/PBNRP8VW",
+          "end": 23,
+          "expanded_url": "https://www.askbox.ink/box/uu/PBNRP8VW",
+          "start": 0,
+          "title": "友达",
+          "unwound_url": "https://www.askbox.ink/box/uu/PBNRP8VW",
+          "url": "https://t.co/olm80kQMzf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821570473186185668",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/olm80kQMzf来我提问箱玩好不好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1821570473186185668",
+        "created_at": "2024-08-08T15:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T16:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821570473186185668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "⚠️提问箱仅用于接受正向反馈，或者是说点悄悄话。别用它欺负人，如果您向我们的用戶发送骚扰信息，我们将禁止您使用提问箱，您的匿名提问消息也不会发送给对方。🌟🌟",
+              "display_url": "askbox.ink/box/uu/PBNRP8VW",
+              "end": 23,
+              "expanded_url": "https://www.askbox.ink/box/uu/PBNRP8VW",
+              "start": 0,
+              "title": "友达",
+              "unwound_url": "https://www.askbox.ink/box/uu/PBNRP8VW",
+              "url": "https://t.co/olm80kQMzf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821570473186185668",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/olm80kQMzf来我提问箱玩好不好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563382332014593/-06gBRx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 248,
+          "like_count": 630,
+          "listed_count": 0,
+          "tweet_count": 2274
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

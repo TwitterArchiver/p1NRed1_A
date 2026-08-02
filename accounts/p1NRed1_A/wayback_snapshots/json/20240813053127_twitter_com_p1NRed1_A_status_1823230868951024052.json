@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1822993646502973441"
+      ],
+      "media_source_tweet_id": [
+        "1822993653863997512"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1823230868951024052",
+    "created_at": "2024-08-13T05:31:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-13T06:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823230868951024052"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "ひぐらしの竜宮レナ",
+          "probability": 0.4061,
+          "start": 15,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 30,
+          "tag": "C104"
+        },
+        {
+          "end": 45,
+          "start": 36,
+          "tag": "C104_cos"
+        },
+        {
+          "end": 55,
+          "start": 46,
+          "tag": "C104コスプレ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "706457034967748608",
+          "start": 3,
+          "username": "mrpg_0824"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vr9junssqx",
+          "end": 79,
+          "expanded_url": "https://twitter.com/mrpg_0824/status/1822993653863997512/photo/1",
+          "media_key": "3_1822993646502973441",
+          "start": 56,
+          "url": "https://t.co/Vr9juNSsQX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823230868951024052",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 343
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822993653863997512",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mrpg_0824: ひぐらしの竜宮レナでした！\n\n#C104 #C104_cos #C104コスプレ https://t.co/Vr9juNSsQX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2446,
+        "media_key": "3_1822993646502973441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUyTEBeakAEYnXF.jpg",
+        "width": 1744
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1822993646502973441"
+          ],
+          "media_source_tweet_id": [
+            "1822993653863997512"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1823230868951024052",
+        "created_at": "2024-08-13T05:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T06:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823230868951024052"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "ひぐらしの竜宮レナ",
+              "probability": 0.4061,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "C104"
+            },
+            {
+              "end": 45,
+              "start": 36,
+              "tag": "C104_cos"
+            },
+            {
+              "end": 55,
+              "start": 46,
+              "tag": "C104コスプレ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "706457034967748608",
+              "start": 3,
+              "username": "mrpg_0824"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vr9junssqx",
+              "end": 79,
+              "expanded_url": "https://twitter.com/mrpg_0824/status/1822993653863997512/photo/1",
+              "media_key": "3_1822993646502973441",
+              "start": 56,
+              "url": "https://t.co/Vr9juNSsQX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823230868951024052",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 343
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822993653863997512",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mrpg_0824: ひぐらしの竜宮レナでした！\n\n#C104 #C104_cos #C104コスプレ https://t.co/Vr9juNSsQX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1822993646502973441"
+          ]
+        },
+        "author_id": "706457034967748608",
+        "conversation_id": "1822993653863997512",
+        "created_at": "2024-08-12T13:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T14:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822993653863997512"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "ひぐらしの竜宮レナ",
+              "probability": 0.332,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "C104"
+            },
+            {
+              "end": 30,
+              "start": 21,
+              "tag": "C104_cos"
+            },
+            {
+              "end": 40,
+              "start": 31,
+              "tag": "C104コスプレ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vr9junssqx",
+              "end": 64,
+              "expanded_url": "https://twitter.com/mrpg_0824/status/1822993653863997512/photo/1",
+              "media_key": "3_1822993646502973441",
+              "start": 41,
+              "url": "https://t.co/Vr9juNSsQX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822993653863997512",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 156,
+          "impression_count": 73780,
+          "like_count": 3207,
+          "quote_count": 17,
+          "reply_count": 17,
+          "retweet_count": 343
+        },
+        "reply_settings": "everyone",
+        "text": "ひぐらしの竜宮レナでした！\n\n#C104 #C104_cos #C104コスプレ https://t.co/Vr9juNSsQX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 257,
+          "like_count": 685,
+          "listed_count": 0,
+          "tweet_count": 2360
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-06T12:30:57.000Z",
+        "description": "関東在住のレイヤー兼絵描き。￤162cm￤加工してます。撮影地許可済。ひぐらし、聖地巡礼が好き。┃⚠お写真DMでお願いします！無断使用・SNS掲載禁止。フォローご自由にどうぞ！ ┃▼リンク集⇢ https://t.co/I5Mk179SdG ▼日常⇢ @mrpgRand__￤ひぐらしマダミ2ツアー案内役、07th大宴会ゲスト",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 126,
+                "username": "mrpgRand__"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/565P8",
+                "end": 120,
+                "expanded_url": "https://x.gd/565P8",
+                "start": 97,
+                "url": "https://t.co/I5Mk179SdG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mrpg_cos?igshi…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/mrpg_cos?igshid=YmMyMTA2M2Y=",
+                "start": 0,
+                "url": "https://t.co/RBpS5wpcpy"
+              }
+            ]
+          }
+        },
+        "id": "706457034967748608",
+        "location": "※相互様、ご用件以外のDMのご返信は出来かねます",
+        "name": "森田ぴぐ@C104(月)西1 \"の\"-11b",
+        "pinned_tweet_id": "1447193195104780289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1513730358734618629/Ra2oaODV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23128,
+          "following_count": 296,
+          "like_count": 176090,
+          "listed_count": 136,
+          "tweet_count": 119988
+        },
+        "url": "https://t.co/RBpS5wpcpy",
+        "username": "mrpg_0824",
+        "verified": false
+      }
+    ]
+  }
+}

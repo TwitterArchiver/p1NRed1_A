@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1896528515983679951",
+    "created_at": "2025-03-03T13:04:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T14:04:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896547324807295130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "827434202748456960",
+          "start": 0,
+          "username": "mqtztsxy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896547324807295130",
+    "in_reply_to_user_id": "827434202748456960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896542727552237656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mqtztsxy 不足以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1896528515983679951",
+        "created_at": "2025-03-03T13:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T14:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896547324807295130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "827434202748456960",
+              "start": 0,
+              "username": "mqtztsxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896547324807295130",
+        "in_reply_to_user_id": "827434202748456960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896542727552237656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mqtztsxy 不足以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "827434202748456960",
+        "conversation_id": "1896528515983679951",
+        "created_at": "2025-03-03T12:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T13:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896542727552237656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896542727552237656",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896528515983679951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 不足以还是不足，以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889564810410627072/YnTsykE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 316,
+          "like_count": 1078,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 3307
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-03T08:31:01.000Z",
+        "description": "Горделивая поза больного шизофренией с бредовыми идеями величия.\n\n（一个有着妄想般的雄心壮志的精神分裂症患者，摆出骄傲的姿势。）\n提问箱https://t.co/kxDfisHacU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mqtztsxy",
+                "end": 124,
+                "expanded_url": "https://ngl.link/mqtztsxy",
+                "start": 101,
+                "url": "https://t.co/kxDfisHacU"
+              }
+            ]
+          }
+        },
+        "id": "827434202748456960",
+        "location": "切除前额叶手术台上",
+        "name": "(`・ω・´)",
+        "pinned_tweet_id": "1880483442825236520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894352957900251136/q5jC5vd7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 1489,
+          "like_count": 81500,
+          "listed_count": 0,
+          "media_count": 1293,
+          "tweet_count": 25805
+        },
+        "username": "mqtztsxy",
+        "verified": false
+      }
+    ]
+  }
+}

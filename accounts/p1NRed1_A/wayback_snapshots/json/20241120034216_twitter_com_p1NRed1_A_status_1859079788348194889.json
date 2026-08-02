@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1859034005364174848"
+      ],
+      "media_source_tweet_id": [
+        "1859034010766524569"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1859079788348194889",
+    "created_at": "2024-11-20T03:42:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T04:42:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859079788348194889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1671101281216389122",
+          "start": 3,
+          "username": "bfmelu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/StTHcKVY9k",
+          "end": 39,
+          "expanded_url": "https://x.com/bfmelu/status/1859034010766524569/photo/1",
+          "media_key": "3_1859034005364174848",
+          "start": 16,
+          "url": "https://t.co/StTHcKVY9k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859079788348194889",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859034010766524569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bfmelu: マ太郎 https://t.co/StTHcKVY9k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1641,
+        "media_key": "3_1859034005364174848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcydlAsacAALFOH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859034005364174848"
+          ],
+          "media_source_tweet_id": [
+            "1859034010766524569"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1859079788348194889",
+        "created_at": "2024-11-20T03:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T04:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859079788348194889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1671101281216389122",
+              "start": 3,
+              "username": "bfmelu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/StTHcKVY9k",
+              "end": 39,
+              "expanded_url": "https://x.com/bfmelu/status/1859034010766524569/photo/1",
+              "media_key": "3_1859034005364174848",
+              "start": 16,
+              "url": "https://t.co/StTHcKVY9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859079788348194889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859034010766524569",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bfmelu: マ太郎 https://t.co/StTHcKVY9k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859034005364174848"
+          ]
+        },
+        "author_id": "1671101281216389122",
+        "conversation_id": "1859034010766524569",
+        "created_at": "2024-11-20T00:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T01:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859034010766524569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/StTHcKVY9k",
+              "end": 27,
+              "expanded_url": "https://x.com/bfmelu/status/1859034010766524569/photo/1",
+              "media_key": "3_1859034005364174848",
+              "start": 4,
+              "url": "https://t.co/StTHcKVY9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859034010766524569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 1958,
+          "like_count": 182,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "マ太郎 https://t.co/StTHcKVY9k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 292,
+          "like_count": 992,
+          "listed_count": 0,
+          "tweet_count": 3086
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-20T10:22:59.000Z",
+        "description": "絵描きます。オリジナルとか二次創作とか好きなもの描きます。漫画描いたりもしたい。skeb→https://t.co/EuAGN0IyMP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@vfmelu",
+                "end": 68,
+                "expanded_url": "https://skeb.jp/@vfmelu",
+                "start": 45,
+                "url": "https://t.co/EuAGN0IyMP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97691537",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97691537",
+                "start": 0,
+                "url": "https://t.co/g39UYleYYs"
+              }
+            ]
+          }
+        },
+        "id": "1671101281216389122",
+        "location": "イラストの使用、AI学習禁止。無断転載禁止",
+        "name": "びふみる",
+        "pinned_tweet_id": "1856646803728552220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856596176864456705/pVAtecNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1948,
+          "following_count": 182,
+          "like_count": 845,
+          "listed_count": 18,
+          "tweet_count": 209
+        },
+        "url": "https://t.co/g39UYleYYs",
+        "username": "bfmelu",
+        "verified": false
+      }
+    ]
+  }
+}

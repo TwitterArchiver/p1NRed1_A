@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1914930256953417874",
+    "created_at": "2025-04-23T08:37:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T09:37:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914961866012660044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1733524426262564864",
+          "start": 0,
+          "username": "_defoko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914961866012660044",
+    "in_reply_to_user_id": "1733524426262564864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914959997420945622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_defoko 我只是在慢慢的把💩推出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1914930256953417874",
+        "created_at": "2025-04-23T08:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T09:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914961866012660044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1733524426262564864",
+              "start": 0,
+              "username": "_defoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914961866012660044",
+        "in_reply_to_user_id": "1733524426262564864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914959997420945622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_defoko 我只是在慢慢的把💩推出来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733524426262564864",
+        "conversation_id": "1914930256953417874",
+        "created_at": "2025-04-23T08:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T09:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914959997420945622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914959997420945622",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914930256953417874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 便秘了挤点开塞露拉稀了吃点止泻药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 382,
+          "like_count": 1158,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 3600
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T16:30:18.000Z",
+        "description": "繭=茧 ，第二人格 @I7663299671516｜ @DuvetsDetour",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "I7663299671516"
+              },
+              {
+                "end": 40,
+                "start": 27,
+                "username": "DuvetsDetour"
+              }
+            ]
+          }
+        },
+        "id": "1733524426262564864",
+        "name": "繭",
+        "pinned_tweet_id": "1811778916555845766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913239527881162752/mkAxO3XF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 114,
+          "like_count": 1069,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 644
+        },
+        "username": "_defoko",
+        "verified": false
+      }
+    ]
+  }
+}

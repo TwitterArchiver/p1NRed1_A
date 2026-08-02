@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2075710490676703232"
+      ],
+      "media_source_tweet_id": [
+        "2075710566451044558"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "2075833358308036877",
+    "created_at": "2026-07-11T06:43:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T07:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075833358308036877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1762516454514049024",
+          "start": 3,
+          "username": "saccharinemutt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M8VEToYTsi",
+          "end": 100,
+          "expanded_url": "https://x.com/saccharinemutt/status/2075710566451044558/video/1",
+          "media_key": "13_2075710490676703232",
+          "start": 77,
+          "url": "https://t.co/M8VEToYTsi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075833358308036877",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 321
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075710566451044558",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saccharinemutt: how it feels to have a fried brain from trauma and drugs https://t.co/M8VEToYTsi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11955,
+        "height": 720,
+        "media_key": "13_2075710490676703232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075710490676703232/img/1uUKzwtuJ-muPuSg.jpg",
+        "public_metrics": {
+          "view_count": 12491
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075710490676703232/vid/avc1/270x270/itQdM1A5PfjkBa5w.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075710490676703232/vid/avc1/360x360/I8PZuT6oGrungtyD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075710490676703232/vid/avc1/722x720/MK5g3sSvBXyYDaAL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075710490676703232/pl/rSd7TzfRgG47oOzh.m3u8"
+          }
+        ],
+        "width": 722
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075710490676703232"
+          ],
+          "media_source_tweet_id": [
+            "2075710566451044558"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "2075833358308036877",
+        "created_at": "2026-07-11T06:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T07:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075833358308036877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1762516454514049024",
+              "start": 3,
+              "username": "saccharinemutt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M8VEToYTsi",
+              "end": 100,
+              "expanded_url": "https://x.com/saccharinemutt/status/2075710566451044558/video/1",
+              "media_key": "13_2075710490676703232",
+              "start": 77,
+              "url": "https://t.co/M8VEToYTsi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075833358308036877",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 321
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075710566451044558",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @saccharinemutt: how it feels to have a fried brain from trauma and drugs https://t.co/M8VEToYTsi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075710490676703232"
+          ]
+        },
+        "author_id": "1762516454514049024",
+        "conversation_id": "2075710566451044558",
+        "created_at": "2026-07-10T22:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T23:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075710566451044558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M8VEToYTsi",
+              "end": 80,
+              "expanded_url": "https://x.com/saccharinemutt/status/2075710566451044558/video/1",
+              "media_key": "13_2075710490676703232",
+              "start": 57,
+              "url": "https://t.co/M8VEToYTsi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075710566451044558",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 175,
+          "impression_count": 20947,
+          "like_count": 1422,
+          "quote_count": 11,
+          "reply_count": 8,
+          "retweet_count": 321
+        },
+        "reply_settings": "everyone",
+        "text": "how it feels to have a fried brain from trauma and drugs https://t.co/M8VEToYTsi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "无人在意星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 10,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/W46MozUxms"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "无人在意星",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 565,
+          "like_count": 1778,
+          "listed_count": 3,
+          "media_count": 413,
+          "tweet_count": 6887
+        },
+        "url": "https://t.co/W46MozUxms",
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T16:34:13.000Z",
+        "description": "i feel like my brain is programmed for suicide and that there is no way to escape from it",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "throne.com/limmel",
+                "end": 23,
+                "expanded_url": "https://throne.com/limmel",
+                "start": 0,
+                "url": "https://t.co/IVBGGjcWgz"
+              }
+            ]
+          }
+        },
+        "id": "1762516454514049024",
+        "location": "06",
+        "name": "saccharine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075184109777764352/TZvkNLBb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 199,
+          "like_count": 24853,
+          "listed_count": 3,
+          "media_count": 135,
+          "tweet_count": 6100
+        },
+        "url": "https://t.co/IVBGGjcWgz",
+        "username": "saccharinemutt",
+        "verified": false
+      }
+    ]
+  }
+}

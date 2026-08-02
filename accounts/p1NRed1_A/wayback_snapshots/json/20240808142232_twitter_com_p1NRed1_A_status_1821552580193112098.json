@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1821478612081766400"
+      ],
+      "media_source_tweet_id": [
+        "1821478765257753082"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1821552580193112098",
+    "created_at": "2024-08-08T14:22:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-08T15:22:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821552580193112098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1223498653177798657",
+          "start": 3,
+          "username": "senseeeuwaaaaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kq8arenbbw",
+          "end": 61,
+          "expanded_url": "https://twitter.com/senseeeuwaaaaa/status/1821478765257753082/photo/1",
+          "media_key": "3_1821478612081766400",
+          "start": 38,
+          "url": "https://t.co/kQ8aRenBbW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821552580193112098",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821478765257753082",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @senseeeuwaaaaa: 癖になってんだVRC内で先生描くの https://t.co/kQ8aRenBbW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1821478612081766400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUcxJaca8AARYNi.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821478612081766400"
+          ],
+          "media_source_tweet_id": [
+            "1821478765257753082"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1821552580193112098",
+        "created_at": "2024-08-08T14:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T15:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821552580193112098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1223498653177798657",
+              "start": 3,
+              "username": "senseeeuwaaaaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kq8arenbbw",
+              "end": 61,
+              "expanded_url": "https://twitter.com/senseeeuwaaaaa/status/1821478765257753082/photo/1",
+              "media_key": "3_1821478612081766400",
+              "start": 38,
+              "url": "https://t.co/kQ8aRenBbW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821552580193112098",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821478765257753082",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @senseeeuwaaaaa: 癖になってんだVRC内で先生描くの https://t.co/kQ8aRenBbW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821478612081766400"
+          ]
+        },
+        "author_id": "1223498653177798657",
+        "conversation_id": "1821478765257753082",
+        "created_at": "2024-08-08T09:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T10:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821478765257753082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kq8arenbbw",
+              "end": 41,
+              "expanded_url": "https://twitter.com/senseeeuwaaaaa/status/1821478765257753082/photo/1",
+              "media_key": "3_1821478612081766400",
+              "start": 18,
+              "url": "https://t.co/kQ8aRenBbW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821478765257753082",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1133,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "癖になってんだVRC内で先生描くの https://t.co/kQ8aRenBbW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563382332014593/-06gBRx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 247,
+          "like_count": 613,
+          "listed_count": 0,
+          "tweet_count": 2267
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-01T06:50:01.000Z",
+        "description": "18↑先生を1人でも多く描く方法を画策しています。通知は大体offです。 ▶︎sagari020084@gmail.com ▶https://t.co/YS2V3R6ZEv ▶sab→@sgr_vvv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 92,
+                "username": "sgr_vvv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/15925103",
+                "end": 86,
+                "expanded_url": "https://www.pixiv.net/users/15925103",
+                "start": 63,
+                "url": "https://t.co/YS2V3R6ZEv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@senseeeuwaaaaa",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@senseeeuwaaaaa",
+                "start": 0,
+                "url": "https://t.co/sINZco1gao"
+              }
+            ]
+          }
+        },
+        "id": "1223498653177798657",
+        "location": "don’t reupload or use.",
+        "name": "辛岩サガリ🍤skeb募集",
+        "pinned_tweet_id": "1747467204940255618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1542552806166450176/8H6Px_Fy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1125,
+          "following_count": 54,
+          "like_count": 798,
+          "listed_count": 9,
+          "tweet_count": 9624
+        },
+        "url": "https://t.co/sINZco1gao",
+        "username": "senseeeuwaaaaa",
+        "verified": false
+      }
+    ]
+  }
+}

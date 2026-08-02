@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1850198576154251264"
+      ],
+      "media_source_tweet_id": [
+        "1850198579899461819"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1311766165065142273",
+          "name": "Higurashi When They Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311766165065142273",
+          "name": "Higurashi When They Cry"
+        }
+      }
+    ],
+    "conversation_id": "1850244153915125802",
+    "created_at": "2024-10-26T18:32:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-26T19:32:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850244153915125802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1570837792820699140",
+          "start": 3,
+          "username": "seacatscrying"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fX6JG4R3jX",
+          "end": 93,
+          "expanded_url": "https://x.com/seacatscrying/status/1850198579899461819/photo/1",
+          "media_key": "3_1850198576154251264",
+          "start": 70,
+          "url": "https://t.co/fX6JG4R3jX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850244153915125802",
+    "lang": "et",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 114
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850198579899461819",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seacatscrying: mizuki ena higurashi (tsumihoroboshi rooftop duel) https://t.co/fX6JG4R3jX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1850198576154251264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ga05zV-bkAAqQEv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1850198576154251264"
+          ],
+          "media_source_tweet_id": [
+            "1850198579899461819"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          }
+        ],
+        "conversation_id": "1850244153915125802",
+        "created_at": "2024-10-26T18:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T19:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850244153915125802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1570837792820699140",
+              "start": 3,
+              "username": "seacatscrying"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fX6JG4R3jX",
+              "end": 93,
+              "expanded_url": "https://x.com/seacatscrying/status/1850198579899461819/photo/1",
+              "media_key": "3_1850198576154251264",
+              "start": 70,
+              "url": "https://t.co/fX6JG4R3jX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850244153915125802",
+        "lang": "et",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 114
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850198579899461819",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seacatscrying: mizuki ena higurashi (tsumihoroboshi rooftop duel) https://t.co/fX6JG4R3jX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1850198576154251264"
+          ]
+        },
+        "author_id": "1570837792820699140",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          }
+        ],
+        "conversation_id": "1850198579899461819",
+        "created_at": "2024-10-26T15:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T16:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850198579899461819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fX6JG4R3jX",
+              "end": 74,
+              "expanded_url": "https://x.com/seacatscrying/status/1850198579899461819/photo/1",
+              "media_key": "3_1850198576154251264",
+              "start": 51,
+              "url": "https://t.co/fX6JG4R3jX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850198579899461819",
+        "lang": "et",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 4163,
+          "like_count": 449,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 114
+        },
+        "reply_settings": "everyone",
+        "text": "mizuki ena higurashi (tsumihoroboshi rooftop duel) https://t.co/fX6JG4R3jX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 285,
+          "like_count": 971,
+          "listed_count": 0,
+          "tweet_count": 3008
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-16T18:11:39.000Z",
+        "description": "seagull game",
+        "id": "1570837792820699140",
+        "location": "rokkenjima ",
+        "name": "riri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777748682361741312/we-3FebP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2920,
+          "following_count": 54,
+          "like_count": 19734,
+          "listed_count": 7,
+          "tweet_count": 210
+        },
+        "username": "seacatscrying",
+        "verified": false
+      }
+    ]
+  }
+}

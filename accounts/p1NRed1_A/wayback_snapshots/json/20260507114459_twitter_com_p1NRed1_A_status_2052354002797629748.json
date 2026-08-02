@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2052299623956652240",
+    "created_at": "2026-05-07T11:44:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T12:44:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052354002797629748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2041701378905821184",
+          "start": 0,
+          "username": "Shenhaimllw"
+        },
+        {
+          "end": 26,
+          "id": "1687876238474629120",
+          "start": 13,
+          "username": "AgNo3_xq0719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052354002797629748",
+    "in_reply_to_user_id": "2041701378905821184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052299623956652240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shenhaimllw @AgNo3_xq0719 喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2052299623956652240",
+        "created_at": "2026-05-07T11:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052354002797629748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2041701378905821184",
+              "start": 0,
+              "username": "Shenhaimllw"
+            },
+            {
+              "end": 26,
+              "id": "1687876238474629120",
+              "start": 13,
+              "username": "AgNo3_xq0719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052354002797629748",
+        "in_reply_to_user_id": "2041701378905821184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052299623956652240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shenhaimllw @AgNo3_xq0719 喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041701378905821184",
+        "conversation_id": "2052299623956652240",
+        "created_at": "2026-05-07T08:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052299623956652240"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052299623956652240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "宝贝们：我来发个福利\n\n要求：评论➕点赞➕转帖\n\n🎁奖品包括\n1.产品💊4-ho-met一颗（折现15U）\n2.产品💊💊4-ho-met两颗（折现30U）\n\n总共抽10个人/满足要求即有中奖机会/本周六晚12点兑奖。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 550,
+          "like_count": 1652,
+          "listed_count": 3,
+          "media_count": 349,
+          "tweet_count": 6037
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T02:16:14.000Z",
+        "description": "诚信第一///个人✈️ https://t.co/C3Bcwk8OUO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/anan99555",
+                "end": 35,
+                "expanded_url": "https://t.me/anan99555",
+                "start": 12,
+                "url": "https://t.co/C3Bcwk8OUO"
+              }
+            ]
+          }
+        },
+        "id": "2041701378905821184",
+        "location": "神奇效果-抗抑郁",
+        "name": "4-ho-楠老师/化学合成",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041701770297274368/fXAKwl4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 195,
+          "like_count": 258,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 67
+        },
+        "username": "Shenhaimllw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-05T17:20:44.000Z",
+        "description": "09｜od｜自伤｜双相情感障碍｜istp-t｜爱人@llzvkeai @NiimiyaHoshi @fngkli131022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "llzvkeai"
+              },
+              {
+                "end": 48,
+                "start": 35,
+                "username": "NiimiyaHoshi"
+              },
+              {
+                "end": 62,
+                "start": 49,
+                "username": "fngkli131022"
+              }
+            ]
+          }
+        },
+        "id": "1687876238474629120",
+        "location": "普瑞巴林星球",
+        "name": "硝酸银#浅（三世）",
+        "pinned_tweet_id": "2051206545862791329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052320556314406912/LyRw4OOT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 250,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 85
+        },
+        "username": "AgNo3_xq0719",
+        "verified": false
+      }
+    ]
+  }
+}

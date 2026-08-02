@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055139083689824256"
+      ],
+      "media_source_tweet_id": [
+        "2055139151415255442"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "2055549894375694588",
+    "created_at": "2026-05-16T07:24:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T08:24:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055549894375694588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1818945281301659648",
+          "start": 3,
+          "username": "tanakakaga"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xSJf6tVIM2",
+          "end": 46,
+          "expanded_url": "https://x.com/tanakakaga/status/2055139151415255442/photo/1",
+          "media_key": "3_2055139083689824256",
+          "start": 23,
+          "url": "https://t.co/xSJf6tVIM2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055549894375694588",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 286
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055139151415255442",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tanakakaga: 今日の絵です https://t.co/xSJf6tVIM2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2055139083689824256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIVSG6dakAAbvaf.jpg",
+        "width": 3830
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055139083689824256"
+          ],
+          "media_source_tweet_id": [
+            "2055139151415255442"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "2055549894375694588",
+        "created_at": "2026-05-16T07:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T08:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055549894375694588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1818945281301659648",
+              "start": 3,
+              "username": "tanakakaga"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xSJf6tVIM2",
+              "end": 46,
+              "expanded_url": "https://x.com/tanakakaga/status/2055139151415255442/photo/1",
+              "media_key": "3_2055139083689824256",
+              "start": 23,
+              "url": "https://t.co/xSJf6tVIM2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055549894375694588",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 286
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055139151415255442",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tanakakaga: 今日の絵です https://t.co/xSJf6tVIM2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055139083689824256"
+          ]
+        },
+        "author_id": "1818945281301659648",
+        "conversation_id": "2055139151415255442",
+        "created_at": "2026-05-15T04:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055139151415255442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xSJf6tVIM2",
+              "end": 30,
+              "expanded_url": "https://x.com/tanakakaga/status/2055139151415255442/photo/1",
+              "media_key": "3_2055139083689824256",
+              "start": 7,
+              "url": "https://t.co/xSJf6tVIM2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055139151415255442",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 435,
+          "impression_count": 51668,
+          "like_count": 4475,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 286
+        },
+        "reply_settings": "everyone",
+        "text": "今日の絵です https://t.co/xSJf6tVIM2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 565,
+          "like_count": 1658,
+          "listed_count": 3,
+          "media_count": 360,
+          "tweet_count": 6234
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T09:42:16.000Z",
+        "description": "漫画を描いてます。漢字が苦手です。あまり見ていないので、何かあればお問い合わせまでお願いします。\n他SNS &過去作品🔗▶︎ https://t.co/NUqNViDWjs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/tanakakaga",
+                "end": 86,
+                "expanded_url": "https://lit.link/tanakakaga",
+                "start": 63,
+                "url": "https://t.co/NUqNViDWjs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "form.run/@tanakakaga",
+                "end": 23,
+                "expanded_url": "https://form.run/@tanakakaga",
+                "start": 0,
+                "url": "https://t.co/AvvJGhn7tY"
+              }
+            ]
+          }
+        },
+        "id": "1818945281301659648",
+        "location": "お問い合わせはリンクからおねがいします▶︎",
+        "name": "田中火蛾",
+        "pinned_tweet_id": "2046928731781153271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045867410130161665/AGZE2-aX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16732,
+          "following_count": 169,
+          "like_count": 3358,
+          "listed_count": 99,
+          "media_count": 230,
+          "tweet_count": 2036
+        },
+        "url": "https://t.co/AvvJGhn7tY",
+        "username": "tanakakaga",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1926914288435822898",
+    "created_at": "2025-05-28T07:54:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T08:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927634580992905557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1415210804761174017",
+          "start": 0,
+          "username": "SHISHEKZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927634580992905557",
+    "in_reply_to_user_id": "1415210804761174017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927338878811144305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SHISHEKZ 我没有钱od了TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1926914288435822898",
+        "created_at": "2025-05-28T07:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T08:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927634580992905557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1415210804761174017",
+              "start": 0,
+              "username": "SHISHEKZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927634580992905557",
+        "in_reply_to_user_id": "1415210804761174017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927338878811144305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHISHEKZ 我没有钱od了TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1415210804761174017",
+        "conversation_id": "1926914288435822898",
+        "created_at": "2025-05-27T12:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T13:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927338878811144305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927338878811144305",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926914288435822898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 来一起o吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 408,
+          "like_count": 1221,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 3955
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-14T07:25:32.000Z",
+        "description": "あ\n⁰  ᗜ  ⁰",
+        "id": "1415210804761174017",
+        "location": "月亮",
+        "name": "小夜子",
+        "pinned_tweet_id": "1797613747697340474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800505226392449024/bn7ZMP74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 178,
+          "like_count": 2588,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 760
+        },
+        "username": "SHISHEKZ",
+        "verified": false
+      }
+    ]
+  }
+}

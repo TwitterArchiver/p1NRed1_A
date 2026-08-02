@@ -1,0 +1,195 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1800373632218366405",
+    "created_at": "2024-06-11T04:34:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-11T05:34:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800386173002772610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "881460768377520128",
+          "start": 0,
+          "username": "RikkaRSama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800386173002772610",
+    "in_reply_to_user_id": "881460768377520128",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800384451882717465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RikkaRSama 我烧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1800373632218366405",
+        "created_at": "2024-06-11T04:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T05:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800386173002772610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "881460768377520128",
+              "start": 0,
+              "username": "RikkaRSama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800386173002772610",
+        "in_reply_to_user_id": "881460768377520128",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800384451882717465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RikkaRSama 我烧"
+      },
+      {
+        "attachments": {},
+        "author_id": "881460768377520128",
+        "conversation_id": "1800373632218366405",
+        "created_at": "2024-06-11T04:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T05:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800384451882717465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800384451882717465",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800373632218366405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 本人已死有事烧纸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800005249027203073/CQR3vaAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 169,
+          "like_count": 328,
+          "listed_count": 0,
+          "tweet_count": 1219
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-02T10:33:18.000Z",
+        "description": "你知道我是什么成分，来找我吧。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "maimai.sega.jp",
+                "end": 23,
+                "expanded_url": "https://maimai.sega.jp/",
+                "start": 0,
+                "url": "https://t.co/ty501qE5oV"
+              }
+            ]
+          }
+        },
+        "id": "881460768377520128",
+        "location": "Republic Of Neko 🐱",
+        "name": "RikkaRS",
+        "pinned_tweet_id": "1799981092612833613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797308240784748545/TdyA8BXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 795,
+          "like_count": 20657,
+          "listed_count": 1,
+          "tweet_count": 2961
+        },
+        "url": "https://t.co/ty501qE5oV",
+        "username": "RikkaRSama",
+        "verified": false
+      }
+    ]
+  }
+}

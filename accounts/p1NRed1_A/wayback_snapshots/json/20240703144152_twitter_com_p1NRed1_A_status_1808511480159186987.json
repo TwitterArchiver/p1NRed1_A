@@ -1,0 +1,162 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1808511480159186987",
+    "created_at": "2024-07-03T14:41:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-03T15:41:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808511480159186987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1795062474443464704",
+          "start": 3,
+          "username": "woxiangweini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808511480159186987",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808374799212990871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @woxiangweini: 我爱上他又咋了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1808511480159186987",
+        "created_at": "2024-07-03T14:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T15:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808511480159186987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1795062474443464704",
+              "start": 3,
+              "username": "woxiangweini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808511480159186987",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808374799212990871",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @woxiangweini: 我爱上他又咋了。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1795062474443464704",
+        "conversation_id": "1808374799212990871",
+        "created_at": "2024-07-03T05:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T06:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808374799212990871"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1808374799212990871",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我爱上他又咋了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563382332014593/-06gBRx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 211,
+          "like_count": 474,
+          "listed_count": 0,
+          "tweet_count": 1930
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:00:36.000Z",
+        "description": "INFJ/switch/第一爱/asmr/🚪88/问地址20一次",
+        "id": "1795062474443464704",
+        "name": "对此如何不泪垂",
+        "pinned_tweet_id": "1799514680660312436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795078099031191552/E9mXdVdG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 102,
+          "like_count": 140,
+          "listed_count": 0,
+          "tweet_count": 639
+        },
+        "username": "woxiangweini",
+        "verified": false
+      }
+    ]
+  }
+}

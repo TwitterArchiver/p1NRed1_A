@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1969030494923710966",
+    "created_at": "2025-09-20T12:01:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T13:01:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969371237031035142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1819579882969747458",
+          "start": 0,
+          "username": "look1560370"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969371237031035142",
+    "in_reply_to_user_id": "1819579882969747458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969030494923710966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@look1560370 太可爱了吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969030477483773954",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1NmyXJWkAI-NOS.jpg",
+        "width": 1691
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1969030494923710966",
+        "created_at": "2025-09-20T12:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T13:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969371237031035142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1819579882969747458",
+              "start": 0,
+              "username": "look1560370"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969371237031035142",
+        "in_reply_to_user_id": "1819579882969747458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969030494923710966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@look1560370 太可爱了吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969030477483773954"
+          ]
+        },
+        "author_id": "1819579882969747458",
+        "conversation_id": "1969030494923710966",
+        "created_at": "2025-09-19T13:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T14:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969030494923710966"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 20,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0NFNgdDiUE",
+              "end": 53,
+              "expanded_url": "https://x.com/look1560370/status/1969030494923710966/photo/1",
+              "media_key": "3_1969030477483773954",
+              "start": 30,
+              "url": "https://t.co/0NFNgdDiUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969030494923710966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 137,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "虽然看着有点奇怪但还是尝试用蘸水笔描了\n#さよなら絶望先生 https://t.co/0NFNgdDiUE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 452,
+          "like_count": 1406,
+          "listed_count": 2,
+          "media_count": 266,
+          "tweet_count": 4766
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-03T03:43:53.000Z",
+        "description": "纯路过少女/上学中/目前处于产品冷",
+        "id": "1819579882969747458",
+        "name": "eyuhzoN",
+        "pinned_tweet_id": "1956701054248116530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951947698854301696/nj1Zt9BQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 69,
+          "like_count": 553,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 204
+        },
+        "username": "look1560370",
+        "verified": false
+      }
+    ]
+  }
+}

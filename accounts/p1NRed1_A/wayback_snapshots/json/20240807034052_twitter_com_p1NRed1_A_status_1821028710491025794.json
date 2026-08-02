@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1820909978451865600"
+      ],
+      "media_source_tweet_id": [
+        "1820909987356668220"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1821028710491025794",
+    "created_at": "2024-08-07T03:40:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-07T04:40:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821028710491025794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1727782360941502464",
+          "start": 3,
+          "username": "KagaAi_Love"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/8GIcvTeAwd",
+          "end": 52,
+          "expanded_url": "https://twitter.com/KagaAi_Love/status/1820909987356668220/photo/1",
+          "media_key": "3_1820909978451865600",
+          "start": 29,
+          "url": "https://t.co/8GIcvTeAwd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821028710491025794",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820909987356668220",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KagaAi_Love: 野生の愛ちゃんひろった https://t.co/8GIcvTeAwd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_1820909978451865600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUUr-lGWcAAzhBD.jpg",
+        "width": 1534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820909978451865600"
+          ],
+          "media_source_tweet_id": [
+            "1820909987356668220"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1821028710491025794",
+        "created_at": "2024-08-07T03:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T04:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821028710491025794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1727782360941502464",
+              "start": 3,
+              "username": "KagaAi_Love"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/8GIcvTeAwd",
+              "end": 52,
+              "expanded_url": "https://twitter.com/KagaAi_Love/status/1820909987356668220/photo/1",
+              "media_key": "3_1820909978451865600",
+              "start": 29,
+              "url": "https://t.co/8GIcvTeAwd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821028710491025794",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820909987356668220",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KagaAi_Love: 野生の愛ちゃんひろった https://t.co/8GIcvTeAwd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820909978451865600"
+          ]
+        },
+        "author_id": "1727782360941502464",
+        "conversation_id": "1820909987356668220",
+        "created_at": "2024-08-06T19:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T20:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820909987356668220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/8GIcvTeAwd",
+              "end": 35,
+              "expanded_url": "https://twitter.com/KagaAi_Love/status/1820909987356668220/photo/1",
+              "media_key": "3_1820909978451865600",
+              "start": 12,
+              "url": "https://t.co/8GIcvTeAwd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820909987356668220",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 331,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "野生の愛ちゃんひろった https://t.co/8GIcvTeAwd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563382332014593/-06gBRx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 248,
+          "like_count": 609,
+          "listed_count": 0,
+          "tweet_count": 2259
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-23T20:13:21.000Z",
+        "description": "貴方の加賀は何処から、私は愛から。",
+        "id": "1727782360941502464",
+        "location": "🩶💦",
+        "name": "甜目悔耳",
+        "pinned_tweet_id": "1728445514172215465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786939602424807424/bIxWK5_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 57,
+          "like_count": 4226,
+          "listed_count": 1,
+          "tweet_count": 3404
+        },
+        "username": "KagaAi_Love",
+        "verified": false
+      }
+    ]
+  }
+}

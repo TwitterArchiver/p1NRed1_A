@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1985273786372157854",
+    "created_at": "2025-11-03T14:10:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T15:10:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985348803554365919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1962465706756448256",
+          "start": 0,
+          "username": "memom1229345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985348803554365919",
+    "in_reply_to_user_id": "1962465706756448256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985273786372157854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@memom1229345 你太傻了啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1608,
+        "media_key": "3_1985273632608911360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G40b2bWagAAfAEP.jpg",
+        "width": 783
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1985273786372157854",
+        "created_at": "2025-11-03T14:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T15:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985348803554365919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1962465706756448256",
+              "start": 0,
+              "username": "memom1229345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985348803554365919",
+        "in_reply_to_user_id": "1962465706756448256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985273786372157854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@memom1229345 你太傻了啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985273632608911360"
+          ]
+        },
+        "author_id": "1962465706756448256",
+        "conversation_id": "1985273786372157854",
+        "created_at": "2025-11-03T09:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T10:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985273786372157854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JmPVpmxmDT",
+              "end": 36,
+              "expanded_url": "https://x.com/memom1229345/status/1985273786372157854/photo/1",
+              "media_key": "3_1985273632608911360",
+              "start": 13,
+              "url": "https://t.co/JmPVpmxmDT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985273786372157854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个咕咚老是捉弄我555 https://t.co/JmPVpmxmDT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 498,
+          "like_count": 1541,
+          "listed_count": 2,
+          "media_count": 306,
+          "tweet_count": 5253
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T10:41:26.000Z",
+        "description": "很神秘很神秘",
+        "id": "1962465706756448256",
+        "name": "mome",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962468282180714496/oZ5GIMAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 71,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 47
+        },
+        "username": "memom1229345",
+        "verified": false
+      }
+    ]
+  }
+}

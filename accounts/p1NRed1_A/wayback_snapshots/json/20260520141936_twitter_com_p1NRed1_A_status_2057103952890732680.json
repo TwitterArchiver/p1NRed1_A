@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056935952829079553"
+      ],
+      "media_source_tweet_id": [
+        "2056935962484281550"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "2057103952890732680",
+    "created_at": "2026-05-20T14:19:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T15:19:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057103952890732680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1705395684403535872",
+          "start": 3,
+          "username": "KitsuChiri_love"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IjSf44g4KC",
+          "end": 44,
+          "expanded_url": "https://x.com/KitsuChiri_love/status/2056935962484281550/photo/1",
+          "media_key": "3_2056935952829079553",
+          "start": 21,
+          "url": "https://t.co/IjSf44g4KC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057103952890732680",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 154
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056935962484281550",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KitsuChiri_love: https://t.co/IjSf44g4KC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 970,
+        "media_key": "3_2056935952829079553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIu0WdobYAEmOgq.jpg",
+        "width": 1621
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056935952829079553"
+          ],
+          "media_source_tweet_id": [
+            "2056935962484281550"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "2057103952890732680",
+        "created_at": "2026-05-20T14:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057103952890732680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1705395684403535872",
+              "start": 3,
+              "username": "KitsuChiri_love"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IjSf44g4KC",
+              "end": 44,
+              "expanded_url": "https://x.com/KitsuChiri_love/status/2056935962484281550/photo/1",
+              "media_key": "3_2056935952829079553",
+              "start": 21,
+              "url": "https://t.co/IjSf44g4KC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057103952890732680",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 154
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056935962484281550",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KitsuChiri_love: https://t.co/IjSf44g4KC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056935952829079553"
+          ]
+        },
+        "author_id": "1705395684403535872",
+        "conversation_id": "2056935962484281550",
+        "created_at": "2026-05-20T03:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T04:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056935962484281550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IjSf44g4KC",
+              "end": 23,
+              "expanded_url": "https://x.com/KitsuChiri_love/status/2056935962484281550/photo/1",
+              "media_key": "3_2056935952829079553",
+              "start": 0,
+              "url": "https://t.co/IjSf44g4KC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056935962484281550",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 15335,
+          "like_count": 924,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 154
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IjSf44g4KC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 562,
+          "like_count": 1654,
+          "listed_count": 3,
+          "media_count": 367,
+          "tweet_count": 6269
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T01:36:37.000Z",
+        "description": "今年からの落書き垢(ほぼ絶望先生)\nド下手ですがマシュマロでアイデア募集してます\n鍵同士だと助かります→@ChiriKitsu_love",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 52,
+                "username": "ChiriKitsu_love"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/17ors2c4xs1p1qd",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/17ors2c4xs1p1qd",
+                "start": 0,
+                "url": "https://t.co/lOCAMxkKaI"
+              }
+            ]
+          }
+        },
+        "id": "1705395684403535872",
+        "location": "JDのJ抜き",
+        "name": "ボビーさん",
+        "pinned_tweet_id": "2049771813207761234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049718317645209600/0FAKNyJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 137,
+          "like_count": 7046,
+          "listed_count": 0,
+          "media_count": 310,
+          "tweet_count": 4759
+        },
+        "url": "https://t.co/lOCAMxkKaI",
+        "username": "KitsuChiri_love",
+        "verified": false
+      }
+    ]
+  }
+}

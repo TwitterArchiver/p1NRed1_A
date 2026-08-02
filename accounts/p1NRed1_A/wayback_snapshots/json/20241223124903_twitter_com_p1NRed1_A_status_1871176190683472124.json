@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1871176190683472124",
+    "created_at": "2024-12-23T12:49:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-23T13:49:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1871176190683472124"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kirakira4th/st…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/kirakira4th/status/1870991628372226558",
+          "start": 2,
+          "url": "https://t.co/oKuOglooDh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871176190683472124",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870991628372226558",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中 https://t.co/oKuOglooDh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1871176190683472124",
+        "created_at": "2024-12-23T12:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-23T13:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871176190683472124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kirakira4th/st…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/kirakira4th/status/1870991628372226558",
+              "start": 2,
+              "url": "https://t.co/oKuOglooDh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871176190683472124",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870991628372226558",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中 https://t.co/oKuOglooDh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870991621376163840"
+          ]
+        },
+        "author_id": "1666599054917218305",
+        "conversation_id": "1870991628372226558",
+        "created_at": "2024-12-23T00:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-23T01:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870991628372226558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UPOJMx7sxG",
+              "end": 30,
+              "expanded_url": "https://x.com/kirakira4th/status/1870991628372226558/photo/1",
+              "media_key": "3_1870991621376163840",
+              "start": 7,
+              "url": "https://t.co/UPOJMx7sxG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870991628372226558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 188448,
+          "like_count": 1264,
+          "quote_count": 4,
+          "reply_count": 187,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "破防的河南人 https://t.co/UPOJMx7sxG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869350138424266753/LAsvqNJx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 295,
+          "like_count": 1029,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 3187
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T00:12:47.000Z",
+        "description": "我有癔症",
+        "id": "1666599054917218305",
+        "name": "消失的井盖",
+        "pinned_tweet_id": "1860322536485236873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869319622161526785/2Cc4dcUk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8477,
+          "following_count": 2167,
+          "like_count": 36998,
+          "listed_count": 15,
+          "media_count": 214,
+          "tweet_count": 9307
+        },
+        "username": "kirakira4th",
+        "verified": false
+      }
+    ]
+  }
+}

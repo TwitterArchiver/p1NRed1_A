@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1917993564589453314"
+      ],
+      "media_source_tweet_id": [
+        "1917993645086785880"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1918299968571654186",
+    "created_at": "2025-05-02T13:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T14:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918299968571654186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "3097465130",
+          "start": 3,
+          "username": "serasvictoria02"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kS1IUpgFwH",
+          "end": 44,
+          "expanded_url": "https://x.com/serasvictoria02/status/1917993645086785880/video/1",
+          "media_key": "13_1917993564589453314",
+          "start": 21,
+          "url": "https://t.co/kS1IUpgFwH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918299968571654186",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 643
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917993645086785880",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @serasvictoria02: https://t.co/kS1IUpgFwH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5989,
+        "height": 540,
+        "media_key": "13_1917993564589453314",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1917993564589453314/img/wf29l-9huwiFiCLe.jpg",
+        "public_metrics": {
+          "view_count": 26311
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917993564589453314/vid/avc1/320x320/mbHc2wFd2FgzWAPD.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917993564589453314/vid/avc1/540x540/2GANE2sg5gjNcDwC.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1917993564589453314/pl/T6TH2Tss_FMVMMrk.m3u8?tag=14"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1917993564589453314"
+          ],
+          "media_source_tweet_id": [
+            "1917993645086785880"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1918299968571654186",
+        "created_at": "2025-05-02T13:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T14:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918299968571654186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "3097465130",
+              "start": 3,
+              "username": "serasvictoria02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kS1IUpgFwH",
+              "end": 44,
+              "expanded_url": "https://x.com/serasvictoria02/status/1917993645086785880/video/1",
+              "media_key": "13_1917993564589453314",
+              "start": 21,
+              "url": "https://t.co/kS1IUpgFwH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918299968571654186",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 643
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917993645086785880",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @serasvictoria02: https://t.co/kS1IUpgFwH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1917993564589453314"
+          ]
+        },
+        "author_id": "3097465130",
+        "conversation_id": "1917993645086785880",
+        "created_at": "2025-05-01T17:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T18:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917993645086785880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kS1IUpgFwH",
+              "end": 23,
+              "expanded_url": "https://x.com/serasvictoria02/status/1917993645086785880/video/1",
+              "media_key": "13_1917993564589453314",
+              "start": 0,
+              "url": "https://t.co/kS1IUpgFwH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917993645086785880",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 317,
+          "impression_count": 61829,
+          "like_count": 2089,
+          "quote_count": 52,
+          "reply_count": 8,
+          "retweet_count": 643
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kS1IUpgFwH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 391,
+          "like_count": 1190,
+          "listed_count": 1,
+          "media_count": 204,
+          "tweet_count": 3741
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-19T08:18:41.000Z",
+        "description": "“𝒲𝒾𝓉𝒽𝑜𝓊𝓉 𝓁𝑜𝓋𝑒 𝒾𝓉 𝒸𝒶𝓃𝓃𝑜𝓉 𝒷𝑒 𝓈𝑒𝑒𝓃”",
+        "id": "3097465130",
+        "location": "Rokkenjima ",
+        "name": "🦋Seras Victoria",
+        "pinned_tweet_id": "1894708622715691137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895741084761784320/Mi6XqGYD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2753,
+          "following_count": 535,
+          "like_count": 250939,
+          "listed_count": 8,
+          "media_count": 4858,
+          "tweet_count": 25325
+        },
+        "username": "serasvictoria02",
+        "verified": false
+      }
+    ]
+  }
+}

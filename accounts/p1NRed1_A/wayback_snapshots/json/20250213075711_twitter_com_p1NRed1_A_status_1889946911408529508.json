@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1889927113031163904",
+        "3_1889927552153894912"
+      ],
+      "media_source_tweet_id": [
+        "1889927565709812183",
+        "1889927565709812183"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1889946911408529508",
+    "created_at": "2025-02-13T07:57:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T08:57:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889946911408529508"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "Windows",
+          "probability": 0.5142,
+          "start": 17,
+          "type": "Product"
+        },
+        {
+          "end": 33,
+          "normalized_text": "符香ちゃん",
+          "probability": 0.3721,
+          "start": 29,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1476887134933897219",
+          "start": 3,
+          "username": "LollisBlack"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NL71LDbtlt",
+          "end": 58,
+          "expanded_url": "https://x.com/LollisBlack/status/1889927565709812183/video/1",
+          "media_key": "7_1889927113031163904",
+          "start": 35,
+          "url": "https://t.co/NL71LDbtlt"
+        },
+        {
+          "display_url": "pic.x.com/NL71LDbtlt",
+          "end": 58,
+          "expanded_url": "https://x.com/LollisBlack/status/1889927565709812183/video/1",
+          "media_key": "3_1889927552153894912",
+          "start": 35,
+          "url": "https://t.co/NL71LDbtlt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889946911408529508",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889927565709812183",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LollisBlack: Windowsペイント可符香ちゃん https://t.co/NL71LDbtlt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 96571,
+        "height": 720,
+        "media_key": "7_1889927113031163904",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1889927113031163904/pu/img/JZF9I1iwCrSLK0Ef.jpg",
+        "public_metrics": {
+          "view_count": 31
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1889927113031163904/pu/vid/avc1/480x270/8WBkuZQ9YVITjpGU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1889927113031163904/pu/vid/avc1/640x360/W8bsMIJ01zgw_6G-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1889927113031163904/pu/vid/avc1/1280x720/hZmrzf3eim42xSzz.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1889927113031163904/pu/pl/tlUK7kCmqNB7bhl8.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 771,
+        "media_key": "3_1889927552153894912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjpfGG1bQAAyGn1.jpg",
+        "width": 1071
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1889927113031163904",
+            "3_1889927552153894912"
+          ],
+          "media_source_tweet_id": [
+            "1889927565709812183",
+            "1889927565709812183"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1889946911408529508",
+        "created_at": "2025-02-13T07:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T08:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889946911408529508"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Windows",
+              "probability": 0.5142,
+              "start": 17,
+              "type": "Product"
+            },
+            {
+              "end": 33,
+              "normalized_text": "符香ちゃん",
+              "probability": 0.3721,
+              "start": 29,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1476887134933897219",
+              "start": 3,
+              "username": "LollisBlack"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NL71LDbtlt",
+              "end": 58,
+              "expanded_url": "https://x.com/LollisBlack/status/1889927565709812183/video/1",
+              "media_key": "7_1889927113031163904",
+              "start": 35,
+              "url": "https://t.co/NL71LDbtlt"
+            },
+            {
+              "display_url": "pic.x.com/NL71LDbtlt",
+              "end": 58,
+              "expanded_url": "https://x.com/LollisBlack/status/1889927565709812183/video/1",
+              "media_key": "3_1889927552153894912",
+              "start": 35,
+              "url": "https://t.co/NL71LDbtlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889946911408529508",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889927565709812183",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LollisBlack: Windowsペイント可符香ちゃん https://t.co/NL71LDbtlt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1889927113031163904",
+            "3_1889927552153894912"
+          ]
+        },
+        "author_id": "1476887134933897219",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1889927565709812183",
+        "created_at": "2025-02-13T06:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T07:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889927565709812183"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "香ちゃん",
+              "probability": 0.551,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NL71LDbtlt",
+              "end": 41,
+              "expanded_url": "https://x.com/LollisBlack/status/1889927565709812183/video/1",
+              "media_key": "7_1889927113031163904",
+              "start": 18,
+              "url": "https://t.co/NL71LDbtlt"
+            },
+            {
+              "display_url": "pic.x.com/NL71LDbtlt",
+              "end": 41,
+              "expanded_url": "https://x.com/LollisBlack/status/1889927565709812183/video/1",
+              "media_key": "3_1889927552153894912",
+              "start": 18,
+              "url": "https://t.co/NL71LDbtlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889927565709812183",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 105,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "Windowsペイント可符香ちゃん https://t.co/NL71LDbtlt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889564810410627072/YnTsykE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 304,
+          "like_count": 1056,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 3246
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-31T12:05:14.000Z",
+        "description": "中文|日本語勉強中|望カフ|低浮上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/69712310",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/69712310",
+                "start": 0,
+                "url": "https://t.co/q00AkLuLJW"
+              }
+            ]
+          }
+        },
+        "id": "1476887134933897219",
+        "location": "成人済",
+        "name": "夜洛Black",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800442167837773826/umYUCEeP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 225,
+          "like_count": 949,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 449
+        },
+        "url": "https://t.co/q00AkLuLJW",
+        "username": "LollisBlack",
+        "verified": false
+      }
+    ]
+  }
+}

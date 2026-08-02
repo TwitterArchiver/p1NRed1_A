@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967609657159294976"
+      ],
+      "media_source_tweet_id": [
+        "1967609668987195824"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1967964569219055727",
+    "created_at": "2025-09-16T14:51:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T15:51:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967964569219055727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1912385210244820992",
+          "start": 3,
+          "username": "lang_zhang55366"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L4i5FmCLtC",
+          "end": 44,
+          "expanded_url": "https://x.com/lang_zhang55366/status/1967609668987195824/photo/1",
+          "media_key": "3_1967609657159294976",
+          "start": 21,
+          "url": "https://t.co/L4i5FmCLtC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967964569219055727",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967609668987195824",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lang_zhang55366: https://t.co/L4i5FmCLtC"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1967964569219055727].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1967964569219055727",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1967964569219055727"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3524,
+        "media_key": "3_1967609657159294976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G05aju-boAAt2oQ.png",
+        "width": 2524
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967609657159294976"
+          ]
+        },
+        "author_id": "1912385210244820992",
+        "conversation_id": "1967609668987195824",
+        "created_at": "2025-09-15T15:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T16:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967609668987195824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L4i5FmCLtC",
+              "end": 23,
+              "expanded_url": "https://x.com/lang_zhang55366/status/1967609668987195824/photo/1",
+              "media_key": "3_1967609657159294976",
+              "start": 0,
+              "url": "https://t.co/L4i5FmCLtC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967609668987195824",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 370,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/L4i5FmCLtC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 448,
+          "like_count": 1388,
+          "listed_count": 2,
+          "media_count": 263,
+          "tweet_count": 4712
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T05:59:25.000Z",
+        "description": "I am reborn。\n望カフCrazy fans & biggest nzkf hater.★⌓‿⌓",
+        "id": "1912385210244820992",
+        "name": "蟑螂惹",
+        "pinned_tweet_id": "1912870271687757889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934541146883334144/kuSBaU0l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 163,
+          "like_count": 3745,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1779
+        },
+        "username": "lang_zhang55366",
+        "verified": false
+      }
+    ]
+  }
+}

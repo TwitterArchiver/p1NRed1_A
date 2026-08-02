@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2077430265715068928"
+      ],
+      "media_source_tweet_id": [
+        "2077430292717908203"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "2081712707091533973",
+    "created_at": "2026-07-27T12:06:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T13:06:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081712707091533973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2038743854703128576",
+          "start": 3,
+          "username": "oorangeugladd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YVlfyw701a",
+          "end": 97,
+          "expanded_url": "https://x.com/sunsetoverroses/status/2077430292717908203/video/1",
+          "media_key": "13_2077430265715068928",
+          "start": 74,
+          "url": "https://t.co/YVlfyw701a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081712707091533973",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6309
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081489013374890250",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oorangeugladd: when being bored starts to feel like straight torture  https://t.co/YVlfyw701a"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16718,
+        "height": 720,
+        "media_key": "13_2077430265715068928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077430265715068928/img/2bB68mPeHtT0QjpD.jpg",
+        "public_metrics": {
+          "view_count": 663109
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077430265715068928/vid/avc1/470x270/Cqb3iDTos4fWxEeW.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077430265715068928/vid/avc1/628x360/NbA8MB7f6DGArZ6T.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077430265715068928/vid/avc1/1256x720/5RnGomzN5PHbncnu.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077430265715068928/pl/uZm6m7T-MhfipUQ5.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077430265715068928"
+          ]
+        },
+        "author_id": "1981485021799108608",
+        "conversation_id": "2077430292717908203",
+        "created_at": "2026-07-15T16:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077430292717908203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jDcPUBoGRV",
+              "end": 105,
+              "expanded_url": "https://x.com/sunsetoverroses/status/2077430292717908203/video/1",
+              "media_key": "13_2077430265715068928",
+              "start": 82,
+              "url": "https://t.co/jDcPUBoGRV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077430292717908203",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7272,
+          "impression_count": 994923,
+          "like_count": 64016,
+          "quote_count": 313,
+          "reply_count": 190,
+          "retweet_count": 11663
+        },
+        "reply_settings": "everyone",
+        "text": "when someone vents to u and u deadass feel like ur just making their issues worse https://t.co/jDcPUBoGRV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077430265715068928"
+          ],
+          "media_source_tweet_id": [
+            "2077430292717908203"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "2081712707091533973",
+        "created_at": "2026-07-27T12:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081712707091533973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2038743854703128576",
+              "start": 3,
+              "username": "oorangeugladd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YVlfyw701a",
+              "end": 97,
+              "expanded_url": "https://x.com/sunsetoverroses/status/2077430292717908203/video/1",
+              "media_key": "13_2077430265715068928",
+              "start": 74,
+              "url": "https://t.co/YVlfyw701a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081712707091533973",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6309
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081489013374890250",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oorangeugladd: when being bored starts to feel like straight torture  https://t.co/YVlfyw701a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077430265715068928"
+          ],
+          "media_source_tweet_id": [
+            "2077430292717908203"
+          ]
+        },
+        "author_id": "2038743854703128576",
+        "conversation_id": "2081489013374890250",
+        "created_at": "2026-07-26T21:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T22:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081489013374890250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YVlfyw701a",
+              "end": 78,
+              "expanded_url": "https://x.com/sunsetoverroses/status/2077430292717908203/video/1",
+              "media_key": "13_2077430265715068928",
+              "start": 55,
+              "url": "https://t.co/YVlfyw701a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081489013374890250",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2428,
+          "impression_count": 329679,
+          "like_count": 31762,
+          "quote_count": 147,
+          "reply_count": 97,
+          "retweet_count": 6309
+        },
+        "reply_settings": "everyone",
+        "text": "when being bored starts to feel like straight torture  https://t.co/YVlfyw701a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/9GooAZ0z7o"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "死全家星",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076577294790139904/Fz-jPCGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 584,
+          "like_count": 1801,
+          "listed_count": 3,
+          "media_count": 442,
+          "tweet_count": 7147
+        },
+        "url": "https://t.co/9GooAZ0z7o",
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T22:23:31.000Z",
+        "description": "i like to play in the sun",
+        "id": "2038743854703128576",
+        "location": "20",
+        "name": "່͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏",
+        "pinned_tweet_id": "2053945839567974791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072235036292595712/h4AHwJuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 333,
+          "like_count": 63793,
+          "listed_count": 9,
+          "media_count": 281,
+          "tweet_count": 3012
+        },
+        "url": "",
+        "username": "oorangeugladd",
+        "verified": false
+      }
+    ]
+  }
+}

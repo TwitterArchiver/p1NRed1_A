@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1914983196275728384"
+      ],
+      "media_source_tweet_id": [
+        "1914983265359765692"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1915040575268831281",
+    "created_at": "2025-04-23T13:50:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T14:50:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915040575268831281"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 37,
+          "tag": "音量注意"
+        },
+        {
+          "end": 51,
+          "start": 43,
+          "tag": "1480BPM"
+        },
+        {
+          "end": 55,
+          "start": 52,
+          "tag": "M3"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "62045827",
+          "start": 3,
+          "username": "myosuke"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MsLkrM2m9j",
+          "end": 79,
+          "expanded_url": "https://x.com/myosuke/status/1914983265359765692/video/1",
+          "media_key": "13_1914983196275728384",
+          "start": 56,
+          "url": "https://t.co/MsLkrM2m9j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915040575268831281",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914983265359765692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @myosuke: 音が止まっちゃった時に最適な曲を作っています \n#音量注意 #1480BPM #M3 https://t.co/MsLkrM2m9j"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12478,
+        "height": 1080,
+        "media_key": "13_1914983196275728384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1914983196275728384/img/aBDpU7y9vrYnv5f8.jpg",
+        "public_metrics": {
+          "view_count": 2284
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1914983196275728384/pl/1lgsIc7xVFaM-kSL.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914983196275728384/vid/avc1/640x360/qtiX-WVlXy8j0oP5.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914983196275728384/vid/avc1/1280x720/zJ4TxL6gvqFSKlRY.mp4?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914983196275728384/vid/avc1/1920x1080/8tgBaeGBNOOwkOjQ.mp4?tag=16"
+          },
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914983196275728384/vid/avc1/480x270/zZVFiqyFjc26ZYDR.mp4?tag=16"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1914983196275728384"
+          ],
+          "media_source_tweet_id": [
+            "1914983265359765692"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1915040575268831281",
+        "created_at": "2025-04-23T13:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T14:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915040575268831281"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 37,
+              "tag": "音量注意"
+            },
+            {
+              "end": 51,
+              "start": 43,
+              "tag": "1480BPM"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "M3"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "62045827",
+              "start": 3,
+              "username": "myosuke"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MsLkrM2m9j",
+              "end": 79,
+              "expanded_url": "https://x.com/myosuke/status/1914983265359765692/video/1",
+              "media_key": "13_1914983196275728384",
+              "start": 56,
+              "url": "https://t.co/MsLkrM2m9j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915040575268831281",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914983265359765692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @myosuke: 音が止まっちゃった時に最適な曲を作っています \n#音量注意 #1480BPM #M3 https://t.co/MsLkrM2m9j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1914983196275728384"
+          ]
+        },
+        "author_id": "62045827",
+        "conversation_id": "1914983265359765692",
+        "created_at": "2025-04-23T10:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T11:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914983265359765692"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "音量注意"
+            },
+            {
+              "end": 38,
+              "start": 30,
+              "tag": "1480BPM"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "M3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MsLkrM2m9j",
+              "end": 66,
+              "expanded_url": "https://x.com/myosuke/status/1914983265359765692/video/1",
+              "media_key": "13_1914983196275728384",
+              "start": 43,
+              "url": "https://t.co/MsLkrM2m9j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914983265359765692",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 7264,
+          "like_count": 273,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "音が止まっちゃった時に最適な曲を作っています \n#音量注意 #1480BPM #M3 https://t.co/MsLkrM2m9j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 385,
+          "like_count": 1158,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 3609
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-01T14:42:34.000Z",
+        "description": "Hardcore Producer\n激しい曲を作ります⚠\n\n┊HARDCORE TANO*C所属\n┊YouTube→https://t.co/maaallUW10\n┊🌚→@joe__fight\n┊日常→@dj_myosuke\n┊楽曲提供→\nチュウニズム、 Arcaea、太鼓の達人、WACCA、IIDX等",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 85,
+                "username": "joe__fight"
+              },
+              {
+                "end": 112,
+                "start": 101,
+                "username": "dj_myosuke"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/djmyosuke",
+                "end": 81,
+                "expanded_url": "http://youtube.com/djmyosuke",
+                "start": 58,
+                "url": "https://t.co/maaallUW10"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "myosuke.com",
+                "end": 23,
+                "expanded_url": "https://myosuke.com",
+                "start": 0,
+                "url": "https://t.co/dLiTXiBKJE"
+              }
+            ]
+          }
+        },
+        "id": "62045827",
+        "location": "ご依頼→myosuke.666 at gmail.com",
+        "name": "DJ Myosuke",
+        "pinned_tweet_id": "1913181965303550161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756930680666398720/9yAThqDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57127,
+          "following_count": 690,
+          "like_count": 10179,
+          "listed_count": 361,
+          "media_count": 7442,
+          "tweet_count": 47334
+        },
+        "url": "https://t.co/dLiTXiBKJE",
+        "username": "myosuke",
+        "verified": true
+      }
+    ]
+  }
+}

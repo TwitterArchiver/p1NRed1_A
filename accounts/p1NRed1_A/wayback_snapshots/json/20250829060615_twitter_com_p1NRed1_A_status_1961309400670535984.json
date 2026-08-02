@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1961298110748987732",
+    "created_at": "2025-08-29T06:06:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T07:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961309400670535984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1819051539727847424",
+          "start": 0,
+          "username": "jinshengbing_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961309400670535984",
+    "in_reply_to_user_id": "1819051539727847424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961302986321265136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinshengbing_ 救命"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1961298110748987732",
+        "created_at": "2025-08-29T06:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T07:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961309400670535984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1819051539727847424",
+              "start": 0,
+              "username": "jinshengbing_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961309400670535984",
+        "in_reply_to_user_id": "1819051539727847424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961302986321265136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinshengbing_ 救命"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819051539727847424",
+        "conversation_id": "1961298110748987732",
+        "created_at": "2025-08-29T05:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T06:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961302986321265136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961302986321265136",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961298110748987732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 确实"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 440,
+          "like_count": 1337,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 4576
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T16:44:36.000Z",
+        "description": "People's life just like dearm.",
+        "id": "1819051539727847424",
+        "name": "右佐匹克隆片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960061056094797824/iDzLBNhd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 105,
+          "like_count": 2736,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 277
+        },
+        "username": "jinshengbing_",
+        "verified": false
+      }
+    ]
+  }
+}

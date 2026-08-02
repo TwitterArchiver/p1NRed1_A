@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992996621114916866"
+      ],
+      "media_source_tweet_id": [
+        "1992996627884524022"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "1993207796826022130",
+    "created_at": "2025-11-25T06:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T07:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993207796826022130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "265847428",
+          "start": 3,
+          "username": "_morichan_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cD0ANi06Eg",
+          "end": 74,
+          "expanded_url": "https://x.com/_morichan_/status/1992996627884524022/photo/1",
+          "media_key": "3_1992996621114916866",
+          "start": 51,
+          "url": "https://t.co/cD0ANi06Eg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993207796826022130",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992996627884524022",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_morichan_: えるしってるか　レポ漫画は背景たくさん描かないといけないんやで　白目 https://t.co/cD0ANi06Eg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 672,
+        "media_key": "3_1992996621114916866",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6iL3hgbwAIv1SK.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992996621114916866"
+          ],
+          "media_source_tweet_id": [
+            "1992996627884524022"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1993207796826022130",
+        "created_at": "2025-11-25T06:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T07:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993207796826022130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "265847428",
+              "start": 3,
+              "username": "_morichan_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cD0ANi06Eg",
+              "end": 74,
+              "expanded_url": "https://x.com/_morichan_/status/1992996627884524022/photo/1",
+              "media_key": "3_1992996621114916866",
+              "start": 51,
+              "url": "https://t.co/cD0ANi06Eg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993207796826022130",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992996627884524022",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_morichan_: えるしってるか　レポ漫画は背景たくさん描かないといけないんやで　白目 https://t.co/cD0ANi06Eg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992996621114916866"
+          ]
+        },
+        "author_id": "265847428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1992996627884524022",
+        "created_at": "2025-11-24T16:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T17:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992996627884524022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cD0ANi06Eg",
+              "end": 58,
+              "expanded_url": "https://x.com/_morichan_/status/1992996627884524022/photo/1",
+              "media_key": "3_1992996621114916866",
+              "start": 35,
+              "url": "https://t.co/cD0ANi06Eg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992996627884524022",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 981,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "えるしってるか　レポ漫画は背景たくさん描かないといけないんやで　白目 https://t.co/cD0ANi06Eg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 499,
+          "like_count": 1556,
+          "listed_count": 2,
+          "media_count": 310,
+          "tweet_count": 5292
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-14T07:05:46.000Z",
+        "description": "あずまんが大王の大阪さんを糧に同人誌作ったりして生きています！わしゃあずまんが大王で育ったんじゃ！わしゃここを離れんぞ！NO OSAKA NO LIFE !!\n🍈委託中\nhttps://t.co/YgxBSJM1qi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "melonbooks.co.jp/circle/index.p…",
+                "end": 108,
+                "expanded_url": "https://www.melonbooks.co.jp/circle/index.php?circle_id=25075",
+                "start": 85,
+                "url": "https://t.co/YgxBSJM1qi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/member.php?id=291203",
+                "start": 0,
+                "url": "https://t.co/bCiH8d9EhV"
+              }
+            ]
+          }
+        },
+        "id": "265847428",
+        "name": "morichan@冬コミ1日目東オ-61ab",
+        "pinned_tweet_id": "1951980316589240466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992908277471182848/QrN2J_Be_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4016,
+          "following_count": 293,
+          "like_count": 25811,
+          "listed_count": 49,
+          "media_count": 1677,
+          "tweet_count": 34705
+        },
+        "url": "https://t.co/bCiH8d9EhV",
+        "username": "_morichan_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2081615284071465142",
+    "created_at": "2026-07-27T05:38:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T06:38:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081615284071465142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1948837341965303809",
+          "start": 3,
+          "username": "dj7E4wA7bK24544"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081615284071465142",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10489
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081033207919649110",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dj7E4wA7bK24544: i’m going to be pissed if there actually is something after death"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2081615284071465142",
+        "created_at": "2026-07-27T05:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T06:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081615284071465142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1948837341965303809",
+              "start": 3,
+              "username": "dj7E4wA7bK24544"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081615284071465142",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10489
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081033207919649110",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dj7E4wA7bK24544: i’m going to be pissed if there actually is something after death"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948837341965303809",
+        "conversation_id": "2081033207919649110",
+        "created_at": "2026-07-25T15:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081033207919649110"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081033207919649110",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2533,
+          "impression_count": 1591088,
+          "like_count": 71024,
+          "quote_count": 625,
+          "reply_count": 532,
+          "retweet_count": 10489
+        },
+        "reply_settings": "everyone",
+        "text": "i’m going to be pissed if there actually is something after death"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/9GooAZ0z7o"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "死全家星",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076577294790139904/Fz-jPCGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 581,
+          "like_count": 1801,
+          "listed_count": 3,
+          "media_count": 442,
+          "tweet_count": 7141
+        },
+        "url": "https://t.co/9GooAZ0z7o",
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T20:07:05.000Z",
+        "description": "backup acc || @DrNyon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 14,
+                "username": "DrNyon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "doctor003.straw.page",
+                "end": 23,
+                "expanded_url": "https://doctor003.straw.page",
+                "start": 0,
+                "url": "https://t.co/Zw1sbTcEFh"
+              }
+            ]
+          }
+        },
+        "id": "1948837341965303809",
+        "name": "🪽",
+        "pinned_tweet_id": "2047061601086271636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948837714196873216/8usO99z2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1588,
+          "following_count": 1482,
+          "like_count": 13494,
+          "listed_count": 12,
+          "media_count": 35,
+          "tweet_count": 151
+        },
+        "url": "https://t.co/Zw1sbTcEFh",
+        "username": "dj7E4wA7bK24544",
+        "verified": false
+      }
+    ]
+  }
+}

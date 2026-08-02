@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962514332941422592",
+        "3_1962514333025333248"
+      ],
+      "media_source_tweet_id": [
+        "1962514352201740352",
+        "1962514352201740352"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1962521899503927704",
+    "created_at": "2025-09-01T14:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T15:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962521899503927704"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 40,
+          "tag": "さよなら絶望先生"
+        },
+        {
+          "end": 56,
+          "start": 50,
+          "tag": "久米田康治"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1877566766823649284",
+          "start": 3,
+          "username": "No_a1202"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xaH4KqqsZb",
+          "end": 80,
+          "expanded_url": "https://x.com/No_a1202/status/1962514352201740352/photo/1",
+          "media_key": "3_1962514332941422592",
+          "start": 57,
+          "url": "https://t.co/xaH4KqqsZb"
+        },
+        {
+          "display_url": "pic.x.com/xaH4KqqsZb",
+          "end": 80,
+          "expanded_url": "https://x.com/No_a1202/status/1962514352201740352/photo/1",
+          "media_key": "3_1962514333025333248",
+          "start": 57,
+          "url": "https://t.co/xaH4KqqsZb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962521899503927704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962514352201740352",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @No_a1202: 人类最恶最绝望驾驶影像\n\n最近在中国很火的meme\n#さよなら絶望先生\n#久米田康治 https://t.co/xaH4KqqsZb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1170,
+        "media_key": "3_1962514332941422592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzxAY1GWEAA3wck.jpg",
+        "width": 1548
+      },
+      {
+        "height": 1170,
+        "media_key": "3_1962514333025333248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzxAY1aWcAAYK4I.jpg",
+        "width": 1548
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962514332941422592",
+            "3_1962514333025333248"
+          ],
+          "media_source_tweet_id": [
+            "1962514352201740352",
+            "1962514352201740352"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1962521899503927704",
+        "created_at": "2025-09-01T14:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T15:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962521899503927704"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 40,
+              "tag": "さよなら絶望先生"
+            },
+            {
+              "end": 56,
+              "start": 50,
+              "tag": "久米田康治"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877566766823649284",
+              "start": 3,
+              "username": "No_a1202"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xaH4KqqsZb",
+              "end": 80,
+              "expanded_url": "https://x.com/No_a1202/status/1962514352201740352/photo/1",
+              "media_key": "3_1962514332941422592",
+              "start": 57,
+              "url": "https://t.co/xaH4KqqsZb"
+            },
+            {
+              "display_url": "pic.x.com/xaH4KqqsZb",
+              "end": 80,
+              "expanded_url": "https://x.com/No_a1202/status/1962514352201740352/photo/1",
+              "media_key": "3_1962514333025333248",
+              "start": 57,
+              "url": "https://t.co/xaH4KqqsZb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962521899503927704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962514352201740352",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @No_a1202: 人类最恶最绝望驾驶影像\n\n最近在中国很火的meme\n#さよなら絶望先生\n#久米田康治 https://t.co/xaH4KqqsZb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962514332941422592",
+            "3_1962514333025333248"
+          ]
+        },
+        "author_id": "1877566766823649284",
+        "conversation_id": "1962514352201740352",
+        "created_at": "2025-09-01T13:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T14:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962514352201740352"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 26,
+              "tag": "さよなら絶望先生"
+            },
+            {
+              "end": 42,
+              "start": 36,
+              "tag": "久米田康治"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xaH4KqqsZb",
+              "end": 66,
+              "expanded_url": "https://x.com/No_a1202/status/1962514352201740352/photo/1",
+              "media_key": "3_1962514332941422592",
+              "start": 43,
+              "url": "https://t.co/xaH4KqqsZb"
+            },
+            {
+              "display_url": "pic.x.com/xaH4KqqsZb",
+              "end": 66,
+              "expanded_url": "https://x.com/No_a1202/status/1962514352201740352/photo/1",
+              "media_key": "3_1962514333025333248",
+              "start": 43,
+              "url": "https://t.co/xaH4KqqsZb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962514352201740352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 30,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "人类最恶最绝望驾驶影像\n\n最近在中国很火的meme\n#さよなら絶望先生\n#久米田康治 https://t.co/xaH4KqqsZb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 439,
+          "like_count": 1346,
+          "listed_count": 2,
+          "media_count": 257,
+          "tweet_count": 4609
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T04:03:10.000Z",
+        "description": "喜欢久米田康治，喜欢他的画风，畫他的畫風讓我感覺十分舒服，如果我的画让人感到不适，我很抱歉，我是无能的人对不起对不起对不起对不起对不起https://t.co/cvdLrZ5tgq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/7400702538",
+                "end": 90,
+                "expanded_url": "https://weibo.com/u/7400702538",
+                "start": 67,
+                "url": "https://t.co/cvdLrZ5tgq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/112639292",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/112639292",
+                "start": 0,
+                "url": "https://t.co/lhj9bFqBX3"
+              }
+            ]
+          }
+        },
+        "id": "1877566766823649284",
+        "location": "異惑星（现居無錫）",
+        "name": "望愛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879844241444085760/SM15_4ys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 73,
+          "like_count": 2530,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 78
+        },
+        "url": "https://t.co/lhj9bFqBX3",
+        "username": "No_a1202",
+        "verified": false
+      }
+    ]
+  }
+}

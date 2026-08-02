@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2068343604968558592",
+        "3_2068343650220937217",
+        "3_2068344444089450496",
+        "3_2068344640726769664"
+      ],
+      "media_source_tweet_id": [
+        "2068344759589200307",
+        "2068344759589200307",
+        "2068344759589200307",
+        "2068344759589200307"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "2068576042466558237",
+    "created_at": "2026-06-21T06:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T07:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068576042466558237"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 13,
+          "tag": "2026年自分が選ぶ今年上半期の4枚"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "23044793",
+          "start": 3,
+          "username": "aogaeru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1CF6u1fcbg",
+          "end": 56,
+          "expanded_url": "https://x.com/aogaeru/status/2068344759589200307/photo/1",
+          "media_key": "16_2068343604968558592",
+          "start": 33,
+          "url": "https://t.co/1CF6u1fcbg"
+        },
+        {
+          "display_url": "pic.x.com/1CF6u1fcbg",
+          "end": 56,
+          "expanded_url": "https://x.com/aogaeru/status/2068344759589200307/photo/1",
+          "media_key": "3_2068343650220937217",
+          "start": 33,
+          "url": "https://t.co/1CF6u1fcbg"
+        },
+        {
+          "display_url": "pic.x.com/1CF6u1fcbg",
+          "end": 56,
+          "expanded_url": "https://x.com/aogaeru/status/2068344759589200307/photo/1",
+          "media_key": "3_2068344444089450496",
+          "start": 33,
+          "url": "https://t.co/1CF6u1fcbg"
+        },
+        {
+          "display_url": "pic.x.com/1CF6u1fcbg",
+          "end": 56,
+          "expanded_url": "https://x.com/aogaeru/status/2068344759589200307/photo/1",
+          "media_key": "3_2068344640726769664",
+          "start": 33,
+          "url": "https://t.co/1CF6u1fcbg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068576042466558237",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068344759589200307",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aogaeru: #2026年自分が選ぶ今年上半期の4枚 https://t.co/1CF6u1fcbg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "16_2068343604968558592",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HLQ7jNeaEAAy8zH.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HLQ7jNeaEAAy8zH.mp4"
+          }
+        ],
+        "width": 400
+      },
+      {
+        "height": 778,
+        "media_key": "3_2068343650220937217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQ7l2DakAEXBCI.jpg",
+        "width": 1000
+      },
+      {
+        "height": 825,
+        "media_key": "3_2068344444089450496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQ8UDcawAAM6uH.jpg",
+        "width": 800
+      },
+      {
+        "height": 800,
+        "media_key": "3_2068344640726769664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQ8ff-aIAA5maF.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2068343604968558592",
+            "3_2068343650220937217",
+            "3_2068344444089450496",
+            "3_2068344640726769664"
+          ],
+          "media_source_tweet_id": [
+            "2068344759589200307",
+            "2068344759589200307",
+            "2068344759589200307",
+            "2068344759589200307"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "2068576042466558237",
+        "created_at": "2026-06-21T06:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068576042466558237"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 13,
+              "tag": "2026年自分が選ぶ今年上半期の4枚"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "23044793",
+              "start": 3,
+              "username": "aogaeru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1CF6u1fcbg",
+              "end": 56,
+              "expanded_url": "https://x.com/aogaeru/status/2068344759589200307/photo/1",
+              "media_key": "16_2068343604968558592",
+              "start": 33,
+              "url": "https://t.co/1CF6u1fcbg"
+            },
+            {
+              "display_url": "pic.x.com/1CF6u1fcbg",
+              "end": 56,
+              "expanded_url": "https://x.com/aogaeru/status/2068344759589200307/photo/1",
+              "media_key": "3_2068343650220937217",
+              "start": 33,
+              "url": "https://t.co/1CF6u1fcbg"
+            },
+            {
+              "display_url": "pic.x.com/1CF6u1fcbg",
+              "end": 56,
+              "expanded_url": "https://x.com/aogaeru/status/2068344759589200307/photo/1",
+              "media_key": "3_2068344444089450496",
+              "start": 33,
+              "url": "https://t.co/1CF6u1fcbg"
+            },
+            {
+              "display_url": "pic.x.com/1CF6u1fcbg",
+              "end": 56,
+              "expanded_url": "https://x.com/aogaeru/status/2068344759589200307/photo/1",
+              "media_key": "3_2068344640726769664",
+              "start": 33,
+              "url": "https://t.co/1CF6u1fcbg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068576042466558237",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068344759589200307",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aogaeru: #2026年自分が選ぶ今年上半期の4枚 https://t.co/1CF6u1fcbg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2068343604968558592",
+            "3_2068343650220937217",
+            "3_2068344444089450496",
+            "3_2068344640726769664"
+          ]
+        },
+        "author_id": "23044793",
+        "conversation_id": "2068344759589200307",
+        "created_at": "2026-06-20T14:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068344759589200307"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 0,
+              "tag": "2026年自分が選ぶ今年上半期の4枚"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1CF6u1fcbg",
+              "end": 43,
+              "expanded_url": "https://x.com/aogaeru/status/2068344759589200307/photo/1",
+              "media_key": "16_2068343604968558592",
+              "start": 20,
+              "url": "https://t.co/1CF6u1fcbg"
+            },
+            {
+              "display_url": "pic.x.com/1CF6u1fcbg",
+              "end": 43,
+              "expanded_url": "https://x.com/aogaeru/status/2068344759589200307/photo/1",
+              "media_key": "3_2068343650220937217",
+              "start": 20,
+              "url": "https://t.co/1CF6u1fcbg"
+            },
+            {
+              "display_url": "pic.x.com/1CF6u1fcbg",
+              "end": 43,
+              "expanded_url": "https://x.com/aogaeru/status/2068344759589200307/photo/1",
+              "media_key": "3_2068344444089450496",
+              "start": 20,
+              "url": "https://t.co/1CF6u1fcbg"
+            },
+            {
+              "display_url": "pic.x.com/1CF6u1fcbg",
+              "end": 43,
+              "expanded_url": "https://x.com/aogaeru/status/2068344759589200307/photo/1",
+              "media_key": "3_2068344640726769664",
+              "start": 20,
+              "url": "https://t.co/1CF6u1fcbg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068344759589200307",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 538,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "#2026年自分が選ぶ今年上半期の4枚 https://t.co/1CF6u1fcbg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 561,
+          "like_count": 1660,
+          "listed_count": 3,
+          "media_count": 370,
+          "tweet_count": 6329
+        },
+        "url": "",
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-06T08:24:48.000Z",
+        "description": "OC（伺か）／久米田作品FA／女の子絵。2025.11〜ドズル社推し🍆🍌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/aogaeru",
+                "end": 23,
+                "expanded_url": "https://potofu.me/aogaeru",
+                "start": 0,
+                "url": "https://t.co/UEJ8iwueDr"
+              }
+            ]
+          }
+        },
+        "id": "23044793",
+        "location": "ぷちっと星とわの市臓物島",
+        "name": "あおがえる。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/985644955006730240/zu0P2et6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 370,
+          "like_count": 73130,
+          "listed_count": 46,
+          "media_count": 5128,
+          "tweet_count": 60990
+        },
+        "url": "https://t.co/UEJ8iwueDr",
+        "username": "aogaeru",
+        "verified": false
+      }
+    ]
+  }
+}

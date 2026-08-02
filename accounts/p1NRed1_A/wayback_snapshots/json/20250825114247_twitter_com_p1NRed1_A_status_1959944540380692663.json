@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1959843078040072566",
+    "created_at": "2025-08-25T11:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T12:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959944540380692663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1851233051302645760",
+          "start": 0,
+          "username": "EvanescenceWhy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959944540380692663",
+    "in_reply_to_user_id": "1851233051302645760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959941656700203251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EvanescenceWhy 好耶(*¯︶¯*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1959843078040072566",
+        "created_at": "2025-08-25T11:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T12:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959944540380692663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1851233051302645760",
+              "start": 0,
+              "username": "EvanescenceWhy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959944540380692663",
+        "in_reply_to_user_id": "1851233051302645760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959941656700203251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EvanescenceWhy 好耶(*¯︶¯*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851233051302645760",
+        "conversation_id": "1959843078040072566",
+        "created_at": "2025-08-25T11:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T12:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959941656700203251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959941656700203251",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959843078040072566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A …好像已经互fo了…！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 430,
+          "like_count": 1314,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 4518
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T12:02:21.000Z",
+        "description": "不是生理男。在美丽新世界，我凝望着下沉的巨大的夕阳，等待着终焉与新生。是无性别的无性恋 干死这个霸凌我的世界",
+        "id": "1851233051302645760",
+        "location": "新世界",
+        "name": "新世界不来方（重生版",
+        "pinned_tweet_id": "1958927085910769771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897278576426381312/LxYepSje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 278,
+          "like_count": 11292,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 2075
+        },
+        "username": "EvanescenceWhy",
+        "verified": false
+      }
+    ]
+  }
+}

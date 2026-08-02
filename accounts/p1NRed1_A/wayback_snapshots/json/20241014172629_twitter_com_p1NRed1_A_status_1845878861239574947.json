@@ -1,0 +1,80 @@
+{
+  "data": {
+    "author_id": "1729436345913995265",
+    "conversation_id": "1845878861239574947",
+    "created_at": "2024-10-14T17:26:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-14T18:26:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1845878861239574947"
+    ],
+    "id": "1845878861239574947",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 173,
+      "like_count": 5,
+      "quote_count": 0,
+      "reply_count": 6,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/5MnBI8gXbt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1729436345913995265",
+        "conversation_id": "1845878861239574947",
+        "created_at": "2024-10-14T17:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-14T18:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1845878861239574947"
+        ],
+        "id": "1845878861239574947",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5MnBI8gXbt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 294,
+          "like_count": 992,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 3106
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

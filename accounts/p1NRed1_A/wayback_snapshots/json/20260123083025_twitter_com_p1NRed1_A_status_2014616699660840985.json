@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014340757012795392"
+      ],
+      "media_source_tweet_id": [
+        "2014340765183312105"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "2014616699660840985",
+    "created_at": "2026-01-23T08:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T09:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014616699660840985"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 16,
+          "tag": "久米田康治"
+        },
+        {
+          "end": 32,
+          "start": 23,
+          "tag": "さよなら絶望先生"
+        },
+        {
+          "end": 39,
+          "start": 34,
+          "tag": "藤吉晴美"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1877566766823649284",
+          "start": 3,
+          "username": "No_a1202"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CmcG3owofE",
+          "end": 63,
+          "expanded_url": "https://x.com/No_a1202/status/2014340765183312105/photo/1",
+          "media_key": "3_2014340757012795392",
+          "start": 40,
+          "url": "https://t.co/CmcG3owofE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014616699660840985",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014340765183312105",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @No_a1202: 嗯\n#久米田康治\n#さよなら絶望先生 \n#藤吉晴美 https://t.co/CmcG3owofE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 578,
+        "media_key": "3_2014340757012795392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_RgPv5W0AAUUdP.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014340757012795392"
+          ],
+          "media_source_tweet_id": [
+            "2014340765183312105"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "2014616699660840985",
+        "created_at": "2026-01-23T08:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T09:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014616699660840985"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 16,
+              "tag": "久米田康治"
+            },
+            {
+              "end": 32,
+              "start": 23,
+              "tag": "さよなら絶望先生"
+            },
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "藤吉晴美"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877566766823649284",
+              "start": 3,
+              "username": "No_a1202"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CmcG3owofE",
+              "end": 63,
+              "expanded_url": "https://x.com/No_a1202/status/2014340765183312105/photo/1",
+              "media_key": "3_2014340757012795392",
+              "start": 40,
+              "url": "https://t.co/CmcG3owofE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014616699660840985",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014340765183312105",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @No_a1202: 嗯\n#久米田康治\n#さよなら絶望先生 \n#藤吉晴美 https://t.co/CmcG3owofE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014340757012795392"
+          ]
+        },
+        "author_id": "1877566766823649284",
+        "conversation_id": "2014340765183312105",
+        "created_at": "2026-01-22T14:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T15:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014340765183312105"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 2,
+              "tag": "久米田康治"
+            },
+            {
+              "end": 18,
+              "start": 9,
+              "tag": "さよなら絶望先生"
+            },
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "藤吉晴美"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CmcG3owofE",
+              "end": 49,
+              "expanded_url": "https://x.com/No_a1202/status/2014340765183312105/photo/1",
+              "media_key": "3_2014340757012795392",
+              "start": 26,
+              "url": "https://t.co/CmcG3owofE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014340765183312105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 7025,
+          "like_count": 514,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "嗯\n#久米田康治\n#さよなら絶望先生 \n#藤吉晴美 https://t.co/CmcG3owofE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "尴尬！",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009473729248858112/wt7l_L9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 511,
+          "like_count": 1614,
+          "listed_count": 2,
+          "media_count": 331,
+          "tweet_count": 5612
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T04:03:10.000Z",
+        "description": "喜欢久米田康治，喜欢他的画风，畫他的畫風讓我感覺十分舒服，如果我的画让人感到不适，我很抱歉，我是无能的人对不起对不起对不起对不起对不起https://t.co/cvdLrZ5tgq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/7400702538",
+                "end": 90,
+                "expanded_url": "https://weibo.com/u/7400702538",
+                "start": 67,
+                "url": "https://t.co/cvdLrZ5tgq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/112639292",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/112639292",
+                "start": 0,
+                "url": "https://t.co/lhj9bFqBX3"
+              }
+            ]
+          }
+        },
+        "id": "1877566766823649284",
+        "location": "異惑星（现居日本以西的神秘国家）",
+        "name": "望愛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966418254961750016/pv5h3V-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 100,
+          "like_count": 7179,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 285
+        },
+        "url": "https://t.co/lhj9bFqBX3",
+        "username": "No_a1202",
+        "verified": false
+      }
+    ]
+  }
+}

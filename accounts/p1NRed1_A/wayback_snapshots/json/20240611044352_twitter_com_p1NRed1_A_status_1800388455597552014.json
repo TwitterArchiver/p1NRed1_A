@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1798652855370568133",
+    "created_at": "2024-06-11T04:43:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-11T05:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800388455597552014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1699785793898958849",
+          "start": 0,
+          "username": "AbandonedPuppy_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800388455597552014",
+    "in_reply_to_user_id": "1699785793898958849",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800388341181170122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AbandonedPuppy_ 穿完就不疼了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1798652855370568133",
+        "created_at": "2024-06-11T04:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T05:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800388455597552014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1699785793898958849",
+              "start": 0,
+              "username": "AbandonedPuppy_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800388455597552014",
+        "in_reply_to_user_id": "1699785793898958849",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800388341181170122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AbandonedPuppy_ 穿完就不疼了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1699785793898958849",
+        "conversation_id": "1798652855370568133",
+        "created_at": "2024-06-11T04:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T05:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800388341181170122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800388341181170122",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798652855370568133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 看着都疼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800005249027203073/CQR3vaAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 171,
+          "like_count": 328,
+          "listed_count": 0,
+          "tweet_count": 1223
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-07T14:04:54.000Z",
+        "description": "不加联系方式不约线下 || 推止于推 || 唯一小号@AbandonedPuppy2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "AbandonedPuppy2"
+              }
+            ]
+          }
+        },
+        "id": "1699785793898958849",
+        "location": "床上",
+        "name": "你的小狗🐾",
+        "pinned_tweet_id": "1783162789907108080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760449360759070720/l4_NJFIg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2644,
+          "following_count": 359,
+          "like_count": 29049,
+          "listed_count": 7,
+          "tweet_count": 2788
+        },
+        "username": "AbandonedPuppy_",
+        "verified": false
+      }
+    ]
+  }
+}

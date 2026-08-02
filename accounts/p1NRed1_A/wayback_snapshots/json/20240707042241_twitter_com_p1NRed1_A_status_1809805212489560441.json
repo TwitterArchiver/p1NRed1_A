@@ -1,0 +1,222 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1809623180501479428"
+      ],
+      "media_source_tweet_id": [
+        "1809623184783863945"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1809805212489560441",
+    "created_at": "2024-07-07T04:22:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-07T05:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809805212489560441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1759812244932902912",
+          "start": 3,
+          "username": "kawaoka_nano_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/CcXItPFaz7",
+          "end": 42,
+          "expanded_url": "https://twitter.com/kawaoka_nano_/status/1809623184783863945/photo/1",
+          "media_key": "3_1809623180501479428",
+          "start": 19,
+          "url": "https://t.co/CcXItPFaz7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809805212489560441",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809623184783863945",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kawaoka_nano_: https://t.co/CcXItPFaz7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1809623180501479428",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GR0SseMacAQQtec.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1809623180501479428"
+          ],
+          "media_source_tweet_id": [
+            "1809623184783863945"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1809805212489560441",
+        "created_at": "2024-07-07T04:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-07T05:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809805212489560441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1759812244932902912",
+              "start": 3,
+              "username": "kawaoka_nano_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/CcXItPFaz7",
+              "end": 42,
+              "expanded_url": "https://twitter.com/kawaoka_nano_/status/1809623184783863945/photo/1",
+              "media_key": "3_1809623180501479428",
+              "start": 19,
+              "url": "https://t.co/CcXItPFaz7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809805212489560441",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809623184783863945",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kawaoka_nano_: https://t.co/CcXItPFaz7"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1809623180501479428"
+          ]
+        },
+        "author_id": "1759812244932902912",
+        "conversation_id": "1809623184783863945",
+        "created_at": "2024-07-06T16:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T17:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809623184783863945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/CcXItPFaz7",
+              "end": 23,
+              "expanded_url": "https://twitter.com/kawaoka_nano_/status/1809623184783863945/photo/1",
+              "media_key": "3_1809623180501479428",
+              "start": 0,
+              "url": "https://t.co/CcXItPFaz7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809623184783863945",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 977,
+          "like_count": 94,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CcXItPFaz7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563382332014593/-06gBRx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 212,
+          "like_count": 472,
+          "listed_count": 0,
+          "tweet_count": 1932
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T05:28:46.000Z",
+        "description": "かわおでいいよ！",
+        "id": "1759812244932902912",
+        "location": "ハウス",
+        "name": "どうすりゃええねん",
+        "pinned_tweet_id": "1775214124710101203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774813985789145088/FTtIVM6O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 57,
+          "like_count": 4013,
+          "listed_count": 0,
+          "tweet_count": 1032
+        },
+        "username": "kawaoka_nano_",
+        "verified": false
+      }
+    ]
+  }
+}

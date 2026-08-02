@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892472325615841280"
+      ],
+      "media_source_tweet_id": [
+        "1892479644491714569"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1892880569757028552",
+    "created_at": "2025-02-21T10:14:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T11:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892880569757028552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1874495093492842502",
+          "start": 3,
+          "username": "Kasugasaka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hJAIGnm9hl",
+          "end": 64,
+          "expanded_url": "https://x.com/Kasugasaka/status/1892479644491714569/photo/1",
+          "media_key": "3_1892472325615841280",
+          "start": 41,
+          "url": "https://t.co/hJAIGnm9hl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892880569757028552",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 446
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892479644491714569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kasugasaka: first day at my new job! https://t.co/hJAIGnm9hl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_1892472325615841280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkNpjauW8AAHLuF.jpg",
+        "width": 1095
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892472325615841280"
+          ],
+          "media_source_tweet_id": [
+            "1892479644491714569"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1892880569757028552",
+        "created_at": "2025-02-21T10:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T11:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892880569757028552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1874495093492842502",
+              "start": 3,
+              "username": "Kasugasaka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hJAIGnm9hl",
+              "end": 64,
+              "expanded_url": "https://x.com/Kasugasaka/status/1892479644491714569/photo/1",
+              "media_key": "3_1892472325615841280",
+              "start": 41,
+              "url": "https://t.co/hJAIGnm9hl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892880569757028552",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 446
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892479644491714569",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kasugasaka: first day at my new job! https://t.co/hJAIGnm9hl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892472325615841280"
+          ]
+        },
+        "author_id": "1874495093492842502",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1892479644491714569",
+        "created_at": "2025-02-20T07:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T08:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892479644491714569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hJAIGnm9hl",
+              "end": 48,
+              "expanded_url": "https://x.com/Kasugasaka/status/1892479644491714569/photo/1",
+              "media_key": "3_1892472325615841280",
+              "start": 25,
+              "url": "https://t.co/hJAIGnm9hl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892479644491714569",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 419,
+          "impression_count": 36014,
+          "like_count": 4513,
+          "quote_count": 7,
+          "reply_count": 14,
+          "retweet_count": 446
+        },
+        "reply_settings": "everyone",
+        "text": "first day at my new job! https://t.co/hJAIGnm9hl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889564810410627072/YnTsykE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 306,
+          "like_count": 1074,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 3297
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T16:37:22.000Z",
+        "description": "thinkin bout metal slugs...NSFW dni\n\nnot affiliated with Kiyohiko Azuma! ran by @OmegaPSIRockin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "OmegaPSIRockin"
+              }
+            ]
+          }
+        },
+        "id": "1874495093492842502",
+        "location": "Somewhere in Japan",
+        "name": "Ayumu Kasuga (Osaka) あ ",
+        "pinned_tweet_id": "1874531350168088738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874509784482738176/L4CmLoOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 80,
+          "like_count": 1987,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 729
+        },
+        "username": "Kasugasaka",
+        "verified": false
+      }
+    ]
+  }
+}

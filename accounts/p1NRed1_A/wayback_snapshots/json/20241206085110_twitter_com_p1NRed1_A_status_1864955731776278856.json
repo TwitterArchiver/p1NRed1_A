@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1864668622402232320"
+      ],
+      "media_source_tweet_id": [
+        "1864668641276645643"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1864955731776278856",
+    "created_at": "2024-12-06T08:51:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-06T09:51:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864955731776278856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1586719768396324864",
+          "start": 3,
+          "username": "chaoyandemeng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UsgXoRYoL5",
+          "end": 44,
+          "expanded_url": "https://x.com/chaoyandemeng/status/1864668641276645643/photo/1",
+          "media_key": "3_1864668622402232320",
+          "start": 21,
+          "url": "https://t.co/UsgXoRYoL5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864955731776278856",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864668641276645643",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chaoyandemeng: 🔫 https://t.co/UsgXoRYoL5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 914,
+        "media_key": "3_1864668622402232320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeCiO44aIAAOq2T.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864668622402232320"
+          ],
+          "media_source_tweet_id": [
+            "1864668641276645643"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1864955731776278856",
+        "created_at": "2024-12-06T08:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T09:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864955731776278856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1586719768396324864",
+              "start": 3,
+              "username": "chaoyandemeng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UsgXoRYoL5",
+              "end": 44,
+              "expanded_url": "https://x.com/chaoyandemeng/status/1864668641276645643/photo/1",
+              "media_key": "3_1864668622402232320",
+              "start": 21,
+              "url": "https://t.co/UsgXoRYoL5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864955731776278856",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864668641276645643",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chaoyandemeng: 🔫 https://t.co/UsgXoRYoL5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864668622402232320"
+          ]
+        },
+        "author_id": "1586719768396324864",
+        "conversation_id": "1864668641276645643",
+        "created_at": "2024-12-05T13:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T14:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864668641276645643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UsgXoRYoL5",
+              "end": 25,
+              "expanded_url": "https://x.com/chaoyandemeng/status/1864668641276645643/photo/1",
+              "media_key": "3_1864668622402232320",
+              "start": 2,
+              "url": "https://t.co/UsgXoRYoL5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864668641276645643",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 2967,
+          "like_count": 182,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "🔫 https://t.co/UsgXoRYoL5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 296,
+          "like_count": 1013,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 3132
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-30T14:00:56.000Z",
+        "description": "TAU 版1",
+        "id": "1586719768396324864",
+        "location": "Tokyo-to, Japan",
+        "name": "超驗的夢",
+        "pinned_tweet_id": "1856680017347903649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686208056974274560/gszyMuxR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2605,
+          "following_count": 386,
+          "like_count": 570,
+          "listed_count": 21,
+          "media_count": 158,
+          "tweet_count": 184
+        },
+        "username": "chaoyandemeng",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888056708930617345"
+      ],
+      "media_source_tweet_id": [
+        "1888056713062048150"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1888175091709567220",
+    "created_at": "2025-02-08T10:36:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T11:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888175091709567220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1847234384723910656",
+          "start": 3,
+          "username": "setoka874"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yOzE0Kf69m",
+          "end": 38,
+          "expanded_url": "https://x.com/setoka874/status/1888056713062048150/photo/1",
+          "media_key": "3_1888056708930617345",
+          "start": 15,
+          "url": "https://t.co/yOzE0Kf69m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888175091709567220",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888056713062048150",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @setoka874: https://t.co/yOzE0Kf69m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_1888056708930617345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjO5ksuaQAETa4R.jpg",
+        "width": 2250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888056708930617345"
+          ],
+          "media_source_tweet_id": [
+            "1888056713062048150"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1888175091709567220",
+        "created_at": "2025-02-08T10:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T11:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888175091709567220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1847234384723910656",
+              "start": 3,
+              "username": "setoka874"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yOzE0Kf69m",
+              "end": 38,
+              "expanded_url": "https://x.com/setoka874/status/1888056713062048150/photo/1",
+              "media_key": "3_1888056708930617345",
+              "start": 15,
+              "url": "https://t.co/yOzE0Kf69m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888175091709567220",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888056713062048150",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @setoka874: https://t.co/yOzE0Kf69m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888056708930617345"
+          ]
+        },
+        "author_id": "1847234384723910656",
+        "conversation_id": "1888056713062048150",
+        "created_at": "2025-02-08T02:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T03:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888056713062048150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yOzE0Kf69m",
+              "end": 23,
+              "expanded_url": "https://x.com/setoka874/status/1888056713062048150/photo/1",
+              "media_key": "3_1888056708930617345",
+              "start": 0,
+              "url": "https://t.co/yOzE0Kf69m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888056713062048150",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 1760,
+          "like_count": 233,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yOzE0Kf69m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873724650511110144/1z-X8l1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 299,
+          "like_count": 1043,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 3216
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T11:13:06.000Z",
+        "description": "さよなら絶望先生とか色々\nヘタだけど絵かく",
+        "id": "1847234384723910656",
+        "name": "ひり",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881201494348922880/zNLRe2oF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 28,
+          "like_count": 1333,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 118
+        },
+        "username": "setoka874",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980243154465853440",
+        "3_1980243180252442624"
+      ],
+      "media_source_tweet_id": [
+        "1980243184078008781",
+        "1980243184078008781"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1980245749519810690",
+    "created_at": "2025-10-20T12:12:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T13:12:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980245749519810690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1377062730377519106",
+          "start": 3,
+          "username": "maru___marusu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/runp5SxFSu",
+          "end": 49,
+          "expanded_url": "https://x.com/maru___marusu/status/1980243184078008781/photo/1",
+          "media_key": "3_1980243154465853440",
+          "start": 26,
+          "url": "https://t.co/runp5SxFSu"
+        },
+        {
+          "display_url": "pic.x.com/runp5SxFSu",
+          "end": 49,
+          "expanded_url": "https://x.com/maru___marusu/status/1980243184078008781/photo/1",
+          "media_key": "3_1980243180252442624",
+          "start": 26,
+          "url": "https://t.co/runp5SxFSu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980245749519810690",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980243184078008781",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maru___marusu: らくがきした https://t.co/runp5SxFSu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980243154465853440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3s8qD7WEAANBJv.jpg",
+        "width": 2007
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1980243180252442624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3s8rj_WMAA1SXP.jpg",
+        "width": 1715
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980243154465853440",
+            "3_1980243180252442624"
+          ],
+          "media_source_tweet_id": [
+            "1980243184078008781",
+            "1980243184078008781"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1980245749519810690",
+        "created_at": "2025-10-20T12:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T13:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980245749519810690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1377062730377519106",
+              "start": 3,
+              "username": "maru___marusu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/runp5SxFSu",
+              "end": 49,
+              "expanded_url": "https://x.com/maru___marusu/status/1980243184078008781/photo/1",
+              "media_key": "3_1980243154465853440",
+              "start": 26,
+              "url": "https://t.co/runp5SxFSu"
+            },
+            {
+              "display_url": "pic.x.com/runp5SxFSu",
+              "end": 49,
+              "expanded_url": "https://x.com/maru___marusu/status/1980243184078008781/photo/1",
+              "media_key": "3_1980243180252442624",
+              "start": 26,
+              "url": "https://t.co/runp5SxFSu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980245749519810690",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980243184078008781",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maru___marusu: らくがきした https://t.co/runp5SxFSu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980243154465853440",
+            "3_1980243180252442624"
+          ]
+        },
+        "author_id": "1377062730377519106",
+        "conversation_id": "1980243184078008781",
+        "created_at": "2025-10-20T12:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T13:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980243184078008781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/runp5SxFSu",
+              "end": 30,
+              "expanded_url": "https://x.com/maru___marusu/status/1980243184078008781/photo/1",
+              "media_key": "3_1980243154465853440",
+              "start": 7,
+              "url": "https://t.co/runp5SxFSu"
+            },
+            {
+              "display_url": "pic.x.com/runp5SxFSu",
+              "end": 30,
+              "expanded_url": "https://x.com/maru___marusu/status/1980243184078008781/photo/1",
+              "media_key": "3_1980243180252442624",
+              "start": 7,
+              "url": "https://t.co/runp5SxFSu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980243184078008781",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "らくがきした https://t.co/runp5SxFSu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1979857186701693084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 487,
+          "like_count": 1515,
+          "listed_count": 2,
+          "media_count": 300,
+          "tweet_count": 5139
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-31T00:58:41.000Z",
+        "description": "生徒C  マルスって呼んでください",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kawaiisuzu.booth.pm",
+                "end": 23,
+                "expanded_url": "https://kawaiisuzu.booth.pm/",
+                "start": 0,
+                "url": "https://t.co/GKVRggBPgn"
+              }
+            ]
+          }
+        },
+        "id": "1377062730377519106",
+        "location": "絵や写真の無断使用  加工  自作発言 転売 お控えください",
+        "name": "㋜",
+        "pinned_tweet_id": "1878696846979399996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877707228066746368/NnbGeK2X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18814,
+          "following_count": 1186,
+          "like_count": 49585,
+          "listed_count": 133,
+          "media_count": 2890,
+          "tweet_count": 11114
+        },
+        "url": "https://t.co/GKVRggBPgn",
+        "username": "maru___marusu",
+        "verified": false
+      }
+    ]
+  }
+}

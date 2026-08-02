@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076091868115349504"
+      ],
+      "media_source_tweet_id": [
+        "2076091875375694280"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1311766165065142273",
+          "name": "Higurashi When They Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311766165065142273",
+          "name": "Higurashi When They Cry"
+        }
+      }
+    ],
+    "conversation_id": "2076246892883894286",
+    "created_at": "2026-07-12T10:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T11:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076246892883894286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1894754667974049793",
+          "start": 3,
+          "username": "DomocidexBunny_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aDypElHwve",
+          "end": 77,
+          "expanded_url": "https://x.com/DomocidexBunny_/status/2076091875375694280/photo/1",
+          "media_key": "3_2076091868115349504",
+          "start": 54,
+          "url": "https://t.co/aDypElHwve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076246892883894286",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 246
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076091875375694280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DomocidexBunny_: Higurashi if it was fucking good https://t.co/aDypElHwve"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 552,
+        "media_key": "3_2076091868115349504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM_CjfAXsAATDzj.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076091868115349504"
+          ],
+          "media_source_tweet_id": [
+            "2076091875375694280"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          }
+        ],
+        "conversation_id": "2076246892883894286",
+        "created_at": "2026-07-12T10:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076246892883894286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1894754667974049793",
+              "start": 3,
+              "username": "DomocidexBunny_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aDypElHwve",
+              "end": 77,
+              "expanded_url": "https://x.com/DomocidexBunny_/status/2076091875375694280/photo/1",
+              "media_key": "3_2076091868115349504",
+              "start": 54,
+              "url": "https://t.co/aDypElHwve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076246892883894286",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 246
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076091875375694280",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DomocidexBunny_: Higurashi if it was fucking good https://t.co/aDypElHwve"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076091868115349504"
+          ]
+        },
+        "author_id": "1894754667974049793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          }
+        ],
+        "conversation_id": "2076091875375694280",
+        "created_at": "2026-07-11T23:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T00:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076091875375694280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aDypElHwve",
+              "end": 56,
+              "expanded_url": "https://x.com/DomocidexBunny_/status/2076091875375694280/photo/1",
+              "media_key": "3_2076091868115349504",
+              "start": 33,
+              "url": "https://t.co/aDypElHwve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076091875375694280",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 20597,
+          "like_count": 1406,
+          "quote_count": 19,
+          "reply_count": 12,
+          "retweet_count": 246
+        },
+        "reply_settings": "everyone",
+        "text": "Higurashi if it was fucking good https://t.co/aDypElHwve"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "无人在意星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 10,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/W46MozUxms"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "无人在意星",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 566,
+          "like_count": 1781,
+          "listed_count": 3,
+          "media_count": 415,
+          "tweet_count": 6914
+        },
+        "url": "https://t.co/W46MozUxms",
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T14:21:39.000Z",
+        "description": "18 Years. Hi I'm Jenny. I am an artist and talented.\n(CR: NONE)\nI love vns and eroge priv: @lesbiancumslut7 #vntwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 114,
+                "start": 108,
+                "tag": "vntwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 107,
+                "start": 91,
+                "username": "lesbiancumslut7"
+              }
+            ]
+          }
+        },
+        "id": "1894754667974049793",
+        "location": "wlw",
+        "name": "DomocidexBunny",
+        "pinned_tweet_id": "2061105295468708005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073087042561421312/ceteYY1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 609,
+          "like_count": 12255,
+          "listed_count": 4,
+          "media_count": 453,
+          "tweet_count": 2422
+        },
+        "url": "",
+        "username": "DomocidexBunny_",
+        "verified": false
+      }
+    ]
+  }
+}

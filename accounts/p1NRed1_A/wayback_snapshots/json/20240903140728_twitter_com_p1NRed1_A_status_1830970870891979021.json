@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1830970870891979021",
+    "created_at": "2024-09-03T14:07:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-03T15:07:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830970870891979021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1464789610307932168",
+          "start": 3,
+          "username": "okinomiyuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830970870891979021",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830951182501847342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @okinomiyuki: 以后我要冷漠无情一点卧槽尼玛了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1830970870891979021",
+        "created_at": "2024-09-03T14:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T15:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830970870891979021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1464789610307932168",
+              "start": 3,
+              "username": "okinomiyuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830970870891979021",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830951182501847342",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @okinomiyuki: 以后我要冷漠无情一点卧槽尼玛了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464789610307932168",
+        "conversation_id": "1830951182501847342",
+        "created_at": "2024-09-03T12:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T13:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830951182501847342"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1830951182501847342",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "以后我要冷漠无情一点卧槽尼玛了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 268,
+          "like_count": 839,
+          "listed_count": 0,
+          "tweet_count": 2691
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-28T02:54:03.000Z",
+        "description": "shed tears hundred percent",
+        "id": "1464789610307932168",
+        "location": "in your ass",
+        "name": "みゆき",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683544393356288000/T-ERy6Rm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 237,
+          "like_count": 3304,
+          "listed_count": 0,
+          "tweet_count": 920
+        },
+        "username": "okinomiyuki",
+        "verified": false
+      }
+    ]
+  }
+}

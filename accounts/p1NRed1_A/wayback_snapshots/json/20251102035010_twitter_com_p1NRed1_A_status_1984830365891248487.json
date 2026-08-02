@@ -1,0 +1,487 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984243569797042178",
+        "3_1984243570031931392",
+        "3_1984243570401030144"
+      ],
+      "media_source_tweet_id": [
+        "1984243573810991144",
+        "1984243573810991144",
+        "1984243573810991144"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1984830365891248487",
+    "created_at": "2025-11-02T03:50:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T04:50:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984830365891248487"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 15,
+          "tag": "今月描いた絵を晒そう"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1176480058292129793",
+          "start": 3,
+          "username": "5t5t5szbh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rrqq8N7vIf",
+          "end": 50,
+          "expanded_url": "https://x.com/5t5t5szbh/status/1984243573810991144/photo/1",
+          "media_key": "3_1984243569797042178",
+          "start": 27,
+          "url": "https://t.co/rrqq8N7vIf"
+        },
+        {
+          "display_url": "pic.x.com/rrqq8N7vIf",
+          "end": 50,
+          "expanded_url": "https://x.com/5t5t5szbh/status/1984243573810991144/photo/1",
+          "media_key": "3_1984243570031931392",
+          "start": 27,
+          "url": "https://t.co/rrqq8N7vIf"
+        },
+        {
+          "display_url": "pic.x.com/rrqq8N7vIf",
+          "end": 50,
+          "expanded_url": "https://x.com/5t5t5szbh/status/1984243573810991144/photo/1",
+          "media_key": "3_1984243570401030144",
+          "start": 27,
+          "url": "https://t.co/rrqq8N7vIf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984830365891248487",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984243573810991144",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @5t5t5szbh: #今月描いた絵を晒そう https://t.co/rrqq8N7vIf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2045,
+        "media_key": "3_1984243569797042178",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4lzA4WbEAIHvby.jpg",
+        "width": 1681
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1984243570031931392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4lzA5ObMAACSVF.jpg",
+        "width": 1542
+      },
+      {
+        "height": 1829,
+        "media_key": "3_1984243570401030144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4lzA6mbMAAVCdT.jpg",
+        "width": 1980
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984243569797042178",
+            "3_1984243570031931392",
+            "3_1984243570401030144"
+          ],
+          "media_source_tweet_id": [
+            "1984243573810991144",
+            "1984243573810991144",
+            "1984243573810991144"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1984830365891248487",
+        "created_at": "2025-11-02T03:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T04:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984830365891248487"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 15,
+              "tag": "今月描いた絵を晒そう"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1176480058292129793",
+              "start": 3,
+              "username": "5t5t5szbh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rrqq8N7vIf",
+              "end": 50,
+              "expanded_url": "https://x.com/5t5t5szbh/status/1984243573810991144/photo/1",
+              "media_key": "3_1984243569797042178",
+              "start": 27,
+              "url": "https://t.co/rrqq8N7vIf"
+            },
+            {
+              "display_url": "pic.x.com/rrqq8N7vIf",
+              "end": 50,
+              "expanded_url": "https://x.com/5t5t5szbh/status/1984243573810991144/photo/1",
+              "media_key": "3_1984243570031931392",
+              "start": 27,
+              "url": "https://t.co/rrqq8N7vIf"
+            },
+            {
+              "display_url": "pic.x.com/rrqq8N7vIf",
+              "end": 50,
+              "expanded_url": "https://x.com/5t5t5szbh/status/1984243573810991144/photo/1",
+              "media_key": "3_1984243570401030144",
+              "start": 27,
+              "url": "https://t.co/rrqq8N7vIf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984830365891248487",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984243573810991144",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @5t5t5szbh: #今月描いた絵を晒そう https://t.co/rrqq8N7vIf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984243569797042178",
+            "3_1984243570031931392",
+            "3_1984243570401030144"
+          ]
+        },
+        "author_id": "1176480058292129793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1984243573810991144",
+        "created_at": "2025-10-31T12:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T13:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984243573810991144"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "今月描いた絵を晒そう"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rrqq8N7vIf",
+              "end": 35,
+              "expanded_url": "https://x.com/5t5t5szbh/status/1984243573810991144/photo/1",
+              "media_key": "3_1984243569797042178",
+              "start": 12,
+              "url": "https://t.co/rrqq8N7vIf"
+            },
+            {
+              "display_url": "pic.x.com/rrqq8N7vIf",
+              "end": 35,
+              "expanded_url": "https://x.com/5t5t5szbh/status/1984243573810991144/photo/1",
+              "media_key": "3_1984243570031931392",
+              "start": 12,
+              "url": "https://t.co/rrqq8N7vIf"
+            },
+            {
+              "display_url": "pic.x.com/rrqq8N7vIf",
+              "end": 35,
+              "expanded_url": "https://x.com/5t5t5szbh/status/1984243573810991144/photo/1",
+              "media_key": "3_1984243570401030144",
+              "start": 12,
+              "url": "https://t.co/rrqq8N7vIf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984243573810991144",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1116,
+          "like_count": 105,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "#今月描いた絵を晒そう https://t.co/rrqq8N7vIf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 496,
+          "like_count": 1537,
+          "listed_count": 2,
+          "media_count": 305,
+          "tweet_count": 5244
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-24T12:55:06.000Z",
+        "description": "まどマギ垢→ @5t5t5szbh2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "5t5t5szbh2"
+              }
+            ]
+          }
+        },
+        "id": "1176480058292129793",
+        "name": "タカ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981560089795260416/gPR9GFwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 365,
+          "like_count": 7471,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 4921
+        },
+        "username": "5t5t5szbh",
+        "verified": false
+      }
+    ]
+  }
+}

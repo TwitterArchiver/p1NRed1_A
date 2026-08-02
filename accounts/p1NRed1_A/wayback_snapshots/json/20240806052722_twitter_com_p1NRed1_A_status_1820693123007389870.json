@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1820526169332269192",
+    "created_at": "2024-08-06T05:27:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-06T06:27:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820693123007389870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1464789610307932168",
+          "start": 0,
+          "username": "okinomiyuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820693123007389870",
+    "in_reply_to_user_id": "1464789610307932168",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820526169332269192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@okinomiyuki 我舔好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1820526169332269192",
+        "created_at": "2024-08-06T05:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T06:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820693123007389870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1464789610307932168",
+              "start": 0,
+              "username": "okinomiyuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820693123007389870",
+        "in_reply_to_user_id": "1464789610307932168",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820526169332269192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@okinomiyuki 我舔好吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820526160453021696"
+          ]
+        },
+        "author_id": "1464789610307932168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1820526169332269192",
+        "created_at": "2024-08-05T18:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T19:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820526169332269192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/zjEAF3SrG9",
+              "end": 23,
+              "expanded_url": "https://twitter.com/okinomiyuki/status/1820526169332269192/photo/1",
+              "media_key": "3_1820526160453021696",
+              "start": 0,
+              "url": "https://t.co/zjEAF3SrG9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820526169332269192",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zjEAF3SrG9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563382332014593/-06gBRx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 237,
+          "like_count": 574,
+          "listed_count": 0,
+          "tweet_count": 2212
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-28T02:54:03.000Z",
+        "description": "shed tears hundred percent",
+        "id": "1464789610307932168",
+        "location": "in your ass",
+        "name": "みゆき",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683544393356288000/T-ERy6Rm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 216,
+          "like_count": 2942,
+          "listed_count": 0,
+          "tweet_count": 823
+        },
+        "username": "okinomiyuki",
+        "verified": false
+      }
+    ]
+  }
+}

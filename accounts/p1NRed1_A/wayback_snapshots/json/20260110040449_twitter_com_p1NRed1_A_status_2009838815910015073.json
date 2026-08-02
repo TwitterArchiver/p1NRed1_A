@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2009593965738397896",
+    "created_at": "2026-01-10T04:04:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T05:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009838815910015073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1962465706756448256",
+          "start": 0,
+          "username": "memom1229345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009838815910015073",
+    "in_reply_to_user_id": "1962465706756448256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009593965738397896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@memom1229345 卧槽你他妈疯了胡辣汤乌冬"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2009593919936544768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-ODBdyaQAAr7yP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2009593965738397896",
+        "created_at": "2026-01-10T04:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T05:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009838815910015073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1962465706756448256",
+              "start": 0,
+              "username": "memom1229345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009838815910015073",
+        "in_reply_to_user_id": "1962465706756448256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009593965738397896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@memom1229345 卧槽你他妈疯了胡辣汤乌冬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009593919936544768"
+          ]
+        },
+        "author_id": "1962465706756448256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2009593965738397896",
+        "created_at": "2026-01-09T11:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T12:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009593965738397896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r7M0f5HCcf",
+              "end": 41,
+              "expanded_url": "https://x.com/memom1229345/status/2009593965738397896/photo/1",
+              "media_key": "3_2009593919936544768",
+              "start": 18,
+              "url": "https://t.co/r7M0f5HCcf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009593965738397896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还别说这个牛肉胡辣汤乌冬面味道不错 https://t.co/r7M0f5HCcf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "我擅长产出大粪",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009473729248858112/wt7l_L9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 506,
+          "like_count": 1611,
+          "listed_count": 2,
+          "media_count": 332,
+          "tweet_count": 5571
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T10:41:26.000Z",
+        "description": "很神秘很神秘",
+        "id": "1962465706756448256",
+        "name": "mome",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962468282180714496/oZ5GIMAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 175,
+          "like_count": 924,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 151
+        },
+        "username": "memom1229345",
+        "verified": false
+      }
+    ]
+  }
+}

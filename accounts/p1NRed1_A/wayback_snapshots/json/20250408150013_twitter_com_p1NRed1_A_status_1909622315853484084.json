@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1909286602515660801"
+      ],
+      "media_source_tweet_id": [
+        "1909287100614385812"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1909622315853484084",
+    "created_at": "2025-04-08T15:00:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T16:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909622315853484084"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 22,
+          "tag": "さよなら絶望先生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1465926855651962887",
+          "start": 3,
+          "username": "asadacel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9alyfhTHpl",
+          "end": 55,
+          "expanded_url": "https://x.com/asadacel/status/1909287100614385812/photo/1",
+          "media_key": "3_1909286602515660801",
+          "start": 32,
+          "url": "https://t.co/9alyfhTHpl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909622315853484084",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909287100614385812",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @asadacel: round 2 #さよなら絶望先生 https://t.co/9alyfhTHpl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 448,
+        "media_key": "3_1909286602515660801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn8mDJVbwAEl8oX.png",
+        "width": 443
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909286602515660801"
+          ],
+          "media_source_tweet_id": [
+            "1909287100614385812"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1909622315853484084",
+        "created_at": "2025-04-08T15:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T16:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909622315853484084"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 22,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1465926855651962887",
+              "start": 3,
+              "username": "asadacel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9alyfhTHpl",
+              "end": 55,
+              "expanded_url": "https://x.com/asadacel/status/1909287100614385812/photo/1",
+              "media_key": "3_1909286602515660801",
+              "start": 32,
+              "url": "https://t.co/9alyfhTHpl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909622315853484084",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909287100614385812",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @asadacel: round 2 #さよなら絶望先生 https://t.co/9alyfhTHpl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909286602515660801"
+          ]
+        },
+        "author_id": "1465926855651962887",
+        "conversation_id": "1909287100614385812",
+        "created_at": "2025-04-07T16:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T17:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909287100614385812"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 8,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9alyfhTHpl",
+              "end": 41,
+              "expanded_url": "https://x.com/asadacel/status/1909287100614385812/photo/1",
+              "media_key": "3_1909286602515660801",
+              "start": 18,
+              "url": "https://t.co/9alyfhTHpl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909287100614385812",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 681,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "round 2 #さよなら絶望先生 https://t.co/9alyfhTHpl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908472142045601793/4rErpv2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 343,
+          "like_count": 1126,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 3445
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-01T06:16:56.000Z",
+        "description": "I HAVE A VISION",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "meatjungle.neocities.org",
+                "end": 23,
+                "expanded_url": "http://meatjungle.neocities.org",
+                "start": 0,
+                "url": "https://t.co/GDYzKea3Pw"
+              }
+            ]
+          }
+        },
+        "id": "1465926855651962887",
+        "location": "he, en/es 🆗 ",
+        "name": "jeff 🥩",
+        "pinned_tweet_id": "1891600167981248712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899914413424902144/QbJeritV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 320,
+          "like_count": 58463,
+          "listed_count": 1,
+          "media_count": 402,
+          "tweet_count": 2900
+        },
+        "url": "https://t.co/GDYzKea3Pw",
+        "username": "asadacel",
+        "verified": false
+      }
+    ]
+  }
+}

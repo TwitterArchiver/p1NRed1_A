@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1989284397351374848"
+      ],
+      "media_source_tweet_id": [
+        "1989284406444568729"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1989956809717944640",
+    "created_at": "2025-11-16T07:20:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T08:20:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989956809717944640"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 14,
+          "tag": "maimai_art"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1976970625538572289",
+          "start": 3,
+          "username": "ccitrus0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ahpt2KsHwI",
+          "end": 49,
+          "expanded_url": "https://x.com/ccitrus0/status/1989284406444568729/photo/1",
+          "media_key": "16_1989284397351374848",
+          "start": 26,
+          "url": "https://t.co/ahpt2KsHwI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989956809717944640",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 405
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989284406444568729",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ccitrus0: #maimai_art https://t.co/ahpt2KsHwI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "16_1989284397351374848",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G5tbnqVbEAAGBEW.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G5tbnqVbEAAGBEW.mp4"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1989284397351374848"
+          ],
+          "media_source_tweet_id": [
+            "1989284406444568729"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1989956809717944640",
+        "created_at": "2025-11-16T07:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T08:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989956809717944640"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 14,
+              "tag": "maimai_art"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1976970625538572289",
+              "start": 3,
+              "username": "ccitrus0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ahpt2KsHwI",
+              "end": 49,
+              "expanded_url": "https://x.com/ccitrus0/status/1989284406444568729/photo/1",
+              "media_key": "16_1989284397351374848",
+              "start": 26,
+              "url": "https://t.co/ahpt2KsHwI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989956809717944640",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 405
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989284406444568729",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ccitrus0: #maimai_art https://t.co/ahpt2KsHwI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1989284397351374848"
+          ]
+        },
+        "author_id": "1976970625538572289",
+        "conversation_id": "1989284406444568729",
+        "created_at": "2025-11-14T10:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T11:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989284406444568729"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "maimai_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ahpt2KsHwI",
+              "end": 35,
+              "expanded_url": "https://x.com/ccitrus0/status/1989284406444568729/photo/1",
+              "media_key": "16_1989284397351374848",
+              "start": 12,
+              "url": "https://t.co/ahpt2KsHwI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989284406444568729",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 335,
+          "impression_count": 97241,
+          "like_count": 2494,
+          "quote_count": 54,
+          "reply_count": 57,
+          "retweet_count": 405
+        },
+        "reply_settings": "everyone",
+        "text": "#maimai_art https://t.co/ahpt2KsHwI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 499,
+          "like_count": 1553,
+          "listed_count": 2,
+          "media_count": 310,
+          "tweet_count": 5285
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T11:19:22.000Z",
+        "description": "(シトラス/citrus/시트러스) | ※Free to save or share, but no commercial use | 🚫Ai training",
+        "id": "1976970625538572289",
+        "name": "citrus",
+        "pinned_tweet_id": "1989284406444568729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977048682358095875/i0LQPzUf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 120,
+          "like_count": 4949,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 634
+        },
+        "username": "ccitrus0",
+        "verified": false
+      }
+    ]
+  }
+}

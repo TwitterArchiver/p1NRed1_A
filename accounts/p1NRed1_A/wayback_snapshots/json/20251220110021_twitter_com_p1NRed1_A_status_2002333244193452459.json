@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002167470941954048"
+      ],
+      "media_source_tweet_id": [
+        "2002167475434078340"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "2002333244193452459",
+    "created_at": "2025-12-20T11:00:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T12:00:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002333244193452459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1224803301067067392",
+          "start": 3,
+          "username": "ALR10_10"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XqZUzT7ECM",
+          "end": 53,
+          "expanded_url": "https://x.com/ALR10_10/status/2002167475434078340/photo/1",
+          "media_key": "3_2002167470941954048",
+          "start": 30,
+          "url": "https://t.co/XqZUzT7ECM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002333244193452459",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002167475434078340",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ALR10_10: “I’ve noticed.” https://t.co/XqZUzT7ECM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2002167470941954048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8kgtPZWYAAJ4np.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002167470941954048"
+          ],
+          "media_source_tweet_id": [
+            "2002167475434078340"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "2002333244193452459",
+        "created_at": "2025-12-20T11:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T12:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002333244193452459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1224803301067067392",
+              "start": 3,
+              "username": "ALR10_10"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XqZUzT7ECM",
+              "end": 53,
+              "expanded_url": "https://x.com/ALR10_10/status/2002167475434078340/photo/1",
+              "media_key": "3_2002167470941954048",
+              "start": 30,
+              "url": "https://t.co/XqZUzT7ECM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002333244193452459",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002167475434078340",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ALR10_10: “I’ve noticed.” https://t.co/XqZUzT7ECM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002167470941954048"
+          ]
+        },
+        "author_id": "1224803301067067392",
+        "conversation_id": "2002167475434078340",
+        "created_at": "2025-12-20T00:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T01:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002167475434078340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XqZUzT7ECM",
+              "end": 39,
+              "expanded_url": "https://x.com/ALR10_10/status/2002167475434078340/photo/1",
+              "media_key": "3_2002167470941954048",
+              "start": 16,
+              "url": "https://t.co/XqZUzT7ECM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002167475434078340",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 2136,
+          "like_count": 228,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "“I’ve noticed.” https://t.co/XqZUzT7ECM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "我擅长产出大粪",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 494,
+          "like_count": 1591,
+          "listed_count": 2,
+          "media_count": 320,
+          "tweet_count": 5432
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-04T21:14:06.000Z",
+        "description": "hoshiumi kourai the man you are",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "alr1010.straw.page",
+                "end": 23,
+                "expanded_url": "https://alr1010.straw.page",
+                "start": 0,
+                "url": "https://t.co/Eh72mp2uwK"
+              }
+            ]
+          }
+        },
+        "id": "1224803301067067392",
+        "name": "almalu - LOYAL TO HOSHIUMI",
+        "pinned_tweet_id": "1766694349998629362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869049548812722176/cTMh0vNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 545,
+          "like_count": 104075,
+          "listed_count": 0,
+          "media_count": 1807,
+          "tweet_count": 5248
+        },
+        "url": "https://t.co/Eh72mp2uwK",
+        "username": "ALR10_10",
+        "verified": false
+      }
+    ]
+  }
+}

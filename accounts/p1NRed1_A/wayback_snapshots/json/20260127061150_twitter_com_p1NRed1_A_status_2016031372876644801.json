@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1830908433949696001"
+      ],
+      "media_source_tweet_id": [
+        "2015872603718623328"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2016031372876644801",
+    "created_at": "2026-01-27T06:11:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T07:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016031372876644801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1594329207768846337",
+          "start": 3,
+          "username": "stonersvilla"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1mtEk8uDhW",
+          "end": 41,
+          "expanded_url": "https://x.com/stonersvilla/status/2015872603718623328/video/1",
+          "media_key": "7_1830908433949696001",
+          "start": 18,
+          "url": "https://t.co/1mtEk8uDhW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016031372876644801",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 260
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015872603718623328",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stonersvilla: https://t.co/1mtEk8uDhW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35904,
+        "height": 1280,
+        "media_key": "7_1830908433949696001",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1830908433949696001/pu/img/AWYeJNV5y4RzfZRQ.jpg",
+        "public_metrics": {
+          "view_count": 9198045
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1830908433949696001/pu/vid/avc1/320x568/10ph2aPihEHAfMeV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1830908433949696001/pu/vid/avc1/480x852/Av6TBnzp_rcjBkyd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1830908433949696001/pu/vid/avc1/720x1280/yota922soo8FZqyK.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1830908433949696001/pu/pl/a6CvG-q0CyqfdZcb.m3u8?tag=12&v=210"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1830908433949696001"
+          ],
+          "media_source_tweet_id": [
+            "2015872603718623328"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016031372876644801",
+        "created_at": "2026-01-27T06:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T07:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016031372876644801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1594329207768846337",
+              "start": 3,
+              "username": "stonersvilla"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1mtEk8uDhW",
+              "end": 41,
+              "expanded_url": "https://x.com/stonersvilla/status/2015872603718623328/video/1",
+              "media_key": "7_1830908433949696001",
+              "start": 18,
+              "url": "https://t.co/1mtEk8uDhW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016031372876644801",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 260
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015872603718623328",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stonersvilla: https://t.co/1mtEk8uDhW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1830908433949696001"
+          ]
+        },
+        "author_id": "1594329207768846337",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015872603718623328",
+        "created_at": "2026-01-26T19:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T20:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015872603718623328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1mtEk8uDhW",
+              "end": 23,
+              "expanded_url": "https://x.com/stonersvilla/status/2015872603718623328/video/1",
+              "media_key": "7_1830908433949696001",
+              "start": 0,
+              "url": "https://t.co/1mtEk8uDhW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015872603718623328",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 566,
+          "impression_count": 101698,
+          "like_count": 3372,
+          "quote_count": 16,
+          "reply_count": 18,
+          "retweet_count": 260
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1mtEk8uDhW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "尴尬！",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009473729248858112/wt7l_L9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 508,
+          "like_count": 1615,
+          "listed_count": 2,
+          "media_count": 332,
+          "tweet_count": 5619
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T13:58:49.000Z",
+        "description": "Stoner POVs · Aesthetic chaos · Daily memes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "flowhub.com",
+                "end": 23,
+                "expanded_url": "http://flowhub.com",
+                "start": 0,
+                "url": "https://t.co/klpx2mCyWD"
+              }
+            ]
+          }
+        },
+        "id": "1594329207768846337",
+        "location": "☁️",
+        "name": "Stoner Barbie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015930798042431488/ejYko88P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393305,
+          "following_count": 3,
+          "like_count": 12547,
+          "listed_count": 465,
+          "media_count": 12760,
+          "tweet_count": 23482
+        },
+        "url": "https://t.co/klpx2mCyWD",
+        "username": "stonersvilla",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "AE",
+            "TR"
+          ]
+        }
+      }
+    ]
+  }
+}

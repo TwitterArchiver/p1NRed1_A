@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1834202321884250113"
+      ],
+      "media_source_tweet_id": [
+        "1834202327030313207"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1834488625683439630",
+    "created_at": "2024-09-13T07:05:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-13T08:05:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834488625683439630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1421572458021220354",
+          "start": 3,
+          "username": "iwfe_35"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tzaly0ez4a",
+          "end": 38,
+          "expanded_url": "https://twitter.com/iwfe_35/status/1834202327030313207/photo/1",
+          "media_key": "3_1834202321884250113",
+          "start": 15,
+          "url": "https://t.co/TzAly0ez4a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834488625683439630",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 527
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834202327030313207",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @iwfe_35: 🚮 https://t.co/TzAly0ez4a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_1834202321884250113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXRlSzIbgAE0Q3l.jpg",
+        "width": 911
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834202321884250113"
+          ],
+          "media_source_tweet_id": [
+            "1834202327030313207"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1834488625683439630",
+        "created_at": "2024-09-13T07:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T08:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834488625683439630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1421572458021220354",
+              "start": 3,
+              "username": "iwfe_35"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tzaly0ez4a",
+              "end": 38,
+              "expanded_url": "https://twitter.com/iwfe_35/status/1834202327030313207/photo/1",
+              "media_key": "3_1834202321884250113",
+              "start": 15,
+              "url": "https://t.co/TzAly0ez4a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834488625683439630",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 527
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834202327030313207",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @iwfe_35: 🚮 https://t.co/TzAly0ez4a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834202321884250113"
+          ]
+        },
+        "author_id": "1421572458021220354",
+        "conversation_id": "1834202327030313207",
+        "created_at": "2024-09-12T12:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T13:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834202327030313207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tzaly0ez4a",
+              "end": 25,
+              "expanded_url": "https://twitter.com/iwfe_35/status/1834202327030313207/photo/1",
+              "media_key": "3_1834202321884250113",
+              "start": 2,
+              "url": "https://t.co/TzAly0ez4a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834202327030313207",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1239,
+          "impression_count": 144629,
+          "like_count": 12816,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 527
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "🚮 https://t.co/TzAly0ez4a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 270,
+          "like_count": 872,
+          "listed_count": 0,
+          "tweet_count": 2740
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-31T20:44:28.000Z",
+        "description": "お世話になっております！ https://t.co/FNu2UbhGxc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@iwfe_35",
+                "end": 36,
+                "expanded_url": "https://skeb.jp/@iwfe_35",
+                "start": 13,
+                "url": "https://t.co/FNu2UbhGxc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/enuda35",
+                "end": 23,
+                "expanded_url": "https://lit.link/enuda35",
+                "start": 0,
+                "url": "https://t.co/Q7rCCVZpLZ"
+              }
+            ]
+          }
+        },
+        "id": "1421572458021220354",
+        "location": "skeb とても遅くてすみません",
+        "name": "嶋田3゜5_゜",
+        "pinned_tweet_id": "1802844079778070730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751169689366265856/Rx_6fsWD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9710,
+          "following_count": 28,
+          "like_count": 20905,
+          "listed_count": 63,
+          "tweet_count": 781
+        },
+        "url": "https://t.co/Q7rCCVZpLZ",
+        "username": "iwfe_35",
+        "verified": false
+      }
+    ]
+  }
+}

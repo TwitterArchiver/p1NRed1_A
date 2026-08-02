@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1955052681032241325",
+    "created_at": "2025-08-12T00:01:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T01:01:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955056974103708127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1560977559273504768",
+          "start": 0,
+          "username": "Voelallll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955056974103708127",
+    "in_reply_to_user_id": "1560977559273504768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955053893240623405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Voelallll 嘻嘻谢谢你呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1955052681032241325",
+        "created_at": "2025-08-12T00:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T01:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955056974103708127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1560977559273504768",
+              "start": 0,
+              "username": "Voelallll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955056974103708127",
+        "in_reply_to_user_id": "1560977559273504768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955053893240623405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Voelallll 嘻嘻谢谢你呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560977559273504768",
+        "conversation_id": "1955052681032241325",
+        "created_at": "2025-08-11T23:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T00:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955053893240623405"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "萌萌",
+              "probability": 0.7021,
+              "start": 11,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955053893240623405",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955052681032241325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 萌萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 422,
+          "like_count": 1288,
+          "listed_count": 1,
+          "media_count": 239,
+          "tweet_count": 4442
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-20T13:10:39.000Z",
+        "description": "阴暗碎碎念｜垃圾桶｜宅丨\n草饲全世界",
+        "id": "1560977559273504768",
+        "location": "距离你3.9km",
+        "name": "Völa",
+        "pinned_tweet_id": "1903867073220256008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950973313913856000/wZLnUAxk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 756,
+          "like_count": 21011,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 1538
+        },
+        "username": "Voelallll",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069716661083717632"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2069716669375926601",
+    "created_at": "2026-06-24T09:38:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T10:38:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069716669375926601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1854207757123207168",
+          "start": 0,
+          "username": "duo_shu62376"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KU1B6qRRHr",
+          "end": 41,
+          "expanded_url": "https://x.com/p1NRed1_A/status/2069716669375926601/photo/1",
+          "media_key": "3_2069716661083717632",
+          "start": 18,
+          "url": "https://t.co/KU1B6qRRHr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069716669375926601",
+    "in_reply_to_user_id": "1854207757123207168",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@duo_shu62376 666 https://t.co/KU1B6qRRHr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069716661083717632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkcVmGaQAAO-gi.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069716661083717632"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069716669375926601",
+        "created_at": "2026-06-24T09:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069716669375926601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854207757123207168",
+              "start": 0,
+              "username": "duo_shu62376"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KU1B6qRRHr",
+              "end": 41,
+              "expanded_url": "https://x.com/p1NRed1_A/status/2069716669375926601/photo/1",
+              "media_key": "3_2069716661083717632",
+              "start": 18,
+              "url": "https://t.co/KU1B6qRRHr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069716669375926601",
+        "in_reply_to_user_id": "1854207757123207168",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@duo_shu62376 666 https://t.co/KU1B6qRRHr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 561,
+          "like_count": 1666,
+          "listed_count": 3,
+          "media_count": 376,
+          "tweet_count": 6356
+        },
+        "url": "",
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T17:02:50.000Z",
+        "description": "",
+        "id": "1854207757123207168",
+        "name": "食堂子优选打菜大妈",
+        "pinned_tweet_id": "2035259585033118155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854208185709793280/LXs3cMlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 79,
+          "like_count": 213,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 548
+        },
+        "url": "",
+        "username": "duo_shu62376",
+        "verified": false
+      }
+    ]
+  }
+}

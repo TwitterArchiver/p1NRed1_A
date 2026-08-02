@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2080581081401888772",
+    "created_at": "2026-07-24T09:09:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T10:09:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080581081401888772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1803264102090805248",
+          "start": 3,
+          "username": "crucifynisis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080581081401888772",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6652
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080356476401614922",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @crucifynisis: oversharing on twitter dot com for two likes"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2080581081401888772",
+        "created_at": "2026-07-24T09:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T10:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080581081401888772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1803264102090805248",
+              "start": 3,
+              "username": "crucifynisis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080581081401888772",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6652
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080356476401614922",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @crucifynisis: oversharing on twitter dot com for two likes"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803264102090805248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2080356476401614922",
+        "created_at": "2026-07-23T18:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T19:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080356476401614922"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080356476401614922",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 480,
+          "impression_count": 373064,
+          "like_count": 27768,
+          "quote_count": 496,
+          "reply_count": 132,
+          "retweet_count": 6652
+        },
+        "reply_settings": "everyone",
+        "text": "oversharing on twitter dot com for two likes"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/9GooAZ0z7o"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "死全家星",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076577294790139904/Fz-jPCGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 586,
+          "like_count": 1798,
+          "listed_count": 3,
+          "media_count": 440,
+          "tweet_count": 7103
+        },
+        "url": "https://t.co/9GooAZ0z7o",
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T03:10:59.000Z",
+        "description": "errrrrrrhrhrhrhrhrhrhrhrrrrrrh",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "forms.gle/uNrTZM6gS5pxRg…",
+                "end": 23,
+                "expanded_url": "https://forms.gle/uNrTZM6gS5pxRgGY8",
+                "start": 0,
+                "url": "https://t.co/UMaqdS0WkA"
+              }
+            ]
+          }
+        },
+        "id": "1803264102090805248",
+        "location": "18 she ",
+        "name": "hani",
+        "pinned_tweet_id": "2063613355261354182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073735389450514432/5G9pN_88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1716,
+          "following_count": 486,
+          "like_count": 22959,
+          "listed_count": 11,
+          "media_count": 1055,
+          "tweet_count": 18006
+        },
+        "url": "https://t.co/UMaqdS0WkA",
+        "username": "crucifynisis",
+        "verified": false
+      }
+    ]
+  }
+}

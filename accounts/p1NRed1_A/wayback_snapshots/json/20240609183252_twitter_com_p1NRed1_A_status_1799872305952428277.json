@@ -1,0 +1,162 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1799872305952428277",
+    "created_at": "2024-06-09T18:32:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-09T19:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799872305952428277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1299419057649790977",
+          "start": 3,
+          "username": "Bionic_blood"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799872305952428277",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799610490257322000",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bionic_blood: 谁能给我推荐点劲爆的j-core系uk hardcore音乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1799872305952428277",
+        "created_at": "2024-06-09T18:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T19:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799872305952428277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1299419057649790977",
+              "start": 3,
+              "username": "Bionic_blood"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799872305952428277",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799610490257322000",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bionic_blood: 谁能给我推荐点劲爆的j-core系uk hardcore音乐"
+      },
+      {
+        "attachments": {},
+        "author_id": "1299419057649790977",
+        "conversation_id": "1799610490257322000",
+        "created_at": "2024-06-09T01:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T02:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799610490257322000"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1799610490257322000",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁能给我推荐点劲爆的j-core系uk hardcore音乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797607843975385088/wUYNFJ2h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 168,
+          "like_count": 323,
+          "listed_count": 0,
+          "tweet_count": 1163
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-28T18:50:29.000Z",
+        "description": "Prose narrative,but like a diary. #📓 #🚬",
+        "id": "1299419057649790977",
+        "name": "4",
+        "pinned_tweet_id": "1799796698082066543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799550011828764672/cSWAA-QH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6788,
+          "following_count": 1462,
+          "like_count": 28563,
+          "listed_count": 16,
+          "tweet_count": 20783
+        },
+        "username": "Bionic_blood",
+        "verified": false
+      }
+    ]
+  }
+}

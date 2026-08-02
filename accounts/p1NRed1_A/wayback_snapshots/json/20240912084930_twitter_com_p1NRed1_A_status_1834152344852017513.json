@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1833815234508939264"
+      ],
+      "media_source_tweet_id": [
+        "1833988897287590193"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A film like Rogue One: A Star Wars Story",
+          "id": "86",
+          "name": "Movie"
+        },
+        "entity": {
+          "description": "Alita: Battle Angel",
+          "id": "939233609763905536",
+          "name": "Alita: Battle Angel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A movie genre like Action",
+          "id": "87",
+          "name": "Movie Genre"
+        },
+        "entity": {
+          "description": "Sci-fi and fantasy",
+          "id": "856977093191647233",
+          "name": "Sci-fi & fantasy films"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      }
+    ],
+    "conversation_id": "1834152344852017513",
+    "created_at": "2024-09-12T08:49:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T09:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834152344852017513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1370968333583982592",
+          "start": 3,
+          "username": "xe0_xeo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xovutcelb0",
+          "end": 79,
+          "expanded_url": "https://twitter.com/xe0_xeo/status/1833988897287590193/photo/1",
+          "media_key": "3_1833815234508939264",
+          "start": 56,
+          "url": "https://t.co/XOVutcelb0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834152344852017513",
+    "lang": "tl",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 348
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833988897287590193",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xe0_xeo: Gunnm: Battle Angel Alita - Yukito Kishiro https://t.co/XOVutcelb0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1833815234508939264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXMFPWSa4AAh3Hg.jpg",
+        "width": 2262
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833815234508939264"
+          ],
+          "media_source_tweet_id": [
+            "1833988897287590193"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A film like Rogue One: A Star Wars Story",
+              "id": "86",
+              "name": "Movie"
+            },
+            "entity": {
+              "description": "Alita: Battle Angel",
+              "id": "939233609763905536",
+              "name": "Alita: Battle Angel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "description": "Sci-fi and fantasy",
+              "id": "856977093191647233",
+              "name": "Sci-fi & fantasy films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          }
+        ],
+        "conversation_id": "1834152344852017513",
+        "created_at": "2024-09-12T08:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T09:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834152344852017513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1370968333583982592",
+              "start": 3,
+              "username": "xe0_xeo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xovutcelb0",
+              "end": 79,
+              "expanded_url": "https://twitter.com/xe0_xeo/status/1833988897287590193/photo/1",
+              "media_key": "3_1833815234508939264",
+              "start": 56,
+              "url": "https://t.co/XOVutcelb0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834152344852017513",
+        "lang": "tl",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 348
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833988897287590193",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xe0_xeo: Gunnm: Battle Angel Alita - Yukito Kishiro https://t.co/XOVutcelb0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833815234508939264"
+          ]
+        },
+        "author_id": "1370968333583982592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A film like Rogue One: A Star Wars Story",
+              "id": "86",
+              "name": "Movie"
+            },
+            "entity": {
+              "description": "Alita: Battle Angel",
+              "id": "939233609763905536",
+              "name": "Alita: Battle Angel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "description": "Sci-fi and fantasy",
+              "id": "856977093191647233",
+              "name": "Sci-fi & fantasy films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          }
+        ],
+        "conversation_id": "1833988897287590193",
+        "created_at": "2024-09-11T22:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T23:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833988897287590193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xovutcelb0",
+              "end": 66,
+              "expanded_url": "https://twitter.com/xe0_xeo/status/1833988897287590193/photo/1",
+              "media_key": "3_1833815234508939264",
+              "start": 43,
+              "url": "https://t.co/XOVutcelb0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833988897287590193",
+        "lang": "tl",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 274,
+          "impression_count": 37900,
+          "like_count": 2340,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 348
+        },
+        "reply_settings": "everyone",
+        "text": "Gunnm: Battle Angel Alita - Yukito Kishiro https://t.co/XOVutcelb0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 268,
+          "like_count": 864,
+          "listed_count": 0,
+          "tweet_count": 2733
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-14T05:21:42.000Z",
+        "description": "weltgeist // priv @xch1e",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 18,
+                "username": "xch1e"
+              }
+            ]
+          }
+        },
+        "id": "1370968333583982592",
+        "location": "10.1.1.201",
+        "name": "Xeo ¯³",
+        "pinned_tweet_id": "1733955099641495952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831546590097805312/oyexJThB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124901,
+          "following_count": 344,
+          "like_count": 16084,
+          "listed_count": 953,
+          "tweet_count": 10697
+        },
+        "username": "xe0_xeo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1869301662873190400"
+      ],
+      "media_source_tweet_id": [
+        "1869301667621199914"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1869350655841927201",
+    "created_at": "2024-12-18T11:55:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T12:55:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869350655841927201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1444939851359350784",
+          "start": 3,
+          "username": "KatansikaKaworu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tVXXZ62gRQ",
+          "end": 44,
+          "expanded_url": "https://x.com/KatansikaKaworu/status/1869301667621199914/photo/1",
+          "media_key": "3_1869301662873190400",
+          "start": 21,
+          "url": "https://t.co/tVXXZ62gRQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869350655841927201",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869301667621199914",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KatansikaKaworu: https://t.co/tVXXZ62gRQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1869301662873190400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfEX9VmagAADvOh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869301662873190400"
+          ],
+          "media_source_tweet_id": [
+            "1869301667621199914"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1869350655841927201",
+        "created_at": "2024-12-18T11:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T12:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869350655841927201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1444939851359350784",
+              "start": 3,
+              "username": "KatansikaKaworu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tVXXZ62gRQ",
+              "end": 44,
+              "expanded_url": "https://x.com/KatansikaKaworu/status/1869301667621199914/photo/1",
+              "media_key": "3_1869301662873190400",
+              "start": 21,
+              "url": "https://t.co/tVXXZ62gRQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869350655841927201",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869301667621199914",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KatansikaKaworu: https://t.co/tVXXZ62gRQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869301662873190400"
+          ]
+        },
+        "author_id": "1444939851359350784",
+        "conversation_id": "1869301667621199914",
+        "created_at": "2024-12-18T08:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T09:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869301667621199914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tVXXZ62gRQ",
+              "end": 23,
+              "expanded_url": "https://x.com/KatansikaKaworu/status/1869301667621199914/photo/1",
+              "media_key": "3_1869301662873190400",
+              "start": 0,
+              "url": "https://t.co/tVXXZ62gRQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869301667621199914",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 235,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tVXXZ62gRQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869350138424266753/LAsvqNJx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 295,
+          "like_count": 1029,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 3178
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-04T08:18:24.000Z",
+        "description": "雑多",
+        "id": "1444939851359350784",
+        "name": "稲荷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860259791526051840/ARA8O-pN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 173,
+          "like_count": 108534,
+          "listed_count": 14,
+          "media_count": 48,
+          "tweet_count": 11948
+        },
+        "username": "KatansikaKaworu",
+        "verified": false
+      }
+    ]
+  }
+}

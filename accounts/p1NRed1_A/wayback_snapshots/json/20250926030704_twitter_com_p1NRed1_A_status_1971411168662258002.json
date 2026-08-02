@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1971411168662258002",
+    "created_at": "2025-09-26T03:07:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T04:07:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971411168662258002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1464789610307932168",
+          "start": 3,
+          "username": "okinomiyuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971411168662258002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971385648897765452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @okinomiyuki: 太搞笑了吧你和我吐露真心我只会发在兄弟群嘲笑你好上钩和天真"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1971411168662258002",
+        "created_at": "2025-09-26T03:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T04:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971411168662258002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1464789610307932168",
+              "start": 3,
+              "username": "okinomiyuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971411168662258002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971385648897765452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @okinomiyuki: 太搞笑了吧你和我吐露真心我只会发在兄弟群嘲笑你好上钩和天真"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464789610307932168",
+        "conversation_id": "1971385648897765452",
+        "created_at": "2025-09-26T01:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T02:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971385648897765452"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971385648897765452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "太搞笑了吧你和我吐露真心我只会发在兄弟群嘲笑你好上钩和天真"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 458,
+          "like_count": 1427,
+          "listed_count": 2,
+          "media_count": 269,
+          "tweet_count": 4803
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-28T02:54:03.000Z",
+        "description": "shed tears hundred percent",
+        "id": "1464789610307932168",
+        "location": "in your ass",
+        "name": "みゆき",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683544393356288000/T-ERy6Rm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 334,
+          "like_count": 5644,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 2248
+        },
+        "username": "okinomiyuki",
+        "verified": false
+      }
+    ]
+  }
+}

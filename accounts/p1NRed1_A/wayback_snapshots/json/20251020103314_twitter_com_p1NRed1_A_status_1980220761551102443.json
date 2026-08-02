@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1980220761551102443",
+    "created_at": "2025-10-20T10:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T11:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980220761551102443"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/joe__fight/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/joe__fight/status/1980173083228168347",
+          "start": 3,
+          "url": "https://t.co/4qr5PJnhBQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980220761551102443",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980173083228168347",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯啊 https://t.co/4qr5PJnhBQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30366,
+        "height": 886,
+        "media_key": "13_1980172944954261504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1980172944954261504/img/U1e5K25ntqO8GL5R.jpg",
+        "public_metrics": {
+          "view_count": 4150
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980172944954261504/vid/avc1/480x270/28mQduA13ym-NgH7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1980172944954261504/pl/tEGMr3iqHGEe1Bmt.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980172944954261504/vid/avc1/1576x886/qlel_PljNjLIWFHy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980172944954261504/vid/avc1/1280x720/AeJIP9OZqJEUtV0K.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980172944954261504/vid/avc1/640x360/RdxcjEP2XEEuvuZQ.mp4"
+          }
+        ],
+        "width": 1576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1980220761551102443",
+        "created_at": "2025-10-20T10:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T11:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980220761551102443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/joe__fight/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/joe__fight/status/1980173083228168347",
+              "start": 3,
+              "url": "https://t.co/4qr5PJnhBQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980220761551102443",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980173083228168347",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯啊 https://t.co/4qr5PJnhBQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1980172944954261504"
+          ]
+        },
+        "author_id": "1526222170363289601",
+        "conversation_id": "1980173083228168347",
+        "created_at": "2025-10-20T07:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T08:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980173083228168347"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "Brain Power",
+              "probability": 0.9413,
+              "start": 6,
+              "type": "Other"
+            },
+            {
+              "end": 27,
+              "normalized_text": "Joe Fight",
+              "probability": 0.7735,
+              "start": 19,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "M3秋2025にて、豪華リミキサー陣によるBrain Powerリミックスアルバムを頒布します!!　なんとCD2枚組!!更なる詳細、専用Webページは動画の公開と共に公開されます。Disk 1 00:00 Track 01 t+pazolite (https://x.com/tpazolite) Brain Po...",
+              "display_url": "youtu.be/OYitf2dtGX4",
+              "end": 76,
+              "expanded_url": "https://youtu.be/OYitf2dtGX4",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1979857681327493120/ZgrGxRiW?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1979857681327493120/ZgrGxRiW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 53,
+              "status": 200,
+              "title": "【M3-2025秋】HEADLINER’s - REMIXES OF BRAIN POWER- X Fade Demo",
+              "unwound_url": "https://www.youtube.com/watch?v=OYitf2dtGX4&feature=youtu.be",
+              "url": "https://t.co/WJ6j9ONpBA"
+            },
+            {
+              "display_url": "pic.x.com/69dyqftUXo",
+              "end": 100,
+              "expanded_url": "https://x.com/joe__fight/status/1980173083228168347/video/1",
+              "media_key": "13_1980172944954261504",
+              "start": 77,
+              "url": "https://t.co/69dyqftUXo"
+            },
+            {
+              "display_url": "x.com/noma113/status…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/noma113/status/1979865346787205485",
+              "start": 101,
+              "url": "https://t.co/aTbmFQjB90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980173083228168347",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 26735,
+          "like_count": 545,
+          "quote_count": 10,
+          "reply_count": 0,
+          "retweet_count": 164
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979865346787205485",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【衝撃】\n\nBrain Power (Joe Fight Remix)\n！！！？！？！？！？？！？！？\n\nhttps://t.co/WJ6j9ONpBA https://t.co/69dyqftUXo https://t.co/aTbmFQjB90"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1979857186701693084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 486,
+          "like_count": 1510,
+          "listed_count": 2,
+          "media_count": 300,
+          "tweet_count": 5129
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-16T15:25:06.000Z",
+        "description": "音デカVTuberジョーファイトです🌚\n検索してはいけない言葉入り\nチュウニズムに曲とアバター収録\n\n┊YouTube (1万人)：https://t.co/yWE86NmuvT\n┊TikTok (26万人)：https://t.co/jl8CsFsB1g\n┊親：@myosuke",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 132,
+                "username": "myosuke"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/JoeFight",
+                "end": 89,
+                "expanded_url": "https://www.youtube.com/JoeFight",
+                "start": 66,
+                "url": "https://t.co/yWE86NmuvT"
+              },
+              {
+                "display_url": "tiktok.com/@joe_fight",
+                "end": 128,
+                "expanded_url": "https://www.tiktok.com/@joe_fight",
+                "start": 105,
+                "url": "https://t.co/jl8CsFsB1g"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "myosuke.com/discog.html",
+                "end": 23,
+                "expanded_url": "https://myosuke.com/discog.html",
+                "start": 0,
+                "url": "https://t.co/UptCsq2aMo"
+              }
+            ]
+          }
+        },
+        "id": "1526222170363289601",
+        "location": "ご連絡はDJ Myosukeまで",
+        "name": "Joe Fight",
+        "pinned_tweet_id": "1979868881864012006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941443547212734464/SaUVu-Nn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7098,
+          "following_count": 54,
+          "like_count": 1123,
+          "listed_count": 10,
+          "media_count": 268,
+          "tweet_count": 696
+        },
+        "url": "https://t.co/UptCsq2aMo",
+        "username": "joe__fight",
+        "verified": true
+      }
+    ]
+  }
+}

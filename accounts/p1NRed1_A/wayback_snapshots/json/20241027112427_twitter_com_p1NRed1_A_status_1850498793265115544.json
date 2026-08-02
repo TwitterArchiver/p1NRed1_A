@@ -1,0 +1,98 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1850498779914571776"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1850498793265115544",
+    "created_at": "2024-10-27T11:24:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-27T12:24:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1850498793265115544"
+    ],
+    "id": "1850498793265115544",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 182,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "被我抓到这种没礼貌的就是b路一条好吗 https://t.co/oif6FYB0nj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1850498779914571776",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ga5K1gIaEAAocpg.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1850498779914571776"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1850498793265115544",
+        "created_at": "2024-10-27T11:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T12:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850498793265115544"
+        ],
+        "id": "1850498793265115544",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被我抓到这种没礼貌的就是b路一条好吗 https://t.co/oif6FYB0nj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 293,
+          "like_count": 990,
+          "listed_count": 0,
+          "tweet_count": 3102
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

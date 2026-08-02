@@ -1,0 +1,181 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1805599578898808884",
+    "created_at": "2024-06-25T13:52:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T14:52:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805599888564174940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "886817207170224128",
+          "start": 0,
+          "username": "RoninBlazkowicz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805599888564174940",
+    "in_reply_to_user_id": "886817207170224128",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805599811208700335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RoninBlazkowicz 偷了我们一起吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1805599578898808884",
+        "created_at": "2024-06-25T13:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T14:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805599888564174940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "886817207170224128",
+              "start": 0,
+              "username": "RoninBlazkowicz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805599888564174940",
+        "in_reply_to_user_id": "886817207170224128",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805599811208700335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RoninBlazkowicz 偷了我们一起吃"
+      },
+      {
+        "attachments": {},
+        "author_id": "886817207170224128",
+        "conversation_id": "1805599578898808884",
+        "created_at": "2024-06-25T13:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T14:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805599811208700335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805599811208700335",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805599578898808884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 我偷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563382332014593/-06gBRx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 204,
+          "like_count": 440,
+          "listed_count": 0,
+          "tweet_count": 1770
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-17T05:17:53.000Z",
+        "description": "燃烧瞳孔",
+        "id": "886817207170224128",
+        "location": "Diamond City",
+        "name": "RoninG—★asoline",
+        "pinned_tweet_id": "1523550037241868288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1402923023032893442/YfurV1FW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 655,
+          "like_count": 7755,
+          "listed_count": 0,
+          "tweet_count": 5658
+        },
+        "username": "RoninBlazkowicz",
+        "verified": false
+      }
+    ]
+  }
+}

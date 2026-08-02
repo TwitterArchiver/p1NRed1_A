@@ -1,0 +1,153 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1800127607805251584"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1800127653066031340",
+    "created_at": "2024-06-10T11:27:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T12:27:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1800127653066031340"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/2bWAl0KK8E",
+          "end": 33,
+          "expanded_url": "https://twitter.com/p1NRed1_A/status/1800127653066031340/photo/1",
+          "media_key": "3_1800127607805251584",
+          "start": 10,
+          "url": "https://t.co/2bWAl0KK8E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800127653066031340",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我打不了字我o大了 https://t.co/2bWAl0KK8E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1800127607805251584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPtWhZWbEAAwsTs.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800127607805251584"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1800127653066031340",
+        "created_at": "2024-06-10T11:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T12:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800127653066031340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/2bWAl0KK8E",
+              "end": 33,
+              "expanded_url": "https://twitter.com/p1NRed1_A/status/1800127653066031340/photo/1",
+              "media_key": "3_1800127607805251584",
+              "start": 10,
+              "url": "https://t.co/2bWAl0KK8E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800127653066031340",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我打不了字我o大了 https://t.co/2bWAl0KK8E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800005249027203073/CQR3vaAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 169,
+          "like_count": 326,
+          "listed_count": 0,
+          "tweet_count": 1187
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951621159063318528"
+      ],
+      "media_source_tweet_id": [
+        "1951621167770632538"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1952285747517550647",
+    "created_at": "2025-08-04T08:29:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T09:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952285747517550647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1776566513987887104",
+          "start": 3,
+          "username": "roro_iromoyou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IhZAhPLi4b",
+          "end": 51,
+          "expanded_url": "https://x.com/roro_iromoyou/status/1951621167770632538/photo/1",
+          "media_key": "3_1951621159063318528",
+          "start": 28,
+          "url": "https://t.co/IhZAhPLi4b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952285747517550647",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951621167770632538",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @roro_iromoyou: 需要ありますかね https://t.co/IhZAhPLi4b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1951621159063318528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxWNGqIa8AAuD13.jpg",
+        "width": 1564
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951621159063318528"
+          ],
+          "media_source_tweet_id": [
+            "1951621167770632538"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1952285747517550647",
+        "created_at": "2025-08-04T08:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T09:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952285747517550647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1776566513987887104",
+              "start": 3,
+              "username": "roro_iromoyou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IhZAhPLi4b",
+              "end": 51,
+              "expanded_url": "https://x.com/roro_iromoyou/status/1951621167770632538/photo/1",
+              "media_key": "3_1951621159063318528",
+              "start": 28,
+              "url": "https://t.co/IhZAhPLi4b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952285747517550647",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951621167770632538",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @roro_iromoyou: 需要ありますかね https://t.co/IhZAhPLi4b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951621159063318528"
+          ]
+        },
+        "author_id": "1776566513987887104",
+        "conversation_id": "1951621167770632538",
+        "created_at": "2025-08-02T12:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T13:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951621167770632538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IhZAhPLi4b",
+              "end": 32,
+              "expanded_url": "https://x.com/roro_iromoyou/status/1951621167770632538/photo/1",
+              "media_key": "3_1951621159063318528",
+              "start": 9,
+              "url": "https://t.co/IhZAhPLi4b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951621167770632538",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 298,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "需要ありますかね https://t.co/IhZAhPLi4b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 420,
+          "like_count": 1273,
+          "listed_count": 1,
+          "media_count": 237,
+          "tweet_count": 4400
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T11:06:18.000Z",
+        "description": "雑多垢/絵を描きたい人です ⚠︎夢女やってます　アイコンの神絵師▶︎@FdQvooLemonade リクエスト・感想等はこちらから▶︎ https://t.co/LTy2f9STQu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 34,
+                "username": "FdQvooLemonade"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/mpp7s920ktmtcf…",
+                "end": 91,
+                "expanded_url": "https://marshmallow-qa.com/mpp7s920ktmtcfm?t=Us3e9z&utm_medium=url_text&utm_source=promotion",
+                "start": 68,
+                "url": "https://t.co/LTy2f9STQu"
+              }
+            ]
+          }
+        },
+        "id": "1776566513987887104",
+        "name": "色模様",
+        "pinned_tweet_id": "1944896396806775214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904065836555612160/YUB86v84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 104,
+          "like_count": 1635,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 199
+        },
+        "username": "roro_iromoyou",
+        "verified": false
+      }
+    ]
+  }
+}

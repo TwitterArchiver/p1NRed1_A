@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1829881366424555520"
+      ],
+      "media_source_tweet_id": [
+        "1829881394182701118"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1830487694990045210",
+    "created_at": "2024-09-02T06:07:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-02T07:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830487694990045210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1499611234546630656",
+          "start": 3,
+          "username": "DanTheMediocre"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qrfnx1mlpd",
+          "end": 69,
+          "expanded_url": "https://twitter.com/DanTheMediocre/status/1829881394182701118/video/1",
+          "media_key": "7_1829881366424555520",
+          "start": 46,
+          "url": "https://t.co/QRfNX1mlpD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830487694990045210",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829881394182701118",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DanTheMediocre: This video is sad as hell https://t.co/QRfNX1mlpD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18507,
+        "height": 1024,
+        "media_key": "7_1829881366424555520",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1829881366424555520/pu/img/J0LT3z36GnXsI_vL.jpg",
+        "public_metrics": {
+          "view_count": 3973
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1829881366424555520/pu/vid/avc1/320x568/ApMGa25XaB-gdz2e.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1829881366424555520/pu/vid/avc1/480x852/5w2OigqZluHxPYX7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1829881366424555520/pu/vid/avc1/576x1024/nckCGhuowiGgLngE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1829881366424555520/pu/pl/VffbCSsVzp-iIcgT.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1829881366424555520"
+          ],
+          "media_source_tweet_id": [
+            "1829881394182701118"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1830487694990045210",
+        "created_at": "2024-09-02T06:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T07:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830487694990045210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1499611234546630656",
+              "start": 3,
+              "username": "DanTheMediocre"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qrfnx1mlpd",
+              "end": 69,
+              "expanded_url": "https://twitter.com/DanTheMediocre/status/1829881394182701118/video/1",
+              "media_key": "7_1829881366424555520",
+              "start": 46,
+              "url": "https://t.co/QRfNX1mlpD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830487694990045210",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829881394182701118",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DanTheMediocre: This video is sad as hell https://t.co/QRfNX1mlpD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1829881366424555520"
+          ]
+        },
+        "author_id": "1499611234546630656",
+        "conversation_id": "1829881394182701118",
+        "created_at": "2024-08-31T13:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T14:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829881394182701118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qrfnx1mlpd",
+              "end": 49,
+              "expanded_url": "https://twitter.com/DanTheMediocre/status/1829881394182701118/video/1",
+              "media_key": "7_1829881366424555520",
+              "start": 26,
+              "url": "https://t.co/QRfNX1mlpD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829881394182701118",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 180,
+          "impression_count": 6765,
+          "like_count": 582,
+          "quote_count": 21,
+          "reply_count": 10,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "This video is sad as hell https://t.co/QRfNX1mlpD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 266,
+          "like_count": 836,
+          "listed_count": 0,
+          "tweet_count": 2683
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T05:03:56.000Z",
+        "description": "Manga coloring in pfp and banner by @blurredcanvas\nLover of all things Fukumoto",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 36,
+                "username": "blurredcanvas"
+              }
+            ]
+          }
+        },
+        "id": "1499611234546630656",
+        "name": "Dan the Adequate",
+        "pinned_tweet_id": "1509989705164673033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697947900393730048/tfaN29gN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 1039,
+          "like_count": 395392,
+          "listed_count": 4,
+          "tweet_count": 35623
+        },
+        "username": "DanTheMediocre",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1806012899758166019"
+      ],
+      "media_source_tweet_id": [
+        "1806012903482597675"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1806584908388958691",
+    "created_at": "2024-06-28T07:06:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-28T08:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806584908388958691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663310462438748160",
+          "start": 3,
+          "username": "burntfishie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/SgQQopGjOi",
+          "end": 73,
+          "expanded_url": "https://twitter.com/burntfishie/status/1806012903482597675/photo/1",
+          "media_key": "3_1806012899758166019",
+          "start": 50,
+          "url": "https://t.co/SgQQopGjOi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806584908388958691",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 506
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806012903482597675",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @burntfishie: im the ugliest girl ive ever met https://t.co/SgQQopGjOi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 209,
+        "media_key": "3_1806012899758166019",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRA_KeXb0AMFvmd.jpg",
+        "width": 374
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1806012899758166019"
+          ],
+          "media_source_tweet_id": [
+            "1806012903482597675"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1806584908388958691",
+        "created_at": "2024-06-28T07:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T08:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806584908388958691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663310462438748160",
+              "start": 3,
+              "username": "burntfishie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/SgQQopGjOi",
+              "end": 73,
+              "expanded_url": "https://twitter.com/burntfishie/status/1806012903482597675/photo/1",
+              "media_key": "3_1806012899758166019",
+              "start": 50,
+              "url": "https://t.co/SgQQopGjOi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806584908388958691",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 506
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806012903482597675",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @burntfishie: im the ugliest girl ive ever met https://t.co/SgQQopGjOi"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1806012899758166019"
+          ]
+        },
+        "author_id": "1663310462438748160",
+        "conversation_id": "1806012903482597675",
+        "created_at": "2024-06-26T17:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T18:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806012903482597675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/SgQQopGjOi",
+              "end": 56,
+              "expanded_url": "https://twitter.com/burntfishie/status/1806012903482597675/photo/1",
+              "media_key": "3_1806012899758166019",
+              "start": 33,
+              "url": "https://t.co/SgQQopGjOi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806012903482597675",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 371,
+          "impression_count": 50101,
+          "like_count": 4175,
+          "quote_count": 15,
+          "reply_count": 32,
+          "retweet_count": 506
+        },
+        "reply_settings": "everyone",
+        "text": "im the ugliest girl ive ever met https://t.co/SgQQopGjOi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563382332014593/-06gBRx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 205,
+          "like_count": 448,
+          "listed_count": 0,
+          "tweet_count": 1804
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T22:25:20.000Z",
+        "description": "I love going on message boards and complaining about games I've never played | she/her",
+        "id": "1663310462438748160",
+        "location": "priv @inkblackfog",
+        "name": "charlotte🐠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785732059207700480/VwwTtdxc_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1669,
+          "following_count": 823,
+          "like_count": 41821,
+          "listed_count": 4,
+          "tweet_count": 4548
+        },
+        "username": "burntfishie",
+        "verified": false
+      }
+    ]
+  }
+}

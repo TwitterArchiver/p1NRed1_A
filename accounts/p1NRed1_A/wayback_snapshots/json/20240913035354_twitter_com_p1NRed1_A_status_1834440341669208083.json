@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1834440341669208083",
+    "created_at": "2024-09-13T03:53:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-13T04:53:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1834440341669208083"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huurakahuka112…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/huurakahuka1124/status/1795446590788018380",
+          "start": 5,
+          "url": "https://t.co/mBplbfpdGs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834440341669208083",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795446590788018380",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太可爱了 https://t.co/mBplbfpdGs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1834440341669208083",
+        "created_at": "2024-09-13T03:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T04:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834440341669208083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huurakahuka112…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/huurakahuka1124/status/1795446590788018380",
+              "start": 5,
+              "url": "https://t.co/mBplbfpdGs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834440341669208083",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795446590788018380",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太可爱了 https://t.co/mBplbfpdGs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1795446575692759040",
+            "3_1795446575692668928",
+            "3_1795446575684358144"
+          ]
+        },
+        "author_id": "1736725311734304768",
+        "conversation_id": "1795446590788018380",
+        "created_at": "2024-05-28T13:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T14:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795446590788018380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bxdhbqt8ji",
+              "end": 32,
+              "expanded_url": "https://twitter.com/huurakahuka1124/status/1795446590788018380/photo/1",
+              "media_key": "3_1795446575692759040",
+              "start": 9,
+              "url": "https://t.co/BxDHbqT8Ji"
+            },
+            {
+              "display_url": "pic.x.com/bxdhbqt8ji",
+              "end": 32,
+              "expanded_url": "https://twitter.com/huurakahuka1124/status/1795446590788018380/photo/1",
+              "media_key": "3_1795446575692668928",
+              "start": 9,
+              "url": "https://t.co/BxDHbqT8Ji"
+            },
+            {
+              "display_url": "pic.x.com/bxdhbqt8ji",
+              "end": 32,
+              "expanded_url": "https://twitter.com/huurakahuka1124/status/1795446590788018380/photo/1",
+              "media_key": "3_1795446575684358144",
+              "start": 9,
+              "url": "https://t.co/BxDHbqT8Ji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795446590788018380",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 5023,
+          "like_count": 272,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "色々描いたやつ〜 https://t.co/BxDHbqT8Ji"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 268,
+          "like_count": 867,
+          "listed_count": 0,
+          "tweet_count": 2737
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-18T12:29:38.000Z",
+        "description": "",
+        "id": "1736725311734304768",
+        "name": "すみません",
+        "pinned_tweet_id": "1820804915041862120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827705141803556864/tL9YsRs5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 394,
+          "like_count": 28213,
+          "listed_count": 4,
+          "tweet_count": 4277
+        },
+        "username": "huurakahuka1124",
+        "verified": false
+      }
+    ]
+  }
+}

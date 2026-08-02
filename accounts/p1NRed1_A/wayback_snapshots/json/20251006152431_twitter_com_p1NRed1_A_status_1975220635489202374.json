@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1975219810989711453",
+    "created_at": "2025-10-06T15:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T16:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975220635489202374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1877566766823649284",
+          "start": 0,
+          "username": "No_a1202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975220635489202374",
+    "in_reply_to_user_id": "1877566766823649284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975219810989711453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@No_a1202 还好你没有发那个之前那张"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1975219790395420673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2lj7yfXMAEs05B.jpg",
+        "width": 1521
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1975219810989711453",
+        "created_at": "2025-10-06T15:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T16:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975220635489202374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1877566766823649284",
+              "start": 0,
+              "username": "No_a1202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975220635489202374",
+        "in_reply_to_user_id": "1877566766823649284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975219810989711453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@No_a1202 还好你没有发那个之前那张"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975219790395420673"
+          ]
+        },
+        "author_id": "1877566766823649284",
+        "conversation_id": "1975219810989711453",
+        "created_at": "2025-10-06T15:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T16:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975219810989711453"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "Scandy",
+              "probability": 0.6544,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 21,
+              "normalized_text": "Kneesocks",
+              "probability": 0.5408,
+              "start": 13,
+              "type": "Person"
+            },
+            {
+              "end": 39,
+              "normalized_text": "PantyAndStocking",
+              "probability": 0.4996,
+              "start": 24,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 23,
+              "tag": "PantyAndStocking"
+            },
+            {
+              "end": 48,
+              "start": 41,
+              "tag": "NewPSG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dtgF2iGLUY",
+              "end": 72,
+              "expanded_url": "https://x.com/No_a1202/status/1975219810989711453/photo/1",
+              "media_key": "3_1975219790395420673",
+              "start": 49,
+              "url": "https://t.co/dtgF2iGLUY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975219810989711453",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Scandy &amp; Kneesocks\n#PantyAndStocking\n#NewPSG https://t.co/dtgF2iGLUY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 469,
+          "like_count": 1472,
+          "listed_count": 2,
+          "media_count": 281,
+          "tweet_count": 4933
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T04:03:10.000Z",
+        "description": "喜欢久米田康治，喜欢他的画风，畫他的畫風讓我感覺十分舒服，如果我的画让人感到不适，我很抱歉，我是无能的人对不起对不起对不起对不起对不起https://t.co/cvdLrZ5tgq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/7400702538",
+                "end": 90,
+                "expanded_url": "https://weibo.com/u/7400702538",
+                "start": 67,
+                "url": "https://t.co/cvdLrZ5tgq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/112639292",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/112639292",
+                "start": 0,
+                "url": "https://t.co/lhj9bFqBX3"
+              }
+            ]
+          }
+        },
+        "id": "1877566766823649284",
+        "location": "異惑星（现居無錫）",
+        "name": "望愛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966418254961750016/pv5h3V-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 88,
+          "like_count": 4331,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 135
+        },
+        "url": "https://t.co/lhj9bFqBX3",
+        "username": "No_a1202",
+        "verified": false
+      }
+    ]
+  }
+}

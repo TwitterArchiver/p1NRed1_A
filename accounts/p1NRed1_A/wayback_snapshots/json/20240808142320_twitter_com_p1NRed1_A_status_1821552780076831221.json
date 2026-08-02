@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1821552780076831221",
+    "created_at": "2024-08-08T14:23:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-08T15:23:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1821552780076831221"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huurakahuka112…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/huurakahuka1124/status/1821110384402878674",
+          "start": 8,
+          "url": "https://t.co/JVPFLxfTTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821552780076831221",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821110384402878674",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊啊啊啊啊啊啊 https://t.co/JVPFLxfTTS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1821552780076831221",
+        "created_at": "2024-08-08T14:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T15:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821552780076831221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huurakahuka112…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/huurakahuka1124/status/1821110384402878674",
+              "start": 8,
+              "url": "https://t.co/JVPFLxfTTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821552780076831221",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821110384402878674",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊啊啊啊 https://t.co/JVPFLxfTTS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821110379780698117"
+          ]
+        },
+        "author_id": "1736725311734304768",
+        "conversation_id": "1821110384402878674",
+        "created_at": "2024-08-07T09:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T10:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821110384402878674"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "香ちゃん",
+              "probability": 0.5047,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ecok7qj4y",
+              "end": 45,
+              "expanded_url": "https://twitter.com/huurakahuka1124/status/1821110384402878674/photo/1",
+              "media_key": "3_1821110379780698117",
+              "start": 22,
+              "url": "https://t.co/2Ecok7qJ4y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821110384402878674",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2080,
+          "like_count": 127,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "めちゃくちゃ落描きの可符香ちゃんを載せます https://t.co/2Ecok7qJ4y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563382332014593/-06gBRx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 247,
+          "like_count": 615,
+          "listed_count": 0,
+          "tweet_count": 2268
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-18T12:29:38.000Z",
+        "description": "︎^_^ ♡",
+        "id": "1736725311734304768",
+        "name": "すみません",
+        "pinned_tweet_id": "1802815807174627546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812099761924714496/yRUCe4KU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 402,
+          "like_count": 21627,
+          "listed_count": 3,
+          "tweet_count": 3390
+        },
+        "username": "huurakahuka1124",
+        "verified": false
+      }
+    ]
+  }
+}

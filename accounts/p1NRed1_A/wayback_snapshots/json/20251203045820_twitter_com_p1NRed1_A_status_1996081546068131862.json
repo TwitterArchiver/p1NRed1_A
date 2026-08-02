@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Osaka",
+          "id": "859408738544791552",
+          "name": "Osaka"
+        }
+      }
+    ],
+    "conversation_id": "1996081546068131862",
+    "created_at": "2025-12-03T04:58:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T05:58:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996081546068131862"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 2,
+          "normalized_text": "大阪",
+          "probability": 0.5117,
+          "start": 1,
+          "type": "Place"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/livelaughosaka…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/livelaughosaka/status/1996024609767129400",
+          "start": 4,
+          "url": "https://t.co/0NOrAxVHwv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996081546068131862",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996024609767129400",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大大阪 https://t.co/0NOrAxVHwv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1996024606784630784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7NNzfJWMAABQAV.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "1996081546068131862",
+        "created_at": "2025-12-03T04:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T05:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996081546068131862"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "大阪",
+              "probability": 0.5117,
+              "start": 1,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/livelaughosaka…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/livelaughosaka/status/1996024609767129400",
+              "start": 4,
+              "url": "https://t.co/0NOrAxVHwv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996081546068131862",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996024609767129400",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大大阪 https://t.co/0NOrAxVHwv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996024606784630784"
+          ]
+        },
+        "author_id": "1839908564363816961",
+        "conversation_id": "1996024609767129400",
+        "created_at": "2025-12-03T01:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T02:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996024609767129400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L0UgN4Mdx0",
+              "end": 23,
+              "expanded_url": "https://x.com/livelaughosaka/status/1996024609767129400/photo/1",
+              "media_key": "3_1996024606784630784",
+              "start": 0,
+              "url": "https://t.co/L0UgN4Mdx0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996024609767129400",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 156,
+          "impression_count": 10557,
+          "like_count": 1709,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 158
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/L0UgN4Mdx0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 502,
+          "like_count": 1571,
+          "listed_count": 2,
+          "media_count": 310,
+          "tweet_count": 5327
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T06:02:50.000Z",
+        "description": "you can never have enough osaka| ran by @DunBun07",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "DunBun07"
+              }
+            ]
+          }
+        },
+        "id": "1839908564363816961",
+        "location": "Osaka, Japan",
+        "name": "❄️Random Osaka❄️ あ 🐌",
+        "pinned_tweet_id": "1858214971676438846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995546702292373504/YLgrhZlB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6047,
+          "following_count": 77,
+          "like_count": 3137,
+          "listed_count": 6,
+          "media_count": 1025,
+          "tweet_count": 2165
+        },
+        "username": "livelaughosaka",
+        "verified": false
+      }
+    ]
+  }
+}

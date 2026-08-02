@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1838998617064878080",
+          "name": "developers"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2080989695732056303",
+    "created_at": "2026-07-25T12:13:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T13:13:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080989695732056303"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nightskytoday/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/nightskytoday/status/2080050755583574488",
+          "start": 6,
+          "url": "https://t.co/B6GOJ95dqu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080989695732056303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080050755583574488",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我需要这个 https://t.co/B6GOJ95dqu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1469,
+        "media_key": "3_2079990576452419584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN2caLWbQAAeAJ1.jpg",
+        "width": 1469
+      },
+      {
+        "height": 800,
+        "media_key": "3_2079990589106561024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN2ca6faIAAZIzO.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2080989695732056303",
+        "created_at": "2026-07-25T12:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080989695732056303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nightskytoday/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/nightskytoday/status/2080050755583574488",
+              "start": 6,
+              "url": "https://t.co/B6GOJ95dqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080989695732056303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080050755583574488",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我需要这个 https://t.co/B6GOJ95dqu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079990576452419584",
+            "3_2079990589106561024"
+          ]
+        },
+        "author_id": "1570680858717159424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2080050755583574488",
+        "created_at": "2026-07-22T22:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T23:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080050755583574488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8NVsNrlK7e",
+              "end": 206,
+              "expanded_url": "https://x.com/NightSkyToday/status/2080050755583574488/photo/1",
+              "media_key": "3_2079990576452419584",
+              "start": 183,
+              "url": "https://t.co/8NVsNrlK7e"
+            },
+            {
+              "display_url": "pic.x.com/8NVsNrlK7e",
+              "end": 206,
+              "expanded_url": "https://x.com/NightSkyToday/status/2080050755583574488/photo/1",
+              "media_key": "3_2079990589106561024",
+              "start": 183,
+              "url": "https://t.co/8NVsNrlK7e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080050755583574488",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2373,
+          "impression_count": 1942903,
+          "like_count": 8095,
+          "quote_count": 540,
+          "reply_count": 476,
+          "retweet_count": 625
+        },
+        "reply_settings": "everyone",
+        "text": "NEWS 🚨: Scientists engineer a single tobacco plant to produce five powerful psychedelics at once.\n\nDMT, Psilocybin, Psilocin, 5‑MeO‑DMT &amp; Bufotenin. Five psychedelics, one plant. https://t.co/8NVsNrlK7e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/9GooAZ0z7o"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "死全家星",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076577294790139904/Fz-jPCGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 586,
+          "like_count": 1800,
+          "listed_count": 3,
+          "media_count": 441,
+          "tweet_count": 7127
+        },
+        "url": "https://t.co/9GooAZ0z7o",
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-16T07:48:05.000Z",
+        "description": "Your daily window to the universe — #astronomy, #cosmology & cutting-edge science.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 36,
+                "tag": "astronomy"
+              },
+              {
+                "end": 58,
+                "start": 48,
+                "tag": "cosmology"
+              }
+            ]
+          }
+        },
+        "id": "1570680858717159424",
+        "location": "Somewhere Between Stars",
+        "name": "Night Sky Today",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955696672970858500/S8g-Ohjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108910,
+          "following_count": 14513,
+          "like_count": 4546,
+          "listed_count": 356,
+          "media_count": 8241,
+          "tweet_count": 9547
+        },
+        "url": "",
+        "username": "NightSkyToday",
+        "verified": true
+      }
+    ]
+  }
+}

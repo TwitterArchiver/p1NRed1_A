@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1816994280663052288"
+      ],
+      "media_source_tweet_id": [
+        "1816994331397390394"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1906661564859724053",
+    "created_at": "2025-03-31T10:55:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T11:55:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906661564859724053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1620490347456471040",
+          "start": 3,
+          "username": "SmogSoap"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I0Gaf2icfl",
+          "end": 37,
+          "expanded_url": "https://x.com/SmogSoap/status/1816994331397390394/video/1",
+          "media_key": "7_1816994280663052288",
+          "start": 14,
+          "url": "https://t.co/I0Gaf2icfl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906661564859724053",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9880
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816994331397390394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SmogSoap: https://t.co/I0Gaf2icfl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20600,
+        "height": 1024,
+        "media_key": "7_1816994280663052288",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1816994280663052288/pu/img/IzeyimWK3UJq90uz.jpg",
+        "public_metrics": {
+          "view_count": 896478
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1816994280663052288/pu/vid/avc1/320x568/DMrsWaAeeyAgOsXs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1816994280663052288/pu/vid/avc1/480x852/CpGA53au3UDdEZaH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1816994280663052288/pu/vid/avc1/576x1024/xH8L2oiwGhNmzQAw.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1816994280663052288/pu/pl/R2rST9zwV8T-N_gg.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1816994280663052288"
+          ],
+          "media_source_tweet_id": [
+            "1816994331397390394"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1906661564859724053",
+        "created_at": "2025-03-31T10:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T11:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906661564859724053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1620490347456471040",
+              "start": 3,
+              "username": "SmogSoap"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I0Gaf2icfl",
+              "end": 37,
+              "expanded_url": "https://x.com/SmogSoap/status/1816994331397390394/video/1",
+              "media_key": "7_1816994280663052288",
+              "start": 14,
+              "url": "https://t.co/I0Gaf2icfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906661564859724053",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9880
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816994331397390394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SmogSoap: https://t.co/I0Gaf2icfl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1816994280663052288"
+          ]
+        },
+        "author_id": "1620490347456471040",
+        "conversation_id": "1816994331397390394",
+        "created_at": "2024-07-27T00:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T01:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816994331397390394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I0Gaf2icfl",
+              "end": 23,
+              "expanded_url": "https://x.com/SmogSoap/status/1816994331397390394/video/1",
+              "media_key": "7_1816994280663052288",
+              "start": 0,
+              "url": "https://t.co/I0Gaf2icfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816994331397390394",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6374,
+          "impression_count": 2040162,
+          "like_count": 73619,
+          "quote_count": 232,
+          "reply_count": 178,
+          "retweet_count": 9880
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/I0Gaf2icfl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889564810410627072/YnTsykE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 338,
+          "like_count": 1113,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 3380
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T18:33:18.000Z",
+        "description": "dont be a weirdo loser im a minor (15) NSFW DNI!!!! i like sonic, soul eater, and a buncha other things 🏳️‍⚧️",
+        "id": "1620490347456471040",
+        "location": "she/they",
+        "name": "sophie",
+        "pinned_tweet_id": "1899636466172465156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904927404772007937/Asoiv957_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 249,
+          "like_count": 26396,
+          "listed_count": 2,
+          "media_count": 1105,
+          "tweet_count": 5767
+        },
+        "username": "SmogSoap",
+        "verified": false
+      }
+    ]
+  }
+}

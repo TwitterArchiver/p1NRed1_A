@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968057566702764032",
+        "3_1968057566782513152"
+      ],
+      "media_source_tweet_id": [
+        "1968057569664262207",
+        "1968057569664262207"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1968283467025969409",
+    "created_at": "2025-09-17T11:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T12:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968283467025969409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1499611234546630656",
+          "start": 3,
+          "username": "DanTheMediocre"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Cvd8t8EQxo",
+          "end": 64,
+          "expanded_url": "https://x.com/DanTheMediocre/status/1968057569664262207/photo/1",
+          "media_key": "3_1968057566702764032",
+          "start": 41,
+          "url": "https://t.co/Cvd8t8EQxo"
+        },
+        {
+          "display_url": "pic.x.com/Cvd8t8EQxo",
+          "end": 64,
+          "expanded_url": "https://x.com/DanTheMediocre/status/1968057569664262207/photo/1",
+          "media_key": "3_1968057566782513152",
+          "start": 41,
+          "url": "https://t.co/Cvd8t8EQxo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968283467025969409",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968057569664262207",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DanTheMediocre: The parallels man... https://t.co/Cvd8t8EQxo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1968057566702764032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0_x7gDWgAApwNW.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1563,
+        "media_key": "3_1968057566782513152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0_x7gWXYAATpvc.jpg",
+        "width": 1021
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968057566702764032",
+            "3_1968057566782513152"
+          ],
+          "media_source_tweet_id": [
+            "1968057569664262207",
+            "1968057569664262207"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1968283467025969409",
+        "created_at": "2025-09-17T11:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T12:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968283467025969409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1499611234546630656",
+              "start": 3,
+              "username": "DanTheMediocre"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cvd8t8EQxo",
+              "end": 64,
+              "expanded_url": "https://x.com/DanTheMediocre/status/1968057569664262207/photo/1",
+              "media_key": "3_1968057566702764032",
+              "start": 41,
+              "url": "https://t.co/Cvd8t8EQxo"
+            },
+            {
+              "display_url": "pic.x.com/Cvd8t8EQxo",
+              "end": 64,
+              "expanded_url": "https://x.com/DanTheMediocre/status/1968057569664262207/photo/1",
+              "media_key": "3_1968057566782513152",
+              "start": 41,
+              "url": "https://t.co/Cvd8t8EQxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968283467025969409",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968057569664262207",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DanTheMediocre: The parallels man... https://t.co/Cvd8t8EQxo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968057566702764032",
+            "3_1968057566782513152"
+          ]
+        },
+        "author_id": "1499611234546630656",
+        "conversation_id": "1968057569664262207",
+        "created_at": "2025-09-16T21:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T22:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968057569664262207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cvd8t8EQxo",
+              "end": 44,
+              "expanded_url": "https://x.com/DanTheMediocre/status/1968057569664262207/photo/1",
+              "media_key": "3_1968057566702764032",
+              "start": 21,
+              "url": "https://t.co/Cvd8t8EQxo"
+            },
+            {
+              "display_url": "pic.x.com/Cvd8t8EQxo",
+              "end": 44,
+              "expanded_url": "https://x.com/DanTheMediocre/status/1968057569664262207/photo/1",
+              "media_key": "3_1968057566782513152",
+              "start": 21,
+              "url": "https://t.co/Cvd8t8EQxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968057569664262207",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1336,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "The parallels man... https://t.co/Cvd8t8EQxo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 450,
+          "like_count": 1396,
+          "listed_count": 2,
+          "media_count": 265,
+          "tweet_count": 4728
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T05:03:56.000Z",
+        "description": "Manga coloring in pfp and banner by @blurredcanvas \n\nFkmt fan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 36,
+                "username": "blurredcanvas"
+              }
+            ]
+          }
+        },
+        "id": "1499611234546630656",
+        "name": "Dan the Adequate",
+        "pinned_tweet_id": "1509989705164673033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697947900393730048/tfaN29gN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 1149,
+          "like_count": 688811,
+          "listed_count": 4,
+          "media_count": 4800,
+          "tweet_count": 51259
+        },
+        "username": "DanTheMediocre",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889652596878852096"
+      ],
+      "media_source_tweet_id": [
+        "1889652626972623155"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1889982905331671445",
+    "created_at": "2025-02-13T10:20:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T11:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889982905331671445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3316980259",
+          "start": 3,
+          "username": "solnpass"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pMhdIUdkg4",
+          "end": 45,
+          "expanded_url": "https://x.com/solnpass/status/1889652626972623155/photo/1",
+          "media_key": "3_1889652596878852096",
+          "start": 22,
+          "url": "https://t.co/pMhdIUdkg4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889982905331671445",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 664
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889652626972623155",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @solnpass: ロリータさとり https://t.co/pMhdIUdkg4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1889652596878852096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjllBmnbwAAKXtL.jpg",
+        "width": 1552
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889652596878852096"
+          ],
+          "media_source_tweet_id": [
+            "1889652626972623155"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1889982905331671445",
+        "created_at": "2025-02-13T10:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T11:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889982905331671445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3316980259",
+              "start": 3,
+              "username": "solnpass"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pMhdIUdkg4",
+              "end": 45,
+              "expanded_url": "https://x.com/solnpass/status/1889652626972623155/photo/1",
+              "media_key": "3_1889652596878852096",
+              "start": 22,
+              "url": "https://t.co/pMhdIUdkg4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889982905331671445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 664
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889652626972623155",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @solnpass: ロリータさとり https://t.co/pMhdIUdkg4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889652596878852096"
+          ]
+        },
+        "author_id": "3316980259",
+        "conversation_id": "1889652626972623155",
+        "created_at": "2025-02-12T12:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T13:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889652626972623155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pMhdIUdkg4",
+              "end": 31,
+              "expanded_url": "https://x.com/solnpass/status/1889652626972623155/photo/1",
+              "media_key": "3_1889652596878852096",
+              "start": 8,
+              "url": "https://t.co/pMhdIUdkg4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889652626972623155",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 286,
+          "impression_count": 34380,
+          "like_count": 2705,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 664
+        },
+        "reply_settings": "everyone",
+        "text": "ロリータさとり https://t.co/pMhdIUdkg4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889564810410627072/YnTsykE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 304,
+          "like_count": 1059,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 3252
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-16T14:50:14.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/sol9071",
+                "end": 23,
+                "expanded_url": "http://pixiv.me/sol9071",
+                "start": 0,
+                "url": "https://t.co/KRm2EzO6sd"
+              }
+            ]
+          }
+        },
+        "id": "3316980259",
+        "location": "ポメラニ園",
+        "name": "ソルンパス",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884952822678167552/8ecwxtEl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 295,
+          "like_count": 27056,
+          "listed_count": 11,
+          "media_count": 4074,
+          "tweet_count": 17870
+        },
+        "url": "https://t.co/KRm2EzO6sd",
+        "username": "solnpass",
+        "verified": false
+      }
+    ]
+  }
+}

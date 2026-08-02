@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1900031165840637952"
+      ],
+      "media_source_tweet_id": [
+        "1900031175709933801"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1900402375346839568",
+    "created_at": "2025-03-14T04:23:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T05:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900402375346839568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2553606222",
+          "start": 3,
+          "username": "Kurachang_666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/asMj8XxyBk",
+          "end": 42,
+          "expanded_url": "https://x.com/Kurachang_666/status/1900031175709933801/photo/1",
+          "media_key": "3_1900031165840637952",
+          "start": 19,
+          "url": "https://t.co/asMj8XxyBk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900402375346839568",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1012
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900031175709933801",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kurachang_666: https://t.co/asMj8XxyBk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1452,
+        "media_key": "3_1900031165840637952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl5ER04aQAAGYBx.jpg",
+        "width": 1970
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900031165840637952"
+          ],
+          "media_source_tweet_id": [
+            "1900031175709933801"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1900402375346839568",
+        "created_at": "2025-03-14T04:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T05:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900402375346839568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2553606222",
+              "start": 3,
+              "username": "Kurachang_666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/asMj8XxyBk",
+              "end": 42,
+              "expanded_url": "https://x.com/Kurachang_666/status/1900031175709933801/photo/1",
+              "media_key": "3_1900031165840637952",
+              "start": 19,
+              "url": "https://t.co/asMj8XxyBk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900402375346839568",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1012
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900031175709933801",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kurachang_666: https://t.co/asMj8XxyBk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900031165840637952"
+          ]
+        },
+        "author_id": "2553606222",
+        "conversation_id": "1900031175709933801",
+        "created_at": "2025-03-13T03:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T04:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900031175709933801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/asMj8XxyBk",
+              "end": 23,
+              "expanded_url": "https://x.com/Kurachang_666/status/1900031175709933801/photo/1",
+              "media_key": "3_1900031165840637952",
+              "start": 0,
+              "url": "https://t.co/asMj8XxyBk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900031175709933801",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 409,
+          "impression_count": 181191,
+          "like_count": 6907,
+          "quote_count": 31,
+          "reply_count": 3,
+          "retweet_count": 1012
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/asMj8XxyBk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889564810410627072/YnTsykE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 323,
+          "like_count": 1081,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3316
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-08T01:19:45.000Z",
+        "description": "北宇治ファイト王",
+        "id": "2553606222",
+        "name": "くら",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881645191028944896/AnHZVJI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 381,
+          "like_count": 335818,
+          "listed_count": 23,
+          "media_count": 45469,
+          "tweet_count": 309403
+        },
+        "username": "Kurachang_666",
+        "verified": false
+      }
+    ]
+  }
+}

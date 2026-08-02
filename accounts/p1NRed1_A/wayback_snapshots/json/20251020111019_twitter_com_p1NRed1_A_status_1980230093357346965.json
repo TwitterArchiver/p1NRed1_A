@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977681398992388096"
+      ],
+      "media_source_tweet_id": [
+        "1980217931637137414"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1980230093357346965",
+    "created_at": "2025-10-20T11:10:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T12:10:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980230093357346965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1260232577379598337",
+          "start": 3,
+          "username": "OsakaBestGirl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q8V2kz7gYd",
+          "end": 42,
+          "expanded_url": "https://x.com/OsakaBestGirl/status/1980217931637137414/photo/1",
+          "media_key": "3_1977681398992388096",
+          "start": 19,
+          "url": "https://t.co/Q8V2kz7gYd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980230093357346965",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980217931637137414",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OsakaBestGirl: https://t.co/Q8V2kz7gYd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 564,
+        "media_key": "3_1977681398992388096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3IiwRHWwAAr1q6.jpg",
+        "width": 564
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977681398992388096"
+          ],
+          "media_source_tweet_id": [
+            "1980217931637137414"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1980230093357346965",
+        "created_at": "2025-10-20T11:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T12:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980230093357346965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1260232577379598337",
+              "start": 3,
+              "username": "OsakaBestGirl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q8V2kz7gYd",
+              "end": 42,
+              "expanded_url": "https://x.com/OsakaBestGirl/status/1980217931637137414/photo/1",
+              "media_key": "3_1977681398992388096",
+              "start": 19,
+              "url": "https://t.co/Q8V2kz7gYd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980230093357346965",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980217931637137414",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OsakaBestGirl: https://t.co/Q8V2kz7gYd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977681398992388096"
+          ]
+        },
+        "author_id": "1260232577379598337",
+        "conversation_id": "1980217931637137414",
+        "created_at": "2025-10-20T10:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T11:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980217931637137414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q8V2kz7gYd",
+              "end": 23,
+              "expanded_url": "https://x.com/OsakaBestGirl/status/1980217931637137414/photo/1",
+              "media_key": "3_1977681398992388096",
+              "start": 0,
+              "url": "https://t.co/Q8V2kz7gYd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980217931637137414",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 227,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Q8V2kz7gYd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1979857186701693084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 486,
+          "like_count": 1512,
+          "listed_count": 2,
+          "media_count": 300,
+          "tweet_count": 5132
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-12T15:37:32.000Z",
+        "description": "Every day a random image from my pics folder will be posted. Maybe more.\nYou can ask me to RT anything\n\nDisclaimer: Occasional ecchi. Grow up.",
+        "id": "1260232577379598337",
+        "location": "my download folder",
+        "name": "Osaka Lover (picture spammer)",
+        "pinned_tweet_id": "1862194500602306573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739786909419728896/b7x9Ga_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20352,
+          "following_count": 3624,
+          "like_count": 50492,
+          "listed_count": 54,
+          "media_count": 33642,
+          "tweet_count": 44029
+        },
+        "username": "OsakaBestGirl",
+        "verified": false
+      }
+    ]
+  }
+}

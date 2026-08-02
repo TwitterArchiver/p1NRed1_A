@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1901424032769048577",
+        "3_1901424132631261184"
+      ],
+      "media_source_tweet_id": [
+        "1901424948071006328",
+        "1901424948071006328"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1910546730770457009",
+    "created_at": "2025-04-11T04:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T05:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910546730770457009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1218293152307609602",
+          "start": 3,
+          "username": "teknodice_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JmciDabKGf",
+          "end": 45,
+          "expanded_url": "https://x.com/teknodice_/status/1901424948071006328/photo/1",
+          "media_key": "3_1901424032769048577",
+          "start": 22,
+          "url": "https://t.co/JmciDabKGf"
+        },
+        {
+          "display_url": "pic.x.com/JmciDabKGf",
+          "end": 45,
+          "expanded_url": "https://x.com/teknodice_/status/1901424948071006328/photo/1",
+          "media_key": "3_1901424132631261184",
+          "start": 22,
+          "url": "https://t.co/JmciDabKGf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910546730770457009",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901424948071006328",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @teknodice_: magma https://t.co/JmciDabKGf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 396,
+        "media_key": "3_1901424032769048577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmM3FWiXAAEu3mt.png",
+        "width": 426
+      },
+      {
+        "height": 197,
+        "media_key": "3_1901424132631261184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmM3LKjXcAAn9E1.png",
+        "width": 296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901424032769048577",
+            "3_1901424132631261184"
+          ],
+          "media_source_tweet_id": [
+            "1901424948071006328",
+            "1901424948071006328"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1910546730770457009",
+        "created_at": "2025-04-11T04:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T05:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910546730770457009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1218293152307609602",
+              "start": 3,
+              "username": "teknodice_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JmciDabKGf",
+              "end": 45,
+              "expanded_url": "https://x.com/teknodice_/status/1901424948071006328/photo/1",
+              "media_key": "3_1901424032769048577",
+              "start": 22,
+              "url": "https://t.co/JmciDabKGf"
+            },
+            {
+              "display_url": "pic.x.com/JmciDabKGf",
+              "end": 45,
+              "expanded_url": "https://x.com/teknodice_/status/1901424948071006328/photo/1",
+              "media_key": "3_1901424132631261184",
+              "start": 22,
+              "url": "https://t.co/JmciDabKGf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910546730770457009",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901424948071006328",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @teknodice_: magma https://t.co/JmciDabKGf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901424032769048577",
+            "3_1901424132631261184"
+          ]
+        },
+        "author_id": "1218293152307609602",
+        "conversation_id": "1901424948071006328",
+        "created_at": "2025-03-17T00:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T01:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901424948071006328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JmciDabKGf",
+              "end": 29,
+              "expanded_url": "https://x.com/teknodice_/status/1901424948071006328/photo/1",
+              "media_key": "3_1901424032769048577",
+              "start": 6,
+              "url": "https://t.co/JmciDabKGf"
+            },
+            {
+              "display_url": "pic.x.com/JmciDabKGf",
+              "end": 29,
+              "expanded_url": "https://x.com/teknodice_/status/1901424948071006328/photo/1",
+              "media_key": "3_1901424132631261184",
+              "start": 6,
+              "url": "https://t.co/JmciDabKGf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901424948071006328",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 5736,
+          "like_count": 541,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "magma https://t.co/JmciDabKGf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910291251003547648/-uuCvZrl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 353,
+          "like_count": 1131,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 3484
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-17T22:05:03.000Z",
+        "description": "🇵🇭 19, illustration character design etc.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spoliarium.neocities.org",
+                "end": 23,
+                "expanded_url": "http://spoliarium.neocities.org",
+                "start": 0,
+                "url": "https://t.co/BBAFmNZoSA"
+              }
+            ]
+          }
+        },
+        "id": "1218293152307609602",
+        "location": "US; IL",
+        "name": "tekno",
+        "pinned_tweet_id": "1878482164401963017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835428565996736512/l1ITiy1B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6965,
+          "following_count": 1210,
+          "like_count": 54332,
+          "listed_count": 39,
+          "media_count": 369,
+          "tweet_count": 3344
+        },
+        "url": "https://t.co/BBAFmNZoSA",
+        "username": "teknodice_",
+        "verified": false
+      }
+    ]
+  }
+}

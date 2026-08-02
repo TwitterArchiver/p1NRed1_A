@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1818167417488683008"
+      ],
+      "media_source_tweet_id": [
+        "1818167422953939310"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1818270895800275351",
+    "created_at": "2024-07-30T13:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-30T14:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818270895800275351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1768199391742181376",
+          "start": 3,
+          "username": "zoo6_zzz3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/KcBO0FxbXD",
+          "end": 48,
+          "expanded_url": "https://twitter.com/zoo6_zzz3/status/1818167422953939310/photo/1",
+          "media_key": "3_1818167417488683008",
+          "start": 25,
+          "url": "https://t.co/KcBO0FxbXD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818270895800275351",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818167422953939310",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zoo6_zzz3: しんだらどーしよ？ https://t.co/KcBO0FxbXD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1892,
+        "media_key": "3_1818167417488683008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTttohWaMAAJFj5.jpg",
+        "width": 1748
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1818167417488683008"
+          ],
+          "media_source_tweet_id": [
+            "1818167422953939310"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1818270895800275351",
+        "created_at": "2024-07-30T13:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T14:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818270895800275351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1768199391742181376",
+              "start": 3,
+              "username": "zoo6_zzz3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/KcBO0FxbXD",
+              "end": 48,
+              "expanded_url": "https://twitter.com/zoo6_zzz3/status/1818167422953939310/photo/1",
+              "media_key": "3_1818167417488683008",
+              "start": 25,
+              "url": "https://t.co/KcBO0FxbXD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818270895800275351",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818167422953939310",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zoo6_zzz3: しんだらどーしよ？ https://t.co/KcBO0FxbXD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1818167417488683008"
+          ]
+        },
+        "author_id": "1768199391742181376",
+        "conversation_id": "1818167422953939310",
+        "created_at": "2024-07-30T06:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T07:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818167422953939310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/KcBO0FxbXD",
+              "end": 33,
+              "expanded_url": "https://twitter.com/zoo6_zzz3/status/1818167422953939310/photo/1",
+              "media_key": "3_1818167417488683008",
+              "start": 10,
+              "url": "https://t.co/KcBO0FxbXD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818167422953939310",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 785,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "しんだらどーしよ？ https://t.co/KcBO0FxbXD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563382332014593/-06gBRx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 234,
+          "like_count": 553,
+          "listed_count": 0,
+          "tweet_count": 2174
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T08:56:15.000Z",
+        "description": "久米田先生の作品が大好きです 絶望先生 性転換 18歳です　アカウントは作り直しましたhttps://t.co/RSFF1bM69D",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "poipiku.com/9599898/",
+                "end": 66,
+                "expanded_url": "https://poipiku.com/9599898/",
+                "start": 43,
+                "url": "https://t.co/RSFF1bM69D"
+              }
+            ]
+          }
+        },
+        "id": "1768199391742181376",
+        "name": "おお",
+        "pinned_tweet_id": "1814657169469677920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771565895699275776/3cw0Zzdg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 7,
+          "like_count": 592,
+          "listed_count": 0,
+          "tweet_count": 291
+        },
+        "username": "zoo6_zzz3",
+        "verified": false
+      }
+    ]
+  }
+}

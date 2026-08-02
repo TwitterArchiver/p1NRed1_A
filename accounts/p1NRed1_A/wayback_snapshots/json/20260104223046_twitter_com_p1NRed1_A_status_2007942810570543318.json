@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007306448053624833"
+      ],
+      "media_source_tweet_id": [
+        "2007306453380743232"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "2007942810570543318",
+    "created_at": "2026-01-04T22:30:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T23:30:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007942810570543318"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "Magic girls",
+          "probability": 0.5385,
+          "start": 14,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 46,
+          "tag": "szs"
+        },
+        {
+          "end": 61,
+          "start": 52,
+          "tag": "さよなら絶望先生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1224803301067067392",
+          "start": 3,
+          "username": "ALR10_10"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PBsg4QGKJF",
+          "end": 85,
+          "expanded_url": "https://x.com/ALR10_10/status/2007306453380743232/photo/1",
+          "media_key": "3_2007306448053624833",
+          "start": 62,
+          "url": "https://t.co/PBsg4QGKJF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007942810570543318",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007306453380743232",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ALR10_10: Magic girls are the best! （≧∇≦）\n#szs  #さよなら絶望先生 https://t.co/PBsg4QGKJF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2007306448053624833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9tilE-WYAEJXMR.jpg",
+        "width": 1230
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007306448053624833"
+          ],
+          "media_source_tweet_id": [
+            "2007306453380743232"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "2007942810570543318",
+        "created_at": "2026-01-04T22:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T23:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007942810570543318"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Magic girls",
+              "probability": 0.5385,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "szs"
+            },
+            {
+              "end": 61,
+              "start": 52,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1224803301067067392",
+              "start": 3,
+              "username": "ALR10_10"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PBsg4QGKJF",
+              "end": 85,
+              "expanded_url": "https://x.com/ALR10_10/status/2007306453380743232/photo/1",
+              "media_key": "3_2007306448053624833",
+              "start": 62,
+              "url": "https://t.co/PBsg4QGKJF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007942810570543318",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007306453380743232",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ALR10_10: Magic girls are the best! （≧∇≦）\n#szs  #さよなら絶望先生 https://t.co/PBsg4QGKJF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007306448053624833"
+          ]
+        },
+        "author_id": "1224803301067067392",
+        "conversation_id": "2007306453380743232",
+        "created_at": "2026-01-03T04:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T05:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007306453380743232"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "Magic girls",
+              "probability": 0.6371,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "szs"
+            },
+            {
+              "end": 47,
+              "start": 38,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PBsg4QGKJF",
+              "end": 71,
+              "expanded_url": "https://x.com/ALR10_10/status/2007306453380743232/photo/1",
+              "media_key": "3_2007306448053624833",
+              "start": 48,
+              "url": "https://t.co/PBsg4QGKJF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007306453380743232",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 897,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "Magic girls are the best! （≧∇≦）\n#szs  #さよなら絶望先生 https://t.co/PBsg4QGKJF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "我擅长产出大粪",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 503,
+          "like_count": 1608,
+          "listed_count": 2,
+          "media_count": 330,
+          "tweet_count": 5534
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-04T21:14:06.000Z",
+        "description": "hoshiumi kourai the man you are",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "alr1010.straw.page",
+                "end": 23,
+                "expanded_url": "https://alr1010.straw.page",
+                "start": 0,
+                "url": "https://t.co/Eh72mp2uwK"
+              }
+            ]
+          }
+        },
+        "id": "1224803301067067392",
+        "location": "🇲🇽",
+        "name": "almalu - LOYAL TO HOSHIUMI",
+        "pinned_tweet_id": "1766694349998629362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869049548812722176/cTMh0vNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 548,
+          "like_count": 104868,
+          "listed_count": 0,
+          "media_count": 1854,
+          "tweet_count": 5357
+        },
+        "url": "https://t.co/Eh72mp2uwK",
+        "username": "ALR10_10",
+        "verified": false
+      }
+    ]
+  }
+}

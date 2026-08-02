@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1904727591510302724"
+      ],
+      "media_source_tweet_id": [
+        "1904727597499736400"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1904879533226123735",
+    "created_at": "2025-03-26T12:54:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T13:54:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904879533226123735"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 25,
+          "tag": "素晴らしき日々"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1609900773797945344",
+          "start": 3,
+          "username": "nuzu64335485"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hEtzRrDChz",
+          "end": 57,
+          "expanded_url": "https://x.com/nuzu64335485/status/1904727597499736400/photo/1",
+          "media_key": "3_1904727591510302724",
+          "start": 34,
+          "url": "https://t.co/hEtzRrDChz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904879533226123735",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 216
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904727597499736400",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nuzu64335485: 全にして一。\n#素晴らしき日々 https://t.co/hEtzRrDChz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1904727591510302724",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm7zpx3bYAQrK49.jpg",
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904727591510302724"
+          ],
+          "media_source_tweet_id": [
+            "1904727597499736400"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1904879533226123735",
+        "created_at": "2025-03-26T12:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T13:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904879533226123735"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 25,
+              "tag": "素晴らしき日々"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1609900773797945344",
+              "start": 3,
+              "username": "nuzu64335485"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hEtzRrDChz",
+              "end": 57,
+              "expanded_url": "https://x.com/nuzu64335485/status/1904727597499736400/photo/1",
+              "media_key": "3_1904727591510302724",
+              "start": 34,
+              "url": "https://t.co/hEtzRrDChz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904879533226123735",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 216
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904727597499736400",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nuzu64335485: 全にして一。\n#素晴らしき日々 https://t.co/hEtzRrDChz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904727591510302724"
+          ]
+        },
+        "author_id": "1609900773797945344",
+        "conversation_id": "1904727597499736400",
+        "created_at": "2025-03-26T02:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T03:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904727597499736400"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 7,
+              "tag": "素晴らしき日々"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hEtzRrDChz",
+              "end": 39,
+              "expanded_url": "https://x.com/nuzu64335485/status/1904727597499736400/photo/1",
+              "media_key": "3_1904727591510302724",
+              "start": 16,
+              "url": "https://t.co/hEtzRrDChz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904727597499736400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 22493,
+          "like_count": 1117,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 216
+        },
+        "reply_settings": "everyone",
+        "text": "全にして一。\n#素晴らしき日々 https://t.co/hEtzRrDChz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889564810410627072/YnTsykE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 335,
+          "like_count": 1112,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 3374
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T13:14:04.000Z",
+        "description": "エロゲとリステ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/43230756",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/43230756",
+                "start": 0,
+                "url": "https://t.co/XJDTDrxr2t"
+              }
+            ]
+          }
+        },
+        "id": "1609900773797945344",
+        "name": "nuzu",
+        "pinned_tweet_id": "1814320929402696018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891853918692646912/Za6Qv3uV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 24,
+          "like_count": 812,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 230
+        },
+        "url": "https://t.co/XJDTDrxr2t",
+        "username": "nuzu64335485",
+        "verified": false
+      }
+    ]
+  }
+}

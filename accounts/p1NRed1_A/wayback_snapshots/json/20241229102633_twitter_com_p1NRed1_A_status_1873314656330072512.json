@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1872870885138546718",
+    "created_at": "2024-12-29T10:26:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T11:26:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873314656330072512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1753324501167960064",
+          "start": 0,
+          "username": "DuvetsDetour"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873314656330072512",
+    "in_reply_to_user_id": "1753324501167960064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872870885138546718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DuvetsDetour 林安推荐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1872870885138546718",
+        "created_at": "2024-12-29T10:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T11:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873314656330072512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1753324501167960064",
+              "start": 0,
+              "username": "DuvetsDetour"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873314656330072512",
+        "in_reply_to_user_id": "1753324501167960064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872870885138546718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DuvetsDetour 林安推荐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753324501167960064",
+        "conversation_id": "1872870885138546718",
+        "created_at": "2024-12-28T05:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T06:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872870885138546718"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1872870885138546718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要去校园超市买北方版面"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869350138424266753/LAsvqNJx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 297,
+          "like_count": 1035,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 3197
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T07:48:51.000Z",
+        "description": "=青沼䴄//神聖かまってちゃん//共犯者@_defoko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 20,
+                "username": "_defoko"
+              }
+            ]
+          }
+        },
+        "id": "1753324501167960064",
+        "name": "䴄",
+        "pinned_tweet_id": "1868653740796092573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869627707887390720/FWiBwKq6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 976,
+          "like_count": 4655,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 538
+        },
+        "username": "DuvetsDetour",
+        "verified": false
+      }
+    ]
+  }
+}

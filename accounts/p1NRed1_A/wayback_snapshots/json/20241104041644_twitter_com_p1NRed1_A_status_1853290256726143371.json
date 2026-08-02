@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1853010672822428051",
+    "created_at": "2024-11-04T04:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-04T05:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853290256726143371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1841050394375380998",
+          "start": 0,
+          "username": "wmyzzzzt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853290256726143371",
+    "in_reply_to_user_id": "1841050394375380998",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853286360301609394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmyzzzzt 太好了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1853010672822428051",
+        "created_at": "2024-11-04T04:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T05:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853290256726143371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1841050394375380998",
+              "start": 0,
+              "username": "wmyzzzzt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853290256726143371",
+        "in_reply_to_user_id": "1841050394375380998",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853286360301609394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmyzzzzt 太好了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841050394375380998",
+        "conversation_id": "1853010672822428051",
+        "created_at": "2024-11-04T04:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T05:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853286360301609394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853286360301609394",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853286110824431944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 啊啊咕咚老師回來了我好高興！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 288,
+          "like_count": 988,
+          "listed_count": 0,
+          "tweet_count": 3056
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T09:40:03.000Z",
+        "description": "第二次生命",
+        "id": "1841050394375380998",
+        "location": "以42马赫飞行的人类第三节脊椎骨",
+        "name": "禁煙",
+        "pinned_tweet_id": "1847161456149909679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844046955942469632/pgz3_TMZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 140,
+          "like_count": 1918,
+          "listed_count": 0,
+          "tweet_count": 471
+        },
+        "username": "wmyzzzzt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1979698624964780458",
+    "created_at": "2025-10-19T07:02:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T08:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979805265823506886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1293074266515099648",
+          "start": 0,
+          "username": "Plaskid_9244"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979805265823506886",
+    "in_reply_to_user_id": "1293074266515099648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979757700478324770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Plaskid_9244 真啊我抢到票就会去没抢到票买黄牛也会去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1979698624964780458",
+        "created_at": "2025-10-19T07:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T08:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979805265823506886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1293074266515099648",
+              "start": 0,
+              "username": "Plaskid_9244"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979805265823506886",
+        "in_reply_to_user_id": "1293074266515099648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979757700478324770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Plaskid_9244 真啊我抢到票就会去没抢到票买黄牛也会去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1293074266515099648",
+        "conversation_id": "1979698624964780458",
+        "created_at": "2025-10-19T03:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T04:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979757700478324770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979757700478324770",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979732441880478026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 真的假的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 482,
+          "like_count": 1505,
+          "listed_count": 2,
+          "media_count": 296,
+          "tweet_count": 5095
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-11T06:38:41.000Z",
+        "description": "一個沒有雙休的三流高中生/我忘了我是EN還是IN/草你媽榮格/Wovon man nicht sprechen kann, darüber muß man schweigen./也許選擇去死",
+        "id": "1293074266515099648",
+        "location": "Newcastle,UK",
+        "name": "v0dkakillzmyenvyy",
+        "pinned_tweet_id": "1977044514859893148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944718997355728896/2k3ZS-Bt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 702,
+          "like_count": 3950,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 576
+        },
+        "username": "Plaskid_9244",
+        "verified": false
+      }
+    ]
+  }
+}

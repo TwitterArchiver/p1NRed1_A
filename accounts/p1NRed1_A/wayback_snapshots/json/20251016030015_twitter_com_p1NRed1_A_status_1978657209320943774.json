@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1978517089406087661",
+    "created_at": "2025-10-16T03:00:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T04:00:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978657209320943774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1719239053487349760",
+          "start": 0,
+          "username": "zhongzilong66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978657209320943774",
+    "in_reply_to_user_id": "1719239053487349760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978634779290681383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhongzilong66 问号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1978517089406087661",
+        "created_at": "2025-10-16T03:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T04:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978657209320943774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1719239053487349760",
+              "start": 0,
+              "username": "zhongzilong66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978657209320943774",
+        "in_reply_to_user_id": "1719239053487349760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978634779290681383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhongzilong66 问号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1719239053487349760",
+        "conversation_id": "1978517089406087661",
+        "created_at": "2025-10-16T01:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T02:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978634779290681383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978634779290681383",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978632634604421367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 搞半天你搁这儿耍我呢😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 474,
+          "like_count": 1494,
+          "listed_count": 2,
+          "media_count": 289,
+          "tweet_count": 5035
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-31T06:25:25.000Z",
+        "description": "性别男，爱冒险，爱运动，我是幽默绿叶，我为自己代言。",
+        "id": "1719239053487349760",
+        "name": "幽默绿叶",
+        "pinned_tweet_id": "1963869634798514552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939673645829197824/RzeZpXrU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 781,
+          "like_count": 11463,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 1058
+        },
+        "username": "zhongzilong66",
+        "verified": false
+      }
+    ]
+  }
+}

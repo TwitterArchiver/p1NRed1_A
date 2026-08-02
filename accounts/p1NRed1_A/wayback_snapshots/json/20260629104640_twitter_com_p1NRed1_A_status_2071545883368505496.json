@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071545876129239040"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "2071545883368505496",
+    "created_at": "2026-06-29T10:46:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T11:46:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071545883368505496"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/k8V0hCHKXC",
+          "end": 25,
+          "expanded_url": "https://x.com/p1NRed1_A/status/2071545883368505496/photo/1",
+          "media_key": "3_2071545876129239040",
+          "start": 2,
+          "url": "https://t.co/k8V0hCHKXC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071545883368505496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "稿 https://t.co/k8V0hCHKXC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 805,
+        "media_key": "3_2071545876129239040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-b_7Kb0AAZaGa.jpg",
+        "width": 1009
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071545876129239040"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "2071545883368505496",
+        "created_at": "2026-06-29T10:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T11:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071545883368505496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k8V0hCHKXC",
+              "end": 25,
+              "expanded_url": "https://x.com/p1NRed1_A/status/2071545883368505496/photo/1",
+              "media_key": "3_2071545876129239040",
+              "start": 2,
+              "url": "https://t.co/k8V0hCHKXC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071545883368505496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "稿 https://t.co/k8V0hCHKXC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 584,
+          "like_count": 1691,
+          "listed_count": 3,
+          "media_count": 393,
+          "tweet_count": 6516
+        },
+        "url": "",
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

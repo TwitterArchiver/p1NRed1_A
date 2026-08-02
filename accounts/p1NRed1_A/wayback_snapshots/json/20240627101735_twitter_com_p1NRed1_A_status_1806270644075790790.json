@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1806229329380044889",
+    "created_at": "2024-06-27T10:17:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-27T11:17:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806270644075790790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1753324501167960064",
+          "start": 0,
+          "username": "tachibanalove01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806270644075790790",
+    "in_reply_to_user_id": "1753324501167960064",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806229329380044889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tachibanalove01 你在我家吧这个点谁要杀你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1806229329380044889",
+        "created_at": "2024-06-27T10:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T11:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806270644075790790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1753324501167960064",
+              "start": 0,
+              "username": "tachibanalove01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806270644075790790",
+        "in_reply_to_user_id": "1753324501167960064",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806229329380044889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tachibanalove01 你在我家吧这个点谁要杀你"
+      },
+      {
+        "attachments": {},
+        "author_id": "1753324501167960064",
+        "conversation_id": "1806229329380044889",
+        "created_at": "2024-06-27T07:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T08:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806229329380044889"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1806229329380044889",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被害妄想。医生说之前我描述的不算是被害妄想，现在是了我想。\n\n清晰的有两个人想要害我杀我，还是干什么的，不是什么好东西。总之我很害怕，周围都是黑的，还有两个黑影在身边我很难入睡，我根本睡不着，知道门外有人拿着利器怎么可能睡着？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563382332014593/-06gBRx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 206,
+          "like_count": 441,
+          "listed_count": 0,
+          "tweet_count": 1792
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T07:48:51.000Z",
+        "description": "ヨルシカ/神聖かまってちゃん/骂我先骂@p1NRed1_A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "p1NRed1_A"
+              }
+            ]
+          }
+        },
+        "id": "1753324501167960064",
+        "location": "你心里",
+        "name": "穗西德",
+        "pinned_tweet_id": "1805982958525747496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563451064172551/1AouX01P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 344,
+          "like_count": 1654,
+          "listed_count": 0,
+          "tweet_count": 1246
+        },
+        "username": "tachibanalove01",
+        "verified": false
+      }
+    ]
+  }
+}

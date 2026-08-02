@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1912565532496392305",
+    "created_at": "2025-04-17T09:27:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T10:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912800129721221242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1533358828523335680",
+          "start": 0,
+          "username": "IsabellaQVO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912800129721221242",
+    "in_reply_to_user_id": "1533358828523335680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912565532496392305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IsabellaQVO 憋啥大的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1912565532496392305",
+        "created_at": "2025-04-17T09:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T10:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912800129721221242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1533358828523335680",
+              "start": 0,
+              "username": "IsabellaQVO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912800129721221242",
+        "in_reply_to_user_id": "1533358828523335680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912565532496392305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IsabellaQVO 憋啥大的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533358828523335680",
+        "conversation_id": "1912565532496392305",
+        "created_at": "2025-04-16T17:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T18:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912565532496392305"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912565532496392305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "戒酒，憋个大的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910291251003547648/-uuCvZrl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 366,
+          "like_count": 1154,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 3559
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-05T08:03:36.000Z",
+        "description": "嘘",
+        "id": "1533358828523335680",
+        "name": "Isabella^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895157558756732928/4i6YBdve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 274,
+          "like_count": 15179,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 844
+        },
+        "username": "IsabellaQVO",
+        "verified": false
+      }
+    ]
+  }
+}

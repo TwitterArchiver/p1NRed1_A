@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1889514865057828864"
+      ],
+      "media_source_tweet_id": [
+        "1889514979377770888"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "2054932396647334244",
+    "created_at": "2026-05-14T14:30:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T15:30:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054932396647334244"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6onQDYRlzk",
+          "end": 35,
+          "expanded_url": "https://x.com/fistandhedgehog/status/1889514979377770888/video/1",
+          "media_key": "13_1889514865057828864",
+          "start": 12,
+          "url": "https://t.co/6onQDYRlzk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054932396647334244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这他妈是咋做到的好变态 https://t.co/6onQDYRlzk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 159233,
+        "height": 1920,
+        "media_key": "13_1889514865057828864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1889514865057828864/img/kDusE3DQ0ubxF5w5.jpg",
+        "public_metrics": {
+          "view_count": 850857
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1889514865057828864/vid/avc1/1080x1920/Y7COv3vd-RPKJa3M.mp4?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1889514865057828864/vid/avc1/320x568/Leqlp0uIAcKU20-I.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1889514865057828864/vid/avc1/720x1280/n3KpQVvLwpXcGjAq.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1889514865057828864/vid/avc1/480x852/rVsQVVar7ZICTX4o.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1889514865057828864/pl/T0t2Pa10n9QTQBbi.m3u8?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1889514865057828864"
+          ],
+          "media_source_tweet_id": [
+            "1889514979377770888"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "2054932396647334244",
+        "created_at": "2026-05-14T14:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054932396647334244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6onQDYRlzk",
+              "end": 35,
+              "expanded_url": "https://x.com/fistandhedgehog/status/1889514979377770888/video/1",
+              "media_key": "13_1889514865057828864",
+              "start": 12,
+              "url": "https://t.co/6onQDYRlzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054932396647334244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这他妈是咋做到的好变态 https://t.co/6onQDYRlzk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 566,
+          "like_count": 1657,
+          "listed_count": 3,
+          "media_count": 355,
+          "tweet_count": 6210
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

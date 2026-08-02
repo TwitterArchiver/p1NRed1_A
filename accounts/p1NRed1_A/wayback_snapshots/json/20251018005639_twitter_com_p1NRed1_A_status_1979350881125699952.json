@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1979350881125699952",
+    "created_at": "2025-10-18T00:56:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T01:56:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979350881125699952"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ddzhanshou5150…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/ddzhanshou5150/status/1979128342109446322",
+          "start": 2,
+          "url": "https://t.co/7HTvtKQPl8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979350881125699952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979128342109446322",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/7HTvtKQPl8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_1979128332668059648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3dGu5GXQAAguP-.png",
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1979350881125699952",
+        "created_at": "2025-10-18T00:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T01:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979350881125699952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ddzhanshou5150…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/ddzhanshou5150/status/1979128342109446322",
+              "start": 2,
+              "url": "https://t.co/7HTvtKQPl8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979350881125699952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979128342109446322",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/7HTvtKQPl8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979128332668059648"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1979128342109446322",
+        "created_at": "2025-10-17T10:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T11:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979128342109446322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t3k6Iuk9Tj",
+              "end": 28,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1979128342109446322/photo/1",
+              "media_key": "3_1979128332668059648",
+              "start": 5,
+              "url": "https://t.co/t3k6Iuk9Tj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979128342109446322",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 13970,
+          "like_count": 257,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "awmc https://t.co/t3k6Iuk9Tj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 480,
+          "like_count": 1499,
+          "listed_count": 2,
+          "media_count": 292,
+          "tweet_count": 5070
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7773,
+          "following_count": 7087,
+          "like_count": 25241,
+          "listed_count": 15,
+          "media_count": 5585,
+          "tweet_count": 37259
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

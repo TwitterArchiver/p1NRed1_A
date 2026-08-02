@@ -1,0 +1,492 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996742952261947392",
+        "3_1996742952270372864",
+        "3_1996742952249376768",
+        "3_1996742952270409728"
+      ],
+      "media_source_tweet_id": [
+        "1996742969710219754",
+        "1996742969710219754",
+        "1996742969710219754",
+        "1996742969710219754"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1997176874129346699",
+    "created_at": "2025-12-06T05:30:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T06:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997176874129346699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "911904079558963200",
+          "start": 3,
+          "username": "AnbigH"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PFJzYspCH6",
+          "end": 56,
+          "expanded_url": "https://x.com/AnbigH/status/1996742969710219754/photo/1",
+          "media_key": "3_1996742952261947392",
+          "start": 33,
+          "url": "https://t.co/PFJzYspCH6"
+        },
+        {
+          "display_url": "pic.x.com/PFJzYspCH6",
+          "end": 56,
+          "expanded_url": "https://x.com/AnbigH/status/1996742969710219754/photo/1",
+          "media_key": "3_1996742952270372864",
+          "start": 33,
+          "url": "https://t.co/PFJzYspCH6"
+        },
+        {
+          "display_url": "pic.x.com/PFJzYspCH6",
+          "end": 56,
+          "expanded_url": "https://x.com/AnbigH/status/1996742969710219754/photo/1",
+          "media_key": "3_1996742952249376768",
+          "start": 33,
+          "url": "https://t.co/PFJzYspCH6"
+        },
+        {
+          "display_url": "pic.x.com/PFJzYspCH6",
+          "end": 56,
+          "expanded_url": "https://x.com/AnbigH/status/1996742969710219754/photo/1",
+          "media_key": "3_1996742952270409728",
+          "start": 33,
+          "url": "https://t.co/PFJzYspCH6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997176874129346699",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996742969710219754",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AnbigH: 絶望先生\nDonut Hole イラスト https://t.co/PFJzYspCH6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1996742952261947392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7XbIslWkAADk6S.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_1996742952270372864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7XbIsnXIAAqv7f.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_1996742952249376768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7XbIsiWwAAcHOa.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_1996742952270409728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7XbIsnXsAAh-FR.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996742952261947392",
+            "3_1996742952270372864",
+            "3_1996742952249376768",
+            "3_1996742952270409728"
+          ],
+          "media_source_tweet_id": [
+            "1996742969710219754",
+            "1996742969710219754",
+            "1996742969710219754",
+            "1996742969710219754"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1997176874129346699",
+        "created_at": "2025-12-06T05:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T06:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997176874129346699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "911904079558963200",
+              "start": 3,
+              "username": "AnbigH"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PFJzYspCH6",
+              "end": 56,
+              "expanded_url": "https://x.com/AnbigH/status/1996742969710219754/photo/1",
+              "media_key": "3_1996742952261947392",
+              "start": 33,
+              "url": "https://t.co/PFJzYspCH6"
+            },
+            {
+              "display_url": "pic.x.com/PFJzYspCH6",
+              "end": 56,
+              "expanded_url": "https://x.com/AnbigH/status/1996742969710219754/photo/1",
+              "media_key": "3_1996742952270372864",
+              "start": 33,
+              "url": "https://t.co/PFJzYspCH6"
+            },
+            {
+              "display_url": "pic.x.com/PFJzYspCH6",
+              "end": 56,
+              "expanded_url": "https://x.com/AnbigH/status/1996742969710219754/photo/1",
+              "media_key": "3_1996742952249376768",
+              "start": 33,
+              "url": "https://t.co/PFJzYspCH6"
+            },
+            {
+              "display_url": "pic.x.com/PFJzYspCH6",
+              "end": 56,
+              "expanded_url": "https://x.com/AnbigH/status/1996742969710219754/photo/1",
+              "media_key": "3_1996742952270409728",
+              "start": 33,
+              "url": "https://t.co/PFJzYspCH6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997176874129346699",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996742969710219754",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AnbigH: 絶望先生\nDonut Hole イラスト https://t.co/PFJzYspCH6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996742952261947392",
+            "3_1996742952270372864",
+            "3_1996742952249376768",
+            "3_1996742952270409728"
+          ]
+        },
+        "author_id": "911904079558963200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1996742969710219754",
+        "created_at": "2025-12-05T00:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T01:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996742969710219754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PFJzYspCH6",
+              "end": 44,
+              "expanded_url": "https://x.com/AnbigH/status/1996742969710219754/photo/1",
+              "media_key": "3_1996742952261947392",
+              "start": 21,
+              "url": "https://t.co/PFJzYspCH6"
+            },
+            {
+              "display_url": "pic.x.com/PFJzYspCH6",
+              "end": 44,
+              "expanded_url": "https://x.com/AnbigH/status/1996742969710219754/photo/1",
+              "media_key": "3_1996742952270372864",
+              "start": 21,
+              "url": "https://t.co/PFJzYspCH6"
+            },
+            {
+              "display_url": "pic.x.com/PFJzYspCH6",
+              "end": 44,
+              "expanded_url": "https://x.com/AnbigH/status/1996742969710219754/photo/1",
+              "media_key": "3_1996742952249376768",
+              "start": 21,
+              "url": "https://t.co/PFJzYspCH6"
+            },
+            {
+              "display_url": "pic.x.com/PFJzYspCH6",
+              "end": 44,
+              "expanded_url": "https://x.com/AnbigH/status/1996742969710219754/photo/1",
+              "media_key": "3_1996742952270409728",
+              "start": 21,
+              "url": "https://t.co/PFJzYspCH6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996742969710219754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 710,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "絶望先生\nDonut Hole イラスト https://t.co/PFJzYspCH6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 497,
+          "like_count": 1575,
+          "listed_count": 2,
+          "media_count": 311,
+          "tweet_count": 5353
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-24T10:44:09.000Z",
+        "description": "中国人です よろしく! \n中文（简/繁）ok，English ok，日本語 勉強中。\n絵を描くことが好き、勉強します！",
+        "id": "911904079558963200",
+        "name": "Coriander🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995611831797485568/NfIF_2qZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 76,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 60
+        },
+        "username": "AnbigH",
+        "verified": false
+      }
+    ]
+  }
+}

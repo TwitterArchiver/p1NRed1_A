@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2069162491419254853",
+    "created_at": "2026-06-23T15:26:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T16:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069441976693629088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1244543552652054528",
+          "start": 0,
+          "username": "Greenfish_111"
+        },
+        {
+          "end": 28,
+          "id": "1984128211018829824",
+          "start": 15,
+          "username": "kangkangk520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069441976693629088",
+    "in_reply_to_user_id": "1244543552652054528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069274300000113128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Greenfish_111 @kangkangk520 我和我对象是在推特认识的但是我俩特别健康"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2069162491419254853",
+        "created_at": "2026-06-23T15:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069441976693629088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1244543552652054528",
+              "start": 0,
+              "username": "Greenfish_111"
+            },
+            {
+              "end": 28,
+              "id": "1984128211018829824",
+              "start": 15,
+              "username": "kangkangk520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069441976693629088",
+        "in_reply_to_user_id": "1244543552652054528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069274300000113128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Greenfish_111 @kangkangk520 我和我对象是在推特认识的但是我俩特别健康"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244543552652054528",
+        "conversation_id": "2069162491419254853",
+        "created_at": "2026-06-23T04:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069274300000113128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1984128211018829824",
+              "start": 0,
+              "username": "kangkangk520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069274300000113128",
+        "in_reply_to_user_id": "1984128211018829824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1016,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069162491419254853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kangkangk520 对呀 我也一直很好奇这个问题 想要特别的关系 不想跟那种有目的性的为恋爱而恋爱的人往来 很讨厌那些玩soul之类软件的人。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 559,
+          "like_count": 1664,
+          "listed_count": 3,
+          "media_count": 374,
+          "tweet_count": 6349
+        },
+        "url": "",
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "糖在风中无力地裂开\nbpd/日常号@flyfrog_222/我的画@woyaosleep444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "flyfrog_222"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "woyaosleep444"
+              }
+            ]
+          }
+        },
+        "id": "1244543552652054528",
+        "location": "Silent Hill    ",
+        "name": "冰冷電子魚",
+        "pinned_tweet_id": "2069292400196125097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066084271341842432/5hKNs9Kr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5045,
+          "following_count": 550,
+          "like_count": 13303,
+          "listed_count": 8,
+          "media_count": 1076,
+          "tweet_count": 14296
+        },
+        "url": "",
+        "username": "Greenfish_111",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T05:20:18.000Z",
+        "description": "碎碎念 梦想当恋爱博主（switch）\n男的找我说话卡颜 卡身材 不约炮 不聊骚 不扩列 给我发吧唧和盗图死全家私信有兴趣的会（单取双取的别找我互，盗图的和空白号也滚）\n女生互关可＋v",
+        "id": "1984128211018829824",
+        "location": "爱我就给我转账",
+        "name": "猫猫头",
+        "pinned_tweet_id": "2068386736397598953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048819201020997632/FnWNeDhR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 33,
+          "like_count": 3421,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 909
+        },
+        "url": "",
+        "username": "kangkangk520",
+        "verified": false
+      }
+    ]
+  }
+}

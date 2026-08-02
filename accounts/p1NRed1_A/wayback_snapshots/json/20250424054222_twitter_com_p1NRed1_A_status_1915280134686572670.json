@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1915280128063791107"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1915280134686572670",
+    "created_at": "2025-04-24T05:42:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T06:42:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1915280134686572670"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5B77uLklLV",
+          "end": 30,
+          "expanded_url": "https://x.com/p1NRed1_A/status/1915280134686572670/photo/1",
+          "media_key": "3_1915280128063791107",
+          "start": 7,
+          "url": "https://t.co/5B77uLklLV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915280134686572670",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "。。。嗯就是 https://t.co/5B77uLklLV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 370,
+        "media_key": "3_1915280128063791107",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpRxIP6bYAMnMtR.jpg",
+        "width": 1010
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915280128063791107"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1915280134686572670",
+        "created_at": "2025-04-24T05:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T06:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915280134686572670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5B77uLklLV",
+              "end": 30,
+              "expanded_url": "https://x.com/p1NRed1_A/status/1915280134686572670/photo/1",
+              "media_key": "3_1915280128063791107",
+              "start": 7,
+              "url": "https://t.co/5B77uLklLV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915280134686572670",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "。。。嗯就是 https://t.co/5B77uLklLV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 385,
+          "like_count": 1158,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 3627
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

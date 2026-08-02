@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2082105558728085873",
+    "created_at": "2026-07-28T19:13:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T20:13:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082182679668351066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1591263074949816320",
+          "start": 0,
+          "username": "DontharmHw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082182679668351066",
+    "in_reply_to_user_id": "1591263074949816320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082153692384592302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DontharmHw 有时候死了也算解脱吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2082105558728085873",
+        "created_at": "2026-07-28T19:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T20:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082182679668351066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1591263074949816320",
+              "start": 0,
+              "username": "DontharmHw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082182679668351066",
+        "in_reply_to_user_id": "1591263074949816320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082153692384592302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DontharmHw 有时候死了也算解脱吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591263074949816320",
+        "conversation_id": "2082105558728085873",
+        "created_at": "2026-07-28T17:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082153692384592302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082153692384592302",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082105558728085873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 是这样，，，但是对好朋友非但不关心还劝死又很那个，，。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/9GooAZ0z7o"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "死全家星",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076577294790139904/Fz-jPCGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 590,
+          "like_count": 1804,
+          "listed_count": 3,
+          "media_count": 446,
+          "tweet_count": 7205
+        },
+        "url": "https://t.co/9GooAZ0z7o",
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-12T02:54:25.000Z",
+        "description": "抱歉，抱歉，抱歉，抱歉",
+        "id": "1591263074949816320",
+        "location": "？",
+        "name": "海雾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764952852139819008/oUL-6L6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 77,
+          "like_count": 294,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 144
+        },
+        "url": "",
+        "username": "DontharmHw",
+        "verified": false
+      }
+    ]
+  }
+}

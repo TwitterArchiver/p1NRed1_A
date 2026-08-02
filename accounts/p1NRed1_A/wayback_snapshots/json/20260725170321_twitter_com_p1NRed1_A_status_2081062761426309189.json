@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080889752740671488"
+      ],
+      "media_source_tweet_id": [
+        "2080889761469022573"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "2081062761426309189",
+    "created_at": "2026-07-25T17:03:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T18:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081062761426309189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981638054688501760",
+          "start": 3,
+          "username": "ashasw114514"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MBSyManGBu",
+          "end": 41,
+          "expanded_url": "https://x.com/ashasw114514/status/2080889761469022573/photo/1",
+          "media_key": "3_2080889752740671488",
+          "start": 18,
+          "url": "https://t.co/MBSyManGBu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081062761426309189",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080889761469022573",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ashasw114514: https://t.co/MBSyManGBu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1084,
+        "media_key": "3_2080889752740671488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODONIDbsAAwiMK.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080889752740671488"
+          ]
+        },
+        "author_id": "1981638054688501760",
+        "conversation_id": "2080889761469022573",
+        "created_at": "2026-07-25T05:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080889761469022573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MBSyManGBu",
+              "end": 23,
+              "expanded_url": "https://x.com/ashasw114514/status/2080889761469022573/photo/1",
+              "media_key": "3_2080889752740671488",
+              "start": 0,
+              "url": "https://t.co/MBSyManGBu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080889761469022573",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 8873,
+          "like_count": 101,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MBSyManGBu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080889752740671488"
+          ],
+          "media_source_tweet_id": [
+            "2080889761469022573"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "2081062761426309189",
+        "created_at": "2026-07-25T17:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T18:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081062761426309189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981638054688501760",
+              "start": 3,
+              "username": "ashasw114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MBSyManGBu",
+              "end": 41,
+              "expanded_url": "https://x.com/ashasw114514/status/2080889761469022573/photo/1",
+              "media_key": "3_2080889752740671488",
+              "start": 18,
+              "url": "https://t.co/MBSyManGBu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081062761426309189",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080889761469022573",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ashasw114514: https://t.co/MBSyManGBu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/9GooAZ0z7o"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "死全家星",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076577294790139904/Fz-jPCGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 589,
+          "like_count": 1800,
+          "listed_count": 3,
+          "media_count": 442,
+          "tweet_count": 7138
+        },
+        "url": "https://t.co/9GooAZ0z7o",
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52\n@dual_runplex",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "dual_runplex"
+              }
+            ]
+          }
+        },
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5374,
+          "following_count": 3797,
+          "like_count": 9354,
+          "listed_count": 14,
+          "media_count": 774,
+          "tweet_count": 6726
+        },
+        "url": "",
+        "username": "ashasw114514",
+        "verified": false
+      }
+    ]
+  }
+}

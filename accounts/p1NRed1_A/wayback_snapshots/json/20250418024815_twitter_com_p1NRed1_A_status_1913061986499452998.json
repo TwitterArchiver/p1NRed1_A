@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1913061986499452998",
+    "created_at": "2025-04-18T02:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T03:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913061986499452998"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kansj68531/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/kansj68531/status/1912514080755400745",
+          "start": 2,
+          "url": "https://t.co/80kzeGuZrD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913061986499452998",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912514080755400745",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "a https://t.co/80kzeGuZrD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1913061986499452998",
+        "created_at": "2025-04-18T02:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T03:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913061986499452998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kansj68531/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/kansj68531/status/1912514080755400745",
+              "start": 2,
+              "url": "https://t.co/80kzeGuZrD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913061986499452998",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912514080755400745",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "a https://t.co/80kzeGuZrD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1912514080755400745",
+        "created_at": "2025-04-16T14:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T15:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912514080755400745"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912514080755400745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6965,
+          "like_count": 43,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "我还剩2t小鸭丸要不抽了吧，关注我转这条贴的里面抽一个。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910291251003547648/-uuCvZrl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 372,
+          "like_count": 1153,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 3563
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "会回复用药咨询，但不闲聊，想聊天请过🚪。",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1912053212850589786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4544,
+          "following_count": 51,
+          "like_count": 616,
+          "listed_count": 10,
+          "media_count": 12,
+          "tweet_count": 38
+        },
+        "username": "kansj68531",
+        "verified": false
+      }
+    ]
+  }
+}

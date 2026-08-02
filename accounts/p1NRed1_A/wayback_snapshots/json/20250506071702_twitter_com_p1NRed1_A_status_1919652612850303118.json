@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1919612826265780229"
+      ],
+      "media_source_tweet_id": [
+        "1919612834612457803"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1919652612850303118",
+    "created_at": "2025-05-06T07:17:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T08:17:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919652612850303118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1897916963860758529",
+          "start": 3,
+          "username": "Kafuka_Smile"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9W9FGZ2dNu",
+          "end": 54,
+          "expanded_url": "https://x.com/Kafuka_Smile/status/1919612834612457803/photo/1",
+          "media_key": "3_1919612826265780229",
+          "start": 31,
+          "url": "https://t.co/9W9FGZ2dNu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919652612850303118",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919612834612457803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kafuka_Smile: いちご狩り行ってきた✌️ https://t.co/9W9FGZ2dNu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1919612826265780229",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqPVsefbAAUSz3M.jpg",
+        "width": 1870
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919612826265780229"
+          ],
+          "media_source_tweet_id": [
+            "1919612834612457803"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1919652612850303118",
+        "created_at": "2025-05-06T07:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T08:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919652612850303118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1897916963860758529",
+              "start": 3,
+              "username": "Kafuka_Smile"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9W9FGZ2dNu",
+              "end": 54,
+              "expanded_url": "https://x.com/Kafuka_Smile/status/1919612834612457803/photo/1",
+              "media_key": "3_1919612826265780229",
+              "start": 31,
+              "url": "https://t.co/9W9FGZ2dNu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919652612850303118",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919612834612457803",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kafuka_Smile: いちご狩り行ってきた✌️ https://t.co/9W9FGZ2dNu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919612826265780229"
+          ]
+        },
+        "author_id": "1897916963860758529",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1919612834612457803",
+        "created_at": "2025-05-06T04:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T05:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919612834612457803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9W9FGZ2dNu",
+              "end": 36,
+              "expanded_url": "https://x.com/Kafuka_Smile/status/1919612834612457803/photo/1",
+              "media_key": "3_1919612826265780229",
+              "start": 13,
+              "url": "https://t.co/9W9FGZ2dNu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919612834612457803",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "いちご狩り行ってきた✌️ https://t.co/9W9FGZ2dNu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 399,
+          "like_count": 1200,
+          "listed_count": 1,
+          "media_count": 208,
+          "tweet_count": 3807
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T07:47:39.000Z",
+        "description": "可符香ちゃんが好き",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Kafukadiary",
+                "end": 23,
+                "expanded_url": "https://lit.link/Kafukadiary",
+                "start": 0,
+                "url": "https://t.co/1rgOOIxl5b"
+              }
+            ]
+          }
+        },
+        "id": "1897916963860758529",
+        "location": "イラストは稀",
+        "name": "らな",
+        "pinned_tweet_id": "1902785658403557670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898260279370432513/jverpYM2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 19,
+          "like_count": 341,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 343
+        },
+        "url": "https://t.co/1rgOOIxl5b",
+        "username": "Kafuka_Smile",
+        "verified": false
+      }
+    ]
+  }
+}

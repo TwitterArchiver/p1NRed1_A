@@ -1,0 +1,781 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Pantera",
+          "id": "897477473977286656",
+          "name": "Pantera"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Pantera",
+          "id": "897477473977286656",
+          "name": "Pantera"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Metal",
+          "id": "849684649840214020",
+          "name": "Heavy metal"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pantera",
+          "id": "897477473977286656",
+          "name": "Pantera"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293191811561709575",
+          "name": "Indie & Alternative"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293246567390965761",
+          "name": "Alternative metal"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1369639427002175488",
+          "name": "The 90s"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1410504549006135296",
+          "name": "Cultural history"
+        }
+      }
+    ],
+    "conversation_id": "2003125208019005660",
+    "created_at": "2025-12-22T15:27:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T16:27:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003125208019005660"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "Fumo Patchouli",
+          "probability": 0.7504,
+          "start": 19,
+          "type": "Person"
+        },
+        {
+          "end": 72,
+          "normalized_text": "Pantera",
+          "probability": 0.3296,
+          "start": 66,
+          "type": "Organization"
+        },
+        {
+          "end": 92,
+          "normalized_text": "Cowboys From Hell",
+          "probability": 0.5914,
+          "start": 76,
+          "type": "Other"
+        },
+        {
+          "end": 118,
+          "normalized_text": "Cowboys From Hell",
+          "probability": 0.9188,
+          "start": 102,
+          "type": "Other"
+        },
+        {
+          "end": 138,
+          "normalized_text": "Groov",
+          "probability": 0.4039,
+          "start": 134,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1507107662265139217",
+          "start": 3,
+          "username": "AsthmaticMage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003125208019005660",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002136992868708511",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AsthmaticMage: Fumo Patchouli Knowledge Music of the Day 542:\nPantera - Cowboys From Hell \nAlbum: Cowboys From Hell (1990)\nGenre: Groov…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 55872,
+        "height": 2160,
+        "media_key": "13_2001955377706143744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2001955377706143744/img/9E0pigaaxZtAsF7H.jpg",
+        "public_metrics": {
+          "view_count": 335
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001955377706143744/vid/avc1/424x270/TL9oL3JNKGJXMLRv.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001955377706143744/vid/avc1/564x360/nXRsOUsptsHcMFZk.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001955377706143744/vid/avc1/1130x720/93SYWkp20zuqws_k.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2001955377706143744/pl/ZA3xc4DdFsecy_5h.m3u8?tag=14"
+          }
+        ],
+        "width": 3392
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Pantera",
+              "id": "897477473977286656",
+              "name": "Pantera"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Pantera",
+              "id": "897477473977286656",
+              "name": "Pantera"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Metal",
+              "id": "849684649840214020",
+              "name": "Heavy metal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pantera",
+              "id": "897477473977286656",
+              "name": "Pantera"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293191811561709575",
+              "name": "Indie & Alternative"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293246567390965761",
+              "name": "Alternative metal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1369639427002175488",
+              "name": "The 90s"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1410504549006135296",
+              "name": "Cultural history"
+            }
+          }
+        ],
+        "conversation_id": "2003125208019005660",
+        "created_at": "2025-12-22T15:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T16:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003125208019005660"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "Fumo Patchouli",
+              "probability": 0.7504,
+              "start": 19,
+              "type": "Person"
+            },
+            {
+              "end": 72,
+              "normalized_text": "Pantera",
+              "probability": 0.3296,
+              "start": 66,
+              "type": "Organization"
+            },
+            {
+              "end": 92,
+              "normalized_text": "Cowboys From Hell",
+              "probability": 0.5914,
+              "start": 76,
+              "type": "Other"
+            },
+            {
+              "end": 118,
+              "normalized_text": "Cowboys From Hell",
+              "probability": 0.9188,
+              "start": 102,
+              "type": "Other"
+            },
+            {
+              "end": 138,
+              "normalized_text": "Groov",
+              "probability": 0.4039,
+              "start": 134,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1507107662265139217",
+              "start": 3,
+              "username": "AsthmaticMage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003125208019005660",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002136992868708511",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AsthmaticMage: Fumo Patchouli Knowledge Music of the Day 542:\nPantera - Cowboys From Hell \nAlbum: Cowboys From Hell (1990)\nGenre: Groov…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001955377706143744"
+          ]
+        },
+        "author_id": "1507107662265139217",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Pantera",
+              "id": "897477473977286656",
+              "name": "Pantera"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Pantera",
+              "id": "897477473977286656",
+              "name": "Pantera"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Metal",
+              "id": "849684649840214020",
+              "name": "Heavy metal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Metal",
+              "id": "849684649840214020",
+              "name": "Heavy metal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pantera",
+              "id": "897477473977286656",
+              "name": "Pantera"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293191811561709575",
+              "name": "Indie & Alternative"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293246567390965761",
+              "name": "Alternative metal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1369639427002175488",
+              "name": "The 90s"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1410504549006135296",
+              "name": "Cultural history"
+            }
+          }
+        ],
+        "conversation_id": "2002136992868708511",
+        "created_at": "2025-12-19T22:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T23:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002136992868708511"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "Fumo Patchouli",
+              "probability": 0.6881,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 53,
+              "normalized_text": "Pantera",
+              "probability": 0.5146,
+              "start": 47,
+              "type": "Organization"
+            },
+            {
+              "end": 73,
+              "normalized_text": "Cowboys From Hell",
+              "probability": 0.6894,
+              "start": 57,
+              "type": "Other"
+            },
+            {
+              "end": 99,
+              "normalized_text": "Cowboys From Hell",
+              "probability": 0.9231,
+              "start": 83,
+              "type": "Other"
+            },
+            {
+              "end": 126,
+              "normalized_text": "Groove Metal",
+              "probability": 0.5751,
+              "start": 115,
+              "type": "Other"
+            },
+            {
+              "end": 139,
+              "normalized_text": "Thrash Metal",
+              "probability": 0.5591,
+              "start": 128,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t4KpJyPcWn",
+              "end": 200,
+              "expanded_url": "https://x.com/AsthmaticMage/status/2002136992868708511/video/1",
+              "media_key": "13_2001955377706143744",
+              "start": 177,
+              "url": "https://t.co/t4KpJyPcWn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002136992868708511",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 934,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "Fumo Patchouli Knowledge Music of the Day 542:\nPantera - Cowboys From Hell \nAlbum: Cowboys From Hell (1990)\nGenre: Groove Metal/Thrash Metal\n\n Great song with a banger riff 😮‍💨 https://t.co/t4KpJyPcWn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "我擅长产出大粪",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 494,
+          "like_count": 1596,
+          "listed_count": 2,
+          "media_count": 320,
+          "tweet_count": 5447
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-24T21:30:54.000Z",
+        "description": "Touhou and music posting. Don't be hateful. Almost all content is made by me. Check pinned message if you want to send me a vid submission! Main: @GospelBurnout",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 146,
+                "username": "GospelBurnout"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "asthmaticmage.straw.page",
+                "end": 23,
+                "expanded_url": "https://asthmaticmage.straw.page/",
+                "start": 0,
+                "url": "https://t.co/G2LQ8hSTHe"
+              }
+            ]
+          }
+        },
+        "id": "1507107662265139217",
+        "location": "Pfp made by @rnna_7",
+        "name": "Patchy’s Music Box",
+        "pinned_tweet_id": "1996849694451159470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911207592984002564/WAXBkGE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3867,
+          "following_count": 424,
+          "like_count": 28538,
+          "listed_count": 7,
+          "media_count": 2774,
+          "tweet_count": 6308
+        },
+        "url": "https://t.co/G2LQ8hSTHe",
+        "username": "AsthmaticMage",
+        "verified": false
+      }
+    ]
+  }
+}

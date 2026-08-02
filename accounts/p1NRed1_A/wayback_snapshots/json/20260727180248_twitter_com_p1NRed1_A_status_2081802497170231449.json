@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Vaping",
+          "id": "1047109035600764929",
+          "name": "Vaping"
+        }
+      }
+    ],
+    "conversation_id": "2081802497170231449",
+    "created_at": "2026-07-27T18:02:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T19:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081802497170231449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1326318467994316800",
+          "start": 3,
+          "username": "youngyohns"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081802497170231449",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 107
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081480248353308851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youngyohns: I just read what weed vapes do to peoples lungs so after today no more reading"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Vaping",
+              "id": "1047109035600764929",
+              "name": "Vaping"
+            }
+          }
+        ],
+        "conversation_id": "2081802497170231449",
+        "created_at": "2026-07-27T18:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T19:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081802497170231449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1326318467994316800",
+              "start": 3,
+              "username": "youngyohns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081802497170231449",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 107
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081480248353308851",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youngyohns: I just read what weed vapes do to peoples lungs so after today no more reading"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1326318467994316800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Vaping",
+              "id": "1047109035600764929",
+              "name": "Vaping"
+            }
+          }
+        ],
+        "conversation_id": "2081480248353308851",
+        "created_at": "2026-07-26T20:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T21:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081480248353308851"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081480248353308851",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 177,
+          "impression_count": 689516,
+          "like_count": 3762,
+          "quote_count": 3,
+          "reply_count": 20,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "I just read what weed vapes do to peoples lungs so after today no more reading"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/9GooAZ0z7o"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "死全家星",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076577294790139904/Fz-jPCGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 586,
+          "like_count": 1802,
+          "listed_count": 3,
+          "media_count": 444,
+          "tweet_count": 7173
+        },
+        "url": "https://t.co/9GooAZ0z7o",
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-11T00:19:10.000Z",
+        "description": "Father/Husband. Sports Bets/Stats. NYY NYG NYK. Crypto/NFT Enthusiast. Opepen/Trademark. Internet Art. Cannabis Connoisseur. Poster Of Shit. 🇺🇸",
+        "id": "1326318467994316800",
+        "location": "United States",
+        "name": "YoungYohns",
+        "pinned_tweet_id": "1653810943057358848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078928649407873024/d3ohXNR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12690,
+          "following_count": 6714,
+          "like_count": 59087,
+          "listed_count": 32,
+          "media_count": 3772,
+          "tweet_count": 22506
+        },
+        "url": "",
+        "username": "youngyohns",
+        "verified": true
+      }
+    ]
+  }
+}

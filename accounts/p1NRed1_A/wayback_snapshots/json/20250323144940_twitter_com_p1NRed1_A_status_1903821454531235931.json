@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1903778871725756416"
+      ],
+      "media_source_tweet_id": [
+        "1903778927631355994"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1903821454531235931",
+    "created_at": "2025-03-23T14:49:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T15:49:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903821454531235931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1312264311365013508",
+          "start": 3,
+          "username": "NIB4A"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IOHCfi7vY9",
+          "end": 34,
+          "expanded_url": "https://x.com/NIB4A/status/1903778927631355994/video/1",
+          "media_key": "13_1903778871725756416",
+          "start": 11,
+          "url": "https://t.co/IOHCfi7vY9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903821454531235931",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903778927631355994",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NIB4A: https://t.co/IOHCfi7vY9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9545,
+        "height": 748,
+        "media_key": "13_1903778871725756416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1903778871725756416/img/UiSDZM5kKg85YPdg.jpg",
+        "public_metrics": {
+          "view_count": 1963
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1903778871725756416/vid/avc1/320x332/e5XQXEEUrJdr-ucQ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1903778871725756416/vid/avc1/480x498/bKCBK59OdOejQ7h2.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1903778871725756416/vid/avc1/720x748/N-YLyFm3TY0MXfDz.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1903778871725756416/pl/mfUsVNbHqhzmVhq8.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1903778871725756416"
+          ],
+          "media_source_tweet_id": [
+            "1903778927631355994"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1903821454531235931",
+        "created_at": "2025-03-23T14:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T15:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903821454531235931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1312264311365013508",
+              "start": 3,
+              "username": "NIB4A"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IOHCfi7vY9",
+              "end": 34,
+              "expanded_url": "https://x.com/NIB4A/status/1903778927631355994/video/1",
+              "media_key": "13_1903778871725756416",
+              "start": 11,
+              "url": "https://t.co/IOHCfi7vY9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903821454531235931",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903778927631355994",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NIB4A: https://t.co/IOHCfi7vY9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1903778871725756416"
+          ]
+        },
+        "author_id": "1312264311365013508",
+        "conversation_id": "1903778927631355994",
+        "created_at": "2025-03-23T12:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T13:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903778927631355994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IOHCfi7vY9",
+              "end": 23,
+              "expanded_url": "https://x.com/NIB4A/status/1903778927631355994/video/1",
+              "media_key": "13_1903778871725756416",
+              "start": 0,
+              "url": "https://t.co/IOHCfi7vY9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903778927631355994",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 7300,
+          "like_count": 586,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IOHCfi7vY9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889564810410627072/YnTsykE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 332,
+          "like_count": 1100,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 3350
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-03T05:32:56.000Z",
+        "description": "ニブ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nib4a",
+                "end": 23,
+                "expanded_url": "https://instagram.com/nib4a",
+                "start": 0,
+                "url": "https://t.co/ccd2NSENcJ"
+              }
+            ]
+          }
+        },
+        "id": "1312264311365013508",
+        "name": "NIBB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1423505249902284807/QpZE1tvr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11045,
+          "following_count": 90,
+          "like_count": 117,
+          "listed_count": 96,
+          "media_count": 358,
+          "tweet_count": 770
+        },
+        "url": "https://t.co/ccd2NSENcJ",
+        "username": "NIB4A",
+        "verified": false
+      }
+    ]
+  }
+}

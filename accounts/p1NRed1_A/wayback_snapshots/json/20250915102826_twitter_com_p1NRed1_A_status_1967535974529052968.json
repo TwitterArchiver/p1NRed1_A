@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966964186665074688"
+      ],
+      "media_source_tweet_id": [
+        "1966964191308230974"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+          "id": "1502374025170882561",
+          "name": "WhatsApp"
+        }
+      }
+    ],
+    "conversation_id": "1967535974529052968",
+    "created_at": "2025-09-15T10:28:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T11:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967535974529052968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1588329160967335936",
+          "start": 3,
+          "username": "toke1wamawaru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ntnsE2fL61",
+          "end": 62,
+          "expanded_url": "https://x.com/toke1wamawaru/status/1966964191308230974/photo/1",
+          "media_key": "3_1966964186665074688",
+          "start": 39,
+          "url": "https://t.co/ntnsE2fL61"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967535974529052968",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 279
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966964191308230974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @toke1wamawaru: you cant be serious https://t.co/ntnsE2fL61"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966964186665074688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0wPgaAWQAArYqk.jpg",
+        "width": 1509
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966964186665074688"
+          ],
+          "media_source_tweet_id": [
+            "1966964191308230974"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+              "id": "1502374025170882561",
+              "name": "WhatsApp"
+            }
+          }
+        ],
+        "conversation_id": "1967535974529052968",
+        "created_at": "2025-09-15T10:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T11:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967535974529052968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1588329160967335936",
+              "start": 3,
+              "username": "toke1wamawaru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ntnsE2fL61",
+              "end": 62,
+              "expanded_url": "https://x.com/toke1wamawaru/status/1966964191308230974/photo/1",
+              "media_key": "3_1966964186665074688",
+              "start": 39,
+              "url": "https://t.co/ntnsE2fL61"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967535974529052968",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 279
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966964191308230974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @toke1wamawaru: you cant be serious https://t.co/ntnsE2fL61"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966964186665074688"
+          ]
+        },
+        "author_id": "1588329160967335936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+              "id": "1502374025170882561",
+              "name": "WhatsApp"
+            }
+          }
+        ],
+        "conversation_id": "1966964191308230974",
+        "created_at": "2025-09-13T20:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T21:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966964191308230974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ntnsE2fL61",
+              "end": 43,
+              "expanded_url": "https://x.com/toke1wamawaru/status/1966964191308230974/photo/1",
+              "media_key": "3_1966964186665074688",
+              "start": 20,
+              "url": "https://t.co/ntnsE2fL61"
+            },
+            {
+              "display_url": "x.com/toke1wamawaru/…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/toke1wamawaru/status/1778269775900389414",
+              "start": 44,
+              "url": "https://t.co/XKjH5VPwQv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966964191308230974",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 312,
+          "impression_count": 39688,
+          "like_count": 2640,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 279
+        },
+        "referenced_tweets": [
+          {
+            "id": "1778269775900389414",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "you cant be serious https://t.co/ntnsE2fL61 https://t.co/XKjH5VPwQv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 444,
+          "like_count": 1382,
+          "listed_count": 2,
+          "media_count": 261,
+          "tweet_count": 4685
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-04T00:36:24.000Z",
+        "description": "art acc of @miracleluminal_ the world is in my seifuku pocket!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "miracleluminal_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anilist.co/user/kyuuseish…",
+                "end": 23,
+                "expanded_url": "https://anilist.co/user/kyuuseishupon/",
+                "start": 0,
+                "url": "https://t.co/79HjOjeFBf"
+              }
+            ]
+          }
+        },
+        "id": "1588329160967335936",
+        "location": "church of rubble",
+        "name": "pon",
+        "pinned_tweet_id": "1797756539534803177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966715046370631680/KQEp9Sc6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 641,
+          "like_count": 62527,
+          "listed_count": 9,
+          "media_count": 2033,
+          "tweet_count": 10839
+        },
+        "url": "https://t.co/79HjOjeFBf",
+        "username": "toke1wamawaru",
+        "verified": false
+      }
+    ]
+  }
+}

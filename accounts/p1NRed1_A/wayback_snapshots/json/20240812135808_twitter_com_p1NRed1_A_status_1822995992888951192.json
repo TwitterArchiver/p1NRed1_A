@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1822995984756219904",
+        "3_1822995984756232193"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1822995992888951192",
+    "created_at": "2024-08-12T13:58:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T14:58:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1822995992888951192"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rfndf3m2la",
+          "end": 29,
+          "expanded_url": "https://twitter.com/p1NRed1_A/status/1822995992888951192/photo/1",
+          "media_key": "3_1822995984756219904",
+          "start": 6,
+          "url": "https://t.co/rFnDF3M2La"
+        },
+        {
+          "display_url": "pic.x.com/rfndf3m2la",
+          "end": 29,
+          "expanded_url": "https://twitter.com/p1NRed1_A/status/1822995992888951192/photo/1",
+          "media_key": "3_1822995984756232193",
+          "start": 6,
+          "url": "https://t.co/rFnDF3M2La"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822995992888951192",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "无人在意哈 https://t.co/rFnDF3M2La"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1822995992888951192].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1822995992888951192",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1822995992888951192"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1822995984756219904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUyVMIJboAAuIht.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1822995984756232193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUyVMIJb0AEvqVy.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 255,
+          "like_count": 673,
+          "listed_count": 0,
+          "tweet_count": 2335
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

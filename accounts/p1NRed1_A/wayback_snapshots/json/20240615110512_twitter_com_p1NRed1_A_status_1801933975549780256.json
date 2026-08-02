@@ -1,0 +1,283 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "13_1801582556602896389"
+      ],
+      "media_source_tweet_id": [
+        "1801582694960402634"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1801933975549780256",
+    "created_at": "2024-06-15T11:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T12:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801933975549780256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "706457034967748608",
+          "start": 3,
+          "username": "mrpg_0824"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/BxAk1kXsYt",
+          "end": 88,
+          "expanded_url": "https://twitter.com/mrpg_0824/status/1801582694960402634/video/1",
+          "media_key": "13_1801582556602896389",
+          "start": 65,
+          "url": "https://t.co/BxAk1kXsYt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801933975549780256",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1301
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801582694960402634",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mrpg_0824: 【※声あり注意】\n去年の雛見沢での綿流しの様子を置いておきます\n\n(綿流しの作法は公式のものです) https://t.co/BxAk1kXsYt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16733,
+        "height": 1080,
+        "media_key": "13_1801582556602896389",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1801582556602896389/img/g8_5BQ94ltRIzRBq.jpg",
+        "public_metrics": {
+          "view_count": 1111999
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1801582556602896389/vid/avc1/796x720/UZyvZAkn3Pod9XN_.mp4?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1801582556602896389/vid/avc1/1194x1080/H2fJuhgDpXPDZ-fU.mp4?tag=16"
+          },
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1801582556602896389/vid/avc1/298x270/Jc8BtIf-kd8mpQAk.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1801582556602896389/pl/1RaWN13DHj4oq5hl.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1801582556602896389/vid/avc1/398x360/8i_VZZWmCnQlJEcb.mp4?tag=16"
+          }
+        ],
+        "width": 1194
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1801582556602896389"
+          ],
+          "media_source_tweet_id": [
+            "1801582694960402634"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1801933975549780256",
+        "created_at": "2024-06-15T11:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T12:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801933975549780256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "706457034967748608",
+              "start": 3,
+              "username": "mrpg_0824"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/BxAk1kXsYt",
+              "end": 88,
+              "expanded_url": "https://twitter.com/mrpg_0824/status/1801582694960402634/video/1",
+              "media_key": "13_1801582556602896389",
+              "start": 65,
+              "url": "https://t.co/BxAk1kXsYt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801933975549780256",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1301
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801582694960402634",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mrpg_0824: 【※声あり注意】\n去年の雛見沢での綿流しの様子を置いておきます\n\n(綿流しの作法は公式のものです) https://t.co/BxAk1kXsYt"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1801582556602896389"
+          ]
+        },
+        "author_id": "706457034967748608",
+        "conversation_id": "1801582694960402634",
+        "created_at": "2024-06-14T11:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T12:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801582694960402634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/BxAk1kXsYt",
+              "end": 73,
+              "expanded_url": "https://twitter.com/mrpg_0824/status/1801582694960402634/video/1",
+              "media_key": "13_1801582556602896389",
+              "start": 50,
+              "url": "https://t.co/BxAk1kXsYt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801582694960402634",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1557,
+          "impression_count": 2144341,
+          "like_count": 10579,
+          "quote_count": 56,
+          "reply_count": 24,
+          "retweet_count": 1301
+        },
+        "reply_settings": "everyone",
+        "text": "【※声あり注意】\n去年の雛見沢での綿流しの様子を置いておきます\n\n(綿流しの作法は公式のものです) https://t.co/BxAk1kXsYt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801541330096820224/OMU5aWp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 179,
+          "like_count": 356,
+          "listed_count": 0,
+          "tweet_count": 1411
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-06T12:30:57.000Z",
+        "description": "関東在住のレイヤー兼絵描き。￤162cm￤加工してます。撮影地許可済。ひぐらし、聖地巡礼が好き。┃⚠お写真DMでお願いします！無断使用・SNS掲載禁止。フォローご自由にどうぞ！ ┃▼リンク集⇢ https://t.co/I5Mk17aq3e ▼日常⇢ @mrpgRand__￤ひぐらしマダミ2ツアー案内役、07th大宴会ゲスト",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 126,
+                "username": "mrpgRand__"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/565P8",
+                "end": 120,
+                "expanded_url": "https://x.gd/565P8",
+                "start": 97,
+                "url": "https://t.co/I5Mk17aq3e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mrpg_cos?igshi…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/mrpg_cos?igshid=YmMyMTA2M2Y=",
+                "start": 0,
+                "url": "https://t.co/RBpS5wpKf6"
+              }
+            ]
+          }
+        },
+        "id": "706457034967748608",
+        "location": "※相互様、ご用件以外のDMのご返信は出来かねます",
+        "name": "森田ぴぐ",
+        "pinned_tweet_id": "1447193195104780289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1513730358734618629/Ra2oaODV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22276,
+          "following_count": 316,
+          "like_count": 174210,
+          "listed_count": 138,
+          "tweet_count": 119084
+        },
+        "url": "https://t.co/RBpS5wpKf6",
+        "username": "mrpg_0824",
+        "verified": true
+      }
+    ]
+  }
+}

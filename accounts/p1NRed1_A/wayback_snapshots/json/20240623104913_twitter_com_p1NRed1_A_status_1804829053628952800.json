@@ -1,0 +1,137 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1804829053628952800",
+    "created_at": "2024-06-23T10:49:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-23T11:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1804829053628952800"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "咕咚’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1gqxv…",
+          "end": 23,
+          "expanded_url": "https://twitter.com/i/spaces/1gqxvQNdBPQJB",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/1804829054652313600/KvUaJ_RY?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1804829054652313600/KvUaJ_RY?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 乌啦啦",
+          "unwound_url": "https://twitter.com/i/spaces/1gqxvQNdBPQJB/peek",
+          "url": "https://t.co/nYfaLBgcOz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804829053628952800",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/nYfaLBgcOz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1804829053628952800",
+        "created_at": "2024-06-23T10:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T11:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804829053628952800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "咕咚’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1gqxv…",
+              "end": 23,
+              "expanded_url": "https://twitter.com/i/spaces/1gqxvQNdBPQJB",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1804829054652313600/KvUaJ_RY?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1804829054652313600/KvUaJ_RY?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 乌啦啦",
+              "unwound_url": "https://twitter.com/i/spaces/1gqxvQNdBPQJB/peek",
+              "url": "https://t.co/nYfaLBgcOz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804829053628952800",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nYfaLBgcOz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802900561299472385/3G9b9zhq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 194,
+          "like_count": 401,
+          "listed_count": 0,
+          "tweet_count": 1663
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1865606149225283584"
+      ],
+      "media_source_tweet_id": [
+        "1865606155470586115"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1865976473636765836",
+    "created_at": "2024-12-09T04:27:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T05:27:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865976473636765836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3722428154",
+          "start": 3,
+          "username": "yknsugar"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vO6aqQjIzF",
+          "end": 42,
+          "expanded_url": "https://x.com/yknsugar/status/1865606155470586115/photo/1",
+          "media_key": "3_1865606149225283584",
+          "start": 19,
+          "url": "https://t.co/vO6aqQjIzF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865976473636765836",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1050
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865606155470586115",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @yknsugar: デデデデ https://t.co/vO6aqQjIzF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1865606149225283584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeP26IdbgAA1f8A.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865606149225283584"
+          ],
+          "media_source_tweet_id": [
+            "1865606155470586115"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1865976473636765836",
+        "created_at": "2024-12-09T04:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T05:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865976473636765836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3722428154",
+              "start": 3,
+              "username": "yknsugar"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vO6aqQjIzF",
+              "end": 42,
+              "expanded_url": "https://x.com/yknsugar/status/1865606155470586115/photo/1",
+              "media_key": "3_1865606149225283584",
+              "start": 19,
+              "url": "https://t.co/vO6aqQjIzF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865976473636765836",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1050
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865606155470586115",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @yknsugar: デデデデ https://t.co/vO6aqQjIzF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865606149225283584"
+          ]
+        },
+        "author_id": "3722428154",
+        "conversation_id": "1865606155470586115",
+        "created_at": "2024-12-08T03:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T04:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865606155470586115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vO6aqQjIzF",
+              "end": 28,
+              "expanded_url": "https://x.com/yknsugar/status/1865606155470586115/photo/1",
+              "media_key": "3_1865606149225283584",
+              "start": 5,
+              "url": "https://t.co/vO6aqQjIzF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865606155470586115",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 805,
+          "impression_count": 129570,
+          "like_count": 8943,
+          "quote_count": 20,
+          "reply_count": 0,
+          "retweet_count": 1050
+        },
+        "reply_settings": "following",
+        "text": "デデデデ https://t.co/vO6aqQjIzF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 295,
+          "like_count": 1018,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 3153
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-29T05:22:16.000Z",
+        "description": "無断転載AI禁止",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yknsugar?igshi…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/yknsugar?igshid=NzZlODBkYWE4Ng==",
+                "start": 0,
+                "url": "https://t.co/6MqunVe0gx"
+              }
+            ]
+          }
+        },
+        "id": "3722428154",
+        "name": "yknsugar",
+        "pinned_tweet_id": "1855918838497636698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813962960739733506/_Uk9cmW5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36195,
+          "following_count": 83,
+          "like_count": 7681,
+          "listed_count": 378,
+          "media_count": 318,
+          "tweet_count": 2633
+        },
+        "url": "https://t.co/6MqunVe0gx",
+        "username": "yknsugar",
+        "verified": false
+      }
+    ]
+  }
+}

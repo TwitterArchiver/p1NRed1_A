@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1973313756869566804",
+    "created_at": "2025-10-01T09:07:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T10:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1973313756869566804"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yyjn520/status…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/yyjn520/status/1973164469825183771",
+          "start": 4,
+          "url": "https://t.co/G65p8eGCWb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973313756869566804",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973164469825183771",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "。。。 https://t.co/G65p8eGCWb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12800,
+        "height": 1280,
+        "media_key": "7_1973164434089713667",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1973164434089713667/pu/img/oeBKmg6_81_F67h9.jpg",
+        "public_metrics": {
+          "view_count": 12397
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1973164434089713667/pu/vid/avc1/320x568/0Z605ocw1Qc-GQV5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1973164434089713667/pu/vid/avc1/480x852/bzCB-Tp9H7-U5Egq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1973164434089713667/pu/vid/avc1/720x1280/nw0FSza1Yd9oLCnb.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1973164434089713667/pu/pl/mZb6yS4EfEZ4Y3ct.m3u8?tag=12&v=846"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1973313756869566804",
+        "created_at": "2025-10-01T09:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T10:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973313756869566804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yyjn520/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/yyjn520/status/1973164469825183771",
+              "start": 4,
+              "url": "https://t.co/G65p8eGCWb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973313756869566804",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973164469825183771",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "。。。 https://t.co/G65p8eGCWb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1973164434089713667"
+          ]
+        },
+        "author_id": "1930529845190275072",
+        "conversation_id": "1973164469825183771",
+        "created_at": "2025-09-30T23:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T00:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973164469825183771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E3xRp8ka0P",
+              "end": 38,
+              "expanded_url": "https://x.com/YYJN520/status/1973164469825183771/video/1",
+              "media_key": "7_1973164434089713667",
+              "start": 15,
+              "url": "https://t.co/E3xRp8ka0P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973164469825183771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 17270,
+          "like_count": 78,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "像不像第一次上台发言的你？😂 https://t.co/E3xRp8ka0P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 466,
+          "like_count": 1453,
+          "listed_count": 2,
+          "media_count": 274,
+          "tweet_count": 4876
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-05T07:41:58.000Z",
+        "description": "诗词🌸摄影📸旅行🌿",
+        "id": "1930529845190275072",
+        "name": "烟雨江南（互Fo互赞💯）",
+        "pinned_tweet_id": "1951772800232165587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930580492879106049/ABcXQvAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 1384,
+          "like_count": 1152,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 1507
+        },
+        "username": "YYJN520",
+        "verified": false
+      }
+    ]
+  }
+}

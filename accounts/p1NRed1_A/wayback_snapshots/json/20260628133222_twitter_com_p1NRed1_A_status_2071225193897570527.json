@@ -1,0 +1,750 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071087128331919360",
+        "3_2071087128298299392",
+        "3_2071087128298323968",
+        "3_2071087128298278912"
+      ],
+      "media_source_tweet_id": [
+        "2071087323673145661",
+        "2071087323673145661",
+        "2071087323673145661",
+        "2071087323673145661"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Gorillaz",
+          "id": "854454278756290560",
+          "name": "Gorillaz"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Gorillaz",
+          "id": "854454278756290560",
+          "name": "Gorillaz"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Alternative",
+          "id": "849684194242338816",
+          "name": "Alternative rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Alternative",
+          "id": "849684194242338816",
+          "name": "Alternative rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gorillaz",
+          "id": "854454278756290560",
+          "name": "Gorillaz"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293191811561709575",
+          "name": "Indie & Alternative"
+        }
+      }
+    ],
+    "conversation_id": "2071225193897570527",
+    "created_at": "2026-06-28T13:32:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T14:32:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071225193897570527"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 19,
+          "tag": "gorillaz"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1555863445244743680",
+          "start": 3,
+          "username": "niaozi6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sndR5HDtuM",
+          "end": 52,
+          "expanded_url": "https://x.com/niaozi6/status/2071087323673145661/photo/1",
+          "media_key": "3_2071087128331919360",
+          "start": 29,
+          "url": "https://t.co/sndR5HDtuM"
+        },
+        {
+          "display_url": "pic.x.com/sndR5HDtuM",
+          "end": 52,
+          "expanded_url": "https://x.com/niaozi6/status/2071087323673145661/photo/1",
+          "media_key": "3_2071087128298299392",
+          "start": 29,
+          "url": "https://t.co/sndR5HDtuM"
+        },
+        {
+          "display_url": "pic.x.com/sndR5HDtuM",
+          "end": 52,
+          "expanded_url": "https://x.com/niaozi6/status/2071087323673145661/photo/1",
+          "media_key": "3_2071087128298323968",
+          "start": 29,
+          "url": "https://t.co/sndR5HDtuM"
+        },
+        {
+          "display_url": "pic.x.com/sndR5HDtuM",
+          "end": 52,
+          "expanded_url": "https://x.com/niaozi6/status/2071087323673145661/photo/1",
+          "media_key": "3_2071087128298278912",
+          "start": 29,
+          "url": "https://t.co/sndR5HDtuM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071225193897570527",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071087323673145661",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @niaozi6: 热爱画站桩 #gorillaz https://t.co/sndR5HDtuM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071087128331919360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL36xScboAAK-Hd.jpg",
+        "width": 960
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071087128298299392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL36xSUaoAAjy5z.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071087128298323968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL36xSUbAAA8fIx.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1458,
+        "media_key": "3_2071087128298278912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL36xSUaUAA4Ia4.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071087128331919360",
+            "3_2071087128298299392",
+            "3_2071087128298323968",
+            "3_2071087128298278912"
+          ],
+          "media_source_tweet_id": [
+            "2071087323673145661",
+            "2071087323673145661",
+            "2071087323673145661",
+            "2071087323673145661"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Gorillaz",
+              "id": "854454278756290560",
+              "name": "Gorillaz"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Gorillaz",
+              "id": "854454278756290560",
+              "name": "Gorillaz"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Alternative",
+              "id": "849684194242338816",
+              "name": "Alternative rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Alternative",
+              "id": "849684194242338816",
+              "name": "Alternative rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gorillaz",
+              "id": "854454278756290560",
+              "name": "Gorillaz"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293191811561709575",
+              "name": "Indie & Alternative"
+            }
+          }
+        ],
+        "conversation_id": "2071225193897570527",
+        "created_at": "2026-06-28T13:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071225193897570527"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 19,
+              "tag": "gorillaz"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1555863445244743680",
+              "start": 3,
+              "username": "niaozi6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sndR5HDtuM",
+              "end": 52,
+              "expanded_url": "https://x.com/niaozi6/status/2071087323673145661/photo/1",
+              "media_key": "3_2071087128331919360",
+              "start": 29,
+              "url": "https://t.co/sndR5HDtuM"
+            },
+            {
+              "display_url": "pic.x.com/sndR5HDtuM",
+              "end": 52,
+              "expanded_url": "https://x.com/niaozi6/status/2071087323673145661/photo/1",
+              "media_key": "3_2071087128298299392",
+              "start": 29,
+              "url": "https://t.co/sndR5HDtuM"
+            },
+            {
+              "display_url": "pic.x.com/sndR5HDtuM",
+              "end": 52,
+              "expanded_url": "https://x.com/niaozi6/status/2071087323673145661/photo/1",
+              "media_key": "3_2071087128298323968",
+              "start": 29,
+              "url": "https://t.co/sndR5HDtuM"
+            },
+            {
+              "display_url": "pic.x.com/sndR5HDtuM",
+              "end": 52,
+              "expanded_url": "https://x.com/niaozi6/status/2071087323673145661/photo/1",
+              "media_key": "3_2071087128298278912",
+              "start": 29,
+              "url": "https://t.co/sndR5HDtuM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071225193897570527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071087323673145661",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @niaozi6: 热爱画站桩 #gorillaz https://t.co/sndR5HDtuM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071087128331919360",
+            "3_2071087128298299392",
+            "3_2071087128298323968",
+            "3_2071087128298278912"
+          ]
+        },
+        "author_id": "1555863445244743680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Gorillaz",
+              "id": "854454278756290560",
+              "name": "Gorillaz"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Gorillaz",
+              "id": "854454278756290560",
+              "name": "Gorillaz"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Alternative",
+              "id": "849684194242338816",
+              "name": "Alternative rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Alternative",
+              "id": "849684194242338816",
+              "name": "Alternative rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gorillaz",
+              "id": "854454278756290560",
+              "name": "Gorillaz"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293191811561709575",
+              "name": "Indie & Alternative"
+            }
+          }
+        ],
+        "conversation_id": "2071087323673145661",
+        "created_at": "2026-06-28T04:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T05:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071087323673145661"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 6,
+              "tag": "gorillaz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sndR5HDtuM",
+              "end": 39,
+              "expanded_url": "https://x.com/niaozi6/status/2071087323673145661/photo/1",
+              "media_key": "3_2071087128331919360",
+              "start": 16,
+              "url": "https://t.co/sndR5HDtuM"
+            },
+            {
+              "display_url": "pic.x.com/sndR5HDtuM",
+              "end": 39,
+              "expanded_url": "https://x.com/niaozi6/status/2071087323673145661/photo/1",
+              "media_key": "3_2071087128298299392",
+              "start": 16,
+              "url": "https://t.co/sndR5HDtuM"
+            },
+            {
+              "display_url": "pic.x.com/sndR5HDtuM",
+              "end": 39,
+              "expanded_url": "https://x.com/niaozi6/status/2071087323673145661/photo/1",
+              "media_key": "3_2071087128298323968",
+              "start": 16,
+              "url": "https://t.co/sndR5HDtuM"
+            },
+            {
+              "display_url": "pic.x.com/sndR5HDtuM",
+              "end": 39,
+              "expanded_url": "https://x.com/niaozi6/status/2071087323673145661/photo/1",
+              "media_key": "3_2071087128298278912",
+              "start": 16,
+              "url": "https://t.co/sndR5HDtuM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071087323673145661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 678,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "热爱画站桩 #gorillaz https://t.co/sndR5HDtuM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 575,
+          "like_count": 1684,
+          "listed_count": 3,
+          "media_count": 385,
+          "tweet_count": 6473
+        },
+        "url": "",
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-06T10:28:55.000Z",
+        "description": "专心经营唐氏生活\n此账号纯用来看自己感兴趣的慎关\n18↑\nCN",
+        "id": "1555863445244743680",
+        "location": "咕咕嘎嘎",
+        "name": "祂说:唵",
+        "pinned_tweet_id": "1766552515179692405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975897057832656897/sCXqwdB7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 548,
+          "like_count": 6670,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 845
+        },
+        "url": "",
+        "username": "niaozi6",
+        "verified": false
+      }
+    ]
+  }
+}

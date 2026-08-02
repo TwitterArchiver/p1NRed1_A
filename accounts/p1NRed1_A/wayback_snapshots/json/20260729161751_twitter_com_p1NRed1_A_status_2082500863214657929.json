@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2082384758475243778",
+    "created_at": "2026-07-29T16:17:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T17:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082500863214657929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2071284209864556544",
+          "start": 0,
+          "username": "FudoAlaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082500863214657929",
+    "in_reply_to_user_id": "2071284209864556544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082493022282059905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FudoAlaya 煤炉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2082384758475243778",
+        "created_at": "2026-07-29T16:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082500863214657929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2071284209864556544",
+              "start": 0,
+              "username": "FudoAlaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082500863214657929",
+        "in_reply_to_user_id": "2071284209864556544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082493022282059905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FudoAlaya 煤炉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071284209864556544",
+        "conversation_id": "2082384758475243778",
+        "created_at": "2026-07-29T15:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082493022282059905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082493022282059905",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082384758475243778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 卧槽恶巫山戏哪收的，这个是真想要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/9GooAZ0z7o"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "死全家星",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076577294790139904/Fz-jPCGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 592,
+          "like_count": 1806,
+          "listed_count": 3,
+          "media_count": 449,
+          "tweet_count": 7223
+        },
+        "url": "https://t.co/9GooAZ0z7o",
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-28T17:27:26.000Z",
+        "description": "这里阿拉雅，顺性别男｜这个入太容易感到孤独了…｜天文爱好者🌌｜植物学🌳｜喜欢玩视觉小说｜没有OD了大概｜想要认识更多朋友www",
+        "id": "2071284209864556544",
+        "name": "FudoAlaya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071284624760930304/qavF5ncE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 155,
+          "like_count": 809,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 268
+        },
+        "url": "",
+        "username": "FudoAlaya",
+        "verified": false
+      }
+    ]
+  }
+}

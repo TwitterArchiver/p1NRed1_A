@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1828788975567597626",
+    "created_at": "2024-08-29T09:42:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-29T10:42:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829092299915309226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1766349311259062273",
+          "start": 0,
+          "username": "jellyfishchi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829092299915309226",
+    "in_reply_to_user_id": "1766349311259062273",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829087846575309061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jellyfishchi 真的好厉害…每次看到都看觉眼前一亮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1828788975567597626",
+        "created_at": "2024-08-29T09:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-29T10:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829092299915309226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1766349311259062273",
+              "start": 0,
+              "username": "jellyfishchi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829092299915309226",
+        "in_reply_to_user_id": "1766349311259062273",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829087846575309061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jellyfishchi 真的好厉害…每次看到都看觉眼前一亮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766349311259062273",
+        "conversation_id": "1828788975567597626",
+        "created_at": "2024-08-29T09:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-29T10:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829087846575309061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829087846575309061",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829051013858504764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 小次何德何能…咕咚神你知道我有多喜欢你和你的画吗tut有被鼓励到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 263,
+          "like_count": 815,
+          "listed_count": 0,
+          "tweet_count": 2645
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T06:24:41.000Z",
+        "description": "你好，我是小次\n这里是我连载的遗书｜垃圾堆@yCxYP599\n合作可私信，请不要无断转载♡\n\n欢迎围观次用品的一次性人生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 21,
+                "username": "yCxYP599"
+              }
+            ]
+          }
+        },
+        "id": "1766349311259062273",
+        "location": "2km",
+        "name": "次用品",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828791513410600961/d5FB2YA6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 201,
+          "like_count": 6685,
+          "listed_count": 1,
+          "tweet_count": 752
+        },
+        "username": "jellyfishchi",
+        "verified": false
+      }
+    ]
+  }
+}

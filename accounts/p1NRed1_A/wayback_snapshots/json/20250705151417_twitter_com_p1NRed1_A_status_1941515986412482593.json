@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941509599821168645"
+      ],
+      "media_source_tweet_id": [
+        "1941509896123580581"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1941515986412482593",
+    "created_at": "2025-07-05T15:14:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T16:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941515986412482593"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "符香",
+          "probability": 0.401,
+          "start": 24,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1363538338725040132",
+          "start": 3,
+          "username": "tomato_ebichiri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VUszswq5Lx",
+          "end": 50,
+          "expanded_url": "https://x.com/tomato_ebichiri/status/1941509896123580581/photo/1",
+          "media_key": "3_1941509599821168645",
+          "start": 27,
+          "url": "https://t.co/VUszswq5Lx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941515986412482593",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941509896123580581",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tomato_ebichiri: 風浦可符香 https://t.co/VUszswq5Lx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_1941509599821168645",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvGgsclaAAUQl00.jpg",
+        "width": 1300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941509599821168645"
+          ],
+          "media_source_tweet_id": [
+            "1941509896123580581"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1941515986412482593",
+        "created_at": "2025-07-05T15:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T16:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941515986412482593"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "符香",
+              "probability": 0.401,
+              "start": 24,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1363538338725040132",
+              "start": 3,
+              "username": "tomato_ebichiri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VUszswq5Lx",
+              "end": 50,
+              "expanded_url": "https://x.com/tomato_ebichiri/status/1941509896123580581/photo/1",
+              "media_key": "3_1941509599821168645",
+              "start": 27,
+              "url": "https://t.co/VUszswq5Lx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941515986412482593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941509896123580581",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tomato_ebichiri: 風浦可符香 https://t.co/VUszswq5Lx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941509599821168645"
+          ]
+        },
+        "author_id": "1363538338725040132",
+        "conversation_id": "1941509896123580581",
+        "created_at": "2025-07-05T14:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T15:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941509896123580581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VUszswq5Lx",
+              "end": 29,
+              "expanded_url": "https://x.com/tomato_ebichiri/status/1941509896123580581/photo/1",
+              "media_key": "3_1941509599821168645",
+              "start": 6,
+              "url": "https://t.co/VUszswq5Lx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941509896123580581",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "風浦可符香 https://t.co/VUszswq5Lx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 410,
+          "like_count": 1255,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 4345
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-21T17:17:45.000Z",
+        "description": "腐 雑多垢です。ヘッダーは好きなキャラ達。詳細はプロフにて！　https://t.co/eKLBA1YZpp\nジクア垢　@ebichirisonota",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 60,
+                "username": "ebichirisonota"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "profcard.info/u/sRvc1EKjOSdG…",
+                "end": 54,
+                "expanded_url": "https://profcard.info/u/sRvc1EKjOSdGzkGHwQdIK9OBmYk2",
+                "start": 31,
+                "url": "https://t.co/eKLBA1YZpp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@tomato_ebichi…",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@tomato_ebichiri",
+                "start": 0,
+                "url": "https://t.co/09TTHAG9DR"
+              }
+            ]
+          }
+        },
+        "id": "1363538338725040132",
+        "name": "ちっしー",
+        "pinned_tweet_id": "1876231481938612691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1584561707329802241/S8UzUtBR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 94,
+          "like_count": 10877,
+          "listed_count": 6,
+          "media_count": 487,
+          "tweet_count": 6696
+        },
+        "url": "https://t.co/09TTHAG9DR",
+        "username": "tomato_ebichiri",
+        "verified": false
+      }
+    ]
+  }
+}

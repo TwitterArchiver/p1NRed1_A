@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1831329313016430592"
+      ],
+      "media_source_tweet_id": [
+        "1831329319701938351"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1831481568889860244",
+    "created_at": "2024-09-04T23:56:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-05T00:56:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831481568889860244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1793638550799568896",
+          "start": 3,
+          "username": "asebi_____0421"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nsnw8z78jf",
+          "end": 54,
+          "expanded_url": "https://twitter.com/asebi_____0421/status/1831329319701938351/photo/1",
+          "media_key": "3_1831329313016430592",
+          "start": 31,
+          "url": "https://t.co/nsNW8z78jF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831481568889860244",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831329319701938351",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @asebi_____0421: 絶望先生3期見てます https://t.co/nsNW8z78jF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1831481568889860244].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1831481568889860244",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1831481568889860244"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1831329313016430592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWowTrEawAAQzV3.jpg",
+        "width": 1499
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831329313016430592"
+          ]
+        },
+        "author_id": "1793638550799568896",
+        "conversation_id": "1831329319701938351",
+        "created_at": "2024-09-04T13:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-04T14:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831329319701938351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nsnw8z78jf",
+              "end": 34,
+              "expanded_url": "https://twitter.com/asebi_____0421/status/1831329319701938351/photo/1",
+              "media_key": "3_1831329313016430592",
+              "start": 11,
+              "url": "https://t.co/nsNW8z78jF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831329319701938351",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "絶望先生3期見てます https://t.co/nsNW8z78jF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 269,
+          "like_count": 840,
+          "listed_count": 0,
+          "tweet_count": 2694
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-23T13:43:42.000Z",
+        "description": "アニメーター志望 / めがねと童顔が好き",
+        "id": "1793638550799568896",
+        "name": "らまお",
+        "pinned_tweet_id": "1822683474412941638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823014914186981376/y-Pb8EJq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 27,
+          "like_count": 4530,
+          "listed_count": 0,
+          "tweet_count": 167
+        },
+        "username": "asebi_____0421",
+        "verified": false
+      }
+    ]
+  }
+}

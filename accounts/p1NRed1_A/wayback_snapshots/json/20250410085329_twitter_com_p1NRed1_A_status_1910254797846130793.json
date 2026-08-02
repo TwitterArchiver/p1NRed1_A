@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1909982416082796545",
+        "3_1909982433682087936"
+      ],
+      "media_source_tweet_id": [
+        "1909982777858244911",
+        "1909982777858244911"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1910254797846130793",
+    "created_at": "2025-04-10T08:53:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T09:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910254797846130793"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 24,
+          "tag": "さよなら絶望先生"
+        },
+        {
+          "end": 40,
+          "start": 34,
+          "tag": "風浦可符香"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "23044793",
+          "start": 3,
+          "username": "aogaeru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2TiBfD3AMV",
+          "end": 64,
+          "expanded_url": "https://x.com/aogaeru/status/1909982777858244911/photo/1",
+          "media_key": "3_1909982416082796545",
+          "start": 41,
+          "url": "https://t.co/2TiBfD3AMV"
+        },
+        {
+          "display_url": "pic.x.com/2TiBfD3AMV",
+          "end": 64,
+          "expanded_url": "https://x.com/aogaeru/status/1909982777858244911/photo/1",
+          "media_key": "3_1909982433682087936",
+          "start": 41,
+          "url": "https://t.co/2TiBfD3AMV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910254797846130793",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909982777858244911",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aogaeru: GIF化はまた後日。 #さよなら絶望先生 #風浦可符香 https://t.co/2TiBfD3AMV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_1909982416082796545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoGe403bgAEU9Kd.jpg",
+        "width": 640
+      },
+      {
+        "height": 640,
+        "media_key": "3_1909982433682087936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoGe52bbYAAza0q.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909982416082796545",
+            "3_1909982433682087936"
+          ],
+          "media_source_tweet_id": [
+            "1909982777858244911",
+            "1909982777858244911"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1910254797846130793",
+        "created_at": "2025-04-10T08:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T09:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910254797846130793"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 24,
+              "tag": "さよなら絶望先生"
+            },
+            {
+              "end": 40,
+              "start": 34,
+              "tag": "風浦可符香"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "23044793",
+              "start": 3,
+              "username": "aogaeru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2TiBfD3AMV",
+              "end": 64,
+              "expanded_url": "https://x.com/aogaeru/status/1909982777858244911/photo/1",
+              "media_key": "3_1909982416082796545",
+              "start": 41,
+              "url": "https://t.co/2TiBfD3AMV"
+            },
+            {
+              "display_url": "pic.x.com/2TiBfD3AMV",
+              "end": 64,
+              "expanded_url": "https://x.com/aogaeru/status/1909982777858244911/photo/1",
+              "media_key": "3_1909982433682087936",
+              "start": 41,
+              "url": "https://t.co/2TiBfD3AMV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910254797846130793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909982777858244911",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aogaeru: GIF化はまた後日。 #さよなら絶望先生 #風浦可符香 https://t.co/2TiBfD3AMV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909982416082796545",
+            "3_1909982433682087936"
+          ]
+        },
+        "author_id": "23044793",
+        "conversation_id": "1909982777858244911",
+        "created_at": "2025-04-09T14:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T15:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909982777858244911"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 11,
+              "tag": "さよなら絶望先生"
+            },
+            {
+              "end": 27,
+              "start": 21,
+              "tag": "風浦可符香"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2TiBfD3AMV",
+              "end": 51,
+              "expanded_url": "https://x.com/aogaeru/status/1909982777858244911/photo/1",
+              "media_key": "3_1909982416082796545",
+              "start": 28,
+              "url": "https://t.co/2TiBfD3AMV"
+            },
+            {
+              "display_url": "pic.x.com/2TiBfD3AMV",
+              "end": 51,
+              "expanded_url": "https://x.com/aogaeru/status/1909982777858244911/photo/1",
+              "media_key": "3_1909982433682087936",
+              "start": 28,
+              "url": "https://t.co/2TiBfD3AMV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909982777858244911",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 479,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "GIF化はまた後日。 #さよなら絶望先生 #風浦可符香 https://t.co/2TiBfD3AMV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908472142045601793/4rErpv2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 351,
+          "like_count": 1130,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 3468
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-06T08:24:48.000Z",
+        "description": "女の子の絵を描いてれば幸せ。 skeb: https://t.co/YARQD97qZV #2018feb_baby #統合失調症",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 45,
+                "tag": "2018feb_baby"
+              },
+              {
+                "end": 65,
+                "start": 59,
+                "tag": "統合失調症"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@aogaeru",
+                "end": 44,
+                "expanded_url": "http://skeb.jp/@aogaeru",
+                "start": 21,
+                "url": "https://t.co/YARQD97qZV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/aogaeru",
+                "end": 23,
+                "expanded_url": "https://potofu.me/aogaeru",
+                "start": 0,
+                "url": "https://t.co/UEJ8iwueDr"
+              }
+            ]
+          }
+        },
+        "id": "23044793",
+        "location": "ぷちっと星とわの市臓物島",
+        "name": "あおがえる。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/985644955006730240/zu0P2et6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 311,
+          "like_count": 64358,
+          "listed_count": 49,
+          "media_count": 4783,
+          "tweet_count": 57470
+        },
+        "url": "https://t.co/UEJ8iwueDr",
+        "username": "aogaeru",
+        "verified": false
+      }
+    ]
+  }
+}

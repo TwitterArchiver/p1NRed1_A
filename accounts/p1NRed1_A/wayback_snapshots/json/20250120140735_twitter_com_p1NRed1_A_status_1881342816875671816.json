@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880720978973777920",
+        "3_1880720978772447232"
+      ],
+      "media_source_tweet_id": [
+        "1880720982559854786",
+        "1880720982559854786"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1881342816875671816",
+    "created_at": "2025-01-20T14:07:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T15:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881342816875671816"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 59,
+          "normalized_text": "SZS",
+          "probability": 0.7292,
+          "start": 57,
+          "type": "Other"
+        },
+        {
+          "end": 82,
+          "normalized_text": "chiri",
+          "probability": 0.7284,
+          "start": 78,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1760768962424619008",
+          "start": 3,
+          "username": "lang_zhang28832"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wkrnB1AEdS",
+          "end": 133,
+          "expanded_url": "https://x.com/lang_zhang28832/status/1880720982559854786/photo/1",
+          "media_key": "3_1880720978973777920",
+          "start": 110,
+          "url": "https://t.co/wkrnB1AEdS"
+        },
+        {
+          "display_url": "pic.x.com/wkrnB1AEdS",
+          "end": 133,
+          "expanded_url": "https://x.com/lang_zhang28832/status/1880720982559854786/photo/1",
+          "media_key": "3_1880720978772447232",
+          "start": 110,
+          "url": "https://t.co/wkrnB1AEdS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881342816875671816",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880720982559854786",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lang_zhang28832: Now I am just a person who can post SZS dolls......\nwell chiri looks stupid,my fault : ） https://t.co/wkrnB1AEdS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1880720978973777920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhmpxBFbYAAQR6f.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1880720978772447232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhmpxAVbUAAec2P.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880720978973777920",
+            "3_1880720978772447232"
+          ],
+          "media_source_tweet_id": [
+            "1880720982559854786",
+            "1880720982559854786"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1881342816875671816",
+        "created_at": "2025-01-20T14:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T15:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881342816875671816"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 59,
+              "normalized_text": "SZS",
+              "probability": 0.7292,
+              "start": 57,
+              "type": "Other"
+            },
+            {
+              "end": 82,
+              "normalized_text": "chiri",
+              "probability": 0.7284,
+              "start": 78,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1760768962424619008",
+              "start": 3,
+              "username": "lang_zhang28832"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wkrnB1AEdS",
+              "end": 133,
+              "expanded_url": "https://x.com/lang_zhang28832/status/1880720982559854786/photo/1",
+              "media_key": "3_1880720978973777920",
+              "start": 110,
+              "url": "https://t.co/wkrnB1AEdS"
+            },
+            {
+              "display_url": "pic.x.com/wkrnB1AEdS",
+              "end": 133,
+              "expanded_url": "https://x.com/lang_zhang28832/status/1880720982559854786/photo/1",
+              "media_key": "3_1880720978772447232",
+              "start": 110,
+              "url": "https://t.co/wkrnB1AEdS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881342816875671816",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880720982559854786",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lang_zhang28832: Now I am just a person who can post SZS dolls......\nwell chiri looks stupid,my fault : ） https://t.co/wkrnB1AEdS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880720978973777920",
+            "3_1880720978772447232"
+          ]
+        },
+        "author_id": "1760768962424619008",
+        "conversation_id": "1880720982559854786",
+        "created_at": "2025-01-18T20:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T21:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880720982559854786"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "SZS",
+              "probability": 0.6671,
+              "start": 36,
+              "type": "Other"
+            },
+            {
+              "end": 61,
+              "normalized_text": "chiri",
+              "probability": 0.7133,
+              "start": 57,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wkrnB1AEdS",
+              "end": 112,
+              "expanded_url": "https://x.com/lang_zhang28832/status/1880720982559854786/photo/1",
+              "media_key": "3_1880720978973777920",
+              "start": 89,
+              "url": "https://t.co/wkrnB1AEdS"
+            },
+            {
+              "display_url": "pic.x.com/wkrnB1AEdS",
+              "end": 112,
+              "expanded_url": "https://x.com/lang_zhang28832/status/1880720982559854786/photo/1",
+              "media_key": "3_1880720978772447232",
+              "start": 89,
+              "url": "https://t.co/wkrnB1AEdS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880720982559854786",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 2922,
+          "like_count": 234,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "Now I am just a person who can post SZS dolls......\nwell chiri looks stupid,my fault : ） https://t.co/wkrnB1AEdS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873724650511110144/1z-X8l1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 300,
+          "like_count": 1040,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 3212
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-22T20:50:22.000Z",
+        "description": "≧◉◡◉≦\nhttps://t.co/FGvFrLOYD2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@user886827819…",
+                "end": 29,
+                "expanded_url": "https://www.tiktok.com/@user8868278192800?_t=ZP-8sukLImY6wA&_r=1",
+                "start": 6,
+                "url": "https://t.co/FGvFrLOYD2"
+              }
+            ]
+          }
+        },
+        "id": "1760768962424619008",
+        "name": "蟑螂惹",
+        "pinned_tweet_id": "1881087262664069154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760770364517609472/puuSWoLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 107,
+          "like_count": 1535,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 593
+        },
+        "username": "lang_zhang28832",
+        "verified": false
+      }
+    ]
+  }
+}

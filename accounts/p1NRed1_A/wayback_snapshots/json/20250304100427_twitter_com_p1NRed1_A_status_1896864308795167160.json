@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1896864308795167160",
+    "created_at": "2025-03-04T10:04:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T11:04:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896864308795167160"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "咕咚’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1eaKb…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1eaKbWMrpgrGX",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/1896864310078713856/T6Fk0Qmc?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1896864310078713856/T6Fk0Qmc?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 你好",
+          "unwound_url": "https://twitter.com/i/spaces/1eaKbWMrpgrGX/peek",
+          "url": "https://t.co/0AfE5hoqAc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896864308795167160",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/0AfE5hoqAc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1896864308795167160",
+        "created_at": "2025-03-04T10:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T11:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896864308795167160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "咕咚’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1eaKb…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1eaKbWMrpgrGX",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1896864310078713856/T6Fk0Qmc?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1896864310078713856/T6Fk0Qmc?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 你好",
+              "unwound_url": "https://twitter.com/i/spaces/1eaKbWMrpgrGX/peek",
+              "url": "https://t.co/0AfE5hoqAc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896864308795167160",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0AfE5hoqAc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889564810410627072/YnTsykE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 318,
+          "like_count": 1079,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 3308
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

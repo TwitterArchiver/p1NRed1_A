@@ -1,0 +1,205 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1802586144896586126",
+    "created_at": "2024-06-17T08:49:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-17T09:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802624607943631137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1415210804761174017",
+          "start": 0,
+          "username": "SHISHEKZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802624607943631137",
+    "in_reply_to_user_id": "1415210804761174017",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802624067822059755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SHISHEKZ 是的呀所以要做好消毒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1802586144896586126",
+        "created_at": "2024-06-17T08:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T09:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802624607943631137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1415210804761174017",
+              "start": 0,
+              "username": "SHISHEKZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802624607943631137",
+        "in_reply_to_user_id": "1415210804761174017",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802624067822059755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHISHEKZ 是的呀所以要做好消毒"
+      },
+      {
+        "attachments": {},
+        "author_id": "1415210804761174017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Ongoing News Stories like 'Brexit'",
+              "id": "123",
+              "name": "Ongoing News Story"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          }
+        ],
+        "conversation_id": "1802586144896586126",
+        "created_at": "2024-06-17T08:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T09:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802624067822059755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802624067822059755",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802598416578740606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 痛不痛不知道 感染什么的就麻烦了..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802327000553795584/bHnmfy-g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 185,
+          "like_count": 372,
+          "listed_count": 0,
+          "tweet_count": 1552
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-14T07:25:32.000Z",
+        "description": "我希望你的为人一定自在，我希望你的人生一定要充满幸福。",
+        "id": "1415210804761174017",
+        "location": "月亮",
+        "name": "小夜子",
+        "pinned_tweet_id": "1797613747697340474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800505226392449024/bn7ZMP74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 165,
+          "like_count": 2102,
+          "listed_count": 0,
+          "tweet_count": 594
+        },
+        "username": "SHISHEKZ",
+        "verified": false
+      }
+    ]
+  }
+}

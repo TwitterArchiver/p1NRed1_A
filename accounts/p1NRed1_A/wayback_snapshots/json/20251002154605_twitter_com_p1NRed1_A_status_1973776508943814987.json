@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1973776503054946304"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1973776508943814987",
+    "created_at": "2025-10-02T15:46:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T16:46:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1973776508943814987"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LOSlPwKoFy",
+          "end": 33,
+          "expanded_url": "https://x.com/p1NRed1_A/status/1973776508943814987/photo/1",
+          "media_key": "3_1973776503054946304",
+          "start": 10,
+          "url": "https://t.co/LOSlPwKoFy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973776508943814987",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在勤勤恳恳的画稿 https://t.co/LOSlPwKoFy"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "哈哈哈",
+        "height": 1024,
+        "media_key": "3_1973776503054946304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2RDRaKaUAApotK.jpg",
+        "width": 878
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973776503054946304"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1973776508943814987",
+        "created_at": "2025-10-02T15:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T16:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973776508943814987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LOSlPwKoFy",
+              "end": 33,
+              "expanded_url": "https://x.com/p1NRed1_A/status/1973776508943814987/photo/1",
+              "media_key": "3_1973776503054946304",
+              "start": 10,
+              "url": "https://t.co/LOSlPwKoFy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973776508943814987",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在勤勤恳恳的画稿 https://t.co/LOSlPwKoFy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 465,
+          "like_count": 1461,
+          "listed_count": 2,
+          "media_count": 278,
+          "tweet_count": 4899
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

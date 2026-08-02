@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1811681858444534082",
+    "created_at": "2024-07-12T08:39:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-12T09:39:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1811681858444534082"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kawaoka_nano_/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/kawaoka_nano_/status/1811658989102375231",
+          "start": 6,
+          "url": "https://t.co/57HOk59LkM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811681858444534082",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811658989102375231",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太可爱了… https://t.co/57HOk59LkM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1811681858444534082",
+        "created_at": "2024-07-12T08:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T09:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811681858444534082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kawaoka_nano_/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/kawaoka_nano_/status/1811658989102375231",
+              "start": 6,
+              "url": "https://t.co/57HOk59LkM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811681858444534082",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811658989102375231",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太可爱了… https://t.co/57HOk59LkM"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811658984576978944"
+          ]
+        },
+        "author_id": "1759812244932902912",
+        "conversation_id": "1811658989102375231",
+        "created_at": "2024-07-12T07:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T08:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811658989102375231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/AB79Y02Fhk",
+              "end": 23,
+              "expanded_url": "https://twitter.com/kawaoka_nano_/status/1811658989102375231/photo/1",
+              "media_key": "3_1811658984576978944",
+              "start": 0,
+              "url": "https://t.co/AB79Y02Fhk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811658989102375231",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 209,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AB79Y02Fhk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563382332014593/-06gBRx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 230,
+          "like_count": 509,
+          "listed_count": 0,
+          "tweet_count": 2049
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T05:28:46.000Z",
+        "description": "かわおでいいよ！",
+        "id": "1759812244932902912",
+        "location": "ハウス",
+        "name": "どうすりゃええねん",
+        "pinned_tweet_id": "1775214124710101203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774813985789145088/FTtIVM6O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 60,
+          "like_count": 4266,
+          "listed_count": 0,
+          "tweet_count": 1069
+        },
+        "username": "kawaoka_nano_",
+        "verified": false
+      }
+    ]
+  }
+}

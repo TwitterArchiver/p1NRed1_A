@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952427502963666944"
+      ],
+      "media_source_tweet_id": [
+        "1952427524602138812"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1952772337272799319",
+    "created_at": "2025-08-05T16:43:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T17:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952772337272799319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1125941114312151040",
+          "start": 3,
+          "username": "Aochhii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YYtQSRWX7I",
+          "end": 36,
+          "expanded_url": "https://x.com/Aochhii/status/1952427524602138812/photo/1",
+          "media_key": "3_1952427502963666944",
+          "start": 13,
+          "url": "https://t.co/YYtQSRWX7I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952772337272799319",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1298
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952427524602138812",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aochhii: https://t.co/YYtQSRWX7I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "3_1952427502963666944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxhqeDPaMAAZSAq.jpg",
+        "width": 375
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952427502963666944"
+          ],
+          "media_source_tweet_id": [
+            "1952427524602138812"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1952772337272799319",
+        "created_at": "2025-08-05T16:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T17:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952772337272799319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1125941114312151040",
+              "start": 3,
+              "username": "Aochhii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YYtQSRWX7I",
+              "end": 36,
+              "expanded_url": "https://x.com/Aochhii/status/1952427524602138812/photo/1",
+              "media_key": "3_1952427502963666944",
+              "start": 13,
+              "url": "https://t.co/YYtQSRWX7I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952772337272799319",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1298
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952427524602138812",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aochhii: https://t.co/YYtQSRWX7I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952427502963666944"
+          ]
+        },
+        "author_id": "1125941114312151040",
+        "conversation_id": "1952427524602138812",
+        "created_at": "2025-08-04T17:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T18:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952427524602138812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YYtQSRWX7I",
+              "end": 23,
+              "expanded_url": "https://x.com/Aochhii/status/1952427524602138812/photo/1",
+              "media_key": "3_1952427502963666944",
+              "start": 0,
+              "url": "https://t.co/YYtQSRWX7I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952427524602138812",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 935,
+          "impression_count": 133380,
+          "like_count": 9539,
+          "quote_count": 19,
+          "reply_count": 4,
+          "retweet_count": 1298
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YYtQSRWX7I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 419,
+          "like_count": 1276,
+          "listed_count": 1,
+          "media_count": 237,
+          "tweet_count": 4413
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-08T01:50:55.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aocchiarchive.wordpress.com",
+                "end": 23,
+                "expanded_url": "http://aocchiarchive.wordpress.com",
+                "start": 0,
+                "url": "https://t.co/8TVkXuiNa1"
+              }
+            ]
+          }
+        },
+        "id": "1125941114312151040",
+        "location": "letterboxd.com/Aochhi/",
+        "name": "Aocchi",
+        "pinned_tweet_id": "1929982814633767119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948552719385624576/0ZLwvZ5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 158,
+          "like_count": 40962,
+          "listed_count": 6,
+          "media_count": 1369,
+          "tweet_count": 5489
+        },
+        "url": "https://t.co/8TVkXuiNa1",
+        "username": "Aochhii",
+        "verified": false
+      }
+    ]
+  }
+}

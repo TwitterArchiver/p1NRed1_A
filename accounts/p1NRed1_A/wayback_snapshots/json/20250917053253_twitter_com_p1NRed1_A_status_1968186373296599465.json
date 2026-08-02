@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1968186373296599465",
+    "created_at": "2025-09-17T05:32:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T06:32:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968186373296599465"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 78,
+          "normalized_text": "benjamins",
+          "probability": 0.4645,
+          "start": 70,
+          "type": "Other"
+        },
+        {
+          "end": 87,
+          "normalized_text": "cheddar",
+          "probability": 0.4317,
+          "start": 81,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "901580551210942465",
+          "start": 3,
+          "username": "zoolpal"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/lE",
+          "end": 139,
+          "start": 124,
+          "url": "https://t.co/lE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968186373296599465",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968133262712377689",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zoolpal: i drew these because people bribed me with dollar bills. benjamins. cheddar. i stopped liking her 11 years ago https://t.co/lE…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1066,
+        "media_key": "3_1968133258937266176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1A2xXmWcAA82-D.jpg",
+        "width": 751
+      },
+      {
+        "height": 1214,
+        "media_key": "3_1968133258937241600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1A2xXmWEAAmEtP.jpg",
+        "width": 1290
+      },
+      {
+        "height": 990,
+        "media_key": "3_1968133258937257984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1A2xXmWUAArJGR.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1968133258924765184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1A2xXjXsAAIw6Z.jpg",
+        "width": 1674
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1968186373296599465",
+        "created_at": "2025-09-17T05:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T06:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968186373296599465"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 78,
+              "normalized_text": "benjamins",
+              "probability": 0.4645,
+              "start": 70,
+              "type": "Other"
+            },
+            {
+              "end": 87,
+              "normalized_text": "cheddar",
+              "probability": 0.4317,
+              "start": 81,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "901580551210942465",
+              "start": 3,
+              "username": "zoolpal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/lE",
+              "end": 139,
+              "start": 124,
+              "url": "https://t.co/lE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968186373296599465",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968133262712377689",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zoolpal: i drew these because people bribed me with dollar bills. benjamins. cheddar. i stopped liking her 11 years ago https://t.co/lE…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968133258937266176",
+            "3_1968133258937241600",
+            "3_1968133258937257984",
+            "3_1968133258924765184"
+          ]
+        },
+        "author_id": "901580551210942465",
+        "conversation_id": "1968133262712377689",
+        "created_at": "2025-09-17T02:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T03:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968133262712377689"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 65,
+              "normalized_text": "benjamins",
+              "probability": 0.3591,
+              "start": 57,
+              "type": "Other"
+            },
+            {
+              "end": 74,
+              "normalized_text": "cheddar",
+              "probability": 0.6779,
+              "start": 68,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lEJq98KuYY",
+              "end": 134,
+              "expanded_url": "https://x.com/zoolpal/status/1968133262712377689/photo/1",
+              "media_key": "3_1968133258937266176",
+              "start": 111,
+              "url": "https://t.co/lEJq98KuYY"
+            },
+            {
+              "display_url": "pic.x.com/lEJq98KuYY",
+              "end": 134,
+              "expanded_url": "https://x.com/zoolpal/status/1968133262712377689/photo/1",
+              "media_key": "3_1968133258937241600",
+              "start": 111,
+              "url": "https://t.co/lEJq98KuYY"
+            },
+            {
+              "display_url": "pic.x.com/lEJq98KuYY",
+              "end": 134,
+              "expanded_url": "https://x.com/zoolpal/status/1968133262712377689/photo/1",
+              "media_key": "3_1968133258937257984",
+              "start": 111,
+              "url": "https://t.co/lEJq98KuYY"
+            },
+            {
+              "display_url": "pic.x.com/lEJq98KuYY",
+              "end": 134,
+              "expanded_url": "https://x.com/zoolpal/status/1968133262712377689/photo/1",
+              "media_key": "3_1968133258924765184",
+              "start": 111,
+              "url": "https://t.co/lEJq98KuYY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968133262712377689",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 4869,
+          "like_count": 401,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "i drew these because people bribed me with dollar bills. benjamins. cheddar. i stopped liking her 11 years ago https://t.co/lEJq98KuYY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 448,
+          "like_count": 1390,
+          "listed_count": 2,
+          "media_count": 263,
+          "tweet_count": 4717
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-26T23:02:08.000Z",
+        "description": "s ▮ s  ◤ r ● bewegen sich auf der Zeitachse",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vgen.co/zoolpal",
+                "end": 23,
+                "expanded_url": "http://vgen.co/zoolpal",
+                "start": 0,
+                "url": "https://t.co/9Sqs5wBXYI"
+              }
+            ]
+          }
+        },
+        "id": "901580551210942465",
+        "location": "media vita in morte sumus ",
+        "name": "zoopsta",
+        "pinned_tweet_id": "1960052250883264781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904165728757915648/u8mayjFd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27362,
+          "following_count": 672,
+          "like_count": 21235,
+          "listed_count": 122,
+          "media_count": 3695,
+          "tweet_count": 15075
+        },
+        "url": "https://t.co/9Sqs5wBXYI",
+        "username": "zoolpal",
+        "verified": false
+      }
+    ]
+  }
+}

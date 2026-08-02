@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2053748886200877367",
+    "created_at": "2026-05-11T09:44:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T10:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053773197246632225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "994603016832536576",
+          "start": 0,
+          "username": "EifDzxFMzzW1Yit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053773197246632225",
+    "in_reply_to_user_id": "994603016832536576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053771700463174018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EifDzxFMzzW1Yit 这素什么游戏看起来好神奇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2053748886200877367",
+        "created_at": "2026-05-11T09:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T10:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053773197246632225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "994603016832536576",
+              "start": 0,
+              "username": "EifDzxFMzzW1Yit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053773197246632225",
+        "in_reply_to_user_id": "994603016832536576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053771700463174018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EifDzxFMzzW1Yit 这素什么游戏看起来好神奇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "994603016832536576",
+        "conversation_id": "2053748886200877367",
+        "created_at": "2026-05-11T09:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T10:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053771700463174018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053771700463174018",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "hu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053748886200877367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A felvidek"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 560,
+          "like_count": 1651,
+          "listed_count": 3,
+          "media_count": 351,
+          "tweet_count": 6143
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-10T15:40:12.000Z",
+        "description": "别担心，没有哪一首歌能够，把这个现实唱到地狱去",
+        "id": "994603016832536576",
+        "location": "印斯茅斯",
+        "name": "非线性时间",
+        "pinned_tweet_id": "2053522782290690552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052639075291791360/-MB9bkEI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 423,
+          "like_count": 6130,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 1183
+        },
+        "username": "EifDzxFMzzW1Yit",
+        "verified": false
+      }
+    ]
+  }
+}

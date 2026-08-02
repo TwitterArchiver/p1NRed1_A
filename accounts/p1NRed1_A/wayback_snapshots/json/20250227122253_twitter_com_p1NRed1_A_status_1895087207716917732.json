@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1894699412355694592"
+      ],
+      "media_source_tweet_id": [
+        "1894699416197718361"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1895087207716917732",
+    "created_at": "2025-02-27T12:22:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T13:22:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895087207716917732"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 13,
+          "tag": "さよなら絶望先生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1831970786187599872",
+          "start": 3,
+          "username": "Raw_377"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m2uPqjikq1",
+          "end": 63,
+          "expanded_url": "https://x.com/Raw_377/status/1894699416197718361/photo/1",
+          "media_key": "3_1894699412355694592",
+          "start": 40,
+          "url": "https://t.co/m2uPqjikq1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895087207716917732",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894699416197718361",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Raw_377: #さよなら絶望先生 \n\n強引niマイYeah〜大好き https://t.co/m2uPqjikq1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 813,
+        "media_key": "3_1894699412355694592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GktTE7WaQAAuZXa.jpg",
+        "width": 611
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894699412355694592"
+          ],
+          "media_source_tweet_id": [
+            "1894699416197718361"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1895087207716917732",
+        "created_at": "2025-02-27T12:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T13:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895087207716917732"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 13,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1831970786187599872",
+              "start": 3,
+              "username": "Raw_377"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m2uPqjikq1",
+              "end": 63,
+              "expanded_url": "https://x.com/Raw_377/status/1894699416197718361/photo/1",
+              "media_key": "3_1894699412355694592",
+              "start": 40,
+              "url": "https://t.co/m2uPqjikq1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895087207716917732",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894699416197718361",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Raw_377: #さよなら絶望先生 \n\n強引niマイYeah〜大好き https://t.co/m2uPqjikq1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894699412355694592"
+          ]
+        },
+        "author_id": "1831970786187599872",
+        "conversation_id": "1894699416197718361",
+        "created_at": "2025-02-26T10:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T11:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894699416197718361"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m2uPqjikq1",
+              "end": 50,
+              "expanded_url": "https://x.com/Raw_377/status/1894699416197718361/photo/1",
+              "media_key": "3_1894699412355694592",
+              "start": 27,
+              "url": "https://t.co/m2uPqjikq1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894699416197718361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 332,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "#さよなら絶望先生 \n\n強引niマイYeah〜大好き https://t.co/m2uPqjikq1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889564810410627072/YnTsykE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 315,
+          "like_count": 1080,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 3286
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T08:21:51.000Z",
+        "description": "リクエスト常時受け付けてます。マシュマロに投げてね",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/k4cow7ysjc95jm…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/k4cow7ysjc95jmw?t=ktordb&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/5DjkU0NlTr"
+              }
+            ]
+          }
+        },
+        "id": "1831970786187599872",
+        "name": "遥斗",
+        "pinned_tweet_id": "1894769184485278065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871941079735619584/PBiPr4vP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 135,
+          "like_count": 679,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 232
+        },
+        "url": "https://t.co/5DjkU0NlTr",
+        "username": "Raw_377",
+        "verified": false
+      }
+    ]
+  }
+}

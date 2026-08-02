@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2053105842900308472",
+    "created_at": "2026-05-09T16:20:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T17:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053148055323677021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2052889319745224704",
+          "start": 0,
+          "username": "htmddsz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053148055323677021",
+    "in_reply_to_user_id": "2052889319745224704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053105842900308472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@htmddsz 和我讲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2053105842900308472",
+        "created_at": "2026-05-09T16:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T17:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053148055323677021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2052889319745224704",
+              "start": 0,
+              "username": "htmddsz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053148055323677021",
+        "in_reply_to_user_id": "2052889319745224704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053105842900308472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@htmddsz 和我讲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052889319745224704",
+        "conversation_id": "2053105842900308472",
+        "created_at": "2026-05-09T13:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053105842900308472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053105842900308472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "需要倾诉一堆使，有活人吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 560,
+          "like_count": 1652,
+          "listed_count": 3,
+          "media_count": 350,
+          "tweet_count": 6087
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T23:15:23.000Z",
+        "description": "⬆️形态偶尔改变，老中语/English/日本語OK，07，24/7typing shit🆘频繁挪用公款充值熊太快跑⚠️黑长直齐刘海炫酷失踪麻麻寻回中❤️‍🩹🌹🔋\n互foOK线下OK挂壁OK皮下冷脸正太",
+        "id": "2052889319745224704",
+        "name": "健康的薯子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053020891211300864/yPXMxhGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 54,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 63
+        },
+        "username": "htmddsz",
+        "verified": false
+      }
+    ]
+  }
+}

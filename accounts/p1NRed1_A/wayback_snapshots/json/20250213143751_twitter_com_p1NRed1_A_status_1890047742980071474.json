@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1890023356403245057"
+      ],
+      "media_source_tweet_id": [
+        "1890023457293008994"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1890047742980071474",
+    "created_at": "2025-02-13T14:37:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T15:37:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890047742980071474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752240199680266240",
+          "start": 3,
+          "username": "kumawo_52"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CZxeSOxKkf",
+          "end": 60,
+          "expanded_url": "https://x.com/kumawo_52/status/1890023457293008994/photo/1",
+          "media_key": "3_1890023356403245057",
+          "start": 37,
+          "url": "https://t.co/CZxeSOxKkf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890047742980071474",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890023457293008994",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kumawo_52: 自分でも何描きたかったのかわかってないです https://t.co/CZxeSOxKkf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1311,
+        "media_key": "3_1890023356403245057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gjq2OpebYAEAGfT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890023356403245057"
+          ],
+          "media_source_tweet_id": [
+            "1890023457293008994"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1890047742980071474",
+        "created_at": "2025-02-13T14:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T15:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890047742980071474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752240199680266240",
+              "start": 3,
+              "username": "kumawo_52"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CZxeSOxKkf",
+              "end": 60,
+              "expanded_url": "https://x.com/kumawo_52/status/1890023457293008994/photo/1",
+              "media_key": "3_1890023356403245057",
+              "start": 37,
+              "url": "https://t.co/CZxeSOxKkf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890047742980071474",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890023457293008994",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kumawo_52: 自分でも何描きたかったのかわかってないです https://t.co/CZxeSOxKkf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890023356403245057"
+          ]
+        },
+        "author_id": "1752240199680266240",
+        "conversation_id": "1890023457293008994",
+        "created_at": "2025-02-13T13:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T14:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890023457293008994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CZxeSOxKkf",
+              "end": 45,
+              "expanded_url": "https://x.com/kumawo_52/status/1890023457293008994/photo/1",
+              "media_key": "3_1890023356403245057",
+              "start": 22,
+              "url": "https://t.co/CZxeSOxKkf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890023457293008994",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "自分でも何描きたかったのかわかってないです https://t.co/CZxeSOxKkf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1847173258568982904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889564810410627072/YnTsykE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 304,
+          "like_count": 1062,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 3256
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T08:00:08.000Z",
+        "description": "連絡用アカウント\n全ての絵のAI学習を禁止します/do not repost\n基本絶望界隈",
+        "id": "1752240199680266240",
+        "name": "やさいねこた",
+        "pinned_tweet_id": "1774617692819144742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814907646140686337/yHvzCpOG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 13,
+          "like_count": 321,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 92
+        },
+        "username": "kumawo_52",
+        "verified": false
+      }
+    ]
+  }
+}

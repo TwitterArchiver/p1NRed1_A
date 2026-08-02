@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975402513215201281"
+      ],
+      "media_source_tweet_id": [
+        "1975402521209487769"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1975457221099327869",
+    "created_at": "2025-10-07T07:04:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T08:04:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975457221099327869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1162409600",
+          "start": 3,
+          "username": "miokaoaoms"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yQd1M2ESb1",
+          "end": 39,
+          "expanded_url": "https://x.com/miokaoaoms/status/1975402521209487769/photo/1",
+          "media_key": "3_1975402513215201281",
+          "start": 16,
+          "url": "https://t.co/yQd1M2ESb1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975457221099327869",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975402521209487769",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @miokaoaoms: https://t.co/yQd1M2ESb1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1108,
+        "media_key": "3_1975402513215201281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2oKHqCbIAE--Gs.jpg",
+        "width": 1478
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975402513215201281"
+          ],
+          "media_source_tweet_id": [
+            "1975402521209487769"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1975457221099327869",
+        "created_at": "2025-10-07T07:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T08:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975457221099327869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1162409600",
+              "start": 3,
+              "username": "miokaoaoms"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yQd1M2ESb1",
+              "end": 39,
+              "expanded_url": "https://x.com/miokaoaoms/status/1975402521209487769/photo/1",
+              "media_key": "3_1975402513215201281",
+              "start": 16,
+              "url": "https://t.co/yQd1M2ESb1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975457221099327869",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975402521209487769",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @miokaoaoms: https://t.co/yQd1M2ESb1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975402513215201281"
+          ]
+        },
+        "author_id": "1162409600",
+        "conversation_id": "1975402521209487769",
+        "created_at": "2025-10-07T03:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T04:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975402521209487769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yQd1M2ESb1",
+              "end": 23,
+              "expanded_url": "https://x.com/miokaoaoms/status/1975402521209487769/photo/1",
+              "media_key": "3_1975402513215201281",
+              "start": 0,
+              "url": "https://t.co/yQd1M2ESb1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975402521209487769",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 7293,
+          "like_count": 281,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/yQd1M2ESb1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 469,
+          "like_count": 1473,
+          "listed_count": 2,
+          "media_count": 281,
+          "tweet_count": 4944
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-09T08:57:32.000Z",
+        "description": "https://t.co/X4KftOhW7a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/momokaaiso",
+                "end": 23,
+                "expanded_url": "https://lit.link/momokaaiso",
+                "start": 0,
+                "url": "https://t.co/X4KftOhW7a"
+              }
+            ]
+          }
+        },
+        "id": "1162409600",
+        "name": "🌫",
+        "pinned_tweet_id": "1719933299991474389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1361887624508575744/oUD32dks_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9818,
+          "following_count": 0,
+          "like_count": 62218,
+          "listed_count": 158,
+          "media_count": 328,
+          "tweet_count": 386
+        },
+        "username": "miokaoaoms",
+        "verified": false
+      }
+    ]
+  }
+}

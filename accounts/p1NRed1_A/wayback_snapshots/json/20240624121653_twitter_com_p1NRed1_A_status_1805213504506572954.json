@@ -1,0 +1,362 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1805213504506572954",
+    "created_at": "2024-06-24T12:16:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-24T13:16:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1805213504506572954"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 2,
+          "normalized_text": "大神降",
+          "probability": 0.6675,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/tachibanalove0…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/tachibanalove01/status/1805188361122136415",
+          "start": 5,
+          "url": "https://t.co/6UyDmOEk7X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805213504506572954",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805188361122136415",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大神降临 https://t.co/6UyDmOEk7X"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1805213504506572954",
+        "created_at": "2024-06-24T12:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T13:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805213504506572954"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "大神降",
+              "probability": 0.6675,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/tachibanalove0…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/tachibanalove01/status/1805188361122136415",
+              "start": 5,
+              "url": "https://t.co/6UyDmOEk7X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805213504506572954",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805188361122136415",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大神降临 https://t.co/6UyDmOEk7X"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1805188353945690112"
+          ]
+        },
+        "author_id": "1753324501167960064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1805188361122136415",
+        "created_at": "2024-06-24T10:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T11:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805188361122136415"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 5,
+              "tag": "これでフォロワーさん増えました"
+            },
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "イラスト"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "oc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/5PR9G4tThT",
+              "end": 55,
+              "expanded_url": "https://twitter.com/tachibanalove01/status/1805188361122136415/photo/1",
+              "media_key": "3_1805188353945690112",
+              "start": 32,
+              "url": "https://t.co/5PR9G4tThT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805188361122136415",
+        "lang": "de",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "rkgk #これでフォロワーさん増えました\n#イラスト\n#oc https://t.co/5PR9G4tThT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802900561299472385/3G9b9zhq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 199,
+          "like_count": 427,
+          "listed_count": 0,
+          "tweet_count": 1739
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T07:48:51.000Z",
+        "description": "ヨルシカ/神聖かまってちゃん",
+        "id": "1753324501167960064",
+        "location": "你心里",
+        "name": "穗西德",
+        "pinned_tweet_id": "1805185144665555191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796493551007858689/Vah5drK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 284,
+          "like_count": 1463,
+          "listed_count": 0,
+          "tweet_count": 1167
+        },
+        "username": "tachibanalove01",
+        "verified": false
+      }
+    ]
+  }
+}

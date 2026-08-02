@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1825025931515170816"
+      ],
+      "media_source_tweet_id": [
+        "1825025939933184071"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1825509129697554631",
+    "created_at": "2024-08-19T12:24:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-19T13:24:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825509129697554631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1498502816784175106",
+          "start": 3,
+          "username": "Innoventions2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x4wn747k4n",
+          "end": 55,
+          "expanded_url": "https://twitter.com/Innoventions2/status/1825025939933184071/video/1",
+          "media_key": "7_1825025931515170816",
+          "start": 32,
+          "url": "https://t.co/x4WN747K4N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825509129697554631",
+    "lang": "tl",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 452
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825025939933184071",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Innoventions2: human nature https://t.co/x4WN747K4N"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4249,
+        "height": 568,
+        "media_key": "7_1825025931515170816",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1825025931515170816/pu/img/4p9WSTMGZ3bIwf2g.jpg",
+        "public_metrics": {
+          "view_count": 8837
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1825025931515170816/pu/vid/avc1/320x568/6qGJpDh9sIDuUQiY.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1825025931515170816/pu/pl/G8OERvDU_E1EfUkr.m3u8?tag=12"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1825025931515170816"
+          ],
+          "media_source_tweet_id": [
+            "1825025939933184071"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1825509129697554631",
+        "created_at": "2024-08-19T12:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T13:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825509129697554631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1498502816784175106",
+              "start": 3,
+              "username": "Innoventions2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x4wn747k4n",
+              "end": 55,
+              "expanded_url": "https://twitter.com/Innoventions2/status/1825025939933184071/video/1",
+              "media_key": "7_1825025931515170816",
+              "start": 32,
+              "url": "https://t.co/x4WN747K4N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825509129697554631",
+        "lang": "tl",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 452
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825025939933184071",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Innoventions2: human nature https://t.co/x4WN747K4N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1825025931515170816"
+          ]
+        },
+        "author_id": "1498502816784175106",
+        "conversation_id": "1825025939933184071",
+        "created_at": "2024-08-18T04:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-18T05:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825025939933184071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x4wn747k4n",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Innoventions2/status/1825025939933184071/video/1",
+              "media_key": "7_1825025931515170816",
+              "start": 13,
+              "url": "https://t.co/x4WN747K4N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825025939933184071",
+        "lang": "tl",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 353,
+          "impression_count": 25986,
+          "like_count": 2556,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 452
+        },
+        "reply_settings": "everyone",
+        "text": "human nature https://t.co/x4WN747K4N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 258,
+          "like_count": 726,
+          "listed_count": 0,
+          "tweet_count": 2436
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-01T03:38:15.000Z",
+        "description": "17 ✝️ » Azumanga, Yotsuba, Nichijou, Titanic, the Disney Parks, and 50s-80s music.\n» Post mostly Azumanga stuff.  It's 10:33 somewhere.\n» Discord: innoventions",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "innoventions.straw.page",
+                "end": 23,
+                "expanded_url": "http://innoventions.straw.page",
+                "start": 0,
+                "url": "https://t.co/ObAaPc3xrx"
+              }
+            ]
+          }
+        },
+        "id": "1498502816784175106",
+        "name": "Innoventions",
+        "pinned_tweet_id": "1806209328874922027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807844007537516544/jUcaghPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 93,
+          "like_count": 15885,
+          "listed_count": 4,
+          "tweet_count": 1313
+        },
+        "url": "https://t.co/ObAaPc3xrx",
+        "username": "Innoventions2",
+        "verified": false
+      }
+    ]
+  }
+}

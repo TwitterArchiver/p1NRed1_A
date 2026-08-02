@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1979812591364108751",
+    "created_at": "2025-10-19T07:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T08:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979815839726813600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1745811425501802496",
+          "start": 0,
+          "username": "4utumna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979815839726813600",
+    "in_reply_to_user_id": "1745811425501802496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979815576987164910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4utumna 这是乞丐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1979812591364108751",
+        "created_at": "2025-10-19T07:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T08:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979815839726813600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1745811425501802496",
+              "start": 0,
+              "username": "4utumna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979815839726813600",
+        "in_reply_to_user_id": "1745811425501802496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979815576987164910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4utumna 这是乞丐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745811425501802496",
+        "conversation_id": "1979812591364108751",
+        "created_at": "2025-10-19T07:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T08:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979815576987164910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979815576987164910",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979812591364108751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 这是时尚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 482,
+          "like_count": 1505,
+          "listed_count": 2,
+          "media_count": 296,
+          "tweet_count": 5100
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T14:14:31.000Z",
+        "description": "送你们去煎羊丸",
+        "id": "1745811425501802496",
+        "location": "下水道",
+        "name": "骚扰电话",
+        "pinned_tweet_id": "1971076700172845242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858881519542304768/Sh1xprXV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 88,
+          "like_count": 18214,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 1100
+        },
+        "username": "4utumna",
+        "verified": false
+      }
+    ]
+  }
+}

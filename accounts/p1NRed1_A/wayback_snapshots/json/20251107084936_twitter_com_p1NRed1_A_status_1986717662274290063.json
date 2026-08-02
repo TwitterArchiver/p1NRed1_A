@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986058444252880896"
+      ],
+      "media_source_tweet_id": [
+        "1986058452033220636"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1986717662274290063",
+    "created_at": "2025-11-07T08:49:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T09:49:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986717662274290063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1847564554093686784",
+          "start": 3,
+          "username": "aaaaa__211"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DZ7KYkp6S3",
+          "end": 55,
+          "expanded_url": "https://x.com/aaaaa__211/status/1986058452033220636/photo/1",
+          "media_key": "3_1986058444252880896",
+          "start": 32,
+          "url": "https://t.co/DZ7KYkp6S3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986717662274290063",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986058452033220636",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aaaaa__211: 可符香ばっか描いてる🎶かわいい https://t.co/DZ7KYkp6S3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986058444252880896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4_loejboAAM02t.jpg",
+        "width": 1531
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986058444252880896"
+          ],
+          "media_source_tweet_id": [
+            "1986058452033220636"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1986717662274290063",
+        "created_at": "2025-11-07T08:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T09:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986717662274290063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1847564554093686784",
+              "start": 3,
+              "username": "aaaaa__211"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DZ7KYkp6S3",
+              "end": 55,
+              "expanded_url": "https://x.com/aaaaa__211/status/1986058452033220636/photo/1",
+              "media_key": "3_1986058444252880896",
+              "start": 32,
+              "url": "https://t.co/DZ7KYkp6S3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986717662274290063",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986058452033220636",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aaaaa__211: 可符香ばっか描いてる🎶かわいい https://t.co/DZ7KYkp6S3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986058444252880896"
+          ]
+        },
+        "author_id": "1847564554093686784",
+        "conversation_id": "1986058452033220636",
+        "created_at": "2025-11-05T13:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T14:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986058452033220636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DZ7KYkp6S3",
+              "end": 39,
+              "expanded_url": "https://x.com/aaaaa__211/status/1986058452033220636/photo/1",
+              "media_key": "3_1986058444252880896",
+              "start": 16,
+              "url": "https://t.co/DZ7KYkp6S3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986058452033220636",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 2007,
+          "like_count": 180,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "可符香ばっか描いてる🎶かわいい https://t.co/DZ7KYkp6S3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975937302120873984/unRLnWly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 495,
+          "like_count": 1540,
+          "listed_count": 2,
+          "media_count": 307,
+          "tweet_count": 5257
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T09:07:12.000Z",
+        "description": "主にaphとさよ絶です 多界隈/これからきままに投稿します😼/TikTokも同じユーザー名です是非来てね✨️  受験です",
+        "id": "1847564554093686784",
+        "name": "（i m i",
+        "pinned_tweet_id": "1977236747466727532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954933209260789760/3cAv8xqg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 17,
+          "like_count": 47143,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 394
+        },
+        "username": "aaaaa__211",
+        "verified": false
+      }
+    ]
+  }
+}

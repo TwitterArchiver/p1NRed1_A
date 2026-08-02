@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1916457370357731435",
+    "created_at": "2025-04-27T13:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T14:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916479999982579923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1620370309843918850",
+          "start": 0,
+          "username": "mmngyng20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916479999982579923",
+    "in_reply_to_user_id": "1620370309843918850",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916461797684687338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmngyng20 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1916457370357731435",
+        "created_at": "2025-04-27T13:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T14:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916479999982579923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1620370309843918850",
+              "start": 0,
+              "username": "mmngyng20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916479999982579923",
+        "in_reply_to_user_id": "1620370309843918850",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916461797684687338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmngyng20 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620370309843918850",
+        "conversation_id": "1916457370357731435",
+        "created_at": "2025-04-27T11:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T12:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916461797684687338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916461797684687338",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916457370357731435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 萌！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 388,
+          "like_count": 1170,
+          "listed_count": 1,
+          "media_count": 200,
+          "tweet_count": 3677
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T10:36:15.000Z",
+        "description": "妖兰妖兰快来吧！",
+        "id": "1620370309843918850",
+        "name": "疯狂阿凯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620409895479644160/TbH6sDr2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 1166,
+          "like_count": 3112,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 4495
+        },
+        "username": "mmngyng20",
+        "verified": false
+      }
+    ]
+  }
+}

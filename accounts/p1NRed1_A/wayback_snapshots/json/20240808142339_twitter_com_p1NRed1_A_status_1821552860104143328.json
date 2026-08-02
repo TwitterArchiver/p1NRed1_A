@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1821462764038336513"
+      ],
+      "media_source_tweet_id": [
+        "1821462871525507447"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1821552860104143328",
+    "created_at": "2024-08-08T14:23:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-08T15:23:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821552860104143328"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 24,
+          "tag": "さよなら絶望先生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1476887134933897219",
+          "start": 3,
+          "username": "LollisBlack"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6an0g45svu",
+          "end": 57,
+          "expanded_url": "https://twitter.com/LollisBlack/status/1821462871525507447/photo/1",
+          "media_key": "3_1821462764038336513",
+          "start": 34,
+          "url": "https://t.co/6an0G45SvU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821552860104143328",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821462871525507447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LollisBlack: 命短し俗世间 #さよなら絶望先生 https://t.co/6an0G45SvU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1821462764038336513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUciu74bMAE-jRK.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821462764038336513"
+          ],
+          "media_source_tweet_id": [
+            "1821462871525507447"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1821552860104143328",
+        "created_at": "2024-08-08T14:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T15:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821552860104143328"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 24,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1476887134933897219",
+              "start": 3,
+              "username": "LollisBlack"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6an0g45svu",
+              "end": 57,
+              "expanded_url": "https://twitter.com/LollisBlack/status/1821462871525507447/photo/1",
+              "media_key": "3_1821462764038336513",
+              "start": 34,
+              "url": "https://t.co/6an0G45SvU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821552860104143328",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821462871525507447",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LollisBlack: 命短し俗世间 #さよなら絶望先生 https://t.co/6an0G45SvU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821462764038336513"
+          ]
+        },
+        "author_id": "1476887134933897219",
+        "conversation_id": "1821462871525507447",
+        "created_at": "2024-08-08T08:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T09:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821462871525507447"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 7,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6an0g45svu",
+              "end": 40,
+              "expanded_url": "https://twitter.com/LollisBlack/status/1821462871525507447/photo/1",
+              "media_key": "3_1821462764038336513",
+              "start": 17,
+              "url": "https://t.co/6an0G45SvU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821462871525507447",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 675,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "命短し俗世间 #さよなら絶望先生 https://t.co/6an0G45SvU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805563382332014593/-06gBRx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 248,
+          "like_count": 617,
+          "listed_count": 0,
+          "tweet_count": 2269
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-31T12:05:14.000Z",
+        "description": "中文|日本語勉強中|望カフ|眼鏡男好きだ\npixiv:https://t.co/q00AkLuLJW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/69712310",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/69712310",
+                "start": 27,
+                "url": "https://t.co/q00AkLuLJW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/RzrhIgbqeUOV…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/RzrhIgbqeUOVK0DWzJGHrrubIfx2",
+                "start": 0,
+                "url": "https://t.co/thjClJkm1Z"
+              }
+            ]
+          }
+        },
+        "id": "1476887134933897219",
+        "location": "China",
+        "name": "夜洛Black",
+        "pinned_tweet_id": "1780383417936285895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800442167837773826/umYUCEeP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 211,
+          "like_count": 602,
+          "listed_count": 0,
+          "tweet_count": 247
+        },
+        "url": "https://t.co/thjClJkm1Z",
+        "username": "LollisBlack",
+        "verified": false
+      }
+    ]
+  }
+}

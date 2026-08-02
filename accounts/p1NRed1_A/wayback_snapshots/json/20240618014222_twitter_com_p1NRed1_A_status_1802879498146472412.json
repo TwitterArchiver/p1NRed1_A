@@ -1,0 +1,246 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1802876430763917312"
+      ],
+      "media_source_tweet_id": [
+        "1802876449050993133"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1802879498146472412",
+    "created_at": "2024-06-18T01:42:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-18T02:42:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802879498146472412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1724279773470535680",
+          "start": 3,
+          "username": "Sakuradied"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/8kztVx4X0z",
+          "end": 39,
+          "expanded_url": "https://twitter.com/Sakuradied/status/1802876449050993133/video/1",
+          "media_key": "7_1802876430763917312",
+          "start": 16,
+          "url": "https://t.co/8kztVx4X0z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802879498146472412",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802876449050993133",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sakuradied: https://t.co/8kztVx4X0z"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15346,
+        "height": 960,
+        "media_key": "7_1802876430763917312",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1802876430763917312/pu/img/ssjdaXCJ7RafaINt.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1802876430763917312/pu/vid/avc1/320x568/tKnLAIGqwAJBK9FK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1802876430763917312/pu/vid/avc1/480x852/BmZquzZH8eyVZ7sl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1802876430763917312/pu/vid/avc1/540x960/8NpxSB-dbHMf5yvy.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1802876430763917312/pu/pl/RsgpEB9_IS50jp4p.m3u8?tag=12"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1802876430763917312"
+          ],
+          "media_source_tweet_id": [
+            "1802876449050993133"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1802879498146472412",
+        "created_at": "2024-06-18T01:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T02:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802879498146472412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1724279773470535680",
+              "start": 3,
+              "username": "Sakuradied"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/8kztVx4X0z",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Sakuradied/status/1802876449050993133/video/1",
+              "media_key": "7_1802876430763917312",
+              "start": 16,
+              "url": "https://t.co/8kztVx4X0z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802879498146472412",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802876449050993133",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sakuradied: https://t.co/8kztVx4X0z"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1802876430763917312"
+          ]
+        },
+        "author_id": "1724279773470535680",
+        "conversation_id": "1802876449050993133",
+        "created_at": "2024-06-18T01:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T02:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802876449050993133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/8kztVx4X0z",
+              "end": 23,
+              "expanded_url": "https://twitter.com/Sakuradied/status/1802876449050993133/video/1",
+              "media_key": "7_1802876430763917312",
+              "start": 0,
+              "url": "https://t.co/8kztVx4X0z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802876449050993133",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8kztVx4X0z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802327000553795584/bHnmfy-g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 184,
+          "like_count": 372,
+          "listed_count": 0,
+          "tweet_count": 1548
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T04:15:17.000Z",
+        "description": "ihateyou",
+        "id": "1724279773470535680",
+        "location": "NewYork",
+        "name": "柊夢愛✍✍✍",
+        "pinned_tweet_id": "1794386528271241395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790035557537779712/8PKZCKAz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 525,
+          "like_count": 2578,
+          "listed_count": 0,
+          "tweet_count": 1025
+        },
+        "username": "Sakuradied",
+        "verified": false
+      }
+    ]
+  }
+}

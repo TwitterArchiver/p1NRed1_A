@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959579114559688704"
+      ],
+      "media_source_tweet_id": [
+        "1959579361985929679"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1959609397497454988",
+    "created_at": "2025-08-24T13:31:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T14:31:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959609397497454988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1437039807675260933",
+          "start": 3,
+          "username": "kougetu_kankan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C8ZfK6T61Y",
+          "end": 48,
+          "expanded_url": "https://x.com/kougetu_kankan/status/1959579361985929679/photo/1",
+          "media_key": "3_1959579114559688704",
+          "start": 25,
+          "url": "https://t.co/C8ZfK6T61Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959609397497454988",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959579361985929679",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kougetu_kankan: 音無メル https://t.co/C8ZfK6T61Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1959579114559688704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzHS0oia0AAqCo8.png",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959579114559688704"
+          ],
+          "media_source_tweet_id": [
+            "1959579361985929679"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1959609397497454988",
+        "created_at": "2025-08-24T13:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T14:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959609397497454988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1437039807675260933",
+              "start": 3,
+              "username": "kougetu_kankan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C8ZfK6T61Y",
+              "end": 48,
+              "expanded_url": "https://x.com/kougetu_kankan/status/1959579361985929679/photo/1",
+              "media_key": "3_1959579114559688704",
+              "start": 25,
+              "url": "https://t.co/C8ZfK6T61Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959609397497454988",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959579361985929679",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kougetu_kankan: 音無メル https://t.co/C8ZfK6T61Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959579114559688704"
+          ]
+        },
+        "author_id": "1437039807675260933",
+        "conversation_id": "1959579361985929679",
+        "created_at": "2025-08-24T11:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T12:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959579361985929679"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "音無メル",
+              "probability": 0.8653,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C8ZfK6T61Y",
+              "end": 28,
+              "expanded_url": "https://x.com/kougetu_kankan/status/1959579361985929679/photo/1",
+              "media_key": "3_1959579114559688704",
+              "start": 5,
+              "url": "https://t.co/C8ZfK6T61Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959579361985929679",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 377,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "音無メル https://t.co/C8ZfK6T61Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 425,
+          "like_count": 1312,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 4496
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-12T13:06:23.000Z",
+        "description": "週1で絵を投稿…したい…",
+        "id": "1437039807675260933",
+        "name": "コーゲツ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1632035742850650113/DnXiiVN1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 65,
+          "like_count": 1734,
+          "listed_count": 2,
+          "media_count": 110,
+          "tweet_count": 118
+        },
+        "username": "kougetu_kankan",
+        "verified": false
+      }
+    ]
+  }
+}

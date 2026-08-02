@@ -1,0 +1,181 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1800373632218366405",
+    "created_at": "2024-06-11T04:55:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-11T05:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800391442529140829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1629141664164872192",
+          "start": 0,
+          "username": "qing20001206"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800391442529140829",
+    "in_reply_to_user_id": "1629141664164872192",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800390972972626254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qing20001206 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1800373632218366405",
+        "created_at": "2024-06-11T04:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T05:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800391442529140829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1629141664164872192",
+              "start": 0,
+              "username": "qing20001206"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800391442529140829",
+        "in_reply_to_user_id": "1629141664164872192",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800390972972626254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qing20001206 谢谢"
+      },
+      {
+        "attachments": {},
+        "author_id": "1629141664164872192",
+        "conversation_id": "1800373632218366405",
+        "created_at": "2024-06-11T04:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T05:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800390972972626254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800390972972626254",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800373632218366405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 10000"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800005249027203073/CQR3vaAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 174,
+          "like_count": 329,
+          "listed_count": 0,
+          "tweet_count": 1227
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-24T15:30:35.000Z",
+        "description": "",
+        "id": "1629141664164872192",
+        "location": "树上",
+        "name": "清",
+        "pinned_tweet_id": "1773565362795082115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682698545894236160/fKHrT2lY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 20,
+          "like_count": 914,
+          "listed_count": 0,
+          "tweet_count": 365
+        },
+        "username": "qing20001206",
+        "verified": false
+      }
+    ]
+  }
+}

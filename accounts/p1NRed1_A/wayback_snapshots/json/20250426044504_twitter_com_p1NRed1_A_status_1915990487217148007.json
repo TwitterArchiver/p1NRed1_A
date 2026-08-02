@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1915863574947500032"
+      ],
+      "media_source_tweet_id": [
+        "1915863578432967043"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1915990487217148007",
+    "created_at": "2025-04-26T04:45:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T05:45:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915990487217148007"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 23,
+          "tag": "素晴らしき日々"
+        },
+        {
+          "end": 46,
+          "start": 33,
+          "tag": "minakamiyuki"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1421981886516183043",
+          "start": 3,
+          "username": "gaga159469"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bc41wOTPcr",
+          "end": 70,
+          "expanded_url": "https://x.com/gaga159469/status/1915863578432967043/photo/1",
+          "media_key": "3_1915863574947500032",
+          "start": 47,
+          "url": "https://t.co/Bc41wOTPcr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915990487217148007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 202
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915863578432967043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gaga159469: 我绘制了一套\n#素晴らしき日々 \n#minakamiyuki https://t.co/Bc41wOTPcr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1915863574947500032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpaDxU7bEAAI3Zn.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915863574947500032"
+          ],
+          "media_source_tweet_id": [
+            "1915863578432967043"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1915990487217148007",
+        "created_at": "2025-04-26T04:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T05:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915990487217148007"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 23,
+              "tag": "素晴らしき日々"
+            },
+            {
+              "end": 46,
+              "start": 33,
+              "tag": "minakamiyuki"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1421981886516183043",
+              "start": 3,
+              "username": "gaga159469"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bc41wOTPcr",
+              "end": 70,
+              "expanded_url": "https://x.com/gaga159469/status/1915863578432967043/photo/1",
+              "media_key": "3_1915863574947500032",
+              "start": 47,
+              "url": "https://t.co/Bc41wOTPcr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915990487217148007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 202
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915863578432967043",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gaga159469: 我绘制了一套\n#素晴らしき日々 \n#minakamiyuki https://t.co/Bc41wOTPcr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915863574947500032"
+          ]
+        },
+        "author_id": "1421981886516183043",
+        "conversation_id": "1915863578432967043",
+        "created_at": "2025-04-25T20:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T21:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915863578432967043"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 7,
+              "tag": "素晴らしき日々"
+            },
+            {
+              "end": 30,
+              "start": 17,
+              "tag": "minakamiyuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bc41wOTPcr",
+              "end": 54,
+              "expanded_url": "https://x.com/gaga159469/status/1915863578432967043/photo/1",
+              "media_key": "3_1915863574947500032",
+              "start": 31,
+              "url": "https://t.co/Bc41wOTPcr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915863578432967043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 125,
+          "impression_count": 10344,
+          "like_count": 1003,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 202
+        },
+        "reply_settings": "everyone",
+        "text": "我绘制了一套\n#素晴らしき日々 \n#minakamiyuki https://t.co/Bc41wOTPcr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 387,
+          "like_count": 1164,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 3651
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T23:51:47.000Z",
+        "description": "私は中国のコスプレイヤーです| ू•ૅ㉨•́)ᵎᵎᵎ\n💓水上由岐が大好き💓\n応援してくれてありがとう",
+        "id": "1421981886516183043",
+        "name": "Houkoi_恋",
+        "pinned_tweet_id": "1892695795880587453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820189763506491392/gPE-snpd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3390,
+          "following_count": 214,
+          "like_count": 3222,
+          "listed_count": 11,
+          "media_count": 222,
+          "tweet_count": 576
+        },
+        "username": "gaga159469",
+        "verified": false
+      }
+    ]
+  }
+}

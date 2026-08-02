@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967036530964549632"
+      ],
+      "media_source_tweet_id": [
+        "1967036751878516745"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "1967535986566664285",
+    "created_at": "2025-09-15T10:28:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T11:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967535986566664285"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "符香",
+          "probability": 0.4097,
+          "start": 36,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1705395684403535872",
+          "start": 3,
+          "username": "BOBBYJEAN_JOJO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8qaJ9ZSuEL",
+          "end": 73,
+          "expanded_url": "https://x.com/BOBBYJEAN_JOJO/status/1967036751878516745/photo/1",
+          "media_key": "3_1967036530964549632",
+          "start": 50,
+          "url": "https://t.co/8qaJ9ZSuEL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967535986566664285",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 117
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967036751878516745",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BOBBYJEAN_JOJO: 絶望先生のキャラ全混ぜにしたら可符香が浮き出てくるやつ好き https://t.co/8qaJ9ZSuEL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 397,
+        "media_key": "3_1967036530964549632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0xRTZhb0AAWLY2.jpg",
+        "width": 318
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967036530964549632"
+          ],
+          "media_source_tweet_id": [
+            "1967036751878516745"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1967535986566664285",
+        "created_at": "2025-09-15T10:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T11:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967535986566664285"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "符香",
+              "probability": 0.4097,
+              "start": 36,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1705395684403535872",
+              "start": 3,
+              "username": "BOBBYJEAN_JOJO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8qaJ9ZSuEL",
+              "end": 73,
+              "expanded_url": "https://x.com/BOBBYJEAN_JOJO/status/1967036751878516745/photo/1",
+              "media_key": "3_1967036530964549632",
+              "start": 50,
+              "url": "https://t.co/8qaJ9ZSuEL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967535986566664285",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 117
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967036751878516745",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BOBBYJEAN_JOJO: 絶望先生のキャラ全混ぜにしたら可符香が浮き出てくるやつ好き https://t.co/8qaJ9ZSuEL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967036530964549632"
+          ]
+        },
+        "author_id": "1705395684403535872",
+        "conversation_id": "1967036751878516745",
+        "created_at": "2025-09-14T01:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T02:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967036751878516745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8qaJ9ZSuEL",
+              "end": 53,
+              "expanded_url": "https://x.com/BOBBYJEAN_JOJO/status/1967036751878516745/photo/1",
+              "media_key": "3_1967036530964549632",
+              "start": 30,
+              "url": "https://t.co/8qaJ9ZSuEL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967036751878516745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 26628,
+          "like_count": 1012,
+          "quote_count": 9,
+          "reply_count": 1,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "絶望先生のキャラ全混ぜにしたら可符香が浮き出てくるやつ好き https://t.co/8qaJ9ZSuEL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 444,
+          "like_count": 1382,
+          "listed_count": 2,
+          "media_count": 261,
+          "tweet_count": 4685
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T01:36:37.000Z",
+        "description": "アニメ,サッカー,野球,モータースポーツ等色々いけます\nThe JOJOLands 本誌ネタバレ注意",
+        "id": "1705395684403535872",
+        "name": "ボビーの奇妙な冒険",
+        "pinned_tweet_id": "1905536046416503127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955793602216648704/sIRNPm4b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 1068,
+          "like_count": 4461,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 3063
+        },
+        "username": "BOBBYJEAN_JOJO",
+        "verified": false
+      }
+    ]
+  }
+}

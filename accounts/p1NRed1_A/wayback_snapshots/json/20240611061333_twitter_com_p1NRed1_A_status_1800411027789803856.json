@@ -1,0 +1,235 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "1799451134828138642",
+    "created_at": "2024-06-11T06:13:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-11T07:13:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800411027789803856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "881460768377520128",
+          "start": 0,
+          "username": "RikkaRSama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800411027789803856",
+    "in_reply_to_user_id": "881460768377520128",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799451134828138642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RikkaRSama 教我可以吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1799451134828138642",
+        "created_at": "2024-06-11T06:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T07:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800411027789803856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "881460768377520128",
+              "start": 0,
+              "username": "RikkaRSama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800411027789803856",
+        "in_reply_to_user_id": "881460768377520128",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799451134828138642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RikkaRSama 教我可以吗"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1799451119770607617",
+            "3_1799451120089407488",
+            "3_1799451120139636736"
+          ]
+        },
+        "author_id": "881460768377520128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1799451134828138642",
+        "created_at": "2024-06-08T14:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T15:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799451134828138642"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "舞萌",
+              "probability": 0.6285,
+              "start": 2,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/gZscboXmCc",
+              "end": 28,
+              "expanded_url": "https://twitter.com/RikkaRSama/status/1799451134828138642/photo/1",
+              "media_key": "3_1799451119770607617",
+              "start": 5,
+              "url": "https://t.co/gZscboXmCc"
+            },
+            {
+              "display_url": "pic.twitter.com/gZscboXmCc",
+              "end": 28,
+              "expanded_url": "https://twitter.com/RikkaRSama/status/1799451134828138642/photo/1",
+              "media_key": "3_1799451120089407488",
+              "start": 5,
+              "url": "https://t.co/gZscboXmCc"
+            },
+            {
+              "display_url": "pic.twitter.com/gZscboXmCc",
+              "end": 28,
+              "expanded_url": "https://twitter.com/RikkaRSama/status/1799451134828138642/photo/1",
+              "media_key": "3_1799451120139636736",
+              "start": 5,
+              "url": "https://t.co/gZscboXmCc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799451134828138642",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日舞萌 https://t.co/gZscboXmCc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800005249027203073/CQR3vaAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 175,
+          "like_count": 330,
+          "listed_count": 0,
+          "tweet_count": 1237
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-02T10:33:18.000Z",
+        "description": "你知道我是什么成分，来找我吧。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "maimai.sega.jp",
+                "end": 23,
+                "expanded_url": "https://maimai.sega.jp/",
+                "start": 0,
+                "url": "https://t.co/ty501qE5oV"
+              }
+            ]
+          }
+        },
+        "id": "881460768377520128",
+        "location": "Republic Of Neko 🐱",
+        "name": "RikkaRS",
+        "pinned_tweet_id": "1799981092612833613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797308240784748545/TdyA8BXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 797,
+          "like_count": 20673,
+          "listed_count": 1,
+          "tweet_count": 2962
+        },
+        "url": "https://t.co/ty501qE5oV",
+        "username": "RikkaRSama",
+        "verified": false
+      }
+    ]
+  }
+}

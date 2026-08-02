@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2081797961672257865",
+    "created_at": "2026-07-27T17:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T18:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081797961672257865"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ficokts/status…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/ficokts/status/2081628492542939317",
+          "start": 22,
+          "url": "https://t.co/HzATWzcf6p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081797961672257865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081628492542939317",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样被曾经说我是他的水上油漆的男的甩了 https://t.co/HzATWzcf6p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081628468518023168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HONuECxbcAAOtxh.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2081797961672257865",
+        "created_at": "2026-07-27T17:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081797961672257865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ficokts/status…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/ficokts/status/2081628492542939317",
+              "start": 22,
+              "url": "https://t.co/HzATWzcf6p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081797961672257865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081628492542939317",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样被曾经说我是他的水上油漆的男的甩了 https://t.co/HzATWzcf6p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081628468518023168"
+          ]
+        },
+        "author_id": "1564088613427712000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081628492542939317",
+        "created_at": "2026-07-27T06:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T07:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081628492542939317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cYptbMS67e",
+              "end": 50,
+              "expanded_url": "https://x.com/FicoKts/status/2081628492542939317/photo/1",
+              "media_key": "3_2081628468518023168",
+              "start": 27,
+              "url": "https://t.co/cYptbMS67e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081628492542939317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 29950,
+          "like_count": 217,
+          "quote_count": 17,
+          "reply_count": 94,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "要是有人对我说这种话 简直比他出轨十个女的还让我难受 https://t.co/cYptbMS67e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/9GooAZ0z7o"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "死全家星",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076577294790139904/Fz-jPCGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 586,
+          "like_count": 1802,
+          "listed_count": 3,
+          "media_count": 442,
+          "tweet_count": 7169
+        },
+        "url": "https://t.co/9GooAZ0z7o",
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-29T03:12:49.000Z",
+        "description": "",
+        "id": "1564088613427712000",
+        "name": "Gemini",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075875380444241920/2FdxLwTE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 144,
+          "like_count": 10062,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 936
+        },
+        "url": "",
+        "username": "FicoKts",
+        "verified": false
+      }
+    ]
+  }
+}
