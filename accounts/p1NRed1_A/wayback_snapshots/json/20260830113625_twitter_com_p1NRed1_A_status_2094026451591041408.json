@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2093759793949479255",
+    "created_at": "2026-08-30T11:36:25.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T12:36:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094026451591041408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1293074266515099648",
+          "start": 0,
+          "username": "Plaskid_9244"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094026451591041408",
+    "in_reply_to_user_id": "1293074266515099648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093759793949479255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Plaskid_9244 给我来一刀吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2093759793949479255",
+        "created_at": "2026-08-30T11:36:25.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T12:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094026451591041408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1293074266515099648",
+              "start": 0,
+              "username": "Plaskid_9244"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094026451591041408",
+        "in_reply_to_user_id": "1293074266515099648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093759793949479255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Plaskid_9244 给我来一刀吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1293074266515099648",
+        "conversation_id": "2093759793949479255",
+        "created_at": "2026-08-29T17:56:49.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T18:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093759793949479255"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093759793949479255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次放假都会感觉。所有的现生和网络朋友都是敌人，没一个真诚的，让我有一种，想给每人都来一刀的冲动、"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/9GooAZ0z7o"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "is_identity_verified": false,
+        "location": "死全家星",
+        "most_recent_tweet_id": "2094026451591041408",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1729436345913995265/1753361560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076577294790139904/Fz-jPCGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 577,
+          "like_count": 1793,
+          "listed_count": 3,
+          "media_count": 448,
+          "tweet_count": 7257
+        },
+        "url": "https://t.co/9GooAZ0z7o",
+        "username": "p1NRed1_A",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-11T06:38:41.000Z",
+        "description": "觸感，像在 Gangsta Grillz 裡、也许「戰爭反對」、也許是我正眷恋以前做一棵 Weihnachtsbaum 的日子。",
+        "id": "1293074266515099648",
+        "is_identity_verified": false,
+        "location": "Newcastle,UK",
+        "most_recent_tweet_id": "2093983179829076255",
+        "name": "v0dkakillzmyenvyy",
+        "pinned_tweet_id": "2079509281867759756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1293074266515099648/1778924851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058415908708818944/WfaauD3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 942,
+          "like_count": 13477,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 2223
+        },
+        "url": "",
+        "username": "Plaskid_9244",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

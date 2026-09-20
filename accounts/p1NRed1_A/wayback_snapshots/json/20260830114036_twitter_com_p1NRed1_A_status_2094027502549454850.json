@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093590977126469632"
+      ],
+      "media_source_tweet_id": [
+        "2093591233419448739"
+      ]
+    },
+    "author_id": "1729436345913995265",
+    "conversation_id": "2094027502549454850",
+    "created_at": "2026-08-30T11:40:36.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T12:40:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094027502549454850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2598018877",
+          "start": 3,
+          "username": "europemaxxed"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3Mjfr5r94D",
+          "end": 62,
+          "expanded_url": "https://x.com/europemaxxed/status/2093591233419448739/photo/1",
+          "media_key": "3_2093590977126469632",
+          "start": 39,
+          "url": "https://t.co/3Mjfr5r94D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094027502549454850",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2093590977126469632"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3169
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093591233419448739",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @europemaxxed: my constant struggle https://t.co/3Mjfr5r94D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3464,
+        "media_key": "3_2093590977126469632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3t5sCWEAApHCU.jpg",
+        "width": 3464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093590977126469632"
+          ],
+          "media_source_tweet_id": [
+            "2093591233419448739"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "2094027502549454850",
+        "created_at": "2026-08-30T11:40:36.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T12:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094027502549454850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2598018877",
+              "start": 3,
+              "username": "europemaxxed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Mjfr5r94D",
+              "end": 62,
+              "expanded_url": "https://x.com/europemaxxed/status/2093591233419448739/photo/1",
+              "media_key": "3_2093590977126469632",
+              "start": 39,
+              "url": "https://t.co/3Mjfr5r94D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094027502549454850",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2093590977126469632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3169
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093591233419448739",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @europemaxxed: my constant struggle https://t.co/3Mjfr5r94D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093590977126469632"
+          ]
+        },
+        "author_id": "2598018877",
+        "conversation_id": "2093591233419448739",
+        "created_at": "2026-08-29T06:47:01.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T07:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093591233419448739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Mjfr5r94D",
+              "end": 44,
+              "expanded_url": "https://x.com/europemaxxed/status/2093591233419448739/photo/1",
+              "media_key": "3_2093590977126469632",
+              "start": 21,
+              "url": "https://t.co/3Mjfr5r94D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093591233419448739",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2093590977126469632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 430,
+          "impression_count": 126255,
+          "like_count": 20165,
+          "quote_count": 48,
+          "reply_count": 21,
+          "retweet_count": 3169
+        },
+        "reply_settings": "everyone",
+        "text": "my constant struggle https://t.co/3Mjfr5r94D"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/9GooAZ0z7o"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "is_identity_verified": false,
+        "location": "死全家星",
+        "most_recent_tweet_id": "2094027502549454850",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1729436345913995265/1753361560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076577294790139904/Fz-jPCGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 577,
+          "like_count": 1794,
+          "listed_count": 3,
+          "media_count": 448,
+          "tweet_count": 7259
+        },
+        "url": "https://t.co/9GooAZ0z7o",
+        "username": "p1NRed1_A",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-07-01T13:28:42.000Z",
+        "description": "If I'm an advocate for anything, it's to move",
+        "id": "2598018877",
+        "is_identity_verified": false,
+        "location": "Denmark | Europe",
+        "most_recent_tweet_id": "2094011427484811582",
+        "name": "Mads",
+        "pinned_tweet_id": "2008925990060183782",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2598018877/1742114556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074078445798088704/2rd2T6ea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204491,
+          "following_count": 288,
+          "like_count": 66718,
+          "listed_count": 308,
+          "media_count": 5310,
+          "tweet_count": 6961
+        },
+        "url": "",
+        "username": "europemaxxed",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
