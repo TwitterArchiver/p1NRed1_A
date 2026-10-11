@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2099078662054129765",
+    "created_at": "2026-09-14T02:41:16.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T03:41:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099327591220162867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1293074266515099648",
+          "start": 0,
+          "username": "Plaskid_9244"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099327591220162867",
+    "in_reply_to_user_id": "1293074266515099648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099078662054129765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Plaskid_9244 长得有点像你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2099078662054129765",
+        "created_at": "2026-09-14T02:41:16.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T03:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099327591220162867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1293074266515099648",
+              "start": 0,
+              "username": "Plaskid_9244"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099327591220162867",
+        "in_reply_to_user_id": "1293074266515099648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099078662054129765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Plaskid_9244 长得有点像你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1293074266515099648",
+        "conversation_id": "2099078662054129765",
+        "created_at": "2026-09-13T10:12:06.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T11:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099078662054129765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shibuya_kaiba/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/shibuya_kaiba/status/2095124331756228831",
+              "start": 19,
+              "url": "https://t.co/Khe1cUZ6qS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099078662054129765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 383,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095124331756228831",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一直感覺宮西計三有點小騷這是能說的嗎 https://t.co/Khe1cUZ6qS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/9GooAZ0z7o"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "is_identity_verified": false,
+        "location": "死全家星",
+        "most_recent_tweet_id": "2099327591220162867",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1729436345913995265/1753361560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076577294790139904/Fz-jPCGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 576,
+          "like_count": 1786,
+          "listed_count": 3,
+          "media_count": 449,
+          "tweet_count": 7315
+        },
+        "url": "https://t.co/9GooAZ0z7o",
+        "username": "p1NRed1_A",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-11T06:38:41.000Z",
+        "description": "觸感，像在 Gangsta Grillz 裡、也许「戰爭反對」、也許是我正眷恋以前做一棵 Weihnachtsbaum 的日子。",
+        "id": "1293074266515099648",
+        "is_identity_verified": false,
+        "location": "Newcastle,UK",
+        "most_recent_tweet_id": "2099110591918899673",
+        "name": "v0dkakillzmyenvyy",
+        "pinned_tweet_id": "2079509281867759756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1293074266515099648/1778924851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058415908708818944/WfaauD3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 944,
+          "like_count": 13721,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 2340
+        },
+        "url": "",
+        "username": "Plaskid_9244",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

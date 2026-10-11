@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1729436345913995265",
+    "conversation_id": "2098102512477987070",
+    "created_at": "2026-09-11T09:07:53.000Z",
+    "display_text_range": [
+      11,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T10:07:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098337724487094769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1921995331975462912",
+          "start": 0,
+          "username": "quans0611"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098337724487094769",
+    "in_reply_to_user_id": "1921995331975462912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098102512477987070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quans0611 我们一起玩黑环吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 185,
+        "media_key": "3_2098102501811929088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR31G_LbwAAB1qK.jpg",
+        "width": 186
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2098102512477987070",
+        "created_at": "2026-09-11T09:07:53.000Z",
+        "display_text_range": [
+          11,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T10:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098337724487094769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1921995331975462912",
+              "start": 0,
+              "username": "quans0611"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098337724487094769",
+        "in_reply_to_user_id": "1921995331975462912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098102512477987070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quans0611 我们一起玩黑环吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098102501811929088"
+          ]
+        },
+        "author_id": "1921995331975462912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2098102512477987070",
+        "created_at": "2026-09-10T17:33:14.000Z",
+        "display_text_range": [
+          0,
+          169
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T18:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098102512477987070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BfrNDnbjBd",
+              "end": 193,
+              "expanded_url": "https://x.com/quans0611/status/2098102512477987070/photo/1",
+              "media_key": "3_2098102501811929088",
+              "start": 170,
+              "url": "https://t.co/BfrNDnbjBd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098102512477987070",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098102501811929088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 202,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "↑\nlink\n这边是券善/西圈\n\n 06｜重度宅｜⚠️此账号废话很多\n\n1️⃣坑特别杂:apex 黑环 怪猎 ow 瓦其实什么都玩一点（现在玩的多点只有apex和怪猎）也可以找我玩桌游\n2️⃣二次还有邦/烤/边狱巴士/明日方舟/东方/djmax等基本上都搞一点\n⚠️此人是星熊孝子并且是兔子们辱追\n    基本上无雷点🏳️欢迎来找我玩🥳🥳 https://t.co/BfrNDnbjBd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/9GooAZ0z7o"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "is_identity_verified": false,
+        "location": "死全家星",
+        "most_recent_tweet_id": "2098337724487094769",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1729436345913995265/1753361560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076577294790139904/Fz-jPCGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 575,
+          "like_count": 1788,
+          "listed_count": 3,
+          "media_count": 448,
+          "tweet_count": 7302
+        },
+        "url": "https://t.co/9GooAZ0z7o",
+        "username": "p1NRed1_A",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-12T18:26:20.000Z",
+        "description": "一个人的碎碎念",
+        "id": "1921995331975462912",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098306780959019156",
+        "name": "券善",
+        "pinned_tweet_id": "2098102512477987070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1921995331975462912/1783354782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097744347248967680/xPl-P0D-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 235,
+          "like_count": 10929,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 800
+        },
+        "url": "",
+        "username": "quans0611",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
